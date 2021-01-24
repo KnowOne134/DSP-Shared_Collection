@@ -1,0 +1,6 @@
+    [17682439] = {['id']=17682439, ['name']="SeaCrab", ['index']=7, ['level']=20},
+    [17682445] = {['id']=17682445, ['name']="WaterElemental", ['index']=13, ['level']=27},
+    [17682455] = {['id']=17682455, ['name']="Sahn", ['index']=23, ['level']=0},
+    [17682456] = {['id']=17682456, ['name']="Chhaya", ['index']=24, ['level']=0},
+    [17682457] = {['id']=17682457, ['name']="Lokhong", ['index']=25, ['level']=0},
+    [17682441] = {['id']=17682441, ['name']="SeaPugil", ['index']=9, ['level']=16},
