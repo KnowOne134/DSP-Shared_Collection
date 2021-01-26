@@ -32,7 +32,9 @@ quest.sections = {
 
             onEventFinish = {
                 [14] = function(player, csid, option, npc)
-                    quest:begin(player)
+                    if option == 1 then
+                        quest:begin(player)
+                    end
                 end,
             },
         },
@@ -57,6 +59,7 @@ quest.sections = {
 
             onEventFinish = {
                 [16] = function(player, csid, option, npc)
+                print("test")
                     player:confirmTrade()
                     quest:complete(player)
                 end,
@@ -68,23 +71,23 @@ quest.sections = {
             return status == QUEST_COMPLETED
         end,
 
-        [dsp.zone.AHT_URHGAN_WHITEGATE] = {
+        [dsp.zone.AL_ZAHBI] = {
             ['Suldiran'] = {
-                onTrade = function(player, npc, trade)
-                    if npcUtil.tradeHasExactly(trade, {{dsp.items.IMP_WING, 2}}) then
-                        return quest:progressEvent(16)
-                    end
+                onTrigger = function(player, npc)
+                    return quest:event(17)
                 end,
 
-                onTrigger = function(player, npc)
-                    return quest:event(15)
+                onTrade = function(player, npc, trade)
+                    if npcUtil.tradeHasExactly(trade, {{dsp.items.IMP_WING, 2}}) then
+                        return quest:progressEvent(18)
+                    end
                 end,
             },
 
-            onEventUpdate = {
-                [16] = function(player, csid, option, npc)
-                    npcUtil.giveGil(player, 200) then
+            onEventFinish = {
+                [18] = function(player, csid, option, npc)
                     player:confirmTrade()
+                    npcUtil.giveGil(player, 200)
                 end,
             },
         },
