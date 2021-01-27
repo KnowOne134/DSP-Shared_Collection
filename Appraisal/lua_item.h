@@ -1,0 +1,1 @@
+int32 getAppraisalID(lua_State*);       // get the appraisal ID
