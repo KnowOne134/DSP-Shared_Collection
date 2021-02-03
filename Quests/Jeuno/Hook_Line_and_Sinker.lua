@@ -1,0 +1,85 @@
+-----------------------------------
+-- Regaining Trust
+-- Omer !pos -80.5 0 -113.5
+-----------------------------------
+require('scripts/globals/items')
+require('scripts/globals/quests')
+require('scripts/globals/missions')
+require('scripts/globals/npc/quest')
+require('scripts/globals/npc_util')
+-----------------------------------
+
+
+local quest = Quest:new(JEUNO, HOOK_LINE_AND_SINKER)
+
+quest.reward = {
+    gil = 3000,
+    title = dsp.title.ROD_RETRIEVER,
+}
+
+quest.sections = {
+
+    {
+        check = function(player, status, vars)
+            return status == QUEST_AVAILABLE
+        end,
+
+        [dsp.zone.LOWER_JEUNO] = {
+            ['Omer'] = {
+                onTrigger = function(player, npc)
+                    if player:getCurrentMission(COP) > A_VESSEL_WITHOUT_A_CAPTAIN then
+                        return quest:progressEvent(10040)
+                    else
+                        return quest:event(206)
+                    end
+                end,
+            },
+
+            onEventFinish = {
+                [10040] = function(player, csid, option, npc)
+                    quest:begin(player)
+                end,
+            },
+        },
+    },
+    {
+        check = function(player, status, vars)
+            return status == QUEST_ACCEPTED
+        end,
+
+        [dsp.zone.LOWER_JEUNO] = {
+            ['Omer'] = {
+                onTrigger = function(player, npc)
+                    return quest:event(10041)
+                end,
+
+                onTrade = function(player, npc, trade)
+                    if npcUtil.tradeHasExactly(player, dsp.items.EGRET_FISHING_ROD) then
+                        return quest:progressEvent(10042)
+                    end
+                end,
+            },
+
+            onEventFinish = {
+                [10042] = function(player, csid, option, npc)
+                    quest:complete(player)
+                end,
+            },
+        },
+    },
+    {
+        check = function(player, status, vars)
+            return status == QUEST_COMPLETED
+        end,
+
+        [dsp.zone.LOWER_JEUNO] = {
+            ['Omer'] = {
+                onTrigger = function(player, npc)
+                    return quest:event(10043)
+                end,
+            },
+        },
+    },
+}
+
+return quest
