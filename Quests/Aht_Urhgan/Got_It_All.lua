@@ -6,7 +6,7 @@
 -----------------------------------
 require('scripts/globals/items')
 require('scripts/globals/quests')
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 require('scripts/globals/npc_util')
 -----------------------------------
 

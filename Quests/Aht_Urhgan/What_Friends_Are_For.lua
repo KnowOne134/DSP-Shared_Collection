@@ -8,7 +8,7 @@ require("scripts/globals/items")
 require("scripts/globals/keyitems")
 require("scripts/globals/quests")
 require("scripts/globals/npc_util")
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 -----------------------------------
 
 local quest = Quest:new(AHT_URHGAN, WHAT_FRIENDS_ARE_FOR)
@@ -63,6 +63,13 @@ quest.sections = {
                 [16] = function(player, csid, option, npc)
                     quest:setVar(player, 'Prog', 2)
                     quest:begin(player)
+                end,
+            },
+        },
+        [dsp.zone.AYDEEWA_SUBTERRANE] = {
+            ['qm9'] = {
+                onTrigger = function(player, npc)
+                    return quest:messageSpecial(zones[player:getZoneID()].text.NOTHING_OUT_OF_ORDINARY)
                 end,
             },
         },

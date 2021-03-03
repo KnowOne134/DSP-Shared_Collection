@@ -8,7 +8,7 @@
 require('scripts/globals/items')
 require("scripts/globals/pets/fellow")
 require('scripts/globals/quests')
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 require('scripts/globals/npc_util')
 -----------------------------------
 
@@ -68,7 +68,7 @@ quest.sections = {
                     quest:setVar(player, 'Prog', 3)
                 end,
                 [10081] = function(player, csid, option, npc)
-                    player:setFellowValue(lvlcap, 65)
+                    player:setFellowValue("lvlcap", 65)
                     quest:complete(player)
                     npcUtil.giveItem(player, quest.foodItem(player))
                 end,
@@ -126,7 +126,8 @@ quest.foodItem = function(player)
         [36] = dsp.items.PLATE_OF_HOMEMADE_SALAD,
         [48] = dsp.items.DISH_OF_HOMEMADE_CARBONARA,
     }
-    return item[foodTable]
+
+    return foodTable[item]
 end
 
 return quest

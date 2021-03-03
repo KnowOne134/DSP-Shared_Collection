@@ -10,7 +10,7 @@ require('scripts/globals/items')
 require('scripts/globals/keyitems')
 require("scripts/globals/pets/fellow")
 require('scripts/globals/quests')
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 require('scripts/globals/npc_util')
 require('scripts/globals/status')
 -----------------------------------
@@ -100,7 +100,7 @@ quest.sections = {
 
             onEventFinish = {
                 [10073] = function(player, csid, option, npc)
-                    player:setFellowValue("lvlcap", 60)
+                    player:setFellowValue("bondcap", 90)
                     quest:complete(player)
                 end,
             },

@@ -5,7 +5,7 @@
 require("scripts/globals/items")
 require("scripts/globals/quests")
 require("scripts/globals/npc_util")
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 -----------------------------------
 
 local quest = Quest:new(AHT_URHGAN, KEEPING_NOTES)
@@ -69,14 +69,14 @@ quest.sections = {
         [dsp.zone.AHT_URHGAN_WHITEGATE] = {
             ['Ahkk_Jharcham'] = {
                 onTrigger = function(player, npc)
-                    quest:event(12)
+                    return quest:event(12)
                 end,
 
                 onTrade = function(player, npc, trade)
                     if npcUtil.tradeHasExactly(trade, dsp.items.SHEET_OF_PARCHMENT) then
-                        quest:event(13)
+                        return quest:event(13)
                     else
-                        quest:event(14)
+                        return quest:event(14)
                     end
                 end,
             },

@@ -5,7 +5,7 @@
 require("scripts/globals/items")
 require("scripts/globals/quests")
 require("scripts/globals/npc_util")
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 -----------------------------------
 
 local quest = Quest:new(AHT_URHGAN, A_TASTE_OF_HONEY)

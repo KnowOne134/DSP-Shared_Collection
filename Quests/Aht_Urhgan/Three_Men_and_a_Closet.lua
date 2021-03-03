@@ -7,7 +7,7 @@
 -----------------------------------
 require('scripts/globals/items')
 require('scripts/globals/quests')
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 require('scripts/globals/npc_util')
 -----------------------------------
 
@@ -27,7 +27,7 @@ quest.sections = {
         [dsp.zone.AHT_URHGAN_WHITEGATE] = {
             ['Kubhe_Ijyuhla'] = {
                 onTrigger = function(player, npc)
-                    return quest:checkStartEvent(player, 836)
+                    return quest:progressEvent(player, 836)
                 end
             },
 

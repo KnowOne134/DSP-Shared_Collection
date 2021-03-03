@@ -4,10 +4,10 @@
 -- Reinberta !pos -190 -7 -59 235
 -- Mevreauche !pos -193 11 148 231
 -----------------------------------
+require('scripts/globals/interaction/quest')
 require('scripts/globals/items')
 require('scripts/globals/quests')
 require('scripts/globals/missions')
-require('scripts/globals/npc/quest')
 require('scripts/globals/npc_util')
 -----------------------------------
 
@@ -54,8 +54,6 @@ quest.sections = {
                         return npcUtil.popFromQM(player, GetNPCByID(zones[player:getZoneID()].npc.STONE_MONUMENT), zones[player:getZoneID()].mob.ARCANE_PHANTASM, {hide = 0})
                     elseif quest:getVar(player, 'Prog') == 4 then
                         return quest:progressCutscene(103)
-                    else
-                        return quest:messageSpecial(zones[player:getZoneID()].text.MONUMENT)
                     end
                 end,
             },
@@ -105,19 +103,6 @@ quest.sections = {
             onEventFinish = {
                 [74] = function(player, csid, option, npc)
                     quest:setVar(player, 'Prog', 2)
-                end,
-            },
-        },
-    },
-    {
-        check = function(player, status, vars)
-            return status == QUEST_COMPLETED
-        end,
-
-        [dsp.zone.RIVERNE_SITE_A01] = {
-            ['Stone_Monument'] = {
-                onTrigger = function(player, npc)
-                    return quest:messageSpecial(zones[player:getZoneID()].text.MONUMENT)
                 end,
             },
         },

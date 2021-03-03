@@ -5,7 +5,7 @@
 require("scripts/globals/items")
 require("scripts/globals/quests")
 require("scripts/globals/npc_util")
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 -----------------------------------
 
 local quest = Quest:new(AHT_URHGAN, ROCK_BOTTOM)
@@ -43,7 +43,7 @@ quest.sections = {
                     if quest:getVar(player, 'Prog') == 1 and npcUtil.tradeHasExactly(trade, dsp.items.PICKAXE) then
                         return quest:progressEvent(8)
                     elseif not player:needToZone() and quest:getVar(player, 'Prog') == 2 and npcUtil.tradeHas(trade, {dsp.items.MYTHRIL_PICK, dsp.items.MYTHRIL_PICK_HQ}, true, true) then
-                        return quest:progressEvent(9)
+                        return quest:progressEvent(9, {[0] = trade:getItemId()})
                     end
                 end,
 
@@ -52,10 +52,10 @@ quest.sections = {
                 end,
             },
 
-            onEventUpdate = {
+            onEventFinish = {
                 [8] = function(player, csid, option, npc)
-                    player:needToZone(true)
                     quest:setVar(player, 'Prog', 2)
+                    player:needToZone(true)
                 end,
                 [9] = function(player, csid, option, npc)
                     player:tradeComplete()

@@ -4,12 +4,12 @@
 -- qm2 (???) Jugnar Forest !pos -155 .5 492 104
 -- qm3 (???) Korroloka Tunnel !pos -413 0 120 173
 -- qm8 (???) Ordelles Caves !pos 44 30 430 193
--- qm1 (???) Ranguemont Pass !pos 54 10 -147 166 
+-- qm1 (???) Ranguemont Pass !pos 54 10 -147 166
 -----------------------------------
 require('scripts/globals/items')
 require("scripts/globals/pets/fellow")
 require('scripts/globals/quests')
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 require('scripts/globals/npc_util')
 -----------------------------------
 
@@ -232,7 +232,7 @@ quest.sections = {
 
 quest.spawnMob = function(player)
     SpawnMob(zones[player:getZoneID()].mob.METALLIC_SLIME):updateClaim(player)
-    player:setLocalVar("FellowAttack", 1) -- fellow cannot sync attack 
+    player:setLocalVar("FellowAttack", 1) -- fellow cannot sync attack
     player:setLocalVar("FellowDisengage", 1) -- fellow cannot sync disengage
     player:setLocalVar("triggerFellow", 1) -- must talk to fellow(alive) after fight to proceed
     player:setLocalVar("FellowSpawn", 1) -- no timer set
