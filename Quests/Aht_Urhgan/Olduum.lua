@@ -42,7 +42,7 @@ quest.sections = {
         [dsp.zone.AHT_URHGAN_WHITEGATE] = {
             ['Dkhaaya'] = {
                 onTrigger = function(player, npc)
-                    return quest:checkStartEvent(player, 4)
+                    return quest:progressEvent(4)
                 end
             },
 

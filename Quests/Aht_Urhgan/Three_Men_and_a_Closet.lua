@@ -27,7 +27,7 @@ quest.sections = {
         [dsp.zone.AHT_URHGAN_WHITEGATE] = {
             ['Kubhe_Ijyuhla'] = {
                 onTrigger = function(player, npc)
-                    return quest:progressEvent(player, 836)
+                    return quest:progressEvent(836)
                 end
             },
 

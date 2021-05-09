@@ -7,8 +7,9 @@
 -----------------------------------
 require('scripts/globals/items')
 require('scripts/globals/quests')
-require('scripts/globals/npc/quest')
+require('scripts/globals/interaction/quest')
 require('scripts/globals/npc_util')
+require('scripts/globals/titles')
 -----------------------------------
 local CarpentersLandingID = require("scripts/zones/Carpenters_Landing/IDs")
 local DavoiID = require("scripts/zones/Davoi/IDs")
@@ -19,6 +20,7 @@ local quest = Quest:new(SANDORIA, TEA_WITH_A_TONBERRY)
 quest.repeatable = false
 quest.reward = {
     item = dsp.items.WILLPOWER_TORQUE,
+    title = dsp.title.TALKS_WITH_TONBERRIES
 }
 
 quest.sections = {
