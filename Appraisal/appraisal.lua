@@ -10,7 +10,7 @@ require("scripts/globals/status")
 appraisalUtil = {}
 -----------------------------------
 
-appraisalUtil.Origin = 
+appraisalUtil.Origin =
 {
     NYZUL_BASIC                 = 100,
     NYZUL_BAT_EYE               = 101,
@@ -97,7 +97,7 @@ appraisalUtil.Origin =
     NYZUL_WOUNDED_WURFEL        = 184,
     NYZUL_PEG_POWLER            = 185,
     NYZUL_JADED_JODY            = 186,
-    NYZUL_MAIGHDEAN_UAINE       = 187,    
+    NYZUL_MAIGHDEAN_UAINE       = 187,
 }
 
 appraisalUtil.questionMarkItems =
@@ -483,7 +483,7 @@ appraisalUtil.appraisalItems =
                 {43, 17225}, -- Crossbow +1
                 {14, 18683}, -- Imperial Bow
             },
-        },      
+        },
         [appraisalUtil.Origin.NYZUL_GYRE_CARLIN] =
         {
             items =
@@ -577,7 +577,7 @@ appraisalUtil.appraisalItems =
                 {6,  12992}, -- Solea
                 {18, 15691}, -- Storm Gambieras
             },
-        },        
+        },
         [appraisalUtil.Origin.NYZUL_LEAPING_LIZZY] =
         {
             items =
@@ -743,7 +743,7 @@ appraisalUtil.appraisalItems =
                 { 5, 15774}, -- Storm Ring
             },
         },
-        [appraisalUtil.Origin.NYZUL_BOMB_KING] = 
+        [appraisalUtil.Origin.NYZUL_BOMB_KING] =
         {
             items =
             {
@@ -1334,60 +1334,71 @@ function appraisalUtil.canGetQuestionMarkItem(player, instance, area)
     return result
 end
 
+function appraisalUtil.pickQuestionMarkIem(player, npc, qItemTable)
+    local area = player:getCurrentAssault()
+    if npc:getLocalVar("questionmarkItem") == 0 then
+        for i = 1, #qItemTable, 1 do
+            local lootGroup = qItemTable[i]
+            if lootGroup then
+                local max = 0
+                for _, entry in pairs(lootGroup) do
+                    max = max + entry.droprate
+                end
+                local roll = math.random(max)
+                for _, entry in pairs(lootGroup) do
+                    max = max - entry.droprate
+                    if roll > max then
+                        if entry.itemid > 0 then
+                            npc:setLocalVar("questionmarkItem",entry.itemid)
+                        end
+                        break
+                    end
+                end
+            end
+        end
+    end
+end
+
 function appraisalUtil.assaultChestTrigger(player, npc, qItemTable, regItemTable, textTable)
     local instance = player:getInstance()
     local chars = instance:getChars()
     local area = player:getCurrentAssault()
 
     if instance:completed() and npc:getLocalVar("open") == 0 then
-        if player:getFreeSlotsCount() == 0 then
-            player:messageSpecial(textTable.ITEM_CANNOT_BE_OBTAINED + 1)
-        else
-            npc:entityAnimationPacket("open")
-            npc:setLocalVar("open", 1)
-            npc:timer(15000, function(npc) npc:entityAnimationPacket("kesu") end)
-            npc:timer(16000, function(npc) npc:setStatus(dsp.status.DISAPPEAR) end)
-            if appraisalUtil.canGetQuestionMarkItem(player, instance, area) then
-                for i = 1, #qItemTable, 1 do
-                    local lootGroup = qItemTable[i]
-                    if lootGroup then
-                        local max = 0
-                        for _, entry in pairs(lootGroup) do
-                            max = max + entry.droprate
-                        end
-                        local roll = math.random(max)
-                        for _, entry in pairs(lootGroup) do
-                            max = max - entry.droprate
-                            if roll > max then
-                                if entry.itemid > 0 then
-                                    player:addItem({id = entry.itemid, appraisal = area})
-                                    for _, v in pairs(chars) do
-                                        v:messageName(textTable.PLAYER_OBTAINS_ITEM, player, entry.itemid)
-                                    end
-                                end
-                                break
-                            end
-                        end
-                    end
+        if appraisalUtil.canGetQuestionMarkItem(player, area) then
+            appraisalUtil.pickQuestionMarkIem(player, npc, qItemTable)
+            local questionmarkItem = npc:getLocalVar("questionmarkItem")
+            if player:getFreeSlotsCount() == 0 then
+                player:messageSpecial(textTable.ITEM_CANNOT_BE_OBTAINED, questionmarkItem)
+                return
+            else
+                player:addItem({id = questionmarkItem, appraisal = area})
+                for _, v in pairs(chars) do
+                    v:messageName(textTable.PLAYER_OBTAINS_ITEM, player, questionmarkItem)
                 end
             end
-            for i = 1, #regItemTable, 1 do
-                local lootGroup = regItemTable[i]
-                if lootGroup then
-                    local max = 0
-                    for _, entry in pairs(lootGroup) do
-                        max = max + entry.droprate
-                    end
-                    local roll = math.random(max)
-                    for _, entry in pairs(lootGroup) do
-                        max = max - entry.droprate
-                        if roll > max then
-                            if entry.itemid ~= 0 then
-                                player:addTreasure(entry.itemid, npc)
-                            end
+        end
+        npc:entityAnimationPacket("open")
+        npc:setLocalVar("open", 1)
+        npc:untargetable(true)
+        npc:timer(15000, function(npc) npc:entityAnimationPacket("kesu") end)
+        npc:timer(16000, function(npc) npc:setStatus(dsp.status.DISAPPEAR) end)
+        for i = 1, #regItemTable, 1 do
+            local lootGroup = regItemTable[i]
+            if lootGroup then
+                local max = 0
+                for _, entry in pairs(lootGroup) do
+                    max = max + entry.droprate
+                end
+                local roll = math.random(max)
+                for _, entry in pairs(lootGroup) do
+                    max = max - entry.droprate
+                    if roll > max then
+                        if entry.itemid ~= 0 then
+                            player:addTreasure(entry.itemid, npc)
                         end
-                        break
                     end
+                    break
                 end
             end
         end
