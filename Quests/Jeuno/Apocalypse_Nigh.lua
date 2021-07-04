@@ -28,8 +28,7 @@ quest.sections = {
         check = function(player, status, vars)
             return player:getQuestStatus(JEUNO, SHADOWS_OF_THE_DEPARTED) == QUEST_COMPLETED
                 and status == QUEST_AVAILABLE
-                and player:getVar("Quest[3][88]Stage") < os.time()
-                and IsTestServer() -- remove when ready to go live
+                and not player:needToZone() and player:getVar("Quest[3][88]Stage") < os.time()
         end,
 
         [dsp.zone.RULUDE_GARDENS] = {
@@ -55,7 +54,7 @@ quest.sections = {
             onZoneIn = {
                 function(player, prevZone)
                     if quest:getVar(player, 'Prog') == 0 then
-                        return quest:progressEvent(29)
+                        return 29
                     end
                 end,
             },
@@ -121,7 +120,20 @@ quest.sections = {
                     end
                 end,
             },
-
+            ['Sattal-Mansal'] = {
+                onTrigger = function(player, npc)
+                    if quest:getVar(player, 'Prog') == 5 then
+                        return quest:progressEvent(10061)
+                    end
+                end,
+            },            
+            ['Yin_Pocanakhu'] = {
+                onTrigger = function(player, npc)
+                    if quest:getVar(player, 'Prog') == 5 then
+                        return quest:progressEvent(10060)
+                    end
+                end,
+            },    
             onEventFinish = {
                 [10057] = function(player, csid, option, npc)
                     quest:setVar(player, 'Prog', 5)
@@ -131,6 +143,7 @@ quest.sections = {
         },
 
         [dsp.zone.NORG] = {
+
             ['Gilgamesh'] = {
                 onTrigger = function(player, npc)
                     if quest:getVar(player, 'Prog') == 5 and quest:getVar(player, 'Stage') < os.time() then
@@ -141,6 +154,13 @@ quest.sections = {
                 end,
             },
 
+            ['_700'] = {
+                onTrigger = function(player, npc)
+                    if quest:getVar(player, 'Prog') == 5 and quest:getVar(player, 'Stage') > os.time() then
+                        return quest:event(235)
+                    end
+                end,
+            },
             onEventFinish = {
                 [232] = function(player, csid, option, npc)
                     if option == 0 then
@@ -192,7 +212,7 @@ quest.sections = {
                     }
 
                     for _, earRing in pairs(earRings) do
-                        if player:hasItem(earring) then
+                        if player:hasItem(earRing) then
                             return quest:messageSpecial(zones[player:getZoneID()].text.QM_TEXT)
                         end
                         return quest:progressEvent(5)

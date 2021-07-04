@@ -23,7 +23,7 @@ quest.sections = {
         check = function(player, status, vars)
             return player:getQuestStatus(JEUNO, STORMS_OF_FATE) == QUEST_COMPLETED
             and player:getCurrentMission(ZILART) == AWAKENING
-            and player:getVar("ZilartStatus") >= 2
+            and player:getVar("ZilartStatus") >= 3
             and status == QUEST_AVAILABLE
             and player:getVar("Quest[3][86]Stage") < os.time()
         end,
