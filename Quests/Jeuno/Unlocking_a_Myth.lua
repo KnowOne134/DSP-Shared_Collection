@@ -10,6 +10,7 @@ require("scripts/globals/npc_util")
 require("scripts/globals/quests")
 require("scripts/globals/status")
 require("scripts/globals/weaponskillids")
+require("scripts/globals/utils")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
@@ -49,8 +50,8 @@ end
 function quest.unlockingMyth.onTrigger(player, npc)
     local mainJobId = player:getMainJob()
     local unlockingAMyth = player:getQuestStatus(JEUNO, quest.unlockingMyth.getQuestId(mainJobId))
-    local nyzulWeaponMain = nyzul.isBaseWeapon(player:getEquipID(dsp.slot.MAIN))
-    local nyzulWeaponRanged = nyzul.isBaseWeapon(player:getEquipID(dsp.slot.RANGED))
+    local nyzulWeaponMain = utils.tableContains(nyzul.baseWeapons, player:getEquipID(dsp.slot.MAIN))
+    local nyzulWeaponRanged = utils.tableContains(nyzul.baseWeapons, player:getEquipID(dsp.slot.RANGED))
 
     if unlockingAMyth == QUEST_AVAILABLE then
         if player:needToZone() and player:getVar("Quest[3][102]Prog") > 0 then
