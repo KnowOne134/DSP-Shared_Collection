@@ -1,5 +1,5 @@
 -----------------------------------
--- Missionery Moblin
+-- Missionary Moblin
 -- Koblakiq !pos -64.851 21.834 -117.521 11
 -----------------------------------
 require('scripts/globals/items')
@@ -57,7 +57,10 @@ quest.sections = {
 
             onEventFinish = {
                 [9] = function(player, csid, option, npc)
-                    quest:complete(player)
+                    if quest:complete(player) then
+                        player:confirmTrade()
+                        player:needToZone(true)
+                    end
                 end,
             },
         },
