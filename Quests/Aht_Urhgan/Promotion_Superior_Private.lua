@@ -1,16 +1,14 @@
 -----------------------------------
--- Assault SP rank-up quest
-
+-- Promotion: Superior Private
 -- Naja Salaheem !pos 26 -8 -45.5 50
 -----------------------------------
-require("scripts/globals/common")
 require("scripts/globals/items")
 require("scripts/globals/quests")
 require("scripts/globals/npc_util")
-require('scripts/globals/interaction/hidden_quest')
+require('scripts/globals/interaction/quest')
 -----------------------------------
 
-local quest = HiddenQuest:new("AssaultRank_SP")
+local quest = Quest:new(AHT_URHGAN, PROMOTION_SUPERIOR_PRIVATE)
 
 quest.reward = {
     keyItem = dsp.ki.SP_WILDCAT_BADGE,
@@ -19,11 +17,9 @@ quest.reward = {
 quest.sections = {
     -- Section: Begin quest
     {
-        check = function(player, questVars, vars)
-            return player:hasKeyItem(dsp.ki.PFC_WILDCAT_BADGE)
-                and not player:hasKeyItem(dsp.ki.SP_WILDCAT_BADGE)
-                and vars['AssaultPromotion'] >= 25
-                and questVars.Prog == 0
+        check = function(player, status, vars)
+            return status == QUEST_AVAILABLE and player:getVar("AssaultPromotion") >= 25
+            and player:getQuestStatus(AHT_URHGAN, PROMOTION_PRIVATE_FIRST_CLASS) == QUEST_COMPLETED
         end,
 
         [dsp.zone.AHT_URHGAN_WHITEGATE] = {
@@ -31,16 +27,14 @@ quest.sections = {
 
             onEventFinish = {
                 [5020] = function(player, csid, option, npc)
-                    quest:setVar(player, 'Prog', 1)
+                    quest:begin(player)
                 end,
             },
         },
     },
-
-    -- Section: Hoofprint hunting
     {
-        check = function(player, questVars, vars)
-            return not player:hasKeyItem(dsp.ki.DARK_RIDER_HOOFPRINT) and questVars.Prog == 1
+        check = function(player, status, vars)
+            return status == QUEST_ACCEPTED and not player:hasKeyItem(dsp.ki.DARK_RIDER_HOOFPRINT)
         end,
 
         [dsp.zone.AHT_URHGAN_WHITEGATE] = {
@@ -59,12 +53,11 @@ quest.sections = {
         [dsp.zone.WAJAOM_WOODLANDS] = {
             ['Warhorse_Hoofprint'] = quest:keyItem(dsp.ki.DARK_RIDER_HOOFPRINT)
         },
-    },
 
-    -- Section: Finish quest
+    },
     {
-        check = function(player, questVars, vars)
-            return player:hasKeyItem(dsp.ki.DARK_RIDER_HOOFPRINT) and questVars.Prog == 1
+        check = function(player, status, vars)
+            return status == QUEST_ACCEPTED and player:hasKeyItem(dsp.ki.DARK_RIDER_HOOFPRINT)
         end,
 
         [dsp.zone.AHT_URHGAN_WHITEGATE] = {

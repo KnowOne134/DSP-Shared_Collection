@@ -1,16 +1,14 @@
 -----------------------------------
--- Assault PFC rank-up quest
-
+-- Promotion: Private First Class
 -- Naja Salaheem !pos 26 -8 -45.5 50
 -----------------------------------
-require("scripts/globals/common")
 require("scripts/globals/items")
 require("scripts/globals/quests")
 require("scripts/globals/npc_util")
-require('scripts/globals/interaction/hidden_quest')
+require('scripts/globals/interaction/quest')
 -----------------------------------
 
-local quest = HiddenQuest:new("AssaultRank_PFC")
+local quest = Quest:new(AHT_URHGAN, PROMOTION_PRIVATE_FIRST_CLASS)
 
 quest.reward = {
     keyItem = dsp.ki.PFC_WILDCAT_BADGE,
@@ -19,10 +17,8 @@ quest.reward = {
 quest.sections = {
     -- Section: Begin quest
     {
-        check = function(player, questVars, vars)
-            return not player:hasKeyItem(dsp.ki.PFC_WILDCAT_BADGE)
-                and vars['AssaultPromotion'] >= 25
-                and questVars.Prog == 0
+        check = function(player, status, vars)
+            return status == QUEST_AVAILABLE and player:getVar("AssaultPromotion") >= 25
         end,
 
         [dsp.zone.AHT_URHGAN_WHITEGATE] = {
@@ -30,16 +26,14 @@ quest.sections = {
 
             onEventFinish = {
                 [5000] = function(player, csid, option, npc)
-                    quest:setVar(player, 'Prog', 1)
+                    quest:begin(player)
                 end,
             },
         },
     },
-
-    -- Section: Hoofprint hunting
     {
-        check = function(player, questVars, vars)
-            return questVars.Prog == 1
+        check = function(player, status, vars)
+            return status == QUEST_ACCEPTED
         end,
 
         [dsp.zone.AHT_URHGAN_WHITEGATE] = {
