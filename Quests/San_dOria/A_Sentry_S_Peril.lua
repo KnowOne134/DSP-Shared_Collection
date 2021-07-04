@@ -58,6 +58,8 @@ quest.sections = {
                 onTrade = function(player, npc, trade)
                     if npcUtil.tradeHasExactly(trade, dsp.items.OINTMENT_CASE) then
                         return quest:progressEvent(513)
+                    else
+                        return quest:event(514) -- "I cannot accept this. Take it back."
                     end
                 end,
             },
@@ -96,17 +98,6 @@ quest.sections = {
                     end
                 end,
             },
-        },
-    },
-
-    -- Section: After quest completion
-    {
-        check = function(player, status)
-            return status == QUEST_COMPLETED
-        end,
-
-        [dsp.zone.SOUTHERN_SAN_DORIA] = {
-            ['Glenne'] = quest:event(521),
         },
     },
 }
