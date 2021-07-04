@@ -18,7 +18,7 @@ require('scripts/globals/npc_util')
 local quest = Quest:new(AHT_URHGAN, ARTS_AND_CRAFTS)
 
 quest.reward = {
-    item = dsp.items.IMPERIAL_SILVER_PIECE,
+    item = dsp.items.IMPERIAL_BRONZE_PIECE,
 }
 
 quest.sections = {
