@@ -1,0 +1,1564 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thing-list>
+  <thing type="DialogTableEntry">
+    <field name="index">0</field>
+    <field name="text">≺Possible Special Code: 1F≻{You could not enter the next area.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">1</field>
+    <field name="text">≺Possible Special Code: 1F≻{You could not enter the next area.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">2</field>
+    <field name="text">≺Possible Special Code: 1F≻{You could not enter the next area.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">3</field>
+    <field name="text">≺Possible Special Code: 1F≻{You could not enter the next area.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">4</field>
+    <field name="text">≺Possible Special Code: 1F≻{You could not enter the next area.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">5</field>
+    <field name="text">You could not enter your room.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">6</field>
+    <field name="text">≺Possible Special Code: 1F≻yCitizens of other nations must have a Rent-a-Room assigned to them in order to use the residential area facilities.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">7</field>
+    <field name="text">≺Possible Special Code: 1F≻Åxecuting logout in ≺Possible Special Code: 12≻≺Possible Special Code: 00≻ seconds.
+Cancel healing to remain logged in.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">8</field>
+    <field name="text">≺Possible Special Code: 1F≻Åxecuting temporary logout in ≺Possible Special Code: 12≻≺Possible Special Code: 00≻ seconds.
+Cancel healing to remain logged in.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">9</field>
+    <field name="text">≺Possible Special Code: 1F≻yTarget out of range.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">10</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Possible Special Code: 12≻≺Possible Special Code: 00≻ ≺Unknown Parameter (Type: 86) 0≻[second/seconds] until position reset.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">11</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour invitation was declined.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">12</field>
+    <field name="text">≺Possible Special Code: 1F≻{That person is a party member.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">13</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot perform that job emote.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">14</field>
+    <field name="text">≺Possible Special Code: 1F≻{That request cannot be processed.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">15</field>
+    <field name="text">≺Possible Special Code: 1F≻{≺Player/Chocobo Parameter 2≻ does not meet the necessary requirements to obtain the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.
+≺Unknown Parameter (Type: 80) 1≻≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ lost.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">16</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou find ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ on ≺Unknown Parameter (Type: 88) 1≻[the /]≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 11≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">17</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Player/Chocobo Parameter 3≻'s lot for the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻: ≺Player/Chocobo Parameter 2≻ points.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">18</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Unknown Parameter (Type: 1C) 2≻ obtains ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">19</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Unknown Parameter (Type: 1C) 0≻ obtains ≺Unknown Parameter (Type: B4) 0≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">20</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour call has been placed in the queue.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">21</field>
+    <field name="text">≺Possible Special Code: 1F≻{You are not the party leader.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">22</field>
+    <field name="text">≺Possible Special Code: 1F≻{Caution: All unclaimed treasure will be lost if you join a party.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">23</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot invite that person at this time.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">24</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8A≻≺Player/Chocobo Parameter 0≻ wishes to trade with you.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">25</field>
+    <field name="text">≺Possible Special Code: 1F≻{You have already sent a trade request to ≺Player/Chocobo Parameter 0≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">26</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot trade with ≺Player/Chocobo Parameter 0≻ at this time.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">27</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot trade the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ to ≺Player/Chocobo Parameter 2≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">28</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot trade with that target.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">29</field>
+    <field name="text">≺Possible Special Code: 1F≻ySelect a target to trade with.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">30</field>
+    <field name="text">≺Possible Special Code: 1F≻概rade complete.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">31</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou do not meet the requirements to obtain the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.
+≺Unknown Parameter (Type: 80) 1≻≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ lost.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">32</field>
+    <field name="text">≺Possible Special Code: 1F≻{Unable to perform action in Mog House.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">33</field>
+    <field name="text">≺Possible Special Code: 1F≻yThat person is currently away and cannot respond.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">34</field>
+    <field name="text">≺Possible Special Code: 1F≻yThat person is currently using the PlayOnline Viewer and can only be reached by sending a "knock message" from the Search menu.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">35</field>
+    <field name="text">≺Possible Special Code: 1F≻Åxecuting shutdown in ≺Possible Special Code: 12≻≺Possible Special Code: 00≻ seconds.
+Cancel healing to remain logged in.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">36</field>
+    <field name="text">≺Possible Special Code: 1F≻{There are no party members.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">37</field>
+    <field name="text">≺Possible Special Code: 1F≻{You do not have a linkshell item equipped.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">38</field>
+    <field name="text">≺Possible Special Code: 1F≻{You must wait longer to perform that action.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">39</field>
+    <field name="text">≺Possible Special Code: 1F≻{You don't have any ≺Possible Special Code: 01≻≺Possible Special Code: 05≻(≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">40</field>
+    <field name="text">≺Possible Special Code: 1F≻ymes40≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">41</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾈDEBUG: Title changed. (≺Possible Special Code: 12≻≺Possible Special Code: 00≻)≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">42</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾈDEBUG: San d'Oria normal fame (≺Possible Special Code: 12≻≺Possible Special Code: 00≻) Result=≺Possible Special Code: 12≻≺Possible Special Code: 01≻≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">43</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾈDEBUG: Bastok normal fame (≺Possible Special Code: 12≻≺Possible Special Code: 00≻) Result=≺Possible Special Code: 12≻≺Possible Special Code: 01≻≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">44</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾈDEBUG: Windurst normal fame (≺Possible Special Code: 12≻≺Possible Special Code: 00≻) Result=≺Possible Special Code: 12≻≺Possible Special Code: 01≻≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">45</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾈDEBUG: Tenshodo fame (≺Possible Special Code: 12≻≺Possible Special Code: 00≻) Result=≺Possible Special Code: 12≻≺Possible Special Code: 01≻≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">46</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Possible Special Code: 00≻I'll look after your items, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">47</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Player Name≻You have new deliveries, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">48</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Possible Special Code: 01≻You should take the items out of your delivery box, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">49</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Possible Special Code: 00≻The delivery box is where things sent from the auction houses arrive, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">50</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Possible Special Code: 04≻Chaaange...job! Kupopopooo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">51</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Possible Special Code: 00≻Choose a flowerpot, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">52</field>
+    <field name="text">≺Possible Special Code: 1F≻控his plant is growing well, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">53</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Possible Special Code: 06≻This plant is fruiting, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">54</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Possible Special Code: 06≻You can place new furnishings by selecting "Layout," kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">55</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Numeric Parameter 66≻e careful, master! You can't hear other people talk when you're looking at your diary, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">56</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Numeric Parameter 66≻e careful, master! You can't hear other people talk when you're looking at your album, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">57</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8D≻≺Possible Special Code: 17≻≺Possible Special Code: 12≻It's dangerous to pile things so high, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">58</field>
+    <field name="text">≺Possible Special Code: 1F≻{Powerful magicks are preventing you from using that ability.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">59</field>
+    <field name="text">≺Possible Special Code: 1F≻巧 can't raise plants without a flowerpot, kupo...≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">60</field>
+    <field name="text">≺Possible Special Code: 1F≻杭ou have to select "Layout" from the menu and place a flowerpot in the room, kupo. I can't raise plants without one, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">61</field>
+    <field name="text">≺Possible Special Code: 1F≻垢hoose a flowerpot, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">62</field>
+    <field name="text">≺Possible Special Code: 1F≻控here is no plant in this flowerpot, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">63</field>
+    <field name="text">≺Possible Special Code: 1F≻控here are seeds planted in this flowerpot, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">64</field>
+    <field name="text">≺Possible Special Code: 1F≻控here are seeds in this pot, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">65</field>
+    <field name="text">≺Possible Special Code: 1F≻控his plant is growing well, kupo.♪≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">66</field>
+    <field name="text">≺Possible Special Code: 1F≻巧t's doing well, kupo.♪≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">67</field>
+    <field name="text">≺Possible Special Code: 1F≻控his plant isn't doing well, kupo... But I'm sure it'll get better now that you've looked at it, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">68</field>
+    <field name="text">≺Possible Special Code: 1F≻控his plant isn't doing well, kupo... But I'm sure it'll get better now that you've looked at it, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">69</field>
+    <field name="text">≺Possible Special Code: 1F≻孝lowers are blooming, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">70</field>
+    <field name="text">≺Possible Special Code: 1F≻坑eautiful flowers are blooming, kupo! They're so pretty, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">71</field>
+    <field name="text">≺Possible Special Code: 1F≻幸upo! This plant is ready to be picked, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">72</field>
+    <field name="text">≺Possible Special Code: 1F≻巧t's grown so big, kupo～. It's ready to be picked now, kupo～.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">73</field>
+    <field name="text">≺Possible Special Code: 1F≻弘h, no... This plant is all withered up, kupo...≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">74</field>
+    <field name="text">≺Possible Special Code: 1F≻巧t's so dry and withered... I'm sorry, kupo...≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">75</field>
+    <field name="text">≺Possible Special Code: 1F≻垢hoose which type of seeds to plant, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">76</field>
+    <field name="text">≺Possible Special Code: 1F≻垢hoose a crystal to use as fertilizer, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">77</field>
+    <field name="text">≺Possible Special Code: 1F≻巧'll make it into a dried flower with my secret moogle powers, kupo! It'll keep its shape forever, kupo!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">78</field>
+    <field name="text">≺Possible Special Code: 1F≻巧 can pick its fruits, but doing so will empty the flowerpot, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">79</field>
+    <field name="text">≺Possible Special Code: 1F≻控his plant will be gone forever if I throw it out, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">80</field>
+    <field name="text">≺Possible Special Code: 1F≻喉ll right, I'll go over to the Mog House, kupo! I'll be there in no time, kupo～～♪≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">81</field>
+    <field name="text">≺Possible Special Code: 1F≻巧'm home, kupo. What do you want me to do, kupo...?≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">82</field>
+    <field name="text">≺Possible Special Code: 1F≻巧'm back, kupo～～～.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">83</field>
+    <field name="text">≺Possible Special Code: 1F≻恒lant these seeds, kupo?≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">84</field>
+    <field name="text">≺Possible Special Code: 1F≻攻se this crystal, kupo?≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">85</field>
+    <field name="text">≺Possible Special Code: 1F≻恒ick this, kupo?≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">86</field>
+    <field name="text">≺Possible Special Code: 1F≻庚ake it into a dried flower, kupo?≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">87</field>
+    <field name="text">≺Possible Special Code: 1F≻控hrow it away, kupo!?≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">88</field>
+    <field name="text">≺Possible Special Code: 1F≻yDice roll! ≺Player/Chocobo Parameter 2≻ rolls ≺Player/Chocobo Parameter 3≻!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">89</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾐ≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 32≻examines you.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">90</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Player/Chocobo Parameter 2≻ is looking at the items in your bazaar.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">91</field>
+    <field name="text">≺Possible Special Code: 1F≻yLooking at the items in ≺Player/Chocobo Parameter 2≻'s bazaar...≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">92</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8A≻≺Player/Chocobo Parameter 2≻ bought ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">93</field>
+    <field name="text">≺Possible Special Code: 1F≻≺BAD CHAR: 8A≻≺Player/Chocobo Parameter 2≻ bought ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">94</field>
+    <field name="text">≺Possible Special Code: 1F≻咳urchase ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ for ≺Unknown Parameter (Type: B4) 2≻?≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">95</field>
+    <field name="text">≺Possible Special Code: 1F≻{Bazaar closed due to ≺Player/Chocobo Parameter 2≻'s settings change.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">96</field>
+    <field name="text">≺Possible Special Code: 1F≻{≺Player/Chocobo Parameter 2≻ disappeared.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">97</field>
+    <field name="text">≺Possible Special Code: 1F≻{≺Player/Chocobo Parameter 2≻ isn't selling anything.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">98</field>
+    <field name="text">≺Possible Special Code: 1F≻巧 can't look after any more flowerpots, kupo...≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">99</field>
+    <field name="text">≺Possible Special Code: 1F≻恒lease, master. Don't bring home any more mannequins. Those things give me the creeps, kupo...≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">100</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Numeric Parameter 127≻≺BAD CHAR: FC≻≺Player/Chocobo Parameter 2≻≺Unknown Parameter (Type: FB) 39≻s proposal to all (cast vote with command: "/vote ?"): ≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">101</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Possible Special Code: 0D≻≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal to the party (cast vote with command: "/vote ?"):≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">102</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Possible Special Code: 0E≻≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal to the linkshell group (cast vote with command: "/vote ?"):≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">103</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal to everyone (cast vote with command: "/vote ?"):≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">104</field>
+    <field name="text">≺Possible Special Code: 1F≻{That item is already placed in the trade window.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">105</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot use that command in the specified chat mode.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">106</field>
+    <field name="text">≺Possible Special Code: 1F≻{You have already cast your vote.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">107</field>
+    <field name="text">≺Possible Special Code: 1F≻{Trade canceled. Either your or your target's inventory is full, or an error occurred during the transaction.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">108</field>
+    <field name="text">≺Possible Special Code: 1F≻{Equip a linkshell, pearlsack, or linkpearl before using that command.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">109</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou have been kicked out of the linkshell group.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">110</field>
+    <field name="text">≺Possible Special Code: 1F≻{That linkshell group no longer exists.
+This item is unusable.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">111</field>
+    <field name="text">≺Possible Special Code: 1F≻{That linkshell group has been terminated by the system.
+You can no longer equip this item.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">112</field>
+    <field name="text">≺Possible Special Code: 1F≻{The linkshell name you entered is already in use or otherwise unavailable.
+Please choose another name.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">113</field>
+    <field name="text">≺Possible Special Code: 1F≻{The linkshell name you entered is already in use or otherwise unavailable.
+Please choose another name.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">114</field>
+    <field name="text">≺Possible Special Code: 1F≻{The linkshell number limit in this world has been reached.
+You cannot create a new linkshell.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">115</field>
+    <field name="text">≺Possible Special Code: 1F≻{The party quartermaster already has ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻. The ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ will be put in the party pool.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">116</field>
+    <field name="text">≺Possible Special Code: 1F≻{The party quartermaster cannot hold any more items. The ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ will be added to the party's item pool.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">117</field>
+    <field name="text">≺Possible Special Code: 1F≻{Event skipped.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">118</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour Friend List online status has been changed to "Online."≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">119</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour Friend List online status has been changed to "Away."≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">120</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour Friend List online status has been changed to "Busy."≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">121</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour Friend List online status has been changed to "Invisible."≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">122</field>
+    <field name="text">≺Possible Special Code: 1F≻{An error occurred while changing your Friend List online status. Your online status was not changed.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">123</field>
+    <field name="text">≺Possible Special Code: 1F≻{The recipient is temporarily logged out to PlayOnline and cannot be reached.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">124</field>
+    <field name="text">≺Possible Special Code: 1F≻{Your message was not received.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">125</field>
+    <field name="text">≺Possible Special Code: 1F≻{Your tell was not received. The recipient is either offline or changing areas.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">126</field>
+    <field name="text">≺Possible Special Code: 1F≻{Communication error. Your tell was not received.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">127</field>
+    <field name="text">≺Possible Special Code: 1F≻yAuto-target: ON. ≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">128</field>
+    <field name="text">≺Possible Special Code: 1F≻yAuto-target: OFF. ≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">129</field>
+    <field name="text">≺Possible Special Code: 1F≻蟹tem sold.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">130</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou cast lots for the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">131</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Unknown Parameter (Type: 59) 111≻u obtain ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">132</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour moogle plants the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ in the flowerpot.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">133</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour moogle dries the plant in the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">134</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Unknown Parameter (Type: 59) 111≻ur moogle picked ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ from the plant!≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">135</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Unknown Parameter (Type: 59) 111≻ur moogle retrieves ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">136</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour moogle uses the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ on the plant.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">137</field>
+    <field name="text">≺Possible Special Code: 1F≻幸upo... I can't pick anything right now, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">138</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot enter the next area while mounted.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">139</field>
+    <field name="text">≺Possible Special Code: 1F≻控his plant has been dried, kupo.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">140</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Current poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">141</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Final poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">142</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot use that command at the moment.
+Please try again later.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">143</field>
+    <field name="text">≺Possible Special Code: 1F≻{≺Player/Chocobo Parameter 2≻ has not proposed anything.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">144</field>
+    <field name="text">≺Possible Special Code: 1F≻{You can only choose from the ≺Player/Chocobo Parameter 2≻ choices given.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">145</field>
+    <field name="text">≺Possible Special Code: 1F≻{You have already voted on ≺Player/Chocobo Parameter 2≻'s proposal.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">146</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal to all (cast vote with command: "/vote ?"): ≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">147</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Current poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">148</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Final poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">149</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Numeric Parameter 127≻≺BAD CHAR: FC≻≺Player/Chocobo Parameter 2≻≺Unknown Parameter (Type: FB) 39≻s proposal - Current poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">150</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Numeric Parameter 127≻≺BAD CHAR: FC≻≺Player/Chocobo Parameter 2≻≺Unknown Parameter (Type: FB) 39≻s proposal - Final poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">151</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Possible Special Code: 0D≻≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Current poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">152</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Possible Special Code: 0D≻≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Final poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">153</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Possible Special Code: 0E≻≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Current poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">154</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Possible Special Code: 0E≻≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Final poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">155</field>
+    <field name="text">≺Possible Special Code: 1F≻{That request cannot be processed.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">156</field>
+    <field name="text">≺Possible Special Code: 1F≻{The communications line is currently busy. Please try again later.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">157</field>
+    <field name="text">≺Possible Special Code: 1F≻yThere are currently too many people accessing this linkshell group. You cannot access this linkshell.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">158</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou do not have access to those linkshell commands.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">159</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou cannot put a linkshell item up for sale.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">160</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou synthesized ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">161</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou synthesized ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">162</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou synthesized ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">163</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou synthesized ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">164</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Unknown Parameter (Type: 80) 1≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ was lost.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">165</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou buy ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ from the guild.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">166</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou buy ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ from the guild.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">167</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou sell ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ to the guild.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">168</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou sell ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ to the guild.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">169</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou obtained ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">170</field>
+    <field name="text">≺Possible Special Code: 1F≻ySlot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻:
+≺Unknown Parameter (Type: B4) 1≻, sent to you by ≺Player/Chocobo Parameter 2≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">171</field>
+    <field name="text">≺Possible Special Code: 1F≻ySlot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻:
+The money the buyer paid for the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;ｂ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ you put on auction, ≺Unknown Parameter (Type: B4) 1≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">172</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou cannot use that command while invisible.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">173</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ sold.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">174</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ did not sell.
+Items that are not sold are sent to your Mog House.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">175</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour character information is now hidden.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">176</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour character information is now shown.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">177</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou buy the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ for ≺Unknown Parameter (Type: B4) 2≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">178</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou were unable to buy the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ for ≺Unknown Parameter (Type: B4) 2≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">179</field>
+    <field name="text">Obtained key item: ≺Unknown Parameter (Type: 80) 1≻≺Possible Special Code: 01≻≺Possible Special Code: 05≻3≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">180</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou throw away ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">181</field>
+    <field name="text">≺Possible Special Code: 1F≻{Your tell was not received. The recipient is currently away.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">182</field>
+    <field name="text">≺Possible Special Code: 1F≻{That person is already in an alliance.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">183</field>
+    <field name="text">≺Possible Special Code: 1F≻{Unable to process request.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">184</field>
+    <field name="text">≺Possible Special Code: 1F≻{Unable to enter next area. Expansion pack not registered.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">185</field>
+    <field name="text">≺Possible Special Code: 1F≻{Unable to enter next area. Expansion pack not installed.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">186</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour ≺Possible Special Code: 12≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ sold.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">187</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour ≺Possible Special Code: 12≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ did not sell.
+Items that are not sold are sent to your Mog House.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">188</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou buy the ≺Possible Special Code: 12≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ for ≺Unknown Parameter (Type: B4) 2≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">189</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou were unable to buy the ≺Possible Special Code: 12≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ for ≺Unknown Parameter (Type: B4) 2≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">190</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou take the ≺Unknown Parameter (Type: B4) 2≻ out of ≺Player/Chocobo Parameter 2≻ slot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">191</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou dispose of the ≺Unknown Parameter (Type: B4) 2≻ in ≺Player/Chocobo Parameter 2≻ slot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">192</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou return the ≺Unknown Parameter (Type: B4) 2≻ in ≺Player/Chocobo Parameter 2≻ slot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻ to its sender.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">193</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou take the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ out of ≺Player/Chocobo Parameter 2≻ slot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">194</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou take the ≺Possible Special Code: 12≻≺Possible Special Code: 02≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ｂ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ out of ≺Player/Chocobo Parameter 2≻ slot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">195</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou dispose of the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ in ≺Player/Chocobo Parameter 2≻ slot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">196</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou dispose of the ≺Possible Special Code: 12≻≺Possible Special Code: 02≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ｂ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ in ≺Player/Chocobo Parameter 2≻ slot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">197</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou return the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ in ≺Player/Chocobo Parameter 2≻ slot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻ to its sender.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">198</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou return the ≺Possible Special Code: 12≻≺Possible Special Code: 02≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ｂ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ in ≺Player/Chocobo Parameter 2≻ slot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻ to their sender.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">199</field>
+    <field name="text">≺Possible Special Code: 1F≻ySlot ≺Possible Special Code: 12≻≺Possible Special Code: 00≻:
+The money the buyer paid for the ≺Possible Special Code: 12≻≺Possible Special Code: 03≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ｃ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ｂ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ you put on auction, ≺Unknown Parameter (Type: B4) 1≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">200</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Player/Chocobo Parameter 2≻ synthesized ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">201</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Player/Chocobo Parameter 2≻ synthesized ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">202</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Player/Chocobo Parameter 2≻ synthesized ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">203</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Player/Chocobo Parameter 2≻ synthesized ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">204</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Player/Chocobo Parameter 2≻ lost ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">205</field>
+    <field name="text">≺Possible Special Code: 1F≻y≺Player/Chocobo Parameter 2≻ obtained ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">206</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou have submitted an application for world emigration.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">207</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou have not submitted an application for world emigration.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">208</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou could not obtain the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻&amp;≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻. Either your inventory is full or you can only hold one item of that type.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">209</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou cannot perform that action while holding a Petra.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">210</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou cannot perform that action without a Petra.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">211</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou lost your Petras.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">212</field>
+    <field name="text">≺Possible Special Code: 1F≻yGate Breach status has been disengaged.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">213</field>
+    <field name="text">≺Possible Special Code: 1F≻yRecovery in ≺Possible Special Code: 12≻≺Possible Special Code: 00≻ ≺Unknown Parameter (Type: 86) 0≻[second/seconds].≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">214</field>
+    <field name="text">≺Possible Special Code: 1F≻yReturning to battle.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">215</field>
+    <field name="text">≺Possible Special Code: 1F≻yReturning to camp.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">216</field>
+    <field name="text">≺Possible Special Code: 1F≻{That action cannot be performed while participating in Conflict.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">217</field>
+    <field name="text">≺Possible Special Code: 1F≻{That action cannot be performed while preparing for battle.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">218</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou find ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ in the ≺Player/Chocobo Parameter 1≻.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">219</field>
+    <field name="text">≺Possible Special Code: 1F≻y※※Chevrons earned※※
+Gold: ≺Numeric Parameter 0≻ Mythril: ≺Numeric Parameter 1≻ Silver: ≺Numeric Parameter 2≻ Bronze: ≺Numeric Parameter 3≻ Job: ≺Numeric Parameter 4≻≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">220</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou cannot possess more than one of that item.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">221</field>
+    <field name="text">≺Possible Special Code: 1F≻{Blockaid activated.
+Magical assistance, trades, party invites etc. from non-party/alliance characters will be blocked.
+This effect will continue until changing areas, or executing the "/blockaid off" command.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">222</field>
+    <field name="text">≺Possible Special Code: 1F≻yBlockaid canceled.
+Magical assistance, trades, party invites etc. from non-party/alliance characters will be allowed.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">223</field>
+    <field name="text">≺Possible Special Code: 1F≻yBlockaid is currently active.
+("/blockaid off" to cancel.)≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">224</field>
+    <field name="text">≺Possible Special Code: 1F≻yBlockaid is currently inactive.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">225</field>
+    <field name="text">≺Possible Special Code: 1F≻yTarget is currently blocking outside magical assistance, trades, and party invites.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">226</field>
+    <field name="text">≺Possible Special Code: 1F≻yInteraction from a non-party character was blocked by /blockaid.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">227</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾐ≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 32≻checks your Ballista data.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">228</field>
+    <field name="text">≺Possible Special Code: 1F≻yRecovery in ≺Possible Special Code: 12≻≺Possible Special Code: 00≻ ≺Unknown Parameter (Type: 86) 0≻[second/seconds].≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">229</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou cannot perform that action while holding a Flamme.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">230</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou buy ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ from the shop.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">231</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou buy ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ from the shop.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">232</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou sell ≺Possible Special Code: 01≻≺Possible Special Code: 05≻≺Possible Special Code: 04≻ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻ ≺Possible Special Code: 01≻≺Speaker Name≻*ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ to the shop.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">233</field>
+    <field name="text">≺Possible Special Code: 1F≻yYou sell ≺Possible Special Code: 01≻≺Possible Special Code: 01≻≺Possible Special Code: 01≻ ≺Possible Special Code: 01≻≺Possible Special Code: 05≻'≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ to the shop.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">234</field>
+    <field name="text">≺Possible Special Code: 1F≻{Unable to equip linkshell items.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">235</field>
+    <field name="text">≺Possible Special Code: 1F≻{Warning! This is a Level Sync party. Joining will result in your level being restricted.
+If you are in a different area, the restriction will occur as soon as you enter the same area.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">236</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot invite that person at this time.
+This player is either undergoing Level Sync deactivation, or is under the effect of a status which prevents synchronization.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">237</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot join this party.
+You are either undergoing Level Sync deactivation, or are under the effect of a status which prevents synchronization.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">238</field>
+    <field name="text">≺Possible Special Code: 1F≻yThe party's level has been restricted to ≺Numeric Parameter 0≻.
+Straying too far from the Level Sync designee will result in an inability to receive experience points.
+Equipment affected by the level restriction will be adjusted accordingly.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">239</field>
+    <field name="text">≺Possible Special Code: 1F≻yThe compass reads: X:≺Possible Special Code: 12≻≺Possible Special Code: 00≻ Y:≺Possible Special Code: 12≻≺Possible Special Code: 01≻ Z:≺Possible Special Code: 12≻≺Possible Special Code: 02≻ (≺Possible Special Code: 12≻≺Possible Special Code: 03≻).≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">240</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour message has been blocked by the spam filter.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">241</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Volker : I have not been hiding away from my troubles!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">242</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Volker : Feel my twenty years of pain!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">243</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Volker : Is that your answer!?≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">244</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Volker : Return with your soul to the darkness you came from!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">245</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Volker : You--a man who has never lived bound by the chains of his country--how can you understand my pain!?≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">246</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Volker : Let my blade be the answer!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">247</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Trion : I am Trion, of San d'Oria!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">248</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Trion : Feel the fire of my forefathers!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">249</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Trion : The darkness before me that shrouds the light of good...≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">250</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Trion : ...Return to the hell you crawled out from!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">251</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Trion : The anger, the pain, and the will to survive... Let the spirit of San d'Oria converge within this blade.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">252</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Trion : And with this blade I will return the glory to my kingdom's people!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">253</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Ajido-Marujido : Play time is over!
+Powers of dark mana, answer my call!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">254</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Ajido-Marujido : You should be thankful.
+I'll give you a shortaru trip back to the hell you came from!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">255</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Ajido-Marujido : Don't give up, adventurer!
+You are Windurst's guiding star, our beacon of hope!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">256</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot use that command in this area.≺Prompt≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">257</field>
+    <field name="text">≺Possible Special Code: 1F≻{That command is not supported by the free trial version.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">258</field>
+    <field name="text">≺Possible Special Code: 1F≻{Congratulations! You have reached the maximum level attainable in the free trial version.
+Purchase the full version of the game to continue your adventures!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">259</field>
+    <field name="text">≺Possible Special Code: 1F≻{Initiating tells is not supported by the free trial version.
+To respond to a tell that has been sent to you, press Ctrl+R to select the player's name.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">260</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour headgear is now visible.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">261</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour headgear is now hidden.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">262</field>
+    <field name="text">≺Possible Special Code: 1F≻{sysmes262≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">263</field>
+    <field name="text">≺Possible Special Code: 1F≻yThis monster is currently possessed by ≺Player/Chocobo Parameter 2≻!≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">264</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾐ≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 32≻stares at you intently, evidently aware that you have discovered its true form.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">265</field>
+    <field name="text">≺Possible Special Code: 1F≻{You are unable to join a party whose leader currently has an alter ego present.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">266</field>
+    <field name="text">≺Possible Special Code: 1F≻{You are unable to join an alliance whose leader currently has an alter ego present.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">267</field>
+    <field name="text">≺Possible Special Code: 1F≻yStyle lock mode enabled.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">268</field>
+    <field name="text">≺Possible Special Code: 1F≻yStyle lock mode disabled.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">269</field>
+    <field name="text">≺Possible Special Code: 1F≻yStyle lock mode is enabled.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">270</field>
+    <field name="text">≺Possible Special Code: 1F≻yStyle lock mode is disabled.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">271</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻Last item made: ≺Possible Special Code: 01≻≺Possible Special Code: 05≻#≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">272</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻≺Unknown Parameter (Type: 80) 1≻≺Possible Special Code: 01≻≺Possible Special Code: 05≻#≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">273</field>
+    <field name="text">≺Possible Special Code: 1F≻≺Speaker Name≻≺Numeric Parameter 1≻ ≺Possible Special Code: 01≻≺Speaker Name≻)ａ≺BAD CHAR: 80≻≺BAD CHAR: 80≻≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">274</field>
+    <field name="text">≺Possible Special Code: 1F≻{Failed to equip the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻#≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">275</field>
+    <field name="text">≺Possible Special Code: 1F≻{Unable to find the ≺Possible Special Code: 01≻≺Possible Special Code: 05≻#≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">276</field>
+    <field name="text">≺Possible Special Code: 1F≻yInventory≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">277</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Safe≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">278</field>
+    <field name="text">≺Possible Special Code: 1F≻yStorage≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">279</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Locker≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">280</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Satchel≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">281</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Sack≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">282</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Case≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">283</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Wardrobe≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">284</field>
+    <field name="text">Instances of ≺Possible Special Code: 01≻≺Possible Special Code: 05≻%≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ were found in the following systems:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">285</field>
+    <field name="text">≺Possible Special Code: 1F≻{No instances of that item were found.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">286</field>
+    <field name="text">≺Possible Special Code: 1F≻{You are not participating in Unity chat.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">287</field>
+    <field name="text">≺Possible Special Code: 1F≻yThe maximum number of people are already participating in Unity chat. Please try again later.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">288</field>
+    <field name="text">≺Possible Special Code: 1F≻{There are no applicable characters within range.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">289</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾖ≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal to the linkshell group (cast vote with command: "/vote ?"):≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">290</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾖ≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Current poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">291</field>
+    <field name="text">≺Possible Special Code: 1F≻ﾖ≺Unknown Parameter (Type: FC) 28≻≺Possible Special Code: 02≻≺Unknown Parameter (Type: FB) 39≻s proposal - Final poll results:≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">292</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Safe 2.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">293</field>
+    <field name="text">Your second floor has been successfully remodeled.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">294</field>
+    <field name="text">≺Possible Special Code: 1F≻{The apperance of your ≺Possible Special Code: 01≻≺Possible Special Code: 05≻#≺BAD CHAR: 8280≻≺BAD CHAR: 80≻≺BAD CHAR: 80≻ was unable to be locked.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">295</field>
+    <field name="text">≺Possible Special Code: 1F≻yYour appearance settings have been updated.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">296</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot use Trust magic while seeking a party.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">297</field>
+    <field name="text">≺Possible Special Code: 1F≻{While inviting a party member, you must wait a while before using Trust magic.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">298</field>
+    <field name="text">≺Possible Special Code: 1F≻{You have called forth your maximum number of alter egos.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">299</field>
+    <field name="text">≺Possible Special Code: 1F≻{That alter ego has already been called forth.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">300</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot use Trust magic while having gained enmity.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">301</field>
+    <field name="text">≺Possible Special Code: 1F≻{You cannot use Trust magic unless you are solo or the party leader.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">302</field>
+    <field name="text">≺Possible Special Code: 1F≻{Your request did not go through.≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">303</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Wardrobe 2≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">304</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Wardrobe 3≺Possible Special Code: 00≻
+</field>
+  </thing>
+  <thing type="DialogTableEntry">
+    <field name="index">305</field>
+    <field name="text">≺Possible Special Code: 1F≻yMog Wardrobe 4≺Possible Special Code: 00≻
+≺Possible Special Code: 00≻≺Possible Special Code: 00≻</field>
+  </thing>
+</thing-list>
