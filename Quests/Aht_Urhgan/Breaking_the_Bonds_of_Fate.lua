@@ -6,16 +6,21 @@
 -- qm6  : !pos 468.767 -12.292 111.817 54
 -- _110 : !pos -99 -7 -91 57
 -----------------------------------
+require('scripts/globals/interaction/quest')
 require("scripts/globals/items")
+require("scripts/globals/npc_util")
 require("scripts/globals/quests")
 require("scripts/globals/status")
-require('scripts/globals/interaction/quest')
+require("scripts/globals/titles")
 -----------------------------------
 
 local quest = Quest:new(AHT_URHGAN, BREAKING_THE_BONDS_OF_FATE)
+local ID = require("scripts/zones/Talacca_Cove/IDs")
 
 quest.reward =
 {
+    item = dsp.items.SCROLL_OF_INSTANT_WARP,
+    title = dsp.title.MASTER_OF_CHANCE,
 }
 
 quest.sections =
@@ -63,7 +68,19 @@ quest.sections =
             onEventFinish =
             {
                 [235] = function(player, csid, option, npc)
-                    player:setPos(-90, -7, -104, 200, 57)
+                    player:setPos(-90, -7, -104, 200, dsp.zone.TALACCA_COVE)
+                end,
+            },
+        },
+        [dsp.zone.TALACCA_COVE] =
+        {
+            onEventFinish =
+            {
+                [32001] = function(player, csid, option, npc)
+                    if quest:complete(player) then
+                        player:levelCap(75)
+                        player:messageSpecial(ID.text.LEVEL_LIMIT_75)
+                    end
                 end,
             },
         },

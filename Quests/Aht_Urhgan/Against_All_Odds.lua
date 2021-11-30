@@ -30,7 +30,8 @@ quest.sections =
         check = function(player, status, vars)
             return status == QUEST_AVAILABLE and
                 player:getQuestStatus(AHT_URHGAN, NAVIGATING_THE_UNFRIENDLY_SEAS) == QUEST_COMPLETED and
-                player:getMainJob() == dsp.job.COR
+                player:getMainJob() == dsp.job.COR and
+                player:getMainLvl() >= 50
         end,
 
         [dsp.zone.AHT_URHGAN_WHITEGATE] =
@@ -103,7 +104,7 @@ quest.sections =
             onEventFinish =
             {
                 [237] = function(player, csid, option, npc)
-                    quest:progressEvent(240)
+                    player:startEvent(240)
                 end,
                 [240] = function(player, csid, option, npc)
                     quest:setVar(player, 'Prog', 2)
