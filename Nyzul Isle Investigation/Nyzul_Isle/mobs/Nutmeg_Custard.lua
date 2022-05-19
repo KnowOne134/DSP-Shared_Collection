@@ -8,14 +8,18 @@ require("scripts/globals/status")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobSpawn(mob)
+local this = {}
+
+this.onMobSpawn = function(mob)
     mob:setMod(dsp.mod.EARTH_ABSORB, 100)
     mob:setMod(dsp.mod.REGAIN, 100)
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.enemyLeaderKill(mob)
     end
 end
+
+return this

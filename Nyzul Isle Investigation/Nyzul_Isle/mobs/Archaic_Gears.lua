@@ -7,7 +7,9 @@ local ID = require("scripts/zones/Nyzul_Isle/IDs")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobEngaged(mob, target)
+local this = {}
+
+this.onMobEngaged = function(mob, target)
     local instance = mob:getInstance()
 
     if instance:getLocalVar("gearObjective") == nyzul.gearObjective.AVOID_AGRO then
@@ -23,7 +25,7 @@ function onMobEngaged(mob, target)
     end
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         local instance = mob:getInstance()
 
@@ -32,3 +34,5 @@ function onMobDeath(mob, player, isKiller, firstCall)
         end
     end
 end
+
+return this

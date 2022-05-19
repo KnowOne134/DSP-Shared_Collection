@@ -6,7 +6,9 @@
 require("scripts/globals/status")
 -----------------------------------
 
-function onMobSpawn(mob)
+local this = {}
+
+this.onMobSpawn = function(mob)
     mob:setUnkillable(true)
     mob:hideHP(true)
     mob:SetAutoAttackEnabled(false)
@@ -17,5 +19,7 @@ function onMobSpawn(mob)
     mob:setMobMod(dsp.mobMod.SOUND_RANGE, 15)
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
 end
+
+return this

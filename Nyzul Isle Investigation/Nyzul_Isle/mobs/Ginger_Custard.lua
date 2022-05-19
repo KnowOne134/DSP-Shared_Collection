@@ -8,12 +8,14 @@ require("scripts/globals/status")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobInitialize(mob)
+local this = {}
+
+this.onMobInitialize = function(mob)
     mob:setMod(dsp.mod.FIRE_ABSORB, 100)
     mob:setMod(dsp.mod.SILENCERES, 80)
 end
 
-function onMobFight(mob,target)
+this.onMobFight = function(mob, target)
     if mob:getLocalVar("Regain") == 0 then
         if mob:getHPP() <= 50 then
             mob:setMod(dsp.mod.REGAIN, 100)
@@ -22,9 +24,11 @@ function onMobFight(mob,target)
     end
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.enemyLeaderKill(mob)
     end
 end
+
+return this

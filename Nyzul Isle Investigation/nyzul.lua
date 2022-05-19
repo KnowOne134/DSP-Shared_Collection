@@ -93,7 +93,7 @@ nyzul.pathos =
     -- Positive Effects
     [18] = {effect = dsp.effect.REGAIN,        power = 5,     ID = 7406}, -- confirmed 50
     [19] = {effect = dsp.effect.REGEN,         power = 15,    ID = 7408}, -- confirmed 15
-    [20] = {effect = dsp.effect.REFRESH,       power = 1,     ID = 7410},
+    [20] = {effect = dsp.effect.REFRESH,       power = 10,    ID = 7410}, -- confirmed 10
     [21] = {effect = dsp.effect.FLURRY,        power = 15,    ID = 7412},
     [22] = {effect = dsp.effect.CONCENTRATION, power = 30,    ID = 7414},
     [23] = {effect = dsp.effect.STR_BOOST_II,  power = 30,    ID = 7416}, -- confirmed 30
@@ -690,7 +690,7 @@ function nyzul.spawnChest(mob, player)
     local mobID = mob:getID()
 
     if mobID >= ID.mob[NYZUL_ISLE_INVESTIGATION].BAT_EYE and mobID <= ID.mob[NYZUL_ISLE_INVESTIGATION].TAISAIJIN then
-        
+
         nyzul.vigilWeaponDrop(player, mob)
 
         for _, cofferID in ipairs(ID.npc.TREASURE_COFFER) do
@@ -749,16 +749,21 @@ function nyzul.addFloorPathos(instance)
         local pathos = nyzul.pathos[randomPathos]
         local chars = instance:getChars()
 
-        for _, players in pairs(chars) do
-            players:addStatusEffect(pathos.effect, pathos.power, 0, 0)
-            players:getStatusEffect(pathos.effect):unsetFlag(3) -- dispelable + eraseable
-            players:getStatusEffect(pathos.effect):setFlag(8388864) -- on zone + no cancel
-            players:messageSpecial(pathos.ID)
-            if players:hasPet() then
-                local pet = players:getPet()
+        for _, player in pairs(chars) do
+            player:addStatusEffect(pathos.effect, pathos.power, 0, 0)
+            local effect = player:getStatusEffect(pathos.effect)
+            effect:unsetFlag(dsp.effectFlag.DISPELABLE)
+            effect:unsetFlag(dsp.effectFlag.ERASABLE)
+            effect:setFlag(dsp.effectFlag.ON_ZONE_PATHOS)
+
+            player:messageSpecial(pathos.ID)
+            if player:hasPet() then
+                local pet = player:getPet()
                 pet:addStatusEffectEx(pathos.effect, pathos.effect, pathos.power, 0, 0)
-                pet:getStatusEffect(pathos.effect):unsetFlag(3) -- dispelable + eraseable
-                pet:getStatusEffect(pathos.effect):setFlag(8388864) -- on zone + no cancel
+                local effect = pet:getStatusEffect(pathos.effect)
+                effect:unsetFlag(dsp.effectFlag.DISPELABLE)
+                effect:unsetFlag(dsp.effectFlag.ERASABLE)
+                effect:setFlag(dsp.effectFlag.ON_ZONE_PATHOS)
             end
         end
         instance:setLocalVar("randomPathos", 0)
@@ -795,26 +800,32 @@ function nyzul.addPenalty(mob)
 
                 instance:setLocalVar("floorPathos", utils.setBit(pathos, randomEffect, 1))
                 local pathos = nyzul.pathos[randomEffect]
-                local effect = pathos.effect
                 local power = pathos.power
-                for _, players in pairs(chars) do
-                    if effect == dsp.effect.IMPAIRMENT or effect == dsp.effect.OMERTA or effect == dsp.effect.DEBILITATION then
-                        if players:hasStatusEffect(effect) then
-                            local statusEffect = players:getStatusEffect(effect)
-                            local effectPower = statusEffect:getPower()
+                for _, player in pairs(chars) do
+                    if pathos.effect == dsp.effect.IMPAIRMENT or pathos.effect == dsp.effect.OMERTA or pathos.effect == dsp.effect.DEBILITATION then
+                        if player:hasStatusEffect(pathos.effect) then
+                            local effect = player:getStatusEffect(pathos.effect)
+                            local effectPower = effect:getPower()
                             power = bit.bor(effectPower, power)
                         end
                     end
-                    players:addStatusEffect(effect, power, 0, 0)
-                    players:getStatusEffect(effect):unsetFlag(3) -- dispelable + eraseable
-                    players:getStatusEffect(effect):setFlag(8388864) -- on zone + no cancel
-                    players:messageSpecial(ID.text.MALFUNCTION)
-                    players:messageSpecial(pathos.ID)
-                    if players:hasPet() then
-                        local pet = players:getPet()
-                        pet:addStatusEffectEx(effect, effect, power, 0, 0)
-                        pet:getStatusEffect(effect):unsetFlag(3) -- dispelable + eraseable
-                        pet:getStatusEffect(effect):setFlag(8388864) -- on zone + no cancel
+
+                    player:addStatusEffect(pathos.effect, power, 0, 0)
+                    local effect = player:getStatusEffect(pathos.effect)
+                    effect:unsetFlag(dsp.effectFlag.DISPELABLE)
+                    effect:unsetFlag(dsp.effectFlag.ERASABLE)
+                    effect:setFlag(dsp.effectFlag.ON_ZONE_PATHOS)
+
+                    player:messageSpecial(ID.text.MALFUNCTION)
+                    player:messageSpecial(pathos.ID)
+
+                    if player:hasPet() then
+                        local pet = player:getPet()
+                        pet:addStatusEffectEx(pathos.effect, pathos.effect, power, 0, 0)
+                        local effect = pet:getStatusEffect(pathos.effect)
+                        effect:unsetFlag(dsp.effectFlag.DISPELABLE)
+                        effect:unsetFlag(dsp.effectFlag.ERASABLE)
+                        effect:setFlag(dsp.effectFlag.ON_ZONE_PATHOS)
                     end
                 end
                 break

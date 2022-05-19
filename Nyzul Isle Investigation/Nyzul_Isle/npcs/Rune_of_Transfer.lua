@@ -12,10 +12,12 @@ require("scripts/globals/utils")
 require("scripts/zones/Nyzul_Isle/instances/nyzul_isle_investigation")
 -----------------------------------
 
-function onTrigger(player, npc)
+local this = {}
+
+this.onTrigger = function(player, npc)
     local instance = npc:getInstance()
 
-    if npc:AnimationSub() == 1 then
+    if npc:AnimationSub() == 1 and npc:getLocalVar("cued") == 0 then
        if instance:getLocalVar("menuChoice") > 1 then
             -- Normal Menu
             player:startOptionalCutscene(201, {[0] = 7, cs_option = {1, 2}})
@@ -28,7 +30,7 @@ function onTrigger(player, npc)
     end
 end
 
-function onEventUpdate(player, csid, option)
+this.onEventUpdate = function(player, csid, option)
     -- Setup 1st person to activate rune to go up to control the porting to next floor
     local instance = player:getInstance()
 
@@ -44,7 +46,7 @@ function onEventUpdate(player, csid, option)
     end
 end
 
-function onEventFinish(player, csid, option, npc)
+this.onEventFinish = function(player, csid, option, npc)
     local instance = npc:getInstance()
     local chars = instance:getChars()
     local mobs = instance:getMobs()
@@ -82,9 +84,9 @@ function onEventFinish(player, csid, option, npc)
                 end
 
                 local tokens = math.max(0, instance:getLocalVar("potential_tokens") - nyzul.get_token_penalty(instance))
-                
+
                 -- Assault initiator gets 10% more tokens
-                if players:getID() == instance:getLocalVar("assaultInitaitor") then
+                if players:getID() == instance:getLocalVar("assaultInitiator") then
                     tokens = tokens * 1.1
                 end
 
@@ -102,7 +104,8 @@ function onEventFinish(player, csid, option, npc)
                 players:startCutscene(1)
             end
         end
-        if option >= 2 then
+        if option >= 2 and npc:getLocalVar("cued") == 0 then
+            npc:setLocalVar("cued", 1)
             local currentFloor = instance:getLocalVar("Nyzul_Current_Floor")
 
             if currentFloor == 100 then
@@ -128,7 +131,13 @@ function onEventFinish(player, csid, option, npc)
             end
 
             nyzul.clearChests(instance)
-            npc:timer(8000, function(npc) npc:AnimationSub(0) npc:setStatus(dsp.status.DISAPPEAR) end)
+            npc:timer(8000, function(npc)
+                npc:AnimationSub(0)
+                npc:setStatus(dsp.status.DISAPPEAR)
+                npc:setLocalVar("cued", 0)
+            end)
         end
     end
 end
+
+return this

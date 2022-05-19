@@ -7,13 +7,17 @@ require("scripts/globals/status")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobSpawn(mob)
-    mob:addMobMod(dsp.mobMod.CHECK_AS_NM)
+local this = {}
+
+this.onMobSpawn = function(mob)
+    mob:setMobMod(dsp.mobMod.CHECK_AS_NM, 1)
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.eliminateAllKill(mob)
     end
 end
+
+return this

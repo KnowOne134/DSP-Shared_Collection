@@ -12,7 +12,9 @@ require("scripts/globals/utils/nyzul")
 require("scripts/zones/Nyzul_Isle/instances/nyzul_isle_investigation")
 -----------------------------------
 
-function onTrigger(player, npc)
+local this = {}
+
+this.onTrigger = function(player, npc)
     local instance = player:getInstance()
     local tokens = player:getCurrency("nyzul_isle_assault_point")
     local prefered = player:getVar("[Nyzul]preferredItems")
@@ -31,7 +33,7 @@ function onTrigger(player, npc)
 	end
 end
 
-function onEventFinish(player, csid, option, npc)
+this.onEventFinish = function(player, csid, option, npc)
     local instance = npc:getInstance()
     local chars = instance:getChars()
 
@@ -51,7 +53,7 @@ function onEventFinish(player, csid, option, npc)
                 end
                 players:timer(1500, function(player) players:startEvent(95) end)
             end
-            
+
             instance:setLocalVar("partySize", playerCount)
         else
             player:messageSpecial(ID.text.INSUFFICIENT_TOKENS)
@@ -61,3 +63,5 @@ function onEventFinish(player, csid, option, npc)
         instance:setLocalVar("runeHandler", 0)
     end
 end
+
+return this

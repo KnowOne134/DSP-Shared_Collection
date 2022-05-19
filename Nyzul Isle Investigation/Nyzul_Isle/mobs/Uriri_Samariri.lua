@@ -7,7 +7,9 @@ require("scripts/globals/status")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobDeath(mob, player, isKiller, firstCall)
+local this = {}
+
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.enemyLeaderKill(mob)
@@ -20,3 +22,5 @@ function onMobDeath(mob, player, isKiller, firstCall)
         end
     end
 end
+
+return this

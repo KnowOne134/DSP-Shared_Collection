@@ -7,7 +7,9 @@ mixins = {require("scripts/mixins/families/chariot")}
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMonsterAbilityPrepare(mob)
+local this = {}
+
+this.onMonsterAbilityPrepare = function(mob)
     local target = mob:getTarget()
 
     if mob:getHPP() > 25 then
@@ -19,9 +21,11 @@ function onMonsterAbilityPrepare(mob)
     return ({2055, 2056})[math.random(1, 2)]
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.enemyLeaderKill(mob)
     end
 end
+
+return this

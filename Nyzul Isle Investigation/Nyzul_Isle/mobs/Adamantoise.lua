@@ -8,7 +8,9 @@ require("scripts/globals/utils/nyzul")
 require("scripts/globals/status")
 -----------------------------------
 
-function onMobSpawn(mob)
+local this = {}
+
+this.onMobSpawn = function(mob)
     mob:addImmunity(dsp.immunity.STUN)
     mob:addImmunity(dsp.immunity.SLOW)
     mob:addImmunity(dsp.immunity.ELEGY)
@@ -21,15 +23,17 @@ function onMobSpawn(mob)
     mob:setMobMod(dsp.mobMod.ROAM_DISTANCE, 15)
 end
 
-function onMobEngaged(mob,target)
+this.onMobEngaged = function(mob, target)
 end
 
-function onMobFight(mob,target)
+this.onMobFight = function(mob, target)
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.enemyLeaderKill(mob)
         nyzul.vigilWeaponDrop(player, mob)
     end
 end
+
+return this

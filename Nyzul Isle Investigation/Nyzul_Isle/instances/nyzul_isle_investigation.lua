@@ -12,7 +12,9 @@ require("scripts/globals/utils")
 require("scripts/zones/Nyzul_Isle/globals/points")
 -----------------------------------
 
-function afterInstanceRegister(player)
+local this = {}
+
+this.afterInstanceRegister = function(player)
     local instance = player:getInstance()
 
     player:messageName(ID.text.COMMENCE, player, player:getCurrentAssault())
@@ -21,7 +23,7 @@ function afterInstanceRegister(player)
     player:addTempItem(5348)
 end
 
-function onInstanceCreated(instance)
+this.onInstanceCreated = function(instance)
     local data = instance:getData()
 
     data.evenFloorNMs =
@@ -73,11 +75,11 @@ function onInstanceCreated(instance)
     }
 end
 
-function onInstanceTimeUpdate(instance, elapsed)
-    updateInstanceTime(instance, elapsed, ID.text)
+this.onInstanceTimeUpdate = function(instance, elapsed)
+    xi.instance.updateTime(instance, elapsed)
 end
 
-function onInstanceFailure(instance)
+this.onInstanceFailure = function(instance)
     local chars = instance:getChars()
 
     for _, players in ipairs(chars) do
@@ -86,7 +88,7 @@ function onInstanceFailure(instance)
     end
 end
 
-function onInstanceProgressUpdate(instance, progress)
+this.onInstanceProgressUpdate = function(instance, progress)
     if progress > 0 then
         if nyzul.handleProgress(instance, progress) then
             nyzul.activateRuneOfTransfer(instance)
@@ -94,10 +96,10 @@ function onInstanceProgressUpdate(instance, progress)
     end
 end
 
-function onInstanceComplete(instance)
+this.onInstanceComplete = function(instance)
 end
 
-function pickSetPoint(instance)
+this.pickSetPoint = function(instance)
     local chars = instance:getChars()
     local currentFloor = instance:getLocalVar("Nyzul_Current_Floor")
 
@@ -152,7 +154,7 @@ function pickSetPoint(instance)
     instance:setLocalVar("menuChoice", math.random(1, 20))
 end
 
-function pickMobs(instance)
+this.pickMobs = function(instance)
     local data = instance:getData()
     local currentFloor = instance:getLocalVar("Nyzul_Current_Floor")
     local mobFamily = math.random(1, 16)
@@ -227,7 +229,7 @@ function pickMobs(instance)
             -- Activate Lamps Objective
             elseif instance:getStage() == nyzul.objective.ACTIVATE_ALL_LAMPS then
                 instance:setLocalVar("[Lamps]Objective", math.random(nyzul.lampsObjective.REGISTER, nyzul.lampsObjective.ORDER))
-                lampsActivate(instance)
+                this.lampsActivate(instance)
             end
             -- 1st Rampart: 90% spawn rate
             if math.random(0,100) >= 90 then
@@ -260,12 +262,12 @@ function pickMobs(instance)
                 end
             end
 
-             -- Trash NM's of floor
-            local spawnmedNMs = math.random(0, 4)
-            if spawnmedNMs > 0 then
+             -- Trash NMs of floor
+            local spawnedNMs = math.random(0, 4)
+            if spawnedNMs > 0 then
                 local floorSection = math.floor(currentFloor/20) + 1
 
-                while spawnmedNMs > 2 do
+                while spawnedNMs > 2 do
                     local sPoint = math.random(1, #spawnPoint)
                     local randomNM = 0
                     local NM_mob = 0
@@ -284,7 +286,7 @@ function pickMobs(instance)
 
                     table.remove(spawnPoint, sPoint)
 
-                    spawnmedNMs = spawnmedNMs - 1
+                    spawnedNMs = spawnedNMs - 1
 
                     if instance:getStage() == nyzul.objective.ELIMINATE_ALL_ENEMIES then
                         instance:setLocalVar("Eliminate", instance:getLocalVar("Eliminate") + 1)
@@ -321,7 +323,7 @@ function pickMobs(instance)
     end
 end
 
-function lampsActivate(instance)
+this.lampsActivate = function(instance)
     local floorLayout = instance:getLocalVar("Nyzul_Isle_FloorLayout")
     local lampsObjective = instance:getLocalVar("[Lamps]Objective")
     local runicLamp_1 = GetNPCByID(ID.npc.RUNIC_LAMP_1, instance)
@@ -374,16 +376,16 @@ function lampsActivate(instance)
     end
 end
 
-function onEventUpdate(player, csid, option)
+this.onEventUpdate = function(player, csid, option)
     if csid == 95 then
         local instance = player:getInstance()
         if instance:getLocalVar("runeHandler") == player:getID() then
-            pickSetPoint(instance)
+            this.pickSetPoint(instance)
         end
     end
 end
 
-function onEventFinish(player, csid, option, npc)
+this.onEventFinish = function(player, csid, option, npc)
     local instance = player:getInstance()
     local chars = instance:getChars()
 
@@ -393,10 +395,12 @@ function onEventFinish(player, csid, option, npc)
         end
     elseif csid == 95 then
         if instance:getLocalVar("runeHandler") == player:getID() then
-            pickMobs(instance)
+            this.pickMobs(instance)
             nyzul.removePathos(instance)
             nyzul.addFloorPathos(instance)
             instance:setLocalVar("runeHandler", 0)
         end
     end
 end
+
+return this

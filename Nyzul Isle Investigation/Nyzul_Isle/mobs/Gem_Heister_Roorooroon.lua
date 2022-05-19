@@ -8,17 +8,19 @@ require("scripts/globals/status")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobSpawn(mob)
+local this = {}
+
+this.onMobSpawn = function(mob)
     local instance = mob:getInstance()
 
     SpawnMob(mob:getID() + 1, instance)
 end
 
-function onMobEngaged(mob, target)
+this.onMobEngaged = function(mob, target)
     mob:setLocalVar("runTime", math.random(10, 25))
 end
 
-function pickRunPoint(mob)
+this.pickRunPoint = function(mob)
     mob:setLocalVar("ignore", 1)
     local distance = math.random(10, 25)
     local angle = math.random() * math.pi
@@ -33,7 +35,7 @@ function pickRunPoint(mob)
     mob:pathTo(pos.x, pos.y, pos.z, dsp.path.flag.RUN)
 end
 
-function continuePoints(mob)
+this.continuePoints = function(mob)
     local pos = mob:getPos()
     local pathX = mob:getLocalVar("posX")
     local pathY = mob:getLocalVar("posY")
@@ -44,14 +46,14 @@ function continuePoints(mob)
         mob:pathTo(pathX, pathY, pathZ, dsp.path.flag.RUN)
     elseif cycles > 0 then
         mob:setLocalVar("cycles", cycles - 1)
-        pickRunPoint(mob)
+        this.pickRunPoint(mob)
     else
         mob:setLocalVar("runTime", mob:getBattleTime() + math.random(10, 25))
         mob:setLocalVar("ignore", 0)
     end
 end
 
-function dropBomb(mob)
+this.dropBomb = function(mob)
     local instance = mob:getInstance()
     local bomb = GetMobByID(mob:getID() + 1, instance)
     local target = mob:getTarget()
@@ -66,7 +68,7 @@ function dropBomb(mob)
     bomb:timer(4500, function(bomb) bomb:setStatus(dsp.status.DISAPPEAR) end)
 end
 
-function onMobFight(mob, target)
+this.onMobFight = function(mob, target)
     local instance = mob:getInstance()
     local battletime = mob:getBattleTime()
     local runTime = mob:getLocalVar("runTime")
@@ -75,21 +77,23 @@ function onMobFight(mob, target)
     -- setup inital run around logic point and how many cycle of points
     if battletime > runTime and ignore == 0 then
         mob:setLocalVar("cycles", math.random(3, 6))
-        pickRunPoint(mob)
+        this.pickRunPoint(mob)
     -- make sure mob keeps running and cycle to new plotted points
     elseif ignore == 1 then
-        continuePoints(mob)
+        this.continuePoints(mob)
         if GetMobByID(mob:getID() + 1, instance):getStatus() == dsp.status.DISAPPEAR then
-            if math.random(1, 5) == 2 then
-                dropBomb(mob)
+            if math.random(1, 5) == 2 and not hasSleepEffects(mob) then
+                this.dropBomb(mob)
             end
         end
     end
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.enemyLeaderKill(mob)
     end
 end
+
+return this

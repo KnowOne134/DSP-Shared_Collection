@@ -40,31 +40,33 @@ local items =
         [16641] = {item = 5433, cost = 300, slot = 0x8000}, -- Dusty Elixer -+
     }
 
-function hasItem(player)
-    local hasItem = 0
+local this = {}
+
+this.hasItem = function(player)
+    local HasItem = 0
 
     for _, itemList in pairs(items) do
         if player:hasItem(itemList.item, dsp.inventoryLocation.TEMPITEMS) then
-            hasItem = hasItem + itemList.slot
+            HasItem = HasItem + itemList.slot
         end
     end
 
-    return hasItem + 1
+    return HasItem + 1
 end
 
-function giveAllItems(player)
+this.giveAllItems = function(player)
     for _, itemList in pairs(items) do
         if not player:hasItem(itemList.item, dsp.inventoryLocation.TEMPITEMS) then
             if player:getCurrency("nyzul_isle_assault_point") >= itemList.cost then
                 player:addTempItem(itemList.item)
-                player:messageSpecial(ID.text.TEMP_ITEM_OBATINED, itemList.item)
+                player:messageSpecial(ID.text.TEMP_ITEM_OBTAINED, itemList.item)
                 player:delCurrency("nyzul_isle_assault_point", itemList.cost)
             end
         end
     end
 end
 
-function giveAllPrefered(player)
+this.giveAllPreferred = function(player)
     local preferred = player:getVar("[Nyzul]preferredItems")
     local selection =
     {
@@ -104,7 +106,7 @@ function giveAllPrefered(player)
             if choice ~= nil then
                 if not player:hasItem(choice, dsp.inventoryLocation.TEMPITEMS) then
                     player:addTempItem(choice)
-                    player:messageSpecial(ID.text.TEMP_ITEM_OBATINED, choice)
+                    player:messageSpecial(ID.text.TEMP_ITEM_OBTAINED, choice)
                     player:delCurrency("nyzul_isle_assault_point", items[mask].cost)
                 end
             end
@@ -112,19 +114,19 @@ function giveAllPrefered(player)
     end
 end
 
-function onTrigger(player, npc)
+this.onTrigger = function(player, npc)
     local preferred = player:getVar("[Nyzul]preferredItems")
 	local tokens = player:getCurrency("nyzul_isle_assault_point")
 
-    player:startEvent(202 , 1, tokens, hasItem(player), preferred, 100, 200, 300)
+    player:startEvent(202 , 1, tokens, this.hasItem(player), preferred, 100, 200, 300)
 end
 
-function onEventUpdate(player, csid, option)
+this.onEventUpdate = function(player, csid, option)
     if csid == 202 then
         if option == 20737 then
-            giveAllItems(player)
+            this.giveAllItems(player)
         elseif option == 4353 then
-            giveAllPrefered(player)
+            this.giveAllPreferred(player)
         else
             if option >= 4354 and option <= 4365 then
                 option = option + 4096
@@ -136,15 +138,17 @@ function onEventUpdate(player, csid, option)
             local items = items[option]
             if player:getCurrency("nyzul_isle_assault_point") >= items.cost then
                 player:addTempItem(items.item)
-                player:messageSpecial(ID.text.TEMP_ITEM_OBATINED, items.item)
+                player:messageSpecial(ID.text.TEMP_ITEM_OBTAINED, items.item)
                 player:delCurrency("nyzul_isle_assault_point", items.cost)
             end
         end
 
         local tokens = player:getCurrency("nyzul_isle_assault_point")
-        player:updateEvent(1, tokens, hasItem(player), player:getVar("[Nyzul]preferredItems"), 100, 200, 300)
+        player:updateEvent(1, tokens, this.hasItem(player), player:getVar("[Nyzul]preferredItems"), 100, 200, 300)
     end
 end
 
-function onEventFinish(player, csid, option, npc)
+this.onEventFinish = function(player, csid, option, npc)
 end
+
+return this

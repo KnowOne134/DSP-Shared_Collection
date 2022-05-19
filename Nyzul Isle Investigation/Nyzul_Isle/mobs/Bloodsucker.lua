@@ -6,17 +6,22 @@
 require("scripts/globals/utils/nyzul")
 require("scripts/globals/additional_effects")
 -----------------------------------
-function onMobInitialize(mob)
+
+local this = {}
+
+this.onMobInitialize = function(mob)
     mob:setMobMod(dsp.mobMod.ADD_EFFECT, 1)
 end
 
-function onAdditionalEffect(mob, player)
+this.onAdditionalEffect = function(mob, player)
     return effectUtil.mobOnAddEffect(mob, player, damage, effectUtil.mobAdditionalEffect.HP_DRAIN, {power = math.random(40,180), chance = 20})
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.eliminateAllKill(mob)
     end
 end
+
+return this

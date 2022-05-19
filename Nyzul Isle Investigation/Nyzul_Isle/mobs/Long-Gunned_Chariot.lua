@@ -7,7 +7,9 @@ mixins = {require("scripts/mixins/families/chariot")}
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobSpawn(mob)
+local this = {}
+
+this.onMobSpawn = function(mob)
     local data = mob:getData('homing')
     -- sets homing missile variant
     data.HM = 1
@@ -18,9 +20,11 @@ function onMobSpawn(mob)
     end)
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.enemyLeaderKill(mob)
     end
 end
+
+return this

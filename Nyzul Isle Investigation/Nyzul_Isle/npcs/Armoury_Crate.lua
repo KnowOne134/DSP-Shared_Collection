@@ -8,7 +8,9 @@ require("scripts/globals/utils")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onTrigger(player, npc)
+local this = {}
+
+this.onTrigger = function(player, npc)
     if utils.tableContains(ID.npc.TREASURE_COFFER, npc:getID()) then
         nyzul.handleAppraisalItem(player, npc)
     else
@@ -16,6 +18,8 @@ function onTrigger(player, npc)
     end
 end
 
-function onEventFinish(player, csid, option, npc)
+this.onEventFinish = function(player, csid, option, npc)
     nyzul.tempBoxFinish(player, csid, option, npc)
 end
+
+return this

@@ -6,13 +6,17 @@
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobInitialize(mob)
+local this = {}
+
+this.onMobInitialize = function(mob)
     mob:addImmunity(dsp.immunity.DARKSLEEP)
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.enemyLeaderKill(mob)
     end
 end
+
+return this

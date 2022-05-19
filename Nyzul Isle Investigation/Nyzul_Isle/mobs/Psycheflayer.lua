@@ -6,14 +6,16 @@
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobSpawn(mob)
+local this = {}
+
+this.onMobSpawn = function(mob)
     nyzul.specifiedEnemySet(mob)
     if mob:getPool() == 8072 then
         mob:setMobMod(dsp.mobMod.CHECK_AS_NM, 1)
     end
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.specifiedEnemyKill(mob)
@@ -22,3 +24,5 @@ function onMobDeath(mob, player, isKiller, firstCall)
         end
     end
 end
+
+return this

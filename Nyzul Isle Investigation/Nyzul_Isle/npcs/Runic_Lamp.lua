@@ -9,7 +9,9 @@ require("scripts/globals/status")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onTrigger(player, npc)
+local this = {}
+
+this.onTrigger = function(player, npc)
     local instance = npc:getInstance()
     local chars = instance:getChars()
     local OBJECTIVE = instance:getLocalVar("[Lamps]Objective")
@@ -52,10 +54,10 @@ function onTrigger(player, npc)
     end
 end
 
-function onEventUpdate(player, csid, option)
+this.onEventUpdate = function(player, csid, option)
 end
 
-function onEventFinish(player, csid, option, npc)
+this.onEventFinish = function(player, csid, option, npc)
     local instance = npc:getInstance()
     local OBJECTIVE = instance:getLocalVar("[Lamps]Objective")
     local lampCount = instance:getLocalVar("[Lamp]count") +1
@@ -172,3 +174,5 @@ function onEventFinish(player, csid, option, npc)
         end
     end
 end
+
+return this

@@ -3,16 +3,21 @@
 -- Area: Nyzul Isle
 -- Info: NM
 -----------------------------------
+mixins = {require("scripts/mixins/families/ziz")}
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobSpawn(mob)
+local this = {}
+
+this.onMobSpawn = function(mob)
     mob:AnimationSub(13)
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.eliminateAllKill(mob)
     end
 end
+
+return this

@@ -28,7 +28,7 @@ zones[dsp.zone.NYZUL_ISLE] =
         PARTY_FALLEN                  = 7311, -- ll party members have fallen in battle. Mission failure in <number> [minute/minutes].
         PLAYER_OBTAINS_TEMP_ITEM      = 7320, -- <player> obtains the temporary item: <item>
         PLAYER_OBTAINS_ITEM           = 7322, -- <player> obtains <item>
-        TEMP_ITEM_OBATINED            = 7344, -- Obtained temporary item: <item>
+        TEMP_ITEM_OBTAINED            = 7344, -- Obtained temporary item: <item>
         ALREADY_HAVE_TEMP_ITEM        = 7345, -- You already have that temporary item.
         OBJECTIVE_COMPLETE            = 7348, -- Floor <number> objective complete. Rune of Transfer activated.
         LAMP_CERTIFICATION_CODE       = 7350, -- The certification code for all party members is required to activate this lamp. Your certification code has been registered.
@@ -87,13 +87,9 @@ zones[dsp.zone.NYZUL_ISLE] =
         RESIST_RANGE                  = 7530, -- My belly remembers the punctures of ten thousand arrows. Come, shoot me again...
         NOW_UNDERSTAND                = 7531, -- Hehehe... Do you now understand what it is to fight a true Immortal? Realize your futility and embrace despair...
         MIRACLE                       = 7532, -- Ugh... Has your god granted you the miracle you seek...?
+        DIVINE_MIGHT                  = 7533, -- Incredible. Feel the infinite power of divine might! Alexander will lead Aht Urhgan to certain victory!
         SHALL_BE_JUDGED               = 7534, -- I am...Alexander... The meek...shall be rewarded... The defiant...shall be judged...
         OFFER_THY_WORSHIP             = 7535, -- Offer thy worship... I shall burn away...thy transgressions...
-        OPEN_THINE_EYES               = 7536, -- Open thine eyes... My radiance...shall guide thee...
-        CEASE_THY_STRUGGLES           = 7537, -- Cease thy struggles... I am immutable...indestructible...impervious...immortal...
-        RELEASE_THY_SELF              = 7538, -- Release thy self... My divine flames...shall melt thy flesh...sear thy bones...unshackle thy soul...
-        BASK_IN_MY_GLORY              = 7539, -- Bask in my glory... Mine existence...stretches into infinity...
-        REPENT_THY_IRREVERENCE        = 7540, -- Repent thy irreverence... The gate to salvation...lies before thee... Revelation...is within thy reach...
         ACCEPT_THY_DESTRUCTION        = 7541, -- Accept thy destruction... Wish for eternity...yearn for immortality... Sense thy transience...know thy insignificance...
         OMEGA_SPAM                    = 7542, -- OOOOOOO
         SHALL_KNOW_OBLIVION           = 7543, -- I am...Alexander... The fearful...shall be embraced... The bold...shall know oblivion...
@@ -111,6 +107,20 @@ zones[dsp.zone.NYZUL_ISLE] =
             ADAMANTOISE         = 17092999,
             CERBERUS            = 17093004,
         },
+        [PATH_OF_DARKNESS] =
+        {
+            AMNAF_BLU          = 17093132,
+            AMNAF_PSYCHEFLAYER = 17093133,
+            IMPERIAL_GEAR      = 17093134,
+            IMPERIAL_GEARS     = 17093138,
+            NAJA               = 17093142,
+        },
+        [NASHMEIRAS_PLEA] =
+        {
+            RAZFAHD   = 17093143,
+            ALEXANDER = 17093144,
+            RAUBAHN   = 17093145,
+        }
     },
 
     npc =
@@ -136,6 +146,18 @@ zones[dsp.zone.NYZUL_ISLE] =
         _259                = 17093361,
         RUNE_TRANSFER_START = 17093429,
         VENDING_BOX         = 17093430,
+        QM1                 = 17093472,
+        BLANK1              = 17093473,
+        BLANK2              = 17093474,
+        BLANK3              = 17093475,
+        NASHMEIRA1          = 17093476,
+        NASHMEIRA2          = 17093477,
+        RAZFAHD             = 17093478,
+        CSNPC1              = 17093479,
+        GHATSAD             = 17093480,
+        ALEXANDER           = 17093481,
+        CSNPC2              = 17093482,
+        WEATHER             = 17093423,
     }
 }
 

@@ -8,7 +8,9 @@ require("scripts/globals/utils/nyzul")
 require("scripts/globals/status")
 -----------------------------------
 
-function onMobSpawn(mob)
+local this = {}
+
+this.onMobSpawn = function(mob)
     mob:setMod(dsp.mod.DOUBLE_ATTACK, 10)
     mob:setMod(dsp.mod.UDMGMAGIC, -90)
     mob:setMod(dsp.mod.POISONRES, 100)
@@ -28,17 +30,17 @@ function onMobSpawn(mob)
     mob:setMobMod(dsp.mobMod.ROAM_DISTANCE, 15)
 end
 
-function handleRegen(mob, broken)
-    local multiplier = (2 - broken) / 2
-    mob:setMod(dsp.mod.REGEN, math.floor(100 * multiplier))
-    mob:setMod(dsp.mod.REGAIN, math.floor(200 * multiplier))
+this.handleRegen = function(mob, broken)
+    local multiplier = (2 - broken) * .75
+    mob:setMod(dsp.mod.REGEN, math.floor(25 * multiplier))
+    mob:setMod(dsp.mod.REGAIN, math.floor(25 * multiplier))
 end
 
-function onMobEngaged(mob)
-    handleRegen(mob, mob:AnimationSub())
+this.onMobEngaged = function(mob)
+    this.handleRegen(mob, mob:AnimationSub())
 end
 
-function onMobFight(mob, target)
+this.onMobFight = function(mob, target)
     local battletime = os.time()
     local headgrow = mob:getLocalVar("headgrow")
     local broken = mob:AnimationSub()
@@ -47,12 +49,12 @@ function onMobFight(mob, target)
         mob:AnimationSub(broken - 1)
         mob:setLocalVar("headgrow", battletime + 300)
         mob:setTP(3000)
-        handleRegen(mob, broken - 1)
+        this.handleRegen(mob, broken - 1)
     end
 
 end
 
-function onCriticalHit(mob)
+this.onCriticalHit = function(mob)
     local rand = math.random(1, 100)
     local battletime = os.time()
     local headgrow = mob:getLocalVar("headgrow")
@@ -61,15 +63,17 @@ function onCriticalHit(mob)
     if rand <= 15 and broken < 2 then
         mob:AnimationSub(broken + 1)
         mob:setLocalVar("headgrow", os.time() + math.random(120, 240))
-        handleRegen(mob, broken + 1)
+        this.handleRegen(mob, broken + 1)
     end
 
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.enemyLeaderKill(mob)
         nyzul.vigilWeaponDrop(player, mob)
         nyzul.handleRunicKey(mob)
     end
 end
+
+return this

@@ -7,7 +7,9 @@ require("scripts/globals/status")
 require("scripts/globals/utils/nyzul")
 -----------------------------------
 
-function onMobSpawn(mob)
+local this = {}
+
+this.onMobSpawn = function(mob)
     mob:addListener("CRITICAL_TAKE", "IMP_CRITICAL_TAKE", function(mob)
         if math.random(100) <= 20 and mob:AnimationSub() == 4 then
             mob:AnimationSub(5)
@@ -21,9 +23,11 @@ function onMobSpawn(mob)
     mob:AnimationSub(4)
 end
 
-function onMobDeath(mob, player, isKiller, firstCall)
+this.onMobDeath = function(mob, player, isKiller, firstCall)
     if firstCall then
         nyzul.spawnChest(mob, player)
         nyzul.enemyLeaderKill(mob)
     end
 end
+
+return this
