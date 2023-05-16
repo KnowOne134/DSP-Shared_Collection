@@ -1,0 +1,8 @@
+    [17309852] = {['id']=17309852, ['name']="Sprinkler", ['index']=156, ['level']=76},
+    [17309853] = {['id']=17309853, ['name']="Sprinkler", ['index']=157, ['level']=73},
+    [17309854] = {['id']=17309854, ['name']="Sprinkler", ['index']=158, ['level']=75},
+    [17309855] = {['id']=17309855, ['name']="Sprinkler", ['index']=159, ['level']=75},
+    [17309859] = {['id']=17309859, ['name']="Groundskeeper", ['index']=163, ['level']=75},
+    [17309858] = {['id']=17309858, ['name']="Groundskeeper", ['index']=162, ['level']=77},
+    [17309857] = {['id']=17309857, ['name']="Sprinkler", ['index']=161, ['level']=75},
+    [17309856] = {['id']=17309856, ['name']="Sprinkler", ['index']=160, ['level']=74},
