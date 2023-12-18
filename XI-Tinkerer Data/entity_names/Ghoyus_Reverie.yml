@@ -1,0 +1,769 @@
+names:
+- id: 17305601
+  name: Federation Infantry
+- id: 17305602
+  name: Federation Infantry
+- id: 17305603
+  name: Federation Infantry
+- id: 17305604
+  name: Trained Crab
+- id: 17305605
+  name: Trained Bat
+- id: 17305606
+  name: Trained Scorpion
+- id: 17305607
+  name: Yagudo Stormer
+- id: 17305608
+  name: Yagudo Stormer
+- id: 17305609
+  name: Yagudo Stormer
+- id: 17305610
+  name: Yagudo Stormer
+- id: 17305611
+  name: Yagudo Stormer
+- id: 17305612
+  name: Yagudo Stormer
+- id: 17305613
+  name: Yagudo Stormer
+- id: 17305614
+  name: Yagudo Stormer
+- id: 17305615
+  name: Yagudo Stormer
+- id: 17305616
+  name: Yagudo Stormer
+- id: 17305617
+  name: Yagudo Stormer
+- id: 17305618
+  name: Yagudo Stormer
+- id: 17305619
+  name: Yagudo Stormer
+- id: 17305620
+  name: Yagudo Stormer
+- id: 17305621
+  name: Yagudo Stormer
+- id: 17305622
+  name: Yagudo Stormer
+- id: 17305623
+  name: Yagudo Stormer
+- id: 17305624
+  name: Yagudo Stormer
+- id: 17305625
+  name: Federation Garrison
+- id: 17305626
+  name: Federation Garrison
+- id: 17305627
+  name: Federation Garrison
+- id: 17305628
+  name: Yagudo Carrier
+- id: 17305629
+  name: Yagudo Guard
+- id: 17305630
+  name: Yagudo Guard
+- id: 17305631
+  name: Yagudo Carrier
+- id: 17305632
+  name: Yagudo Guard
+- id: 17305633
+  name: Yagudo Guard
+- id: 17305634
+  name: Yagudo Carrier
+- id: 17305635
+  name: Yagudo Guard
+- id: 17305636
+  name: Yagudo Guard
+- id: 17305637
+  name: Yagudo Carrier
+- id: 17305638
+  name: Yagudo Guard
+- id: 17305639
+  name: Yagudo Guard
+- id: 17305640
+  name: Yagudo Carrier
+- id: 17305641
+  name: Yagudo Guard
+- id: 17305642
+  name: Yagudo Guard
+- id: 17305643
+  name: Yagudo Guard
+- id: 17305644
+  name: Yagudo Guard
+- id: 17305645
+  name: Yagudo Guard
+- id: 17305646
+  name: Yagudo Guard
+- id: 17305647
+  name: Yagudo Priest
+- id: 17305648
+  name: Yagudo Priest
+- id: 17305649
+  name: Yagudo Priest
+- id: 17305650
+  name: Yagudo Theologist
+- id: 17305651
+  name: Yagudo Theologist
+- id: 17305652
+  name: Yagudo Theologist
+- id: 17305653
+  name: Yagudo Interrogator
+- id: 17305654
+  name: Yagudo Interrogator
+- id: 17305655
+  name: Yagudo Interrogator
+- id: 17305656
+  name: Yagudo Herald
+- id: 17305657
+  name: Yagudo Herald
+- id: 17305658
+  name: Yagudo Herald
+- id: 17305659
+  name: Yagudo Votary
+- id: 17305660
+  name: Yagudo Votary
+- id: 17305661
+  name: Yagudo Votary
+- id: 17305662
+  name: Laa Yaku the Austere
+- id: 17305663
+  name: Onyx Mine
+- id: 17305664
+  name: Onyx Mine
+- id: 17305665
+  name: Onyx Mine
+- id: 17305666
+  name: Serket
+- id: 17305667
+  name: Lambton Worm
+- id: 17305668
+  name: Yagudo Conversus
+- id: 17305669
+  name: Yagudo Neophyte
+- id: 17305670
+  name: Yagudo Neophyte
+- id: 17305671
+  name: Yagudo Neophyte
+- id: 17305672
+  name: Yagudo Neophyte
+- id: 17305673
+  name: Yagudo Neophyte
+- id: 17305674
+  name: Yagudo Prior
+- id: 17305675
+  name: Yagudo Gyrovague
+- id: 17305676
+  name: Yagudo Gyrovague
+- id: 17305677
+  name: Yagudo Gyrovague
+- id: 17305678
+  name: Yagudo Gyrovague
+- id: 17305679
+  name: Yagudo Gyrovague
+- id: 17305680
+  name: Yagudo Seminarian
+- id: 17305681
+  name: Yagudo Seminarian
+- id: 17305682
+  name: Yagudo Seminarian
+- id: 17305683
+  name: Romaa Mihgo
+- id: 17305684
+  name: Cobra Mercenary
+- id: 17305685
+  name: Cobra Mercenary
+- id: 17305686
+  name: Cobra Mercenary
+- id: 17305687
+  name: Cobra Mercenary
+- id: 17305688
+  name: Cobra Mercenary
+- id: 17305689
+  name: Cobra Mercenary
+- id: 17305690
+  name: Cobra Mercenary
+- id: 17305691
+  name: Cobra Mercenary
+- id: 17305692
+  name: Cobra Mercenary
+- id: 17305693
+  name: Zircon Quadav
+- id: 17305694
+  name: Silver Quadav
+- id: 17305695
+  name: Nickel Quadav
+- id: 17305696
+  name: Zircon Quadav
+- id: 17305697
+  name: Silver Quadav
+- id: 17305698
+  name: Nickel Quadav
+- id: 17305699
+  name: Zircon Quadav
+- id: 17305700
+  name: Silver Quadav
+- id: 17305701
+  name: Nickel Quadav
+- id: 17305702
+  name: Bo'Dho's Shieldwarrior
+- id: 17305703
+  name: Bo'Dho's Shieldwarrior
+- id: 17305704
+  name: Bo'Dho's Shieldwarrior
+- id: 17305705
+  name: Bo'Dho's Shieldwarrior
+- id: 17305706
+  name: Bo'Dho's Shieldwarrior
+- id: 17305707
+  name: Gigas Trebucket
+- id: 17305708
+  name: Gigas Flanker
+- id: 17305709
+  name: Gigas Trebucket
+- id: 17305710
+  name: Gigas Flanker
+- id: 17305711
+  name: Gigas Trebucket
+- id: 17305712
+  name: Confederate Belfry
+- id: 17305713
+  name: Goblin Poisoner
+- id: 17305714
+  name: Effluvial Grenade
+- id: 17305715
+  name: Orcish Hexspinner
+- id: 17305716
+  name: Goblin Poisoner
+- id: 17305717
+  name: Effluvial Grenade
+- id: 17305718
+  name: Orcish Footsoldier
+- id: 17305719
+  name: Orcish Hexspinner
+- id: 17305720
+  name: Goblin Poisoner
+- id: 17305721
+  name: Effluvial Grenade
+- id: 17305722
+  name: Orcish Footsoldier
+- id: 17305723
+  name: Orcish Hexspinner
+- id: 17305724
+  name: Goblin Poisoner
+- id: 17305725
+  name: Effluvial Grenade
+- id: 17305726
+  name: Orcish Footsoldier
+- id: 17305727
+  name: Orcish Hexspinner
+- id: 17305728
+  name: Goblin Poisoner
+- id: 17305729
+  name: Effluvial Grenade
+- id: 17305730
+  name: Goblin Poisoner
+- id: 17305731
+  name: Effluvial Grenade
+- id: 17305732
+  name: Goblin Poisoner
+- id: 17305733
+  name: Effluvial Grenade
+- id: 17305734
+  name: Orcish Hexspinner
+- id: 17305735
+  name: Goblin Poisoner
+- id: 17305736
+  name: Effluvial Grenade
+- id: 17305737
+  name: Orcish Footsoldier
+- id: 17305738
+  name: Orcish Hexspinner
+- id: 17305739
+  name: Goblin Poisoner
+- id: 17305740
+  name: Effluvial Grenade
+- id: 17305741
+  name: Orcish Footsoldier
+- id: 17305742
+  name: Orcish Hexspinner
+- id: 17305743
+  name: Virulent Flask
+- id: 17305744
+  name: Orcish Footsoldier
+- id: 17305745
+  name: Virulent Flask
+- id: 17305746
+  name: Orcish Hexspinner
+- id: 17305747
+  name: Virulent Flask
+- id: 17305748
+  name: Orcish Footsoldier
+- id: 17305749
+  name: Virulent Flask
+- id: 17305750
+  name: Orcish Hexspinner
+- id: 17305751
+  name: Virulent Flask
+- id: 17305752
+  name: Orcish Footsoldier
+- id: 17305753
+  name: Virulent Flask
+- id: 17305754
+  name: Orcish Hexspinner
+- id: 17305755
+  name: Virulent Flask
+- id: 17305756
+  name: Orcish Footsoldier
+- id: 17305757
+  name: Virulent Flask
+- id: 17305758
+  name: Orcish Hexspinner
+- id: 17305759
+  name: Virulent Flask
+- id: 17305760
+  name: Orcish Footsoldier
+- id: 17305761
+  name: Virulent Flask
+- id: 17305762
+  name: Orcish Turret
+- id: 17305763
+  name: Effluvial Grenade
+- id: 17305764
+  name: Student Salvemixer I
+- id: 17305765
+  name: Student Salvemixer II
+- id: 17305766
+  name: Student Salvemixer III
+- id: 17305767
+  name: Aquarian Caster
+- id: 17305768
+  name: Scorpion Caster
+- id: 17305769
+  name: Libran Caster
+- id: 17305770
+  name: Python Mercenary
+- id: 17305771
+  name: Wildcat Volunteer
+- id: 17305772
+  name: Capricornian Caster
+- id: 17305773
+  name: Aquarian Caster
+- id: 17305774
+  name: Scorpion Caster
+- id: 17305775
+  name: Libran Caster
+- id: 17305776
+  name: Python Mercenary
+- id: 17305777
+  name: Kingslayer Doggvdegg
+- id: 17305778
+  name: Gherrmoga
+- id: 17305779
+  name: Bloodwing Maimer
+- id: 17305780
+  name: Bloodwing Maimer
+- id: 17305781
+  name: Bloodwing Maimer
+- id: 17305782
+  name: Bloodwing Maimer
+- id: 17305783
+  name: Bloodwing Deathrainer
+- id: 17305784
+  name: Bloodwing Deathrainer
+- id: 17305785
+  name: Excenmille
+- id: 17305786
+  name: Goblin Scrounger
+- id: 17305787
+  name: Goblin Scrounger
+- id: 17305788
+  name: Goblin Scrounger
+- id: 17305789
+  name: Goblin Scrounger
+- id: 17305790
+  name: Goblin Scrounger
+- id: 17305791
+  name: Yagudo Kamari
+- id: 17305792
+  name: Yagudo Kamari
+- id: 17305793
+  name: Yagudo Kamari
+- id: 17305794
+  name: Yagudo Kamari
+- id: 17305795
+  name: Yagudo Kamari
+- id: 17305796
+  name: Yagudo Kamari
+- id: 17305797
+  name: Yagudo Kamari
+- id: 17305798
+  name: Aphotic Crab
+- id: 17305799
+  name: Aphotic Crab
+- id: 17305800
+  name: Aphotic Crab
+- id: 17305801
+  name: Aphotic Crab
+- id: 17305802
+  name: Aphotic Crab
+- id: 17305803
+  name: Aphotic Crab
+- id: 17305804
+  name: Aphotic Crab
+- id: 17305805
+  name: Aphotic Crab
+- id: 17305806
+  name: Orcish Brawler
+- id: 17305807
+  name: Orcish Brawler
+- id: 17305808
+  name: Orcish Trooper
+- id: 17305809
+  name: Orcish Trooper
+- id: 17305810
+  name: Orcish Impaler
+- id: 17305811
+  name: Orcish Impaler
+- id: 17305812
+  name: Old Quadav
+- id: 17305813
+  name: Old Quadav
+- id: 17305814
+  name: Sapphirine Quadav
+- id: 17305815
+  name: Sapphirine Quadav
+- id: 17305816
+  name: Emerald Quadav
+- id: 17305817
+  name: Emerald Quadav
+- id: 17305818
+  name: Yagudo Theologist
+- id: 17305819
+  name: Yagudo Theologist
+- id: 17305820
+  name: Yagudo Drummer
+- id: 17305821
+  name: Yagudo Drummer
+- id: 17305822
+  name: Yagudo Herald
+- id: 17305823
+  name: Yagudo Herald
+- id: 17305824
+  name: Arch Demon
+- id: 17305825
+  name: Arch Demon
+- id: 17305826
+  name: Arch Demon
+- id: 17305827
+  name: Count Bifrons
+- id: 17305828
+  name: Orcish Mangler
+- id: 17305829
+  name: Orcish Mangler
+- id: 17305830
+  name: Orcish Muscle
+- id: 17305831
+  name: Orcish Muscle
+- id: 17305832
+  name: Falxfang Tiger
+- id: 17305833
+  name: Falxfang Tiger
+- id: 17305834
+  name: Falxfang Tiger
+- id: 17305835
+  name: Falxfang Tiger
+- id: 17305836
+  name: Falxfang Tiger
+- id: 17305837
+  name: Falxfang Tiger
+- id: 17305838
+  name: Falxfang Tiger
+- id: 17305839
+  name: Falxfang Tiger
+- id: 17305840
+  name: Falxfang Tiger
+- id: 17305841
+  name: Falxfang Tiger
+- id: 17305843
+  name: Dawn Aureola
+- id: 17305844
+  name: Twilight Aureola
+- id: 17305845
+  name: Lacuna Whorl
+- id: 17305847
+  name: ctrl_mission
+- id: 17305849
+  name: Zogbog
+- id: 17305850
+  name: Nhev Befrathi
+- id: 17305851
+  name: Syu Befrathi
+- id: 17305853
+  name: ''
+- id: 17305854
+  name: ''
+- id: 17305855
+  name: Pesoso
+- id: 17305856
+  name: Antje
+- id: 17305857
+  name: Republic Ensign I
+- id: 17305858
+  name: Republic Ensign II
+- id: 17305859
+  name: Republic Ensign III
+- id: 17305860
+  name: Republic Ensign IV
+- id: 17305861
+  name: Republic Ensign V
+- id: 17305862
+  name: Republic Ensign VI
+- id: 17305863
+  name: 2nd Legion Scout
+- id: 17305864
+  name: 7th Cohors Engineer
+- id: 17305865
+  name: 2nd Legion Scout
+- id: 17305866
+  name: 7th Cohors Engineer
+- id: 17305867
+  name: 7th Cohors Engineer
+- id: 17305868
+  name: 7th Cohors Engineer
+- id: 17305869
+  name: 7th Cohors Engineer
+- id: 17305870
+  name: 2nd Legion Scout
+- id: 17305871
+  name: 2nd Legion Scout
+- id: 17305872
+  name: 7th Cohors Engineer
+- id: 17305873
+  name: 2nd Legion Scout
+- id: 17305874
+  name: 7th Cohors Engineer
+- id: 17305875
+  name: 2nd Legion Scout
+- id: 17305876
+  name: 2nd Legion Scout
+- id: 17305877
+  name: 2nd Legion Scout
+- id: 17305878
+  name: 7th Cohors Engineer
+- id: 17305879
+  name: 2nd Legion Scout
+- id: 17305880
+  name: 7th Cohors Engineer
+- id: 17305881
+  name: 2nd Legion Scout
+- id: 17305882
+  name: 2nd Legion Scout
+- id: 17305883
+  name: 2nd Legion Scout
+- id: 17305884
+  name: 7th Cohors Engineer
+- id: 17305885
+  name: 2nd Legion Scout
+- id: 17305886
+  name: 2nd Legion Scout
+- id: 17305887
+  name: ''
+- id: 17305888
+  name: ''
+- id: 17305889
+  name: ''
+- id: 17305890
+  name: ''
+- id: 17305891
+  name: ''
+- id: 17305892
+  name: ''
+- id: 17305893
+  name: ''
+- id: 17305894
+  name: ''
+- id: 17305895
+  name: ''
+- id: 17305896
+  name: ''
+- id: 17305897
+  name: ''
+- id: 17305898
+  name: ''
+- id: 17305899
+  name: ''
+- id: 17305900
+  name: ''
+- id: 17305901
+  name: ''
+- id: 17305902
+  name: ''
+- id: 17305903
+  name: ''
+- id: 17305904
+  name: ''
+- id: 17305905
+  name: ''
+- id: 17305906
+  name: ''
+- id: 17305907
+  name: ''
+- id: 17305908
+  name: ''
+- id: 17305909
+  name: ''
+- id: 17305910
+  name: ''
+- id: 17305911
+  name: ''
+- id: 17305912
+  name: Achieve Master
+- id: 17305918
+  name: DOOR_MASTER
+- id: 17305919
+  name: _3l0
+- id: 17305920
+  name: _3l1
+- id: 17305921
+  name: _3l2
+- id: 17305922
+  name: _3l3
+- id: 17305923
+  name: _3l4
+- id: 17305924
+  name: _3l5
+- id: 17305925
+  name: _3l6
+- id: 17305926
+  name: _3l7
+- id: 17305927
+  name: _3l8
+- id: 17305928
+  name: _3l9
+- id: 17305929
+  name: _3la
+- id: 17305930
+  name: _3lb
+- id: 17305931
+  name: _3lc
+- id: 17305932
+  name: _3ld
+- id: 17305933
+  name: _3le
+- id: 17305934
+  name: _3lf
+- id: 17305935
+  name: _3lg
+- id: 17305936
+  name: _3lh
+- id: 17305937
+  name: _3li
+- id: 17305938
+  name: _3lj
+- id: 17305939
+  name: _3lk
+- id: 17305940
+  name: _3ll
+- id: 17305941
+  name: _3lm
+- id: 17305942
+  name: _3ln
+- id: 17305943
+  name: _3lo
+- id: 17305944
+  name: _3lp
+- id: 17305945
+  name: _3lq
+- id: 17305946
+  name: _3lr
+- id: 17305947
+  name: _3ls
+- id: 17305948
+  name: _3lt
+- id: 17305949
+  name: _3lu
+- id: 17305950
+  name: _3lv
+- id: 17305951
+  name: _3lw
+- id: 17305952
+  name: _3lx
+- id: 17305953
+  name: _3ly
+- id: 17305954
+  name: _3lz
+- id: 17305955
+  name: _ll0
+- id: 17305956
+  name: _ll1
+- id: 17305957
+  name: _ll2
+- id: 17305958
+  name: _ll3
+- id: 17305959
+  name: _ll4
+- id: 17305960
+  name: _ll5
+- id: 17305961
+  name: _ll6
+- id: 17305962
+  name: _ll7
+- id: 17305963
+  name: _ll8
+- id: 17305964
+  name: _ll9
+- id: 17305965
+  name: _lla
+- id: 17305966
+  name: _llb
+- id: 17305967
+  name: _llc
+- id: 17305968
+  name: _lld
+- id: 17305969
+  name: _lle
+- id: 17305970
+  name: _llf
+- id: 17305971
+  name: _llg
+- id: 17305972
+  name: _llh
+- id: 17305973
+  name: _lli
+- id: 17305974
+  name: _llj
+- id: 17305975
+  name: _llk
+- id: 17305976
+  name: _lll
+- id: 17305977
+  name: _llm
+- id: 17305978
+  name: _lln
+- id: 17305979
+  name: _llo
+- id: 17305980
+  name: _llp
+- id: 17305981
+  name: _llq
+- id: 17305982
+  name: _llr
+- id: 17305983
+  name: _lls
+- id: 17305984
+  name: ''
+- id: 17305986
+  name: Moogle
+- id: 17305987
+  name: Moogle
+- id: 17305988
+  name: Moogle
+- id: 17305989
+  name: Moogle
+- id: 17305990
+  name: Moogle
+- id: 17305991
+  name: Moogle
+- id: 17305992
+  name: Moogle
+- id: 17305993
+  name: Moogle
+- id: 17305994
+  name: medic_pop_ctrl

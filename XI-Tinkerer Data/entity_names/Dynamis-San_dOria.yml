@@ -1,0 +1,509 @@
+names:
+- id: 17534977
+  name: Overlord's Tombstone
+- id: 17534978
+  name: Battlechoir Gitchfotch
+- id: 17534979
+  name: Soulsender Fugbrag
+- id: 17534980
+  name: Vanguard Footsoldier
+- id: 17534981
+  name: Vanguard Trooper
+- id: 17534982
+  name: Vanguard Amputator
+- id: 17534983
+  name: Vanguard Vexer
+- id: 17534984
+  name: Vanguard Pillager
+- id: 17534985
+  name: Vanguard Mesmerizer
+- id: 17534986
+  name: Vanguard Grappler
+- id: 17534987
+  name: Vanguard Neckchopper
+- id: 17534988
+  name: Vanguard Mesmerizer
+- id: 17534989
+  name: Vanguard Bugler
+- id: 17534990
+  name: Vanguard Gutslasher
+- id: 17534991
+  name: Vanguard Impaler
+- id: 17534992
+  name: Vanguard's Wyvern
+- id: 17534993
+  name: Vanguard Backstabber
+- id: 17534994
+  name: Vanguard Hawker
+- id: 17534995
+  name: Vanguard's Hecteyes
+- id: 17534996
+  name: Vanguard Dollmaster
+- id: 17534997
+  name: Vanguard's Avatar
+- id: 17534998
+  name: Vanguard Vexer
+- id: 17534999
+  name: Vanguard Predator
+- id: 17535000
+  name: Vanguard Footsoldier
+- id: 17535001
+  name: Vanguard Grappler
+- id: 17535002
+  name: Vanguard Predator
+- id: 17535003
+  name: Serjeant Tombstone
+- id: 17535004
+  name: Serjeant Tombstone
+- id: 17535005
+  name: Serjeant Tombstone
+- id: 17535006
+  name: Reapertongue Gadgquok
+- id: 17535007
+  name: Vanguard's Avatar
+- id: 17535008
+  name: Vanguard Trooper
+- id: 17535009
+  name: Vanguard Amputator
+- id: 17535010
+  name: Vanguard Dollmaster
+- id: 17535011
+  name: Vanguard's Avatar
+- id: 17535012
+  name: Vanguard Footsoldier
+- id: 17535013
+  name: Vanguard Backstabber
+- id: 17535014
+  name: Vanguard Impaler
+- id: 17535015
+  name: Vanguard's Wyvern
+- id: 17535016
+  name: Vanguard Footsoldier
+- id: 17535017
+  name: Vanguard Grappler
+- id: 17535018
+  name: Vanguard Amputator
+- id: 17535019
+  name: Vanguard Trooper
+- id: 17535020
+  name: Vanguard Neckchopper
+- id: 17535021
+  name: Vanguard Pillager
+- id: 17535022
+  name: Vanguard Bugler
+- id: 17535023
+  name: Vanguard Predator
+- id: 17535024
+  name: Vanguard Vexer
+- id: 17535025
+  name: Vanguard Trooper
+- id: 17535026
+  name: Warchief Tombstone
+- id: 17535027
+  name: Vanguard Bugler
+- id: 17535028
+  name: Vanguard Hawker
+- id: 17535029
+  name: Vanguard's Hecteyes
+- id: 17535030
+  name: Vanguard Gutslasher
+- id: 17535031
+  name: Vanguard Backstabber
+- id: 17535032
+  name: Wyrmgnasher Bjakdek
+- id: 17535033
+  name: Vanguard's Wyvern
+- id: 17535034
+  name: Vanguard Footsoldier
+- id: 17535035
+  name: Vanguard Grappler
+- id: 17535036
+  name: Vanguard Pillager
+- id: 17535037
+  name: Vanguard Trooper
+- id: 17535038
+  name: Vanguard Neckchopper
+- id: 17535039
+  name: Vanguard Predator
+- id: 17535040
+  name: Vanguard Gutslasher
+- id: 17535041
+  name: Vanguard Backstabber
+- id: 17535042
+  name: Vanguard Impaler
+- id: 17535043
+  name: Vanguard's Wyvern
+- id: 17535044
+  name: Voidstreaker Butchnotch
+- id: 17535045
+  name: Vanguard Amputator
+- id: 17535046
+  name: Vanguard Mesmerizer
+- id: 17535047
+  name: Vanguard Vexer
+- id: 17535048
+  name: Vanguard Bugler
+- id: 17535049
+  name: Vanguard Dollmaster
+- id: 17535050
+  name: Vanguard's Avatar
+- id: 17535051
+  name: Vanguard Mesmerizer
+- id: 17535052
+  name: Vanguard Bugler
+- id: 17535053
+  name: Vanguard Neckchopper
+- id: 17535054
+  name: Vanguard Pillager
+- id: 17535055
+  name: Vanguard Vexer
+- id: 17535056
+  name: Vanguard Trooper
+- id: 17535057
+  name: Warchief Tombstone
+- id: 17535058
+  name: Vanguard Footsoldier
+- id: 17535059
+  name: Vanguard Grappler
+- id: 17535060
+  name: Vanguard Amputator
+- id: 17535061
+  name: Vanguard Mesmerizer
+- id: 17535062
+  name: Vanguard Vexer
+- id: 17535063
+  name: Vanguard Pillager
+- id: 17535064
+  name: Vanguard Trooper
+- id: 17535065
+  name: Vanguard Neckchopper
+- id: 17535066
+  name: Vanguard Hawker
+- id: 17535067
+  name: Vanguard's Hecteyes
+- id: 17535068
+  name: Vanguard Bugler
+- id: 17535069
+  name: Vanguard Predator
+- id: 17535070
+  name: Vanguard Gutslasher
+- id: 17535071
+  name: Vanguard Backstabber
+- id: 17535072
+  name: Vanguard Impaler
+- id: 17535073
+  name: Vanguard's Wyvern
+- id: 17535074
+  name: Vanguard Dollmaster
+- id: 17535075
+  name: Vanguard's Avatar
+- id: 17535076
+  name: Vanguard Hawker
+- id: 17535077
+  name: Vanguard's Hecteyes
+- id: 17535078
+  name: Vanguard Bugler
+- id: 17535079
+  name: Vanguard Grappler
+- id: 17535080
+  name: Vanguard Mesmerizer
+- id: 17535081
+  name: Vanguard Pillager
+- id: 17535082
+  name: Vanguard Gutslasher
+- id: 17535083
+  name: Vanguard Backstabber
+- id: 17535084
+  name: Vanguard Trooper
+- id: 17535085
+  name: Vanguard Footsoldier
+- id: 17535086
+  name: Vanguard Amputator
+- id: 17535087
+  name: Vanguard Neckchopper
+- id: 17535088
+  name: Vanguard Bugler
+- id: 17535089
+  name: Vanguard Predator
+- id: 17535090
+  name: Vanguard Backstabber
+- id: 17535091
+  name: Vanguard Grappler
+- id: 17535092
+  name: Vanguard Gutslasher
+- id: 17535093
+  name: Vanguard Predator
+- id: 17535094
+  name: Vanguard Hawker
+- id: 17535095
+  name: Vanguard's Hecteyes
+- id: 17535096
+  name: Vanguard Impaler
+- id: 17535097
+  name: Vanguard's Wyvern
+- id: 17535098
+  name: Vanguard Footsoldier
+- id: 17535099
+  name: Vanguard Amputator
+- id: 17535100
+  name: Vanguard Bugler
+- id: 17535101
+  name: Vanguard Predator
+- id: 17535102
+  name: Vanguard Backstabber
+- id: 17535103
+  name: Vanguard Grappler
+- id: 17535104
+  name: Vanguard Gutslasher
+- id: 17535105
+  name: Vanguard Trooper
+- id: 17535106
+  name: Vanguard Predator
+- id: 17535107
+  name: Vanguard Mesmerizer
+- id: 17535108
+  name: Vanguard Vexer
+- id: 17535109
+  name: Vanguard Neckchopper
+- id: 17535110
+  name: Vanguard Dollmaster
+- id: 17535111
+  name: Vanguard's Avatar
+- id: 17535112
+  name: Vanguard Backstabber
+- id: 17535113
+  name: Serjeant Tombstone
+- id: 17535114
+  name: Serjeant Tombstone
+- id: 17535115
+  name: Serjeant Tombstone
+- id: 17535116
+  name: Vanguard Footsoldier
+- id: 17535117
+  name: Vanguard Amputator
+- id: 17535118
+  name: Vanguard Bugler
+- id: 17535119
+  name: Vanguard Predator
+- id: 17535120
+  name: Vanguard Predator
+- id: 17535121
+  name: Vanguard Vexer
+- id: 17535122
+  name: Vanguard Neckchopper
+- id: 17535123
+  name: Vanguard Backstabber
+- id: 17535124
+  name: Vanguard Grappler
+- id: 17535125
+  name: Vanguard Trooper
+- id: 17535126
+  name: Vanguard Vexer
+- id: 17535127
+  name: Vanguard Trooper
+- id: 17535128
+  name: Warchief Tombstone
+- id: 17535129
+  name: Vanguard Vexer
+- id: 17535130
+  name: Vanguard Trooper
+- id: 17535131
+  name: Warchief Tombstone
+- id: 17535132
+  name: Vanguard Vexer
+- id: 17535133
+  name: Vanguard Mesmerizer
+- id: 17535134
+  name: Vanguard Footsoldier
+- id: 17535135
+  name: Vanguard Pillager
+- id: 17535136
+  name: Vanguard Predator
+- id: 17535137
+  name: Vanguard Vexer
+- id: 17535138
+  name: Vanguard Trooper
+- id: 17535139
+  name: Warchief Tombstone
+- id: 17535140
+  name: Vanguard Footsoldier
+- id: 17535141
+  name: Vanguard Amputator
+- id: 17535142
+  name: Vanguard Trooper
+- id: 17535143
+  name: Vanguard Gutslasher
+- id: 17535144
+  name: Vanguard Footsoldier
+- id: 17535145
+  name: Vanguard Grappler
+- id: 17535146
+  name: Vanguard Pillager
+- id: 17535147
+  name: Vanguard Trooper
+- id: 17535148
+  name: Vanguard Neckchopper
+- id: 17535149
+  name: Vanguard Hawker
+- id: 17535150
+  name: Vanguard's Hecteyes
+- id: 17535151
+  name: Vanguard Predator
+- id: 17535152
+  name: Vanguard Impaler
+- id: 17535153
+  name: Vanguard's Wyvern
+- id: 17535154
+  name: Serjeant Tombstone
+- id: 17535155
+  name: Serjeant Tombstone
+- id: 17535156
+  name: Vanguard Footsoldier
+- id: 17535157
+  name: Vanguard Grappler
+- id: 17535158
+  name: Vanguard Pillager
+- id: 17535159
+  name: Vanguard Trooper
+- id: 17535160
+  name: Vanguard Neckchopper
+- id: 17535161
+  name: Vanguard Hawker
+- id: 17535162
+  name: Vanguard's Hecteyes
+- id: 17535163
+  name: Vanguard Predator
+- id: 17535164
+  name: Vanguard Impaler
+- id: 17535165
+  name: Vanguard's Wyvern
+- id: 17535166
+  name: Serjeant Tombstone
+- id: 17535167
+  name: Serjeant Tombstone
+- id: 17535168
+  name: Vanguard Gutslasher
+- id: 17535169
+  name: Vanguard Gutslasher
+- id: 17535170
+  name: Vanguard Footsoldier
+- id: 17535171
+  name: Vanguard Pillager
+- id: 17535172
+  name: Vanguard Neckchopper
+- id: 17535173
+  name: Vanguard Hawker
+- id: 17535174
+  name: Vanguard's Hecteyes
+- id: 17535175
+  name: Vanguard Backstabber
+- id: 17535176
+  name: Vanguard Backstabber
+- id: 17535177
+  name: Vanguard Grappler
+- id: 17535178
+  name: Vanguard Trooper
+- id: 17535179
+  name: Vanguard Impaler
+- id: 17535180
+  name: Vanguard's Wyvern
+- id: 17535181
+  name: Vanguard Dollmaster
+- id: 17535182
+  name: Vanguard's Avatar
+- id: 17535183
+  name: Vanguard Amputator
+- id: 17535184
+  name: Vanguard Amputator
+- id: 17535185
+  name: Vanguard Mesmerizer
+- id: 17535186
+  name: Vanguard Mesmerizer
+- id: 17535187
+  name: Vanguard Vexer
+- id: 17535188
+  name: Vanguard Vexer
+- id: 17535189
+  name: Vanguard Bugler
+- id: 17535190
+  name: Vanguard Bugler
+- id: 17535191
+  name: Vanguard Dollmaster
+- id: 17535192
+  name: Vanguard's Avatar
+- id: 17535193
+  name: Serjeant Tombstone
+- id: 17535194
+  name: Serjeant Tombstone
+- id: 17535195
+  name: Vanguard Amputator
+- id: 17535196
+  name: Vanguard Amputator
+- id: 17535197
+  name: Vanguard Mesmerizer
+- id: 17535198
+  name: Vanguard Mesmerizer
+- id: 17535199
+  name: Vanguard Vexer
+- id: 17535200
+  name: Vanguard Vexer
+- id: 17535201
+  name: Vanguard Bugler
+- id: 17535202
+  name: Vanguard Bugler
+- id: 17535203
+  name: Vanguard Dollmaster
+- id: 17535204
+  name: Vanguard's Avatar
+- id: 17535205
+  name: Serjeant Tombstone
+- id: 17535206
+  name: Serjeant Tombstone
+- id: 17535207
+  name: Bladeburner Rokgevok
+- id: 17535208
+  name: Steelshank Kratzvatz
+- id: 17535209
+  name: Kratzvatz's Hecteyes
+- id: 17535210
+  name: Bloodfist Voshgrosh
+- id: 17535211
+  name: Spellspear Djokvukk
+- id: 17535212
+  name: Djokvukk's Wyvern
+- id: 17535213
+  name: Arch Overlord Tombstone
+- id: 17535215
+  name: Achieve Master
+- id: 17535216
+  name: Unity Master
+- id: 17535221
+  name: ''
+- id: 17535222
+  name: Somnial Threshold
+- id: 17535223
+  name: ???
+- id: 17535224
+  name: ???
+- id: 17535225
+  name: ???
+- id: 17535226
+  name: ???
+- id: 17535227
+  name: ???
+- id: 17535229
+  name: Moogle
+- id: 17535230
+  name: Moogle
+- id: 17535231
+  name: Moogle
+- id: 17535232
+  name: Moogle
+- id: 17535233
+  name: Moogle
+- id: 17535234
+  name: Moogle
+- id: 17535235
+  name: Moogle
+- id: 17535236
+  name: Moogle

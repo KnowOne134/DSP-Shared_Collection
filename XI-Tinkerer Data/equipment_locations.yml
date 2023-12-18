@@ -1,0 +1,41 @@
+lists:
+  0:
+  - string: main
+  1:
+  - string: sub
+  2:
+  - string: range
+  3:
+  - string: ammo
+  4:
+  - string: head
+  5:
+  - string: neck
+  6:
+  - string: l.ear
+  7:
+  - string: r.ear
+  8:
+  - string: body
+  9:
+  - string: hands
+  10:
+  - string: l.ring
+  11:
+  - string: r.ring
+  12:
+  - string: back
+  13:
+  - string: waist
+  14:
+  - string: legs
+  15:
+  - string: feet
+  16:
+  - string: ear1
+  17:
+  - string: ear2
+  18:
+  - string: ring1
+  19:
+  - string: ring2

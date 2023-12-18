@@ -1,0 +1,399 @@
+lists:
+  0:
+  - string: Say
+  1:
+  - string: Shout
+  2:
+  - string: Tell
+  3:
+  - string: Party
+  4:
+  - string: Linkshell
+  5:
+  - string: Linkshell 2
+  6:
+  - string: Unity
+  7:
+  - string: Emotes
+  8:
+  - string: Messages from alter egos
+  9:
+  - string: Special actions started on/by you
+  10:
+  - string: Special action effects on/by you
+  11:
+  - string: Attacks by you
+  12:
+  - string: Missed attacks by you
+  13:
+  - string: Attacks you evade
+  14:
+  - string: Damage you take
+  15:
+  - string: Special action effects on/by NPCs
+  16:
+  - string: Attacks by NPCs
+  17:
+  - string: Missed attacks by NPCs
+  18:
+  - string: Special action effects on/by party
+  19:
+  - string: Attacks by party
+  20:
+  - string: Missed attacks by party
+  21:
+  - string: Attacks evaded by party
+  22:
+  - string: Damage taken by party
+  23:
+  - string: Special action effects on/by allies
+  24:
+  - string: Attacks by allies
+  25:
+  - string: Missed attacks by allies
+  26:
+  - string: Attacks evaded by allies
+  27:
+  - string: Damage taken by allies
+  28:
+  - string: Special actions started on/by party
+  29:
+  - string: Special actions started on/by allies
+  30:
+  - string: Special actions started on/by NPCs
+  31:
+  - string: 'System Lv. 1 ("Check" notices) '
+  32:
+  - string: System Lv. 2 (Bazaar notices)
+  33:
+  - string: System Lv. 3 (Countdowns)
+  34:
+  - string: Immediate vicinity ("Say")
+  35:
+  - string: Wide area ("Shout")
+  36:
+  - string: Tell target only ("Tell")
+  37:
+  - string: All party members ("Party")
+  38:
+  - string: Linkshell group ("Linkshell")
+  39:
+  - string: Linkshell group 2 ("Linkshell 2")
+  40:
+  - string: Unity group ("Unity")
+  41:
+  - string: Emotes
+  42:
+  - string: Messages ("Message")
+  43:
+  - string: NPC conversations
+  44:
+  - string: HP/MP you recover
+  45:
+  - string: HP/MP you lose
+  46:
+  - string: Beneficial effects you are granted
+  47:
+  - string: Detrimental effects you receive
+  48:
+  - string: Effects you resist
+  49:
+  - string: Actions you evade
+  50:
+  - string: HP/MP others recover
+  51:
+  - string: HP/MP others lose
+  52:
+  - string: Beneficial effects others are granted
+  53:
+  - string: Detrimental effects others receive
+  54:
+  - string: Effects others resist
+  55:
+  - string: Actions others evade
+  56:
+  - string: Standard battle messages
+  57:
+  - string: Calls for help
+  58:
+  - string: Basic system messages
+  59:
+  - string: 'Player: Color of "say" text'
+  60:
+  - string: 'Player: Color of "shout" text'
+  61:
+  - string: '>>Player: Color of "tell" text'
+  62:
+  - string: '(Player): Color of "party" text'
+  63:
+  - string: '<Player>: Color of "linkshell" text'
+  64:
+  - string: '<Player>: Color of "linkshell 2" text'
+  65:
+  - string: '<Player>: Color of "Unity" text'
+  66:
+  - string: Player's and other characters' emote color
+  67:
+  - string: 'Message: Color of Friend List messages'
+  68:
+  - string: 'Townswoman : Color of NPC text'
+  69:
+  - string: Player recovers 10 HP.
+  70:
+  - string: Enemy hits Player for 1 point of damage.
+  71:
+  - string: Player gains beneficial effect.
+  72:
+  - string: Player receives detrimental effect.
+  73:
+  - string: No effect on Player.
+  74:
+  - string: Enemy misses Player.
+  75:
+  - string: Ally recovers 10 HP.
+  76:
+  - string: Enemy hits Ally for 10 points of damage.
+  77:
+  - string: Ally gains beneficial effect.
+  78:
+  - string: Ally receives detrimental effect.
+  79:
+  - string: No effect on Enemy.
+  80:
+  - string: Enemy misses Ally.
+  81:
+  - string: Player starts casting Spell.
+  82:
+  - string: Player calls for help!
+  83:
+  - string: Player's craft skill rises 0.1 points!
+  84:
+  - string: Others' synthesis and fishing results
+  85:
+  - string: Move Up
+  86:
+  - string: Move Down
+  87:
+  - string: Move Right
+  88:
+  - string: Move Left
+  89:
+  - string: Move Camera Up
+  90:
+  - string: Move Camera Down
+  91:
+  - string: Move Camera Right
+  92:
+  - string: Move Camera Left
+  93:
+  - string: Menu/Target Cursor Up
+  94:
+  - string: Menu/Target Cursor Down
+  95:
+  - string: Menu/Target Cursor Right
+  96:
+  - string: Menu/Target Cursor Left
+  97:
+  - string: Menu Cursor & Camera Up
+  98:
+  - string: Menu Cursor & Camera Down
+  99:
+  - string: Menu Cursor & Camera Right
+  100:
+  - string: Menu Cursor & Camera Left
+  101:
+  - string: Confirm
+  102:
+  - string: Cancel
+  103:
+  - string: Change View
+  104:
+  - string: Autorun
+  105:
+  - string: Heal
+  106:
+  - string: Select Window
+  107:
+  - string: Open Main Menu
+  108:
+  - string: Attack
+  109:
+  - string: Items
+  110:
+  - string: Magic
+  111:
+  - string: Abilities
+  112:
+  - string: Weapon Skills
+  113:
+  - string: Ranged Attack
+  114:
+  - string: Call For Help
+  115:
+  - string: Equipment
+  116:
+  - string: Change View
+  117:
+  - string: Heal
+  118:
+  - string: Check
+  119:
+  - string: 'Chat: /Say'
+  120:
+  - string: 'Chat: /Party'
+  121:
+  - string: 'Chat: /Tell'
+  122:
+  - string: 'Chat: /Linkshell'
+  123:
+  - string: 'Chat: /Linkshell2'
+  124:
+  - string: 'Chat: /Unity'
+  125:
+  - string: 'Chat: /Reply to tell'
+  126:
+  - string: Zoom Out
+  127:
+  - string: Zoom In
+  128:
+  - string: Pet Commands
+  129:
+  - string: Confirm
+  130:
+  - string: Cancel
+  131:
+  - string: Zoom Out
+  132:
+  - string: Zoom In
+  133:
+  - string: Toggle Walk/Run
+  134:
+  - string: Select Window
+  135:
+  - string: Open Main Menu
+  136:
+  - string: Take Screenshot
+  137:
+  - string: Hide/Show Window
+  138:
+  - string: Reset keyboard assignment to default?
+  139:
+  - string: Lot results
+  140:
+  - string: 〔Items〕
+  141:
+  - string: items
+  142:
+  - string: 〔Key Items〕
+  143:
+  - string: key items
+  144:
+  - string: 〔Quests〕
+  145:
+  - string: quests
+  146:
+  - string: 〔Missions〕
+  147:
+  - string: missions
+  148:
+  - string: All effects during battle
+  149:
+  - string: You → you
+  150:
+  - string: You → monster
+  151:
+  - string: You → party
+  152:
+  - string: You → non-party PC
+  153:
+  - string: Monster → you
+  154:
+  - string: Monster → monster
+  155:
+  - string: Monster → party
+  156:
+  - string: Monster → non-party PC
+  157:
+  - string: Party → you
+  158:
+  - string: Party → monster
+  159:
+  - string: Party → party
+  160:
+  - string: Party → non-party PC
+  161:
+  - string: Non-party PC → you
+  162:
+  - string: Non-party PC → monster
+  163:
+  - string: Non-party PC → party
+  164:
+  - string: Non-party PC → non-party PC
+  165:
+  - string: Screen shaking
+  166:
+  - string: Special actions started on/by others
+  167:
+  - string: Special action effects on/by others
+  168:
+  - string: Attacks by others
+  169:
+  - string: Missed attacks by others
+  170:
+  - string: Attacks evaded by others
+  171:
+  - string: Damage taken by others
+  172:
+  - string: Special actions started on/by foes
+  173:
+  - string: Special action effects on/by foes
+  174:
+  - string: Attacks by foes
+  175:
+  - string: Missed attacks by foes
+  176:
+  - string: Attacks evaded by foes
+  177:
+  - string: Damage taken by foes
+  178:
+  - string: Ranking:×
+  179:
+  - string: Do you wish to disband with your adventuring fellow?
+  180:
+  - string: 'Enter quill amount: '
+  181:
+  - string: Bet placement ending momentarily
+  182:
+  - string: Bet placement closed
+  183:
+  - string: Charge
+  184:
+  - string: TP Cost
+  185:
+  - string: 'Enter number:'
+  186:
+  - string: Campaign-Related Data
+  187:
+  - string: Tell messages deemed spam
+  188:
+  - string: Shout/Yell messages deemed spam
+  189:
+  - string: Job-specific emote
+  190:
+  - string: Yell
+  191:
+  - string: Extremely wide area ("Yell")
+  192:
+  - string: 'Player: Color of "yell" text'
+  193:
+  - string: Turn Right
+  194:
+  - string: Turn Left
+  195:
+  - string: 'Enter password: '
+  196:
+  - string: 'Enter name: '
+  197:
+  - string: Battle Messages
+  198:
+  - string: Calls for help

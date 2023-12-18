@@ -1,0 +1,623 @@
+names:
+- id: 16887809
+  name: Sponge
+- id: 16887810
+  name: Water Pumpkin
+- id: 16887811
+  name: Freshwater Trepang
+- id: 16887812
+  name: Ogreish Risotto
+- id: 16887813
+  name: Bavarois
+- id: 16887814
+  name: Big Jaw
+- id: 16887815
+  name: Gloop
+- id: 16887816
+  name: Big Jaw
+- id: 16887817
+  name: Big Jaw
+- id: 16887818
+  name: Gloop
+- id: 16887819
+  name: Gloop
+- id: 16887820
+  name: Addled Tumor
+- id: 16887821
+  name: Gloop
+- id: 16887822
+  name: Big Jaw
+- id: 16887823
+  name: Big Jaw
+- id: 16887824
+  name: Big Jaw
+- id: 16887825
+  name: Taurus
+- id: 16887826
+  name: Taurus
+- id: 16887827
+  name: Taurus
+- id: 16887828
+  name: Vampire Bat
+- id: 16887829
+  name: Vampire Bat
+- id: 16887830
+  name: Vampire Bat
+- id: 16887831
+  name: Diremite
+- id: 16887832
+  name: Diremite
+- id: 16887833
+  name: Canal Bats
+- id: 16887834
+  name: Diremite
+- id: 16887835
+  name: Canal Bats
+- id: 16887836
+  name: Diremite
+- id: 16887837
+  name: Gloop
+- id: 16887838
+  name: Canal Bats
+- id: 16887839
+  name: Canal Bats
+- id: 16887840
+  name: Diremite
+- id: 16887841
+  name: Diremite
+- id: 16887842
+  name: Hell Bat
+- id: 16887843
+  name: Diremite
+- id: 16887844
+  name: Stegotaur
+- id: 16887845
+  name: Stegotaur
+- id: 16887846
+  name: Stegotaur
+- id: 16887847
+  name: Canal Bats
+- id: 16887848
+  name: Canal Bats
+- id: 16887849
+  name: Diremite
+- id: 16887850
+  name: Fomor Beastmaster
+- id: 16887851
+  name: Fomor's Bat
+- id: 16887852
+  name: Stegotaur
+- id: 16887853
+  name: Makara
+- id: 16887854
+  name: Makara
+- id: 16887855
+  name: Fomor Dragoon
+- id: 16887856
+  name: Fomor's Wyvern
+- id: 16887857
+  name: Fomor Ninja
+- id: 16887858
+  name: Stegotaur
+- id: 16887859
+  name: Stegotaur
+- id: 16887860
+  name: Oil Spill
+- id: 16887861
+  name: Makara
+- id: 16887862
+  name: Makara
+- id: 16887863
+  name: Oil Spill
+- id: 16887864
+  name: Fomor Warrior
+- id: 16887865
+  name: Fomor Thief
+- id: 16887866
+  name: Fomor Summoner
+- id: 16887867
+  name: Fomor's Elemental
+- id: 16887868
+  name: Foul Meat
+- id: 16887869
+  name: Stegotaur
+- id: 16887870
+  name: Diremite
+- id: 16887871
+  name: Hell Bat
+- id: 16887872
+  name: Diremite
+- id: 16887873
+  name: Diremite
+- id: 16887874
+  name: Diremite
+- id: 16887875
+  name: Canal Bats
+- id: 16887876
+  name: Hell Bat
+- id: 16887877
+  name: Diremite
+- id: 16887878
+  name: Diremite
+- id: 16887879
+  name: Diremite
+- id: 16887880
+  name: Canal Bats
+- id: 16887881
+  name: Stegotaur
+- id: 16887882
+  name: Stegotaur
+- id: 16887883
+  name: Fomor Paladin
+- id: 16887884
+  name: Fomor Bard
+- id: 16887885
+  name: Mahisha
+- id: 16887886
+  name: Makara
+- id: 16887887
+  name: Makara
+- id: 16887888
+  name: Makara
+- id: 16887889
+  name: Minotaur
+- id: 16887890
+  name: Stegotaur
+- id: 16887891
+  name: Canal Bats
+- id: 16887892
+  name: Makara
+- id: 16887893
+  name: Stegotaur
+- id: 16887894
+  name: Canal Bats
+- id: 16887895
+  name: Hell Bat
+- id: 16887896
+  name: Makara
+- id: 16887897
+  name: Stegotaur
+- id: 16887898
+  name: Air Elemental
+- id: 16887899
+  name: Thunder Elemental
+- id: 16887900
+  name: Dark Elemental
+- id: 16887901
+  name: Diremite
+- id: 16887902
+  name: Fomor Monk
+- id: 16887903
+  name: Fomor Samurai
+- id: 16887904
+  name: Fomor Ranger
+- id: 16887905
+  name: Fomor Dark Knight
+- id: 16887906
+  name: Fomor Ninja
+- id: 16887907
+  name: Fomor Black Mage
+- id: 16887908
+  name: Tres Duendes
+- id: 16887909
+  name: Duendes' Amoroso
+- id: 16887910
+  name: Fomor Monk
+- id: 16887911
+  name: Diremite
+- id: 16887912
+  name: Fomor Monk
+- id: 16887913
+  name: Foul Meat
+- id: 16887914
+  name: Foul Meat
+- id: 16887915
+  name: Foul Meat
+- id: 16887916
+  name: Canal Bats
+- id: 16887917
+  name: Diremite
+- id: 16887918
+  name: Makara
+- id: 16887919
+  name: Stegotaur
+- id: 16887920
+  name: Fomor Paladin
+- id: 16887921
+  name: Fomor Samurai
+- id: 16887922
+  name: Fomor Red Mage
+- id: 16887923
+  name: Makara
+- id: 16887924
+  name: Oil Spill
+- id: 16887925
+  name: Oil Spill
+- id: 16887926
+  name: Makara
+- id: 16887927
+  name: Makara
+- id: 16887928
+  name: Oil Spill
+- id: 16887929
+  name: Foul Meat
+- id: 16887930
+  name: Makara
+- id: 16887931
+  name: Oil Spill
+- id: 16887932
+  name: Makara
+- id: 16887933
+  name: Oil Spill
+- id: 16887934
+  name: Foul Meat
+- id: 16887935
+  name: Stegotaur
+- id: 16887936
+  name: Diremite
+- id: 16887937
+  name: Stegotaur
+- id: 16887938
+  name: Diremite
+- id: 16887939
+  name: Diremite
+- id: 16887940
+  name: Stegotaur
+- id: 16887941
+  name: Dark Elemental
+- id: 16887942
+  name: Diremite
+- id: 16887943
+  name: Diremite
+- id: 16887944
+  name: Fomor Dragoon
+- id: 16887945
+  name: Fomor's Wyvern
+- id: 16887946
+  name: Fomor Beastmaster
+- id: 16887947
+  name: Fomor's Bat
+- id: 16887948
+  name: Fomor Thief
+- id: 16887949
+  name: Fomor Ranger
+- id: 16887950
+  name: Fomor Ninja
+- id: 16887951
+  name: Hell Bat
+- id: 16887952
+  name: Hell Bat
+- id: 16887953
+  name: Eba
+- id: 16887954
+  name: Diremite
+- id: 16887955
+  name: Makara
+- id: 16887956
+  name: Makara
+- id: 16887957
+  name: Hell Bat
+- id: 16887958
+  name: Hell Bat
+- id: 16887959
+  name: Fomor Summoner
+- id: 16887960
+  name: Fomor's Elemental
+- id: 16887961
+  name: Fomor Dark Knight
+- id: 16887962
+  name: Fomor Ninja
+- id: 16887963
+  name: Air Elemental
+- id: 16887964
+  name: Thunder Elemental
+- id: 16887965
+  name: Dark Elemental
+- id: 16887966
+  name: Fomor Black Mage
+- id: 16887967
+  name: Fomor Warrior
+- id: 16887968
+  name: Fomor Dark Knight
+- id: 16887969
+  name: Diremite
+- id: 16887970
+  name: Stegotaur
+- id: 16887971
+  name: Stegotaur
+- id: 16887972
+  name: Fomor Ranger
+- id: 16887973
+  name: Fomor Bard
+- id: 16887974
+  name: Fomor Bard
+- id: 16887975
+  name: Fomor Ranger
+- id: 16887976
+  name: Fomor Ranger
+- id: 16887977
+  name: Fomor Paladin
+- id: 16887978
+  name: Fomor Paladin
+- id: 16887979
+  name: Fomor Ranger
+- id: 16887980
+  name: Stegotaur
+- id: 16887981
+  name: Stegotaur
+- id: 16887982
+  name: Fomor Red Mage
+- id: 16887983
+  name: Fomor Black Mage
+- id: 16887984
+  name: Fomor Black Mage
+- id: 16887985
+  name: Fomor Red Mage
+- id: 16887986
+  name: Fomor Red Mage
+- id: 16887987
+  name: Fomor Monk
+- id: 16887988
+  name: Fomor Monk
+- id: 16887989
+  name: Fomor Red Mage
+- id: 16887990
+  name: Stegotaur
+- id: 16887991
+  name: Stegotaur
+- id: 16887992
+  name: Diremite
+- id: 16887993
+  name: Fomor Warrior
+- id: 16887994
+  name: Fomor Samurai
+- id: 16887995
+  name: Fomor Samurai
+- id: 16887996
+  name: Fomor Warrior
+- id: 16887997
+  name: Fomor Warrior
+- id: 16887998
+  name: Fomor Ranger
+- id: 16887999
+  name: Fomor Ranger
+- id: 16888000
+  name: Fomor Warrior
+- id: 16888001
+  name: Stegotaur
+- id: 16888002
+  name: Stegotaur
+- id: 16888003
+  name: Fomor Bard
+- id: 16888004
+  name: Fomor Thief
+- id: 16888005
+  name: Fomor Thief
+- id: 16888006
+  name: Fomor Bard
+- id: 16888007
+  name: Fomor Bard
+- id: 16888008
+  name: Fomor Thief
+- id: 16888009
+  name: Fomor Thief
+- id: 16888010
+  name: Fomor Bard
+- id: 16888011
+  name: Aqueduct Spider
+- id: 16888012
+  name: Aqueduct Spider
+- id: 16888013
+  name: Aqueduct Spider
+- id: 16888014
+  name: Aqueduct Spider
+- id: 16888015
+  name: Aqueduct Spider
+- id: 16888016
+  name: Aqueduct Spider
+- id: 16888017
+  name: Aqueduct Spider
+- id: 16888018
+  name: Aqueduct Spider
+- id: 16888019
+  name: Aqueduct Spider
+- id: 16888020
+  name: Aqueduct Spider
+- id: 16888021
+  name: Aqueduct Spider
+- id: 16888022
+  name: Aqueduct Spider
+- id: 16888023
+  name: Aqueduct Spider
+- id: 16888024
+  name: Aqueduct Spider
+- id: 16888025
+  name: Aqueduct Spider
+- id: 16888026
+  name: Aqueduct Spider
+- id: 16888027
+  name: Aqueduct Spider
+- id: 16888028
+  name: Aqueduct Spider
+- id: 16888029
+  name: Aqueduct Spider
+- id: 16888030
+  name: Aqueduct Spider
+- id: 16888031
+  name: Aqueduct Spider
+- id: 16888032
+  name: Aqueduct Spider
+- id: 16888034
+  name: Achieve Master
+- id: 16888035
+  name: Unity Master
+- id: 16888041
+  name: Iron Gate
+- id: 16888042
+  name: Iron Gate
+- id: 16888043
+  name: Wooden Gate
+- id: 16888044
+  name: Wooden Gate
+- id: 16888045
+  name: Wooden Gate
+- id: 16888046
+  name: Wooden Gate
+- id: 16888047
+  name: Iron Gate
+- id: 16888048
+  name: Iron Gate
+- id: 16888049
+  name: ''
+- id: 16888050
+  name: ???
+- id: 16888051
+  name: ''
+- id: 16888052
+  name: Oil Lamp
+- id: 16888053
+  name: ???
+- id: 16888054
+  name: ''
+- id: 16888055
+  name: Oil Lamp
+- id: 16888056
+  name: ''
+- id: 16888057
+  name: Oil Lamp
+- id: 16888058
+  name: ''
+- id: 16888059
+  name: Oil Lamp
+- id: 16888060
+  name: ???
+- id: 16888061
+  name: ''
+- id: 16888062
+  name: ???
+- id: 16888063
+  name: Ornate Gate
+- id: 16888064
+  name: Ornate Gate
+- id: 16888065
+  name: Door_0rk
+- id: 16888066
+  name: ???
+- id: 16888067
+  name: Oil Lamp
+- id: 16888068
+  name: Oil Lamp
+- id: 16888069
+  name: Oil Lamp
+- id: 16888070
+  name: Oil Lamp
+- id: 16888071
+  name: Oil Lamp
+- id: 16888072
+  name: Oil Lamp
+- id: 16888073
+  name: Oil Lamp
+- id: 16888074
+  name: Oil Lamp
+- id: 16888075
+  name: ???
+- id: 16888076
+  name: Ornate Gate
+- id: 16888077
+  name: Ornate Gate
+- id: 16888078
+  name: Door_0rl
+- id: 16888079
+  name: ???
+- id: 16888080
+  name: Oil Lamp
+- id: 16888081
+  name: Oil Lamp
+- id: 16888082
+  name: Oil Lamp
+- id: 16888083
+  name: Oil Lamp
+- id: 16888084
+  name: Oil Lamp
+- id: 16888085
+  name: Oil Lamp
+- id: 16888086
+  name: Oil Lamp
+- id: 16888087
+  name: Oil Lamp
+- id: 16888088
+  name: Iron Gate
+- id: 16888089
+  name: Iron Gate
+- id: 16888090
+  name: Iron Gate
+- id: 16888091
+  name: Door_0rc
+- id: 16888092
+  name: Door_0rd
+- id: 16888093
+  name: Wooden Ladder
+- id: 16888094
+  name: Wooden Ladder
+- id: 16888095
+  name: Wooden Ladder
+- id: 16888096
+  name: Wooden Ladder
+- id: 16888097
+  name: Wooden Ladder
+- id: 16888098
+  name: Wooden Ladder
+- id: 16888099
+  name: Wooden Ladder
+- id: 16888100
+  name: Wooden Ladder
+- id: 16888101
+  name: Wooden Ladder
+- id: 16888102
+  name: Wooden Ladder
+- id: 16888103
+  name: Wooden Ladder
+- id: 16888104
+  name: Wooden Ladder
+- id: 16888105
+  name: ???
+- id: 16888106
+  name: ???
+- id: 16888107
+  name: ''
+- id: 16888108
+  name: Nag'molada
+- id: 16888109
+  name: BOX
+- id: 16888110
+  name: Shikaree X
+- id: 16888111
+  name: ???
+- id: 16888113
+  name: Moogle
+- id: 16888114
+  name: Moogle
+- id: 16888115
+  name: Moogle
+- id: 16888116
+  name: Moogle
+- id: 16888117
+  name: Moogle
+- id: 16888118
+  name: Moogle
+- id: 16888119
+  name: Moogle
+- id: 16888120
+  name: Moogle
+- id: 16888121
+  name: Ramblix
+- id: 16888122
+  name: Goblin Footprint
+- id: 16888123
+  name: ???
+- id: 16888124
+  name: Fardimant
+- id: 16888125
+  name: Enaremand
+- id: 16888126
+  name: Survival Guide

@@ -1,0 +1,505 @@
+names:
+- id: 17547265
+  name: Goblin Golem
+- id: 17547266
+  name: Vanguard Smithy
+- id: 17547267
+  name: Vanguard Welldigger
+- id: 17547268
+  name: Vanguard Pathfinder
+- id: 17547269
+  name: Vanguard's Slime
+- id: 17547270
+  name: Vanguard Shaman
+- id: 17547271
+  name: Vanguard Enchanter
+- id: 17547272
+  name: Vanguard Pathfinder
+- id: 17547273
+  name: Vanguard's Slime
+- id: 17547274
+  name: Vanguard Tinkerer
+- id: 17547275
+  name: Vanguard Armorer
+- id: 17547276
+  name: Vanguard Hitman
+- id: 17547277
+  name: Gabblox Magpietongue
+- id: 17547278
+  name: Vanguard Pitfighter
+- id: 17547279
+  name: Vanguard Alchemist
+- id: 17547280
+  name: Vanguard Maestro
+- id: 17547281
+  name: Vanguard Tinkerer
+- id: 17547282
+  name: Vanguard Dragontamer
+- id: 17547283
+  name: Vanguard's Wyvern
+- id: 17547284
+  name: Vanguard Enchanter
+- id: 17547285
+  name: Vanguard Ambusher
+- id: 17547286
+  name: Vanguard Necromancer
+- id: 17547287
+  name: Vanguard's Avatar
+- id: 17547288
+  name: Vanguard Ronin
+- id: 17547289
+  name: Vanguard Armorer
+- id: 17547290
+  name: Vanguard Hitman
+- id: 17547291
+  name: Tufflix Loglimbs
+- id: 17547292
+  name: Vanguard Armorer
+- id: 17547293
+  name: Vanguard Hitman
+- id: 17547294
+  name: Cloktix Longnail
+- id: 17547295
+  name: Goblin Replica
+- id: 17547296
+  name: Goblin Replica
+- id: 17547297
+  name: Goblin Replica
+- id: 17547298
+  name: Smeltix Thickhide
+- id: 17547299
+  name: Jabkix Pigeonpecs
+- id: 17547300
+  name: Wasabix Callusdigit
+- id: 17547301
+  name: Goblin Statue
+- id: 17547302
+  name: Goblin Statue
+- id: 17547303
+  name: Goblin Statue
+- id: 17547304
+  name: Vanguard Smithy
+- id: 17547305
+  name: Vanguard Welldigger
+- id: 17547306
+  name: Vanguard Ambusher
+- id: 17547307
+  name: Vanguard Armorer
+- id: 17547308
+  name: Vanguard Alchemist
+- id: 17547309
+  name: Vanguard Welldigger
+- id: 17547310
+  name: Vanguard Enchanter
+- id: 17547311
+  name: Hermitrix Toothrot
+- id: 17547312
+  name: Wyrmwix Snakespecs
+- id: 17547313
+  name: Vanguard's Wyvern
+- id: 17547314
+  name: Vanguard Smithy
+- id: 17547315
+  name: Vanguard Pitfighter
+- id: 17547316
+  name: Vanguard Ronin
+- id: 17547317
+  name: Vanguard Necromancer
+- id: 17547318
+  name: Vanguard's Avatar
+- id: 17547319
+  name: Vanguard Alchemist
+- id: 17547320
+  name: Vanguard Shaman
+- id: 17547321
+  name: Vanguard Enchanter
+- id: 17547322
+  name: Morgmox Moldnoggin
+- id: 17547323
+  name: Vanguard's Avatar
+- id: 17547324
+  name: Sparkspox Sweatbrow
+- id: 17547325
+  name: Vanguard Welldigger
+- id: 17547326
+  name: Vanguard Maestro
+- id: 17547327
+  name: Vanguard Necromancer
+- id: 17547328
+  name: Vanguard's Avatar
+- id: 17547329
+  name: Sparkspox Sweatbrow
+- id: 17547330
+  name: Vanguard Ronin
+- id: 17547331
+  name: Vanguard Maestro
+- id: 17547332
+  name: Vanguard Dragontamer
+- id: 17547333
+  name: Vanguard's Wyvern
+- id: 17547334
+  name: Vanguard Alchemist
+- id: 17547335
+  name: Vanguard Shaman
+- id: 17547336
+  name: Vanguard Enchanter
+- id: 17547337
+  name: Morgmox Moldnoggin
+- id: 17547338
+  name: Vanguard's Avatar
+- id: 17547339
+  name: Vanguard Welldigger
+- id: 17547340
+  name: Vanguard Ambusher
+- id: 17547341
+  name: Vanguard Pathfinder
+- id: 17547342
+  name: Vanguard's Slime
+- id: 17547343
+  name: Vanguard Pitfighter
+- id: 17547344
+  name: Vanguard Enchanter
+- id: 17547345
+  name: Vanguard Maestro
+- id: 17547346
+  name: Vanguard Ambusher
+- id: 17547347
+  name: Vanguard Ambusher
+- id: 17547348
+  name: Vanguard Dragontamer
+- id: 17547349
+  name: Vanguard's Wyvern
+- id: 17547350
+  name: Vanguard Pitfighter
+- id: 17547351
+  name: Vanguard Alchemist
+- id: 17547352
+  name: Vanguard Tinkerer
+- id: 17547353
+  name: Vanguard Armorer
+- id: 17547354
+  name: Vanguard Hitman
+- id: 17547355
+  name: Elixmix Hooknose
+- id: 17547356
+  name: Bandrix Rockjaw
+- id: 17547357
+  name: Vanguard Smithy
+- id: 17547358
+  name: Vanguard Shaman
+- id: 17547359
+  name: Vanguard Maestro
+- id: 17547360
+  name: Vanguard Welldigger
+- id: 17547361
+  name: Vanguard Tinkerer
+- id: 17547362
+  name: Vanguard Ambusher
+- id: 17547363
+  name: Vanguard Smithy
+- id: 17547364
+  name: Vanguard Armorer
+- id: 17547365
+  name: Vanguard Pathfinder
+- id: 17547366
+  name: Vanguard's Slime
+- id: 17547367
+  name: Vanguard Ronin
+- id: 17547368
+  name: Vanguard Hitman
+- id: 17547369
+  name: Vanguard Pathfinder
+- id: 17547370
+  name: Vanguard's Slime
+- id: 17547371
+  name: Vanguard Armorer
+- id: 17547372
+  name: Vanguard Shaman
+- id: 17547373
+  name: Vanguard Necromancer
+- id: 17547374
+  name: Vanguard's Avatar
+- id: 17547375
+  name: Vanguard Pitfighter
+- id: 17547376
+  name: Vanguard Tinkerer
+- id: 17547377
+  name: Buffrix Eargone
+- id: 17547378
+  name: Humnox Drumbelly
+- id: 17547379
+  name: Vanguard Smithy
+- id: 17547380
+  name: Vanguard Alchemist
+- id: 17547381
+  name: Buffrix Eargone
+- id: 17547382
+  name: Humnox Drumbelly
+- id: 17547383
+  name: Vanguard Ronin
+- id: 17547384
+  name: Vanguard Hitman
+- id: 17547385
+  name: Vanguard Alchemist
+- id: 17547386
+  name: Vanguard Maestro
+- id: 17547387
+  name: Buffrix Eargone
+- id: 17547388
+  name: Humnox Drumbelly
+- id: 17547389
+  name: Goblin Statue
+- id: 17547390
+  name: Goblin Statue
+- id: 17547391
+  name: Goblin Replica
+- id: 17547392
+  name: Goblin Replica
+- id: 17547393
+  name: Goblin Replica
+- id: 17547394
+  name: Ticktox Beadyeyes
+- id: 17547395
+  name: Lurklox Dhalmelneck
+- id: 17547396
+  name: Trailblix Goatmug
+- id: 17547397
+  name: Vanguard's Slime
+- id: 17547398
+  name: Vanguard Smithy
+- id: 17547399
+  name: Vanguard Pitfighter
+- id: 17547400
+  name: Vanguard Welldigger
+- id: 17547401
+  name: Vanguard Alchemist
+- id: 17547402
+  name: Kikklix Longlegs
+- id: 17547403
+  name: Vanguard Smithy
+- id: 17547404
+  name: Vanguard Pitfighter
+- id: 17547405
+  name: Vanguard Welldigger
+- id: 17547406
+  name: Vanguard Shaman
+- id: 17547407
+  name: Kikklix Longlegs
+- id: 17547408
+  name: Vanguard Smithy
+- id: 17547409
+  name: Vanguard Pitfighter
+- id: 17547410
+  name: Vanguard Welldigger
+- id: 17547411
+  name: Vanguard Enchanter
+- id: 17547412
+  name: Vanguard Alchemist
+- id: 17547413
+  name: Vanguard Shaman
+- id: 17547414
+  name: Vanguard Smithy
+- id: 17547415
+  name: Vanguard Pitfighter
+- id: 17547416
+  name: Vanguard Alchemist
+- id: 17547417
+  name: Vanguard Shaman
+- id: 17547418
+  name: Vanguard Enchanter
+- id: 17547419
+  name: Vanguard Welldigger
+- id: 17547420
+  name: Goblin Statue
+- id: 17547421
+  name: Goblin Replica
+- id: 17547422
+  name: Goblin Replica
+- id: 17547423
+  name: Goblin Replica
+- id: 17547424
+  name: Karashix Swollenskull
+- id: 17547425
+  name: Vanguard Tinkerer
+- id: 17547426
+  name: Vanguard Dragontamer
+- id: 17547427
+  name: Vanguard's Wyvern
+- id: 17547428
+  name: Vanguard Pathfinder
+- id: 17547429
+  name: Vanguard's Slime
+- id: 17547430
+  name: Vanguard Maestro
+- id: 17547431
+  name: Vanguard Ronin
+- id: 17547432
+  name: Vanguard Armorer
+- id: 17547433
+  name: Vanguard Maestro
+- id: 17547434
+  name: Vanguard Tinkerer
+- id: 17547435
+  name: Vanguard Ronin
+- id: 17547436
+  name: Vanguard Necromancer
+- id: 17547437
+  name: Vanguard's Avatar
+- id: 17547438
+  name: Mortilox Wartpaws
+- id: 17547439
+  name: Vanguard's Avatar
+- id: 17547440
+  name: Karashix Swollenskull
+- id: 17547441
+  name: Vanguard Tinkerer
+- id: 17547442
+  name: Vanguard Ronin
+- id: 17547443
+  name: Vanguard Necromancer
+- id: 17547444
+  name: Vanguard's Avatar
+- id: 17547445
+  name: Vanguard Maestro
+- id: 17547446
+  name: Vanguard Ronin
+- id: 17547447
+  name: Vanguard Armorer
+- id: 17547448
+  name: Vanguard Maestro
+- id: 17547449
+  name: Vanguard Tinkerer
+- id: 17547450
+  name: Vanguard Pathfinder
+- id: 17547451
+  name: Vanguard's Slime
+- id: 17547452
+  name: Vanguard Dragontamer
+- id: 17547453
+  name: Vanguard's Wyvern
+- id: 17547454
+  name: Rutrix Hamgams
+- id: 17547455
+  name: Vanguard's Slime
+- id: 17547456
+  name: Goblin Replica
+- id: 17547457
+  name: Goblin Replica
+- id: 17547458
+  name: Goblin Replica
+- id: 17547459
+  name: Vanguard Ambusher
+- id: 17547460
+  name: Vanguard Hitman
+- id: 17547461
+  name: Vanguard Ambusher
+- id: 17547462
+  name: Vanguard Hitman
+- id: 17547463
+  name: Vanguard Ambusher
+- id: 17547464
+  name: Vanguard Hitman
+- id: 17547465
+  name: Vanguard Ambusher
+- id: 17547466
+  name: Vanguard Hitman
+- id: 17547467
+  name: Goblin Statue
+- id: 17547468
+  name: Snypestix Eaglebeak
+- id: 17547469
+  name: Vanguard Smithy
+- id: 17547470
+  name: Vanguard Pitfighter
+- id: 17547471
+  name: Vanguard Welldigger
+- id: 17547472
+  name: Anvilix Sootwrists
+- id: 17547473
+  name: Bootrix Jaggedelbow
+- id: 17547474
+  name: Mobpix Mucousmouth
+- id: 17547475
+  name: Vanguard Alchemist
+- id: 17547476
+  name: Vanguard Shaman
+- id: 17547477
+  name: Vanguard Enchanter
+- id: 17547478
+  name: Distilix Stickytoes
+- id: 17547479
+  name: Eremix Snottynostril
+- id: 17547480
+  name: Jabbrox Grannyguise
+- id: 17547481
+  name: Vanguard Armorer
+- id: 17547482
+  name: Vanguard Tinkerer
+- id: 17547483
+  name: Vanguard Pathfinder
+- id: 17547484
+  name: Vanguard's Slime
+- id: 17547485
+  name: Scruffix Shaggychest
+- id: 17547486
+  name: Tymexox Ninefingers
+- id: 17547487
+  name: Blazox Boneybod
+- id: 17547488
+  name: Vanguard's Slime
+- id: 17547489
+  name: Vanguard Ambusher
+- id: 17547490
+  name: Prowlox Barrelbelly
+- id: 17547491
+  name: Vanguard Hitman
+- id: 17547492
+  name: Slystix Megapeepers
+- id: 17547493
+  name: Quicktrix Hexhands
+- id: 17547494
+  name: Feralox Honeylips
+- id: 17547495
+  name: Feralox's Slime
+- id: 17547496
+  name: Scourquix Scaleskin
+- id: 17547497
+  name: Scourquix's Wyvern
+- id: 17547498
+  name: Wilywox Tenderpalm
+- id: 17547499
+  name: Arch Goblin Golem
+- id: 17547501
+  name: Achieve Master
+- id: 17547502
+  name: Unity Master
+- id: 17547507
+  name: ''
+- id: 17547508
+  name: Somnial Threshold
+- id: 17547509
+  name: ???
+- id: 17547510
+  name: ???
+- id: 17547511
+  name: ???
+- id: 17547512
+  name: ???
+- id: 17547513
+  name: ???
+- id: 17547515
+  name: Moogle
+- id: 17547516
+  name: Moogle
+- id: 17547517
+  name: Moogle
+- id: 17547518
+  name: Moogle
+- id: 17547519
+  name: Moogle
+- id: 17547520
+  name: Moogle
+- id: 17547521
+  name: Moogle
+- id: 17547522
+  name: Moogle

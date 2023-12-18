@@ -1,0 +1,673 @@
+names:
+- id: 17735681
+  name: director
+- id: 17735682
+  name: Hani
+- id: 17735683
+  name: Deidogg
+- id: 17735684
+  name: Gumbah
+- id: 17735685
+  name: Echo Hawk
+- id: 17735686
+  name: Rashid
+- id: 17735687
+  name: Crying Wind, I.M.
+- id: 17735688
+  name: Deadly Spider
+- id: 17735689
+  name: Wyvern Tail
+- id: 17735690
+  name: Parraggoh
+- id: 17735691
+  name: Mydon
+- id: 17735692
+  name: Drangord
+- id: 17735693
+  name: Gerbaum
+- id: 17735694
+  name: Nangst
+- id: 17735695
+  name: Medicine Eagle
+- id: 17735696
+  name: Dry Bone
+- id: 17735697
+  name: Gray Wolf
+- id: 17735698
+  name: Amar
+- id: 17735699
+  name: Wahid
+- id: 17735700
+  name: Roh Latteh
+- id: 17735701
+  name: Nbu Latteh
+- id: 17735702
+  name: Detzo
+- id: 17735703
+  name: Elki
+- id: 17735704
+  name: Auction Counter
+- id: 17735705
+  name: Auction Counter
+- id: 17735706
+  name: Auction Counter
+- id: 17735707
+  name: Auction Counter
+- id: 17735708
+  name: Auction Counter
+- id: 17735709
+  name: Valeri
+- id: 17735710
+  name: Abd-al-Raziq
+- id: 17735711
+  name: Azima
+- id: 17735712
+  name: Titus
+- id: 17735713
+  name: Sieglinde
+- id: 17735714
+  name: Maymunah
+- id: 17735715
+  name: Odoba
+- id: 17735716
+  name: Gawful
+- id: 17735717
+  name: Sodragamm
+- id: 17735718
+  name: Babenn
+- id: 17735719
+  name: Werei
+- id: 17735720
+  name: Davyad
+- id: 17735721
+  name: Tall Mountain
+- id: 17735722
+  name: Deegis
+- id: 17735723
+  name: Zemedars
+- id: 17735724
+  name: Boytz
+- id: 17735725
+  name: Gelzerio
+- id: 17735726
+  name: Griselda
+- id: 17735727
+  name: Chocobo
+- id: 17735728
+  name: Chocobo
+- id: 17735729
+  name: Chocobo
+- id: 17735730
+  name: Azette
+- id: 17735731
+  name: Eulaphe
+- id: 17735732
+  name: Quelle
+- id: 17735733
+  name: Neigepance
+- id: 17735734
+  name: Leonie
+- id: 17735735
+  name: Pavvke
+- id: 17735736
+  name: Ranpi-Pappi
+- id: 17735737
+  name: Cornelia
+- id: 17735738
+  name: Mariadok
+- id: 17735739
+  name: Black Mud
+- id: 17735740
+  name: Goraow
+- id: 17735741
+  name: Volker
+- id: 17735742
+  name: Faustin
+- id: 17735743
+  name: Rodellieux
+- id: 17735744
+  name: Mille
+- id: 17735745
+  name: Tibelda
+- id: 17735746
+  name: Galdeo
+- id: 17735747
+  name: Aulavia
+- id: 17735748
+  name: 'Home Point #1'
+- id: 17735749
+  name: 'Home Point #2'
+- id: 17735750
+  name: 'Home Point #3'
+- id: 17735751
+  name: 'Home Point #4'
+- id: 17735752
+  name: 'Home Point #5'
+- id: 17735753
+  name: Arva
+- id: 17735754
+  name: Tami
+- id: 17735755
+  name: Vaghron
+- id: 17735756
+  name: Door:"Bat's Lair"
+- id: 17735757
+  name: Door:House
+- id: 17735758
+  name: Door:Deegis's Armour
+- id: 17735759
+  name: Door:Boytz's Knickknacks
+- id: 17735760
+  name: Door:House
+- id: 17735761
+  name: Door:House
+- id: 17735762
+  name: Door:House
+- id: 17735763
+  name: Door:House
+- id: 17735764
+  name: Door:House
+- id: 17735765
+  name: Door:House
+- id: 17735766
+  name: Door:Alchemists' Guild
+- id: 17735767
+  name: Door:Chocobo Stables
+- id: 17735768
+  name: ''
+- id: 17735769
+  name: Hound Nose
+- id: 17735770
+  name: Moogle
+- id: 17735771
+  name: ''
+- id: 17735772
+  name: ???
+- id: 17735773
+  name: ''
+- id: 17735774
+  name: Moogle
+- id: 17735775
+  name: Symphonic Curator
+- id: 17735777
+  name: Moogle
+- id: 17735778
+  name: Moogle
+- id: 17735779
+  name: Moogle
+- id: 17735780
+  name: Moogle
+- id: 17735781
+  name: Moogle
+- id: 17735782
+  name: Moogle
+- id: 17735783
+  name: Moogle
+- id: 17735784
+  name: Moogle
+- id: 17735785
+  name: ''
+- id: 17735786
+  name: Virnage
+- id: 17735787
+  name: Phara
+- id: 17735788
+  name: Iron Eater
+- id: 17735789
+  name: Raogrimm
+- id: 17735790
+  name: Deidogg
+- id: 17735791
+  name: Gwill
+- id: 17735792
+  name: Povall
+- id: 17735793
+  name: Gabbot
+- id: 17735794
+  name: Gorvik
+- id: 17735795
+  name: Proud Beard
+- id: 17735796
+  name: Ren
+- id: 17735797
+  name: ''
+- id: 17735798
+  name: Trail Markings
+- id: 17735799
+  name: Ulrich
+- id: 17735800
+  name: Francmage
+- id: 17735801
+  name: Iru-Kuiru
+- id: 17735802
+  name: Yow Rabntah
+- id: 17735803
+  name: Cornelia
+- id: 17735804
+  name: ''
+- id: 17735805
+  name: Raogrimm
+- id: 17735806
+  name: ???
+- id: 17735807
+  name: Diabolos
+- id: 17735808
+  name: Diabolos
+- id: 17735809
+  name: Diabolos
+- id: 17735810
+  name: Hemewmew
+- id: 17735811
+  name: ???
+- id: 17735812
+  name: Ravorara
+- id: 17735813
+  name: Wobke
+- id: 17735814
+  name: ''
+- id: 17735815
+  name: ''
+- id: 17735816
+  name: ''
+- id: 17735817
+  name: ''
+- id: 17735818
+  name: Emaliveulaux
+- id: 17735819
+  name: Titus
+- id: 17735820
+  name: Market Moogle
+- id: 17735821
+  name: Gregory
+- id: 17735822
+  name: Luto Mewrilah
+- id: 17735823
+  name: Fasodo-Shiraddo
+- id: 17735824
+  name: Zopago
+- id: 17735825
+  name: ''
+- id: 17735826
+  name: ''
+- id: 17735827
+  name: ''
+- id: 17735828
+  name: ''
+- id: 17735829
+  name: ''
+- id: 17735830
+  name: ''
+- id: 17735831
+  name: ''
+- id: 17735832
+  name: ''
+- id: 17735833
+  name: ''
+- id: 17735834
+  name: ''
+- id: 17735835
+  name: ''
+- id: 17735836
+  name: ''
+- id: 17735837
+  name: ''
+- id: 17735838
+  name: ''
+- id: 17735839
+  name: Hantileon
+- id: 17735840
+  name: Brutus
+- id: 17735841
+  name: Pulonono
+- id: 17735842
+  name: Bashraf
+- id: 17735843
+  name: Foudeel
+- id: 17735844
+  name: Wahboud
+- id: 17735845
+  name: Dietmund
+- id: 17735846
+  name: Gonija
+- id: 17735847
+  name: Door:House
+- id: 17735848
+  name: Watzahl
+- id: 17735849
+  name: ''
+- id: 17735850
+  name: Gerahja
+- id: 17735851
+  name: ''
+- id: 17735852
+  name: Keturah
+- id: 17735853
+  name: ''
+- id: 17735854
+  name: Gavoroi
+- id: 17735855
+  name: Claiborne
+- id: 17735856
+  name: Explorer Moogle
+- id: 17735857
+  name: mgtest
+- id: 17735858
+  name: 'Gate: Chocobo Circuit'
+- id: 17735859
+  name: Conrad
+- id: 17735860
+  name: Hunt Registry
+- id: 17735861
+  name: Selliste
+- id: 17735862
+  name: Synergy Furnace
+- id: 17735863
+  name: Synergy Furnace
+- id: 17735864
+  name: Synergy Engineer
+- id: 17735865
+  name: Synergy Engineer
+- id: 17735866
+  name: Synergy Furnace
+- id: 17735867
+  name: Synergy Furnace
+- id: 17735868
+  name: Synergy Furnace
+- id: 17735869
+  name: Synergy Furnace
+- id: 17735870
+  name: Synergy Enthusiast
+- id: 17735871
+  name: Voidwatch Purveyor
+- id: 17735872
+  name: Bountibox
+- id: 17735873
+  name: Treasure Coffer
+- id: 17735874
+  name: Moogle
+- id: 17735875
+  name: Moogle
+- id: 17735876
+  name: Valentione Single
+- id: 17735877
+  name: Valentione Single
+- id: 17735878
+  name: Valentione Single
+- id: 17735879
+  name: Valentione Single
+- id: 17735880
+  name: Prycillia
+- id: 17735881
+  name: Chocobo
+- id: 17735882
+  name: Chocobo
+- id: 17735883
+  name: Chocobo
+- id: 17735884
+  name: ''
+- id: 17735885
+  name: ''
+- id: 17735886
+  name: Q
+- id: 17735887
+  name: W
+- id: 17735888
+  name: R
+- id: 17735889
+  name: T
+- id: 17735890
+  name: P
+- id: 17735891
+  name: A
+- id: 17735892
+  name: S
+- id: 17735893
+  name: D
+- id: 17735894
+  name: F
+- id: 17735895
+  name: G
+- id: 17735896
+  name: H
+- id: 17735897
+  name: J
+- id: 17735898
+  name: K
+- id: 17735899
+  name: Z
+- id: 17735900
+  name: X
+- id: 17735901
+  name: C
+- id: 17735902
+  name: B
+- id: 17735903
+  name: N
+- id: 17735904
+  name: M
+- id: 17735905
+  name: ''
+- id: 17735906
+  name: ''
+- id: 17735907
+  name: C
+- id: 17735908
+  name: ''
+- id: 17735909
+  name: ''
+- id: 17735910
+  name: ''
+- id: 17735911
+  name: I
+- id: 17735912
+  name: L
+- id: 17735913
+  name: O
+- id: 17735914
+  name: V
+- id: 17735915
+  name: E
+- id: 17735916
+  name: Y
+- id: 17735917
+  name: U
+- id: 17735918
+  name: ''
+- id: 17735919
+  name: Moogle
+- id: 17735920
+  name: Moogle
+- id: 17735921
+  name: ''
+- id: 17735922
+  name: ''
+- id: 17735923
+  name: ''
+- id: 17735924
+  name: ''
+- id: 17735925
+  name: ''
+- id: 17735926
+  name: Eggsperiment H
+- id: 17735927
+  name: Eggsperiment A
+- id: 17735928
+  name: Eggsperiment R
+- id: 17735929
+  name: Eggsperiment E
+- id: 17735930
+  name: ''
+- id: 17735931
+  name: ''
+- id: 17735932
+  name: Moogle
+- id: 17735933
+  name: Moogle
+- id: 17735934
+  name: ''
+- id: 17735935
+  name: ''
+- id: 17735936
+  name: ''
+- id: 17735937
+  name: ''
+- id: 17735938
+  name: ''
+- id: 17735939
+  name: ''
+- id: 17735940
+  name: ''
+- id: 17735941
+  name: ''
+- id: 17735942
+  name: ''
+- id: 17735943
+  name: Ensemble Maven
+- id: 17735944
+  name: ''
+- id: 17735945
+  name: Fashionista
+- id: 17735946
+  name: Fashionista
+- id: 17735947
+  name: Fashionista
+- id: 17735948
+  name: ''
+- id: 17735949
+  name: Babban Ny Mheillea
+- id: 17735950
+  name: Christina
+- id: 17735951
+  name: ''
+- id: 17735952
+  name: ''
+- id: 17735953
+  name: ''
+- id: 17735954
+  name: ''
+- id: 17735955
+  name: ''
+- id: 17735956
+  name: ''
+- id: 17735957
+  name: Moogle
+- id: 17735958
+  name: Moogle
+- id: 17735959
+  name: Moogle
+- id: 17735960
+  name: Moogle
+- id: 17735961
+  name: Moogle
+- id: 17735962
+  name: ''
+- id: 17735964
+  name: Shard of Sunlight
+- id: 17735965
+  name: Shard of Sunlight
+- id: 17735966
+  name: Shard of Sunlight
+- id: 17735967
+  name: Shard of Sunlight
+- id: 17735968
+  name: Shard of Sunlight
+- id: 17735969
+  name: Shard of Sunlight
+- id: 17735970
+  name: Shard of Sunlight
+- id: 17735971
+  name: Shard of Sunlight
+- id: 17735972
+  name: Shard of Sunlight
+- id: 17735973
+  name: Shard of Sunlight
+- id: 17735974
+  name: Shard of Sunlight
+- id: 17735975
+  name: Shard of Sunlight
+- id: 17735976
+  name: Shard of Sunlight
+- id: 17735977
+  name: Shard of Sunlight
+- id: 17735978
+  name: Shard of Sunlight
+- id: 17735979
+  name: Shard of Sunlight
+- id: 17735980
+  name: Shard of Sunlight
+- id: 17735981
+  name: Shard of Sunlight
+- id: 17735982
+  name: Abenzio
+- id: 17735983
+  name: Bryher
+- id: 17735984
+  name: Camlin
+- id: 17735985
+  name: Darach
+- id: 17735986
+  name: Babban's Progeny
+- id: 17735987
+  name: Babban's Progeny
+- id: 17735988
+  name: Babban's Progeny
+- id: 17735989
+  name: Babban's Progeny
+- id: 17735990
+  name: Achieve Master
+- id: 17735991
+  name: Survival Guide
+- id: 17735992
+  name: Unity Master
+- id: 17735993
+  name: ''
+- id: 17735994
+  name: Iroha
+- id: 17735995
+  name: Lion
+- id: 17735996
+  name: Zeid
+- id: 17735997
+  name: ''
+- id: 17735998
+  name: Selh'teus
+- id: 17735999
+  name: Selh'teus
+- id: 17736000
+  name: Selh'teus
+- id: 17736001
+  name: Balamor
+- id: 17736002
+  name: ???
+- id: 17736003
+  name: ''
+- id: 17736004
+  name: ''
+- id: 17736005
+  name: Disjoined One
+- id: 17736006
+  name: Disjoined One
+- id: 17736007
+  name: Disjoined One
+- id: 17736008
+  name: Disjoined One
+- id: 17736009
+  name: Disjoined One
+- id: 17736010
+  name: Disjoined One
+- id: 17736011
+  name: Disjoined One
+- id: 17736012
+  name: Disjoined One
+- id: 17736013
+  name: ''
+- id: 17736014
+  name: ''
+- id: 17736015
+  name: Ephemeral Moogle
+- id: 17736016
+  name: Yek Falimeygo
+- id: 17736017
+  name: Enigmatic Footprints
+- id: 17736018
+  name: Layer Reserve

@@ -1,0 +1,927 @@
+names:
+- id: 17752065
+  name: DIRECTOR
+- id: 17752066
+  name: warp01
+- id: 17752067
+  name: warp02
+- id: 17752068
+  name: warp03
+- id: 17752069
+  name: warp04
+- id: 17752070
+  name: warp05
+- id: 17752071
+  name: warp06
+- id: 17752072
+  name: warp07
+- id: 17752073
+  name: PRODUCER
+- id: 17752074
+  name: Ajido-Marujido
+- id: 17752075
+  name: Apururu
+- id: 17752076
+  name: Mokyokyo
+- id: 17752077
+  name: Panna-Donna
+- id: 17752078
+  name: Dagoza-Beruza
+- id: 17752079
+  name: Ten of Hearts
+- id: 17752080
+  name: Tosuka-Porika
+- id: 17752081
+  name: Furakku-Norakku
+- id: 17752082
+  name: Kotan-Moritan
+- id: 17752083
+  name: Aora-Uora
+- id: 17752084
+  name: Hariga-Origa
+- id: 17752085
+  name: Serukoko
+- id: 17752086
+  name: Sohdede
+- id: 17752087
+  name: Library book
+- id: 17752088
+  name: Library book
+- id: 17752089
+  name: Library book
+- id: 17752090
+  name: Ropunono
+- id: 17752091
+  name: Churano-Shurano
+- id: 17752092
+  name: Mejina-Monjina
+- id: 17752093
+  name: Lago-Charago
+- id: 17752094
+  name: Orez-Ebrez
+- id: 17752095
+  name: Shohrun-Tuhrun
+- id: 17752096
+  name: Hilkomu-Makimu
+- id: 17752097
+  name: Ensasa
+- id: 17752098
+  name: Upih Khachla
+- id: 17752099
+  name: Hobibi
+- id: 17752100
+  name: Taajiji
+- id: 17752101
+  name: Ness Rugetomal
+- id: 17752102
+  name: Maqu Molpih
+- id: 17752103
+  name: Ahyeekih
+- id: 17752104
+  name: Baehu-Faehu
+- id: 17752105
+  name: Fomina
+- id: 17752106
+  name: Otete
+- id: 17752107
+  name: Jourille
+- id: 17752108
+  name: Prestapiq
+- id: 17752109
+  name: Ohbiru-Dohbiru
+- id: 17752110
+  name: Kenapa-Keppa
+- id: 17752111
+  name: Kerutoto
+- id: 17752112
+  name: Leepe-Hoppe
+- id: 17752113
+  name: EV_RECT01
+- id: 17752114
+  name: ''
+- id: 17752115
+  name: Carbuncle
+- id: 17752116
+  name: Pechiru-Mashiru
+- id: 17752117
+  name: Moreno-Toeno
+- id: 17752118
+  name: Fuepepe
+- id: 17752119
+  name: Tauwawa
+- id: 17752120
+  name: Mimomo
+- id: 17752121
+  name: Kirarara
+- id: 17752122
+  name: Rukuku
+- id: 17752123
+  name: Akkeke
+- id: 17752124
+  name: Koko Lihzeh
+- id: 17752125
+  name: Mashuu-Ajuu
+- id: 17752126
+  name: Foi-Mui
+- id: 17752127
+  name: Paku-Nakku
+- id: 17752128
+  name: Chomoro-Kyotoro
+- id: 17752129
+  name: Diroku-Oroku
+- id: 17752130
+  name: Pakesse-Myukesse
+- id: 17752131
+  name: Majiji
+- id: 17752132
+  name: Baren-Moren
+- id: 17752133
+  name: Bondada
+- id: 17752134
+  name: Piketo-Puketo
+- id: 17752135
+  name: Kipo-Opo
+- id: 17752136
+  name: Jacodaut
+- id: 17752137
+  name: Hakeem
+- id: 17752138
+  name: Ranpi-Monpi
+- id: 17752139
+  name: Maysoon
+- id: 17752140
+  name: Chomo Jinjahl
+- id: 17752141
+  name: Kopopo
+- id: 17752142
+  name: Aramu-Paramu
+- id: 17752143
+  name: Jatan-Paratan
+- id: 17752144
+  name: Yuli Yaam
+- id: 17752145
+  name: Yung Yaam
+- id: 17752146
+  name: Zabirego-Hajigo
+- id: 17752147
+  name: Kyume-Romeh
+- id: 17752148
+  name: Naiko-Paneiko
+- id: 17752149
+  name: Chyuk-Kochak
+- id: 17752150
+  name: Talking Doll
+- id: 17752151
+  name: Chamama
+- id: 17752152
+  name: Orn
+- id: 17752153
+  name: Angelica
+- id: 17752154
+  name: Umberto
+- id: 17752155
+  name: Diederik
+- id: 17752156
+  name: Honoi-Gomoi
+- id: 17752157
+  name: Temoe-Amoe
+- id: 17752158
+  name: Arukoko
+- id: 17752159
+  name: Gevirun-Gabirun
+- id: 17752160
+  name: Pulykiki
+- id: 17752161
+  name: Mashishi
+- id: 17752162
+  name: Moari-Kaaori
+- id: 17752163
+  name: Karuru
+- id: 17752164
+  name: Pojimo-Rojimo
+- id: 17752165
+  name: Shante-Fante
+- id: 17752166
+  name: Amagusa-Chigurusa
+- id: 17752167
+  name: Kobite-Mojite
+- id: 17752168
+  name: Moitoto
+- id: 17752169
+  name: Yohra-Ora
+- id: 17752170
+  name: Bulolo
+- id: 17752171
+  name: Janta-Jonta
+- id: 17752172
+  name: Rabiri-Tabiri
+- id: 17752173
+  name: Koowawa
+- id: 17752174
+  name: Hororo
+- id: 17752175
+  name: Porupen-Kyurupen
+- id: 17752176
+  name: Miriri
+- id: 17752177
+  name: Okaka
+- id: 17752178
+  name: Damami-Karumi
+- id: 17752179
+  name: Funpo-Shipo
+- id: 17752180
+  name: Shanana
+- id: 17752181
+  name: Tsuran-Botaran
+- id: 17752182
+  name: Yomotsutsu
+- id: 17752183
+  name: Myumimi
+- id: 17752184
+  name: Torikoko
+- id: 17752185
+  name: Queo-Paeo
+- id: 17752186
+  name: Ramasese
+- id: 17752187
+  name: Shataru-Potaru
+- id: 17752188
+  name: Kuesoso
+- id: 17752189
+  name: Khuta Colaara
+- id: 17752190
+  name: Panaa Fom
+- id: 17752191
+  name: Reh Hapli
+- id: 17752192
+  name: Buchi Kohmrijah
+- id: 17752193
+  name: Nasoh Joli
+- id: 17752194
+  name: Akee Yonji
+- id: 17752195
+  name: Sahgi Konchumih
+- id: 17752196
+  name: Caliburn
+- id: 17752197
+  name: Gordias
+- id: 17752198
+  name: Enrefort
+- id: 17752199
+  name: Clais
+- id: 17752200
+  name: Pia
+- id: 17752201
+  name: Kyokyo
+- id: 17752202
+  name: Shasha
+- id: 17752203
+  name: Npopo
+- id: 17752204
+  name: Ajen-Myoojen
+- id: 17752205
+  name: Shatoto
+- id: 17752206
+  name: Four of Hearts
+- id: 17752207
+  name: Six of Hearts
+- id: 17752208
+  name: Five of Hearts
+- id: 17752209
+  name: Seven of Hearts
+- id: 17752210
+  name: Eight of Hearts
+- id: 17752211
+  name: Nine of Hearts
+- id: 17752212
+  name: Jack of Hearts
+- id: 17752213
+  name: Anja-Enja
+- id: 17752214
+  name: Machitata
+- id: 17752215
+  name: ''
+- id: 17752216
+  name: 'Home Point #1'
+- id: 17752217
+  name: 'Home Point #2'
+- id: 17752218
+  name: 'Home Point #3'
+- id: 17752219
+  name: 'Home Point #4'
+- id: 17752220
+  name: 'Home Point #5'
+- id: 17752221
+  name: Furan-Furin
+- id: 17752222
+  name: Tonana
+- id: 17752223
+  name: Puroiko-Maiko, W.W.
+- id: 17752224
+  name: Moogle
+- id: 17752225
+  name: ''
+- id: 17752226
+  name: ???
+- id: 17752227
+  name: ''
+- id: 17752228
+  name: Moogle
+- id: 17752229
+  name: Symphonic Curator
+- id: 17752230
+  name: Door:Culinarians' Guild
+- id: 17752231
+  name: Door:Culinarians' Guild
+- id: 17752232
+  name: Door:"Timbre Timbers"
+- id: 17752233
+  name: Door:"Timbre Timbers"
+- id: 17752234
+  name: Door:"Rarab Tail"
+- id: 17752235
+  name: 'Door:Hostelry Room #1'
+- id: 17752236
+  name: 'Door:Hostelry Room #2'
+- id: 17752237
+  name: Door:Ensasa's Catalysts
+- id: 17752238
+  name: Door:Optistery
+- id: 17752239
+  name: Door:Optistery
+- id: 17752240
+  name: Door:Federal Magic Res.
+- id: 17752241
+  name: Door:Baren-Moren Hatter
+- id: 17752242
+  name: Door:Trader's Home
+- id: 17752243
+  name: Door:Tarutaru Times
+- id: 17752244
+  name: Door:House
+- id: 17752245
+  name: Door:House
+- id: 17752246
+  name: Door:House
+- id: 17752247
+  name: Door:House
+- id: 17752248
+  name: Door:Rhinostery
+- id: 17752249
+  name: Door:Rhinostery
+- id: 17752250
+  name: Door:Aurastery
+- id: 17752251
+  name: Door:Aurastery
+- id: 17752253
+  name: Moogle
+- id: 17752254
+  name: Moogle
+- id: 17752255
+  name: Moogle
+- id: 17752256
+  name: Moogle
+- id: 17752257
+  name: Moogle
+- id: 17752258
+  name: Moogle
+- id: 17752259
+  name: Moogle
+- id: 17752260
+  name: Moogle
+- id: 17752261
+  name: ''
+- id: 17752262
+  name: Gantineux
+- id: 17752263
+  name: Cochal-Monchal
+- id: 17752264
+  name: Mulaujeant
+- id: 17752265
+  name: Star Sibyl
+- id: 17752266
+  name: Karaha-Baruha
+- id: 17752267
+  name: Marble Door
+- id: 17752268
+  name: Rukususu
+- id: 17752269
+  name: Kohlo-Lakolo
+- id: 17752270
+  name: Papo-Hopo
+- id: 17752271
+  name: Gomada-Vulmada
+- id: 17752272
+  name: Pichichi
+- id: 17752273
+  name: Yafa Yaa
+- id: 17752274
+  name: Pyo Nzon
+- id: 17752275
+  name: Door:Acolyte Hostel
+- id: 17752276
+  name: Door:Acolyte Hostel
+- id: 17752277
+  name: Door:Acolyte Hostel
+- id: 17752278
+  name: Door:Acolyte Hostel
+- id: 17752279
+  name: Door:Acolyte Hostel
+- id: 17752280
+  name: Door:Acolyte Hostel
+- id: 17752281
+  name: Door:Acolyte Hostel
+- id: 17752282
+  name: Door:Acolyte Hostel
+- id: 17752283
+  name: Door:Acolyte Hostel
+- id: 17752284
+  name: Door:Acolyte Hostel
+- id: 17752285
+  name: Door:Acolyte Hostel
+- id: 17752286
+  name: Katzun-Nattzun
+- id: 17752287
+  name: Talking Doll
+- id: 17752288
+  name: Dienger
+- id: 17752289
+  name: Lumomo
+- id: 17752291
+  name: Trick Shadow
+- id: 17752292
+  name: Trick Specter
+- id: 17752293
+  name: Trick Shade
+- id: 17752294
+  name: Trick Ghost
+- id: 17752295
+  name: Trick Spirit
+- id: 17752296
+  name: Trick Phantom
+- id: 17752297
+  name: Trick Skeleton
+- id: 17752298
+  name: Trick Wight
+- id: 17752299
+  name: Trick Bones
+- id: 17752300
+  name: Trick Ghast
+- id: 17752302
+  name: Goblin Merrymaker
+- id: 17752303
+  name: Goblin Merrymaker
+- id: 17752304
+  name: Goblin Merrymaker
+- id: 17752305
+  name: Goblin Merrymaker
+- id: 17752306
+  name: Goblin Merrymaker
+- id: 17752307
+  name: Goblin Merrymaker
+- id: 17752308
+  name: Goblin Merrymaker
+- id: 17752309
+  name: Goblin Merrymaker
+- id: 17752310
+  name: Goblin Merrymaker
+- id: 17752311
+  name: Goblin Merrymaker
+- id: 17752312
+  name: Trick Flan
+- id: 17752313
+  name: Qhum Knaidjn
+- id: 17752314
+  name: Pursuivant
+- id: 17752315
+  name: ???
+- id: 17752316
+  name: Makki-Chebukki
+- id: 17752317
+  name: Kukki-Chebukki
+- id: 17752318
+  name: Cherukiki
+- id: 17752319
+  name: Shikaree Y
+- id: 17752320
+  name: Ronta-Onta
+- id: 17752321
+  name: Ildy-Goldy
+- id: 17752322
+  name: Dabido-Sorobido
+- id: 17752323
+  name: Rendezvous Point
+- id: 17752324
+  name: ''
+- id: 17752325
+  name: Kogri-Nargri
+- id: 17752326
+  name: Domimi
+- id: 17752327
+  name: Luto Mewrilah
+- id: 17752328
+  name: Olaky-Yayulaky
+- id: 17752329
+  name: ''
+- id: 17752330
+  name: Ritopopo
+- id: 17752331
+  name: ''
+- id: 17752332
+  name: Diabolos
+- id: 17752333
+  name: Door:House
+- id: 17752334
+  name: Zhuk Vojahom
+- id: 17752335
+  name: Zelala
+- id: 17752336
+  name: Kayeel-Payeel
+- id: 17752337
+  name: Maju-Naju
+- id: 17752338
+  name: Shahr Yagenmhi
+- id: 17752339
+  name: Selenana
+- id: 17752340
+  name: Ramchacha
+- id: 17752341
+  name: Game Table
+- id: 17752342
+  name: ''
+- id: 17752343
+  name: ''
+- id: 17752344
+  name: ''
+- id: 17752345
+  name: Khoto Rokkorah
+- id: 17752346
+  name: Tihk Rhumyie
+- id: 17752347
+  name: Kuppo-Pippo
+- id: 17752348
+  name: Karanka-Tonka
+- id: 17752349
+  name: Noh Ramyoh
+- id: 17752350
+  name: Cotta-Lotta
+- id: 17752351
+  name: Tacca-Picca
+- id: 17752352
+  name: Rahmi Yamilahto
+- id: 17752353
+  name: Babban Ny Mheillea
+- id: 17752354
+  name: ''
+- id: 17752355
+  name: Abenzio
+- id: 17752356
+  name: Bryher
+- id: 17752357
+  name: Camlin
+- id: 17752358
+  name: Darach
+- id: 17752359
+  name: ''
+- id: 17752360
+  name: ''
+- id: 17752361
+  name: ''
+- id: 17752362
+  name: ''
+- id: 17752363
+  name: Synergy Engineer
+- id: 17752364
+  name: Synergy Engineer
+- id: 17752365
+  name: Synergy Furnace
+- id: 17752366
+  name: Synergy Furnace
+- id: 17752367
+  name: Synergy Furnace
+- id: 17752368
+  name: Synergy Furnace
+- id: 17752369
+  name: Synergy Enthusiast
+- id: 17752370
+  name: ''
+- id: 17752371
+  name: Lilisette
+- id: 17752372
+  name: ''
+- id: 17752373
+  name: Atmacite Refiner
+- id: 17752374
+  name: Voidwatch Officer
+- id: 17752375
+  name: Voidwatch Purveyor
+- id: 17752376
+  name: Moogle
+- id: 17752377
+  name: Moogle
+- id: 17752378
+  name: Valentione Single
+- id: 17752379
+  name: Valentione Single
+- id: 17752380
+  name: Valentione Single
+- id: 17752381
+  name: Valentione Single
+- id: 17752382
+  name: Moogle
+- id: 17752383
+  name: ''
+- id: 17752384
+  name: ''
+- id: 17752385
+  name: ''
+- id: 17752386
+  name: ''
+- id: 17752387
+  name: ''
+- id: 17752388
+  name: ''
+- id: 17752389
+  name: ''
+- id: 17752390
+  name: ''
+- id: 17752391
+  name: ''
+- id: 17752392
+  name: ''
+- id: 17752393
+  name: ''
+- id: 17752394
+  name: ''
+- id: 17752395
+  name: ''
+- id: 17752396
+  name: ''
+- id: 17752397
+  name: ''
+- id: 17752398
+  name: ''
+- id: 17752399
+  name: ''
+- id: 17752400
+  name: ''
+- id: 17752401
+  name: ''
+- id: 17752402
+  name: ''
+- id: 17752403
+  name: ''
+- id: 17752404
+  name: ''
+- id: 17752405
+  name: ''
+- id: 17752406
+  name: ''
+- id: 17752407
+  name: ''
+- id: 17752408
+  name: ''
+- id: 17752409
+  name: ''
+- id: 17752410
+  name: ''
+- id: 17752411
+  name: ''
+- id: 17752412
+  name: ''
+- id: 17752413
+  name: Moogle
+- id: 17752414
+  name: ''
+- id: 17752415
+  name: ''
+- id: 17752416
+  name: ''
+- id: 17752417
+  name: ''
+- id: 17752418
+  name: ''
+- id: 17752419
+  name: Eggsperiment B
+- id: 17752420
+  name: Eggsperiment U
+- id: 17752421
+  name: Eggsperiment N
+- id: 17752422
+  name: Eggsperiment N
+- id: 17752423
+  name: Eggsperiment Y
+- id: 17752424
+  name: ''
+- id: 17752425
+  name: Moogle
+- id: 17752426
+  name: Moogle
+- id: 17752427
+  name: Treasure Coffer
+- id: 17752428
+  name: ''
+- id: 17752429
+  name: ''
+- id: 17752430
+  name: ''
+- id: 17752431
+  name: ''
+- id: 17752432
+  name: Moogle
+- id: 17752433
+  name: Prince Yahiko
+- id: 17752434
+  name: Princess Amdina
+- id: 17752435
+  name: Mihn Rhettorah
+- id: 17752436
+  name: ''
+- id: 17752437
+  name: ''
+- id: 17752438
+  name: ''
+- id: 17752439
+  name: ''
+- id: 17752440
+  name: ''
+- id: 17752441
+  name: ''
+- id: 17752442
+  name: ''
+- id: 17752443
+  name: ''
+- id: 17752444
+  name: ''
+- id: 17752445
+  name: ''
+- id: 17752446
+  name: ''
+- id: 17752447
+  name: ''
+- id: 17752448
+  name: ''
+- id: 17752449
+  name: ''
+- id: 17752450
+  name: ''
+- id: 17752451
+  name: ''
+- id: 17752452
+  name: ''
+- id: 17752453
+  name: ''
+- id: 17752454
+  name: ''
+- id: 17752455
+  name: ''
+- id: 17752456
+  name: ''
+- id: 17752457
+  name: Bikho Ronpotteh
+- id: 17752458
+  name: Guwanana
+- id: 17752459
+  name: Roger
+- id: 17752460
+  name: ''
+- id: 17752461
+  name: ''
+- id: 17752462
+  name: ''
+- id: 17752463
+  name: ''
+- id: 17752464
+  name: ''
+- id: 17752465
+  name: Ensemble Maven
+- id: 17752466
+  name: ''
+- id: 17752467
+  name: Fashionista
+- id: 17752468
+  name: Fashionista
+- id: 17752469
+  name: Fashionista
+- id: 17752470
+  name: Atagei-Portagei
+- id: 17752471
+  name: ''
+- id: 17752472
+  name: ''
+- id: 17752473
+  name: ''
+- id: 17752474
+  name: ''
+- id: 17752475
+  name: ''
+- id: 17752476
+  name: ''
+- id: 17752477
+  name: ''
+- id: 17752478
+  name: ''
+- id: 17752479
+  name: ''
+- id: 17752480
+  name: ''
+- id: 17752481
+  name: ''
+- id: 17752482
+  name: ''
+- id: 17752483
+  name: ''
+- id: 17752484
+  name: ''
+- id: 17752485
+  name: ''
+- id: 17752486
+  name: ''
+- id: 17752487
+  name: ''
+- id: 17752488
+  name: ''
+- id: 17752489
+  name: ''
+- id: 17752490
+  name: ''
+- id: 17752491
+  name: Moogle
+- id: 17752492
+  name: Moogle
+- id: 17752493
+  name: Moogle
+- id: 17752494
+  name: ''
+- id: 17752495
+  name: Moogle
+- id: 17752496
+  name: Spriggan Sifter
+- id: 17752497
+  name: Spriggan Crier
+- id: 17752498
+  name: Spriggan Graverobber
+- id: 17752499
+  name: ''
+- id: 17752500
+  name: ''
+- id: 17752501
+  name: Moogle
+- id: 17752502
+  name: Moogle
+- id: 17752503
+  name: Moogle
+- id: 17752504
+  name: ''
+- id: 17752505
+  name: Achieve Master
+- id: 17752506
+  name: Unity Master
+- id: 17752507
+  name: ''
+- id: 17752508
+  name: Iroha
+- id: 17752509
+  name: Lion
+- id: 17752510
+  name: Zeid
+- id: 17752511
+  name: ''
+- id: 17752512
+  name: Selh'teus
+- id: 17752513
+  name: Selh'teus
+- id: 17752514
+  name: Selh'teus
+- id: 17752515
+  name: Balamor
+- id: 17752516
+  name: ???
+- id: 17752517
+  name: ''
+- id: 17752518
+  name: ''
+- id: 17752519
+  name: Disjoined One
+- id: 17752520
+  name: Disjoined One
+- id: 17752521
+  name: Disjoined One
+- id: 17752522
+  name: Disjoined One
+- id: 17752523
+  name: Disjoined One
+- id: 17752524
+  name: Disjoined One
+- id: 17752525
+  name: Disjoined One
+- id: 17752526
+  name: Disjoined One
+- id: 17752527
+  name: ''
+- id: 17752528
+  name: ''
+- id: 17752529
+  name: Ephemeral Moogle
+- id: 17752530
+  name: Isanie

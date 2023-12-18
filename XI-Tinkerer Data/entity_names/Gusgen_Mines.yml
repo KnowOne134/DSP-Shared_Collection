@@ -1,0 +1,775 @@
+names:
+- id: 17580033
+  name: Pirate Pugil
+- id: 17580034
+  name: Pirate Pugil
+- id: 17580035
+  name: Greater Pugil
+- id: 17580036
+  name: Ooze
+- id: 17580037
+  name: Mush
+- id: 17580038
+  name: Blind Moby
+- id: 17580039
+  name: Smothered Schmidt
+- id: 17580040
+  name: Crushed Krause
+- id: 17580041
+  name: Pulverized Pfeffer
+- id: 17580042
+  name: Burned Bergmann
+- id: 17580043
+  name: Wounded Wurfel
+- id: 17580044
+  name: Asphyxiated Amsel
+- id: 17580045
+  name: Skeleton Warrior
+- id: 17580046
+  name: Skeleton Warrior
+- id: 17580047
+  name: Skeleton Warrior
+- id: 17580048
+  name: Skeleton Warrior
+- id: 17580049
+  name: Skeleton Warrior
+- id: 17580050
+  name: Skeleton Warrior
+- id: 17580051
+  name: Fly Agaric
+- id: 17580052
+  name: Fly Agaric
+- id: 17580053
+  name: Fly Agaric
+- id: 17580054
+  name: Fly Agaric
+- id: 17580055
+  name: Fly Agaric
+- id: 17580056
+  name: Fly Agaric
+- id: 17580057
+  name: Fly Agaric
+- id: 17580058
+  name: Fly Agaric
+- id: 17580059
+  name: Ghoul
+- id: 17580060
+  name: Ghoul
+- id: 17580061
+  name: Ghoul
+- id: 17580062
+  name: Ghoul
+- id: 17580063
+  name: Bandersnatch
+- id: 17580064
+  name: Bandersnatch
+- id: 17580065
+  name: Bandersnatch
+- id: 17580066
+  name: Ore Eater
+- id: 17580067
+  name: Ore Eater
+- id: 17580068
+  name: Ore Eater
+- id: 17580069
+  name: Bandersnatch
+- id: 17580070
+  name: Ore Eater
+- id: 17580071
+  name: Ore Eater
+- id: 17580072
+  name: Ore Eater
+- id: 17580073
+  name: Ghoul
+- id: 17580074
+  name: Ghoul
+- id: 17580075
+  name: Ghoul
+- id: 17580076
+  name: Ghoul
+- id: 17580077
+  name: Ghoul
+- id: 17580078
+  name: Ghoul
+- id: 17580079
+  name: Ghoul
+- id: 17580080
+  name: Bandersnatch
+- id: 17580081
+  name: Bandersnatch
+- id: 17580082
+  name: Spunkie
+- id: 17580083
+  name: Spunkie
+- id: 17580084
+  name: Ghoul
+- id: 17580085
+  name: Ghoul
+- id: 17580086
+  name: Ghoul
+- id: 17580087
+  name: Ghoul
+- id: 17580088
+  name: Ghoul
+- id: 17580089
+  name: Bogy
+- id: 17580090
+  name: Bogy
+- id: 17580091
+  name: Spunkie
+- id: 17580092
+  name: Ghoul
+- id: 17580093
+  name: Ghoul
+- id: 17580094
+  name: Ghoul
+- id: 17580095
+  name: Ghoul
+- id: 17580096
+  name: Bandersnatch
+- id: 17580097
+  name: Bandersnatch
+- id: 17580098
+  name: Ghoul
+- id: 17580099
+  name: Ghoul
+- id: 17580100
+  name: Ghoul
+- id: 17580101
+  name: Bandersnatch
+- id: 17580102
+  name: Ghoul
+- id: 17580103
+  name: Ghoul
+- id: 17580104
+  name: Bandersnatch
+- id: 17580105
+  name: Bandersnatch
+- id: 17580106
+  name: Skeleton Warrior
+- id: 17580107
+  name: Skeleton Warrior
+- id: 17580108
+  name: Ghoul
+- id: 17580109
+  name: Ghoul
+- id: 17580110
+  name: Bandersnatch
+- id: 17580111
+  name: Bandersnatch
+- id: 17580112
+  name: Ghoul
+- id: 17580113
+  name: Ghoul
+- id: 17580114
+  name: Wendigo
+- id: 17580115
+  name: Sadfly
+- id: 17580116
+  name: Sadfly
+- id: 17580117
+  name: Sadfly
+- id: 17580118
+  name: Jelly
+- id: 17580119
+  name: Wendigo
+- id: 17580120
+  name: Sadfly
+- id: 17580121
+  name: Sadfly
+- id: 17580122
+  name: Sadfly
+- id: 17580123
+  name: Jelly
+- id: 17580124
+  name: Bogy
+- id: 17580125
+  name: Bogy
+- id: 17580126
+  name: Bogy
+- id: 17580127
+  name: Wendigo
+- id: 17580128
+  name: Wendigo
+- id: 17580129
+  name: Wendigo
+- id: 17580130
+  name: Wight
+- id: 17580131
+  name: Wight
+- id: 17580132
+  name: Ore Eater
+- id: 17580133
+  name: Ore Eater
+- id: 17580134
+  name: Ore Eater
+- id: 17580135
+  name: Jelly
+- id: 17580136
+  name: Wendigo
+- id: 17580137
+  name: Wendigo
+- id: 17580138
+  name: Wight
+- id: 17580139
+  name: Accursed Soldier
+- id: 17580140
+  name: Accursed Soldier
+- id: 17580141
+  name: Accursed Sorcerer
+- id: 17580142
+  name: Accursed Sorcerer
+- id: 17580143
+  name: Accursed Soldier
+- id: 17580144
+  name: Accursed Soldier
+- id: 17580145
+  name: Accursed Sorcerer
+- id: 17580146
+  name: Accursed Sorcerer
+- id: 17580147
+  name: Accursed Soldier
+- id: 17580148
+  name: Accursed Soldier
+- id: 17580149
+  name: Accursed Sorcerer
+- id: 17580150
+  name: Accursed Sorcerer
+- id: 17580151
+  name: Accursed Soldier
+- id: 17580152
+  name: Accursed Soldier
+- id: 17580153
+  name: Accursed Sorcerer
+- id: 17580154
+  name: Accursed Sorcerer
+- id: 17580155
+  name: Madfly
+- id: 17580156
+  name: Madfly
+- id: 17580157
+  name: Madfly
+- id: 17580158
+  name: Rockmill
+- id: 17580159
+  name: Madfly
+- id: 17580160
+  name: Madfly
+- id: 17580161
+  name: Madfly
+- id: 17580162
+  name: Rockmill
+- id: 17580163
+  name: Madfly
+- id: 17580164
+  name: Madfly
+- id: 17580165
+  name: Madfly
+- id: 17580166
+  name: Rockmill
+- id: 17580167
+  name: Madfly
+- id: 17580168
+  name: Madfly
+- id: 17580169
+  name: Madfly
+- id: 17580170
+  name: Rockmill
+- id: 17580171
+  name: Madfly
+- id: 17580172
+  name: Madfly
+- id: 17580173
+  name: Madfly
+- id: 17580174
+  name: Rockmill
+- id: 17580175
+  name: Madfly
+- id: 17580176
+  name: Madfly
+- id: 17580177
+  name: Madfly
+- id: 17580178
+  name: Madfly
+- id: 17580179
+  name: Madfly
+- id: 17580180
+  name: Madfly
+- id: 17580181
+  name: Madfly
+- id: 17580182
+  name: Madfly
+- id: 17580183
+  name: Madfly
+- id: 17580184
+  name: Madfly
+- id: 17580185
+  name: Madfly
+- id: 17580186
+  name: Madfly
+- id: 17580187
+  name: Madfly
+- id: 17580188
+  name: Madfly
+- id: 17580189
+  name: Rockmill
+- id: 17580190
+  name: Rockmill
+- id: 17580191
+  name: Rockmill
+- id: 17580192
+  name: Rockmill
+- id: 17580193
+  name: Rockmill
+- id: 17580194
+  name: Rockmill
+- id: 17580195
+  name: Rockmill
+- id: 17580196
+  name: Rockmill
+- id: 17580197
+  name: Rockmill
+- id: 17580198
+  name: Rockmill
+- id: 17580199
+  name: Rockmill
+- id: 17580200
+  name: Rockmill
+- id: 17580201
+  name: Rockmill
+- id: 17580202
+  name: Rockmill
+- id: 17580203
+  name: Rockmill
+- id: 17580204
+  name: Rockmill
+- id: 17580205
+  name: Rockmill
+- id: 17580206
+  name: Rockmill
+- id: 17580207
+  name: Madfly
+- id: 17580208
+  name: Madfly
+- id: 17580209
+  name: Madfly
+- id: 17580210
+  name: Rockmill
+- id: 17580211
+  name: Madfly
+- id: 17580212
+  name: Madfly
+- id: 17580213
+  name: Madfly
+- id: 17580214
+  name: Rockmill
+- id: 17580215
+  name: Madfly
+- id: 17580216
+  name: Madfly
+- id: 17580217
+  name: Madfly
+- id: 17580218
+  name: Rockmill
+- id: 17580219
+  name: Madfly
+- id: 17580220
+  name: Madfly
+- id: 17580221
+  name: Madfly
+- id: 17580222
+  name: Rockmill
+- id: 17580223
+  name: Madfly
+- id: 17580224
+  name: Madfly
+- id: 17580225
+  name: Madfly
+- id: 17580226
+  name: Rockmill
+- id: 17580227
+  name: Wendigo
+- id: 17580228
+  name: Wendigo
+- id: 17580229
+  name: Mauthe Doog
+- id: 17580230
+  name: Mauthe Doog
+- id: 17580231
+  name: Wendigo
+- id: 17580232
+  name: Mauthe Doog
+- id: 17580233
+  name: Wendigo
+- id: 17580234
+  name: Mauthe Doog
+- id: 17580235
+  name: Myconid
+- id: 17580236
+  name: Myconid
+- id: 17580237
+  name: Myconid
+- id: 17580238
+  name: Myconid
+- id: 17580239
+  name: Myconid
+- id: 17580240
+  name: Feu Follet
+- id: 17580241
+  name: Feu Follet
+- id: 17580242
+  name: Thunder Elemental
+- id: 17580243
+  name: Earth Elemental
+- id: 17580244
+  name: Myconid
+- id: 17580245
+  name: Myconid
+- id: 17580246
+  name: Thunder Elemental
+- id: 17580247
+  name: Earth Elemental
+- id: 17580248
+  name: Juggler Hecatomb
+- id: 17580249
+  name: Rancid Ooze
+- id: 17580250
+  name: Gallinipper
+- id: 17580251
+  name: Gallinipper
+- id: 17580252
+  name: Gallinipper
+- id: 17580253
+  name: Gallinipper
+- id: 17580254
+  name: Gallinipper
+- id: 17580255
+  name: Feu Follet
+- id: 17580256
+  name: Feu Follet
+- id: 17580257
+  name: Gallinipper
+- id: 17580258
+  name: Gallinipper
+- id: 17580259
+  name: Gallinipper
+- id: 17580260
+  name: Gallinipper
+- id: 17580261
+  name: Gallinipper
+- id: 17580262
+  name: Feu Follet
+- id: 17580263
+  name: Feu Follet
+- id: 17580264
+  name: Mauthe Doog
+- id: 17580265
+  name: Amphisbaena
+- id: 17580266
+  name: Amphisbaena
+- id: 17580267
+  name: Amphisbaena
+- id: 17580268
+  name: Amphisbaena
+- id: 17580269
+  name: Rancid Ooze
+- id: 17580270
+  name: Mauthe Doog
+- id: 17580271
+  name: Amphisbaena
+- id: 17580272
+  name: Amphisbaena
+- id: 17580273
+  name: Amphisbaena
+- id: 17580274
+  name: Rancid Ooze
+- id: 17580275
+  name: Banshee
+- id: 17580276
+  name: Banshee
+- id: 17580277
+  name: Banshee
+- id: 17580278
+  name: Wight
+- id: 17580279
+  name: Wight
+- id: 17580280
+  name: Wight
+- id: 17580281
+  name: Ghast
+- id: 17580282
+  name: Mauthe Doog
+- id: 17580283
+  name: Mauthe Doog
+- id: 17580284
+  name: Foul Meat
+- id: 17580285
+  name: Myconid
+- id: 17580286
+  name: Myconid
+- id: 17580287
+  name: Myconid
+- id: 17580288
+  name: Wight
+- id: 17580289
+  name: Wight
+- id: 17580290
+  name: Wight
+- id: 17580291
+  name: Ghast
+- id: 17580292
+  name: Myconid
+- id: 17580293
+  name: Myconid
+- id: 17580294
+  name: Myconid
+- id: 17580295
+  name: Wight
+- id: 17580296
+  name: Wight
+- id: 17580297
+  name: Ghast
+- id: 17580298
+  name: Gallinipper
+- id: 17580299
+  name: Gallinipper
+- id: 17580300
+  name: Gallinipper
+- id: 17580301
+  name: Wight
+- id: 17580302
+  name: Wight
+- id: 17580303
+  name: Ghast
+- id: 17580304
+  name: Gallinipper
+- id: 17580305
+  name: Gallinipper
+- id: 17580306
+  name: Gallinipper
+- id: 17580307
+  name: Rancid Ooze
+- id: 17580308
+  name: Rancid Ooze
+- id: 17580309
+  name: Greater Pugil
+- id: 17580310
+  name: Greater Pugil
+- id: 17580311
+  name: Greater Pugil
+- id: 17580312
+  name: Greater Pugil
+- id: 17580313
+  name: Greater Pugil
+- id: 17580314
+  name: Greater Pugil
+- id: 17580315
+  name: Greater Pugil
+- id: 17580316
+  name: Greater Pugil
+- id: 17580317
+  name: Greater Pugil
+- id: 17580318
+  name: Greater Pugil
+- id: 17580319
+  name: Greater Pugil
+- id: 17580320
+  name: Foul Meat
+- id: 17580321
+  name: Mauthe Doog
+- id: 17580322
+  name: Mauthe Doog
+- id: 17580323
+  name: Wight
+- id: 17580324
+  name: Wight
+- id: 17580325
+  name: Mauthe Doog
+- id: 17580326
+  name: Wight
+- id: 17580327
+  name: Wight
+- id: 17580328
+  name: Ghast
+- id: 17580329
+  name: Mauthe Doog
+- id: 17580330
+  name: Banshee
+- id: 17580331
+  name: Banshee
+- id: 17580332
+  name: Mauthe Doog
+- id: 17580333
+  name: Wight
+- id: 17580334
+  name: Wight
+- id: 17580335
+  name: Ghast
+- id: 17580336
+  name: Banshee
+- id: 17580337
+  name: Wandering Ghost
+- id: 17580338
+  name: Pudding
+- id: 17580339
+  name: Pudding
+- id: 17580340
+  name: Earth Elemental
+- id: 17580341
+  name: Aroma Fly
+- id: 17580342
+  name: Lorbulcrud
+- id: 17580343
+  name: Lorbulcrud
+- id: 17580344
+  name: Lorbulcrud
+- id: 17580347
+  name: ???
+- id: 17580348
+  name: Treasure Casket
+- id: 17580349
+  name: Treasure Casket
+- id: 17580350
+  name: Treasure Casket
+- id: 17580351
+  name: Treasure Casket
+- id: 17580352
+  name: Treasure Casket
+- id: 17580353
+  name: Treasure Casket
+- id: 17580354
+  name: Treasure Casket
+- id: 17580355
+  name: Treasure Casket
+- id: 17580356
+  name: Treasure Casket
+- id: 17580357
+  name: Treasure Casket
+- id: 17580358
+  name: Treasure Casket
+- id: 17580359
+  name: Treasure Casket
+- id: 17580360
+  name: Treasure Casket
+- id: 17580361
+  name: Treasure Casket
+- id: 17580362
+  name: Treasure Casket
+- id: 17580363
+  name: Treasure Casket
+- id: 17580364
+  name: Achieve Master
+- id: 17580365
+  name: Unity Master
+- id: 17580370
+  name: ???
+- id: 17580371
+  name: Iron-framed Oak Door
+- id: 17580372
+  name: Iron-framed Oak Door
+- id: 17580373
+  name: Iron-framed Oak Door
+- id: 17580374
+  name: Iron-framed Oak Door
+- id: 17580375
+  name: Iron-framed Oak Door
+- id: 17580376
+  name: Iron-framed Oak Door
+- id: 17580377
+  name: Lever
+- id: 17580378
+  name: Lever
+- id: 17580379
+  name: Lever
+- id: 17580380
+  name: Lever
+- id: 17580381
+  name: Lever
+- id: 17580382
+  name: Lever
+- id: 17580383
+  name: Cermet Door
+- id: 17580384
+  name: Strange Apparatus
+- id: 17580385
+  name: Clay
+- id: 17580386
+  name: Zeid
+- id: 17580388
+  name: Moogle
+- id: 17580389
+  name: Moogle
+- id: 17580390
+  name: Moogle
+- id: 17580391
+  name: Moogle
+- id: 17580392
+  name: Moogle
+- id: 17580393
+  name: Moogle
+- id: 17580394
+  name: Moogle
+- id: 17580395
+  name: Moogle
+- id: 17580396
+  name: ''
+- id: 17580397
+  name: Mining Point
+- id: 17580398
+  name: Mining Point
+- id: 17580399
+  name: Mining Point
+- id: 17580400
+  name: Mining Point
+- id: 17580401
+  name: Mining Point
+- id: 17580402
+  name: Mining Point
+- id: 17580403
+  name: Treasure Chest
+- id: 17580404
+  name: ???
+- id: 17580405
+  name: ???
+- id: 17580406
+  name: Degga
+- id: 17580407
+  name: ???
+- id: 17580408
+  name: Ramblix
+- id: 17580409
+  name: Goblin Footprint
+- id: 17580410
+  name: Planar Rift
+- id: 17580411
+  name: Planar Rift
+- id: 17580412
+  name: Planar Rift
+- id: 17580413
+  name: Riftworn Pyxis
+- id: 17580414
+  name: Riftworn Pyxis
+- id: 17580415
+  name: Riftworn Pyxis
+- id: 17580416
+  name: Grounds Tome
+- id: 17580417
+  name: Grounds Tome
+- id: 17580418
+  name: Grounds Tome
+- id: 17580419
+  name: Geomagnetic Fount
+- id: 17580420
+  name: Geomantic Reservoir
+- id: 17580423
+  name: ''
+- id: 17580424
+  name: ''
+- id: 17580425
+  name: ''
+- id: 17580426
+  name: ''
+- id: 17580427
+  name: Hazy Rune
+- id: 17580428
+  name: Survival Guide

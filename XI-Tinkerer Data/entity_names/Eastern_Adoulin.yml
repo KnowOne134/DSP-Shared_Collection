@@ -1,0 +1,485 @@
+names:
+- id: 17829904
+  name: JGL_BUILD_MASTER_0
+- id: 17829905
+  name: JGL_BUILD_MASTER_1
+- id: 17829906
+  name: JGL_BUILD_MASTER_2
+- id: 17829907
+  name: JGL_BUILD_MASTER_3
+- id: 17829908
+  name: JGL_BUILD_MASTER_4
+- id: 17829909
+  name: JGL_BUILD_MASTER_5
+- id: 17829938
+  name: Soul Pyre
+- id: 17829939
+  name: Soul Pyre
+- id: 17829940
+  name: Soul Pyre
+- id: 17829941
+  name: Soul Pyre
+- id: 17829942
+  name: Soul Pyre
+- id: 17829943
+  name: Soul Pyre
+- id: 17829944
+  name: Task Delegator
+- id: 17829945
+  name: Task Delegator
+- id: 17829946
+  name: Civil Registrar
+- id: 17829947
+  name: Civil Registrar
+- id: 17829948
+  name: GLD_BUILD_MASTER
+- id: 17829949
+  name: Achieve Master
+- id: 17829950
+  name: Unity Master
+- id: 17829974
+  name: Maudilyonne
+- id: 17829975
+  name: 'Home Point #1'
+- id: 17829976
+  name: 'Home Point #2'
+- id: 17829977
+  name: 'Home Point #3'
+- id: 17829978
+  name: 'Home Point #4'
+- id: 17829979
+  name: 'Home Point #5'
+- id: 17829981
+  name: Moogle
+- id: 17829982
+  name: Moogle
+- id: 17829983
+  name: Moogle
+- id: 17829984
+  name: Moogle
+- id: 17829985
+  name: Moogle
+- id: 17829986
+  name: Moogle
+- id: 17829987
+  name: Moogle
+- id: 17829988
+  name: Moogle
+- id: 17829989
+  name: Auction Counter
+- id: 17829990
+  name: Auction Counter
+- id: 17829991
+  name: Auction Counter
+- id: 17829992
+  name: Auction Counter
+- id: 17829993
+  name: Terianne
+- id: 17829994
+  name: Moogle
+- id: 17829995
+  name: ''
+- id: 17829996
+  name: ???
+- id: 17829997
+  name: ''
+- id: 17829998
+  name: Moogle
+- id: 17829999
+  name: Symphonic Curator
+- id: 17830000
+  name: ''
+- id: 17830001
+  name: ???
+- id: 17830002
+  name: ''
+- id: 17830003
+  name: Octavien
+- id: 17830004
+  name: Dimmian
+- id: 17830005
+  name: ''
+- id: 17830006
+  name: ''
+- id: 17830007
+  name: ''
+- id: 17830008
+  name: ''
+- id: 17830009
+  name: ''
+- id: 17830010
+  name: Sharuru
+- id: 17830011
+  name: Felmsy
+- id: 17830012
+  name: Pudith
+- id: 17830013
+  name: Yocile
+- id: 17830014
+  name: Waypoint
+- id: 17830015
+  name: Waypoint
+- id: 17830016
+  name: Waypoint
+- id: 17830017
+  name: Waypoint
+- id: 17830018
+  name: Waypoint
+- id: 17830019
+  name: Waypoint
+- id: 17830020
+  name: Waypoint
+- id: 17830021
+  name: Waypoint
+- id: 17830022
+  name: Waypoint
+- id: 17830023
+  name: ''
+- id: 17830024
+  name: ''
+- id: 17830025
+  name: ''
+- id: 17830026
+  name: ''
+- id: 17830027
+  name: 'Door: Boarding House'
+- id: 17830028
+  name: Iyvah Halohm
+- id: 17830029
+  name: Ploh Trishbahk
+- id: 17830030
+  name: Arciela
+- id: 17830031
+  name: Arciela
+- id: 17830032
+  name: Arciela
+- id: 17830033
+  name: Melvien
+- id: 17830034
+  name: Hildebert
+- id: 17830035
+  name: Svenja
+- id: 17830036
+  name: Ikhi Askamot
+- id: 17830037
+  name: Chero-Machero
+- id: 17830038
+  name: Margret
+- id: 17830039
+  name: Lhe Lhangavo
+- id: 17830040
+  name: Gratzigg
+- id: 17830041
+  name: Flaviria
+- id: 17830042
+  name: Reginald
+- id: 17830043
+  name: Amchuchu
+- id: 17830044
+  name: Vortimere
+- id: 17830045
+  name: Ingrid
+- id: 17830046
+  name: ''
+- id: 17830047
+  name: ''
+- id: 17830048
+  name: ''
+- id: 17830049
+  name: ''
+- id: 17830050
+  name: ''
+- id: 17830051
+  name: Grennith
+- id: 17830052
+  name: ''
+- id: 17830053
+  name: ''
+- id: 17830054
+  name: ''
+- id: 17830055
+  name: ''
+- id: 17830056
+  name: ''
+- id: 17830057
+  name: ''
+- id: 17830058
+  name: ''
+- id: 17830059
+  name: ''
+- id: 17830060
+  name: ''
+- id: 17830061
+  name: ''
+- id: 17830062
+  name: Pollimio
+- id: 17830063
+  name: ''
+- id: 17830064
+  name: 'Door:'
+- id: 17830065
+  name: 'Door:'
+- id: 17830066
+  name: 'Door:'
+- id: 17830067
+  name: 'Door:'
+- id: 17830068
+  name: 'Door:'
+- id: 17830069
+  name: Audibert
+- id: 17830070
+  name: Corpo-Vorpo
+- id: 17830071
+  name: Erisa
+- id: 17830072
+  name: Yvermain
+- id: 17830073
+  name: Kyff
+- id: 17830074
+  name: Dworvigg
+- id: 17830075
+  name: ''
+- id: 17830076
+  name: Door:Research Chamber
+- id: 17830077
+  name: Nashu
+- id: 17830078
+  name: Ari-Barali
+- id: 17830079
+  name: Othellius
+- id: 17830080
+  name: Erfimia
+- id: 17830081
+  name: Reepi-Molpi
+- id: 17830082
+  name: Roskin
+- id: 17830083
+  name: ''
+- id: 17830084
+  name: ''
+- id: 17830085
+  name: Finnigor
+- id: 17830086
+  name: Wegellion
+- id: 17830087
+  name: Palomel
+- id: 17830088
+  name: ???
+- id: 17830089
+  name: ???
+- id: 17830090
+  name: ''
+- id: 17830091
+  name: Boffin
+- id: 17830092
+  name: Huss
+- id: 17830093
+  name: Vastran
+- id: 17830094
+  name: Irate Destrier
+- id: 17830095
+  name: Celine
+- id: 17830096
+  name: Alphonserme
+- id: 17830097
+  name: Ndah Tolohjin
+- id: 17830098
+  name: Jozhud
+- id: 17830099
+  name: Fostaig
+- id: 17830100
+  name: Garembert
+- id: 17830101
+  name: Eppel-Treppel
+- id: 17830102
+  name: Oscairn
+- id: 17830103
+  name: Cunegonde
+- id: 17830104
+  name: Risen Hackles
+- id: 17830105
+  name: Addled Fetters
+- id: 17830106
+  name: Ysadel
+- id: 17830107
+  name: Lamaron
+- id: 17830108
+  name: Tallula
+- id: 17830109
+  name: Jampiaire
+- id: 17830110
+  name: Stavalian
+- id: 17830111
+  name: Bernegeois
+- id: 17830112
+  name: Malgrom
+- id: 17830113
+  name: Melvort
+- id: 17830114
+  name: Uhlstar
+- id: 17830115
+  name: Penthus
+- id: 17830116
+  name: Erminold
+- id: 17830117
+  name: Glowing Hearth
+- id: 17830118
+  name: Krepol
+- id: 17830119
+  name: Nhili Uvolep
+- id: 17830120
+  name: Oingo-Zoingo
+- id: 17830121
+  name: Chumli-Mojumli
+- id: 17830122
+  name: Zalk
+- id: 17830123
+  name: Old Bellows
+- id: 17830124
+  name: Dalish
+- id: 17830125
+  name: Chelidoine
+- id: 17830126
+  name: Amaury
+- id: 17830127
+  name: Laetitia
+- id: 17830128
+  name: Neviyak
+- id: 17830129
+  name: Rigobertine
+- id: 17830130
+  name: Zaffeld
+- id: 17830131
+  name: Behsa Alehgo
+- id: 17830132
+  name: Adelise
+- id: 17830133
+  name: Kapeipei
+- id: 17830134
+  name: DIRECTOR by yaeko
+- id: 17830135
+  name: Lhaiso Neftereh
+- id: 17830136
+  name: Sylvie
+- id: 17830137
+  name: Gregoirellaud
+- id: 17830138
+  name: Hemborok
+- id: 17830139
+  name: Obelailai
+- id: 17830140
+  name: Lionardois
+- id: 17830141
+  name: ???
+- id: 17830142
+  name: Runje Desaali
+- id: 17830143
+  name: Geosuke
+- id: 17830144
+  name: ''
+- id: 17830145
+  name: ''
+- id: 17830146
+  name: Insidio
+- id: 17830147
+  name: ''
+- id: 17830148
+  name: Greebly
+- id: 17830149
+  name: Palomel
+- id: 17830150
+  name: Estelle
+- id: 17830151
+  name: Estienneux
+- id: 17830152
+  name: ???
+- id: 17830153
+  name: ''
+- id: 17830154
+  name: Margret
+- id: 17830155
+  name: ???
+- id: 17830156
+  name: ''
+- id: 17830157
+  name: ''
+- id: 17830158
+  name: ''
+- id: 17830159
+  name: ''
+- id: 17830160
+  name: ''
+- id: 17830161
+  name: Oston
+- id: 17830162
+  name: Lola
+- id: 17830163
+  name: ???
+- id: 17830164
+  name: ???
+- id: 17830165
+  name: ''
+- id: 17830166
+  name: ''
+- id: 17830167
+  name: ''
+- id: 17830168
+  name: ''
+- id: 17830169
+  name: ''
+- id: 17830170
+  name: ''
+- id: 17830171
+  name: ''
+- id: 17830172
+  name: Malulu
+- id: 17830173
+  name: Jaded Hawk
+- id: 17830174
+  name: Vesca
+- id: 17830175
+  name: Craggy Bluff
+- id: 17830176
+  name: Reffen-Geppen
+- id: 17830177
+  name: Ujlei Zelekko
+- id: 17830178
+  name: Sifa Alani
+- id: 17830179
+  name: Fariska Lokhmi
+- id: 17830180
+  name: Soppopo
+- id: 17830181
+  name: Chamulele
+- id: 17830182
+  name: Xavinien
+- id: 17830183
+  name: Patient Snake
+- id: 17830184
+  name: Inthius
+- id: 17830185
+  name: Quiri-Aliri
+- id: 17830186
+  name: Winrix
+- id: 17830187
+  name: Treasure Coffer
+- id: 17830188
+  name: Oston
+- id: 17830189
+  name: Lola
+- id: 17830190
+  name: Anomaly Expert
+- id: 17830191
+  name: Delivery Specialist
+- id: 17830192
+  name: Linkshell Concierge
+- id: 17830193
+  name: Linkshell Concierge
+- id: 17830194
+  name: Chat Manual
+- id: 17830195
+  name: Bheva Grantih
+- id: 17830196
+  name: ''
+- id: 17830197
+  name: Survival Guide

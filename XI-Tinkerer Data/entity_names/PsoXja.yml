@@ -1,0 +1,941 @@
+names:
+- id: 16814081
+  name: Gargoyle
+- id: 16814082
+  name: Gargoyle
+- id: 16814083
+  name: Gargoyle
+- id: 16814084
+  name: Gargoyle
+- id: 16814085
+  name: Gargoyle
+- id: 16814086
+  name: Gargoyle
+- id: 16814087
+  name: Gargoyle
+- id: 16814088
+  name: Gargoyle
+- id: 16814089
+  name: Gargoyle
+- id: 16814090
+  name: Gargoyle
+- id: 16814091
+  name: Gargoyle
+- id: 16814092
+  name: Gargoyle
+- id: 16814093
+  name: Gargoyle
+- id: 16814094
+  name: Gargoyle
+- id: 16814095
+  name: Gargoyle
+- id: 16814096
+  name: Gargoyle
+- id: 16814097
+  name: Vampire Bat
+- id: 16814098
+  name: Vampire Bat
+- id: 16814099
+  name: Maze Lizard
+- id: 16814100
+  name: Maze Lizard
+- id: 16814101
+  name: Maze Lizard
+- id: 16814102
+  name: Maze Lizard
+- id: 16814103
+  name: Maze Lizard
+- id: 16814104
+  name: Maze Lizard
+- id: 16814105
+  name: Blubber Eyes
+- id: 16814106
+  name: Cryptonberry Plaguer
+- id: 16814107
+  name: Cryptonberry Plaguer
+- id: 16814108
+  name: Blubber Eyes
+- id: 16814109
+  name: Blubber Eyes
+- id: 16814110
+  name: Cryptonberry Cutter
+- id: 16814111
+  name: Cryptonberry Cutter
+- id: 16814112
+  name: Blubber Eyes
+- id: 16814113
+  name: Camazotz
+- id: 16814114
+  name: Camazotz
+- id: 16814115
+  name: Magic Millstone
+- id: 16814116
+  name: Magic Millstone
+- id: 16814117
+  name: Snoll
+- id: 16814118
+  name: Cryptonberry Plaguer
+- id: 16814119
+  name: Cryptonberry Harrier
+- id: 16814120
+  name: Tonberry's Elemental
+- id: 16814121
+  name: Cryptonberry Stalker
+- id: 16814122
+  name: Cryptonberry Harrier
+- id: 16814123
+  name: Tonberry's Elemental
+- id: 16814124
+  name: Cryptonberry Stalker
+- id: 16814125
+  name: Cryptonberry Cutter
+- id: 16814126
+  name: Diremite Stalker
+- id: 16814127
+  name: Diremite Stalker
+- id: 16814128
+  name: Diremite Stalker
+- id: 16814129
+  name: Diremite Stalker
+- id: 16814130
+  name: Ice Elemental
+- id: 16814131
+  name: Cryptonberry Plaguer
+- id: 16814132
+  name: Cryptonberry Plaguer
+- id: 16814133
+  name: Cryptonberry Harrier
+- id: 16814134
+  name: Tonberry's Elemental
+- id: 16814135
+  name: Cryptonberry Stalker
+- id: 16814136
+  name: Cryptonberry Cutter
+- id: 16814137
+  name: Blubber Eyes
+- id: 16814138
+  name: Snoll
+- id: 16814139
+  name: Goblin Hunter
+- id: 16814140
+  name: Goblin Enchanter
+- id: 16814141
+  name: Magic Millstone
+- id: 16814142
+  name: Goblin Jeweler
+- id: 16814143
+  name: Goblin Bouncer
+- id: 16814144
+  name: Goblin Mercenary
+- id: 16814145
+  name: Goblin Alchemist
+- id: 16814146
+  name: Goblin Bandit
+- id: 16814147
+  name: Maledict Millstone
+- id: 16814148
+  name: Dire Bat
+- id: 16814149
+  name: Dire Bat
+- id: 16814150
+  name: Maledict Millstone
+- id: 16814151
+  name: Diremite Assaulter
+- id: 16814152
+  name: Diremite Assaulter
+- id: 16814153
+  name: Dire Bat
+- id: 16814154
+  name: Diremite Assaulter
+- id: 16814155
+  name: Diremite Assaulter
+- id: 16814156
+  name: Dire Bat
+- id: 16814157
+  name: Diremite Assaulter
+- id: 16814158
+  name: Diremite Assaulter
+- id: 16814159
+  name: Thousand Eyes
+- id: 16814160
+  name: Diremite Assaulter
+- id: 16814161
+  name: Diremite Assaulter
+- id: 16814162
+  name: Thousand Eyes
+- id: 16814163
+  name: Goblin Mercenary
+- id: 16814164
+  name: Goblin Alchemist
+- id: 16814165
+  name: Goblin Bandit
+- id: 16814166
+  name: Goblin Alchemist
+- id: 16814167
+  name: Thousand Eyes
+- id: 16814168
+  name: Goblin Bandit
+- id: 16814169
+  name: Thousand Eyes
+- id: 16814170
+  name: Goblin Alchemist
+- id: 16814171
+  name: Thousand Eyes
+- id: 16814172
+  name: Goblin Bandit
+- id: 16814173
+  name: Thousand Eyes
+- id: 16814174
+  name: Goblin Veterinarian
+- id: 16814175
+  name: Goblin's Bat
+- id: 16814176
+  name: Diremite Assaulter
+- id: 16814177
+  name: Maledict Millstone
+- id: 16814178
+  name: Maledict Millstone
+- id: 16814179
+  name: Maledict Millstone
+- id: 16814180
+  name: Goblin Veterinarian
+- id: 16814181
+  name: Goblin's Bat
+- id: 16814182
+  name: Goblin Mercenary
+- id: 16814183
+  name: Goblin Mercenary
+- id: 16814184
+  name: Goblin Alchemist
+- id: 16814185
+  name: Goblin Bandit
+- id: 16814186
+  name: Goblin Veterinarian
+- id: 16814187
+  name: Goblin's Bat
+- id: 16814188
+  name: Thousand Eyes
+- id: 16814189
+  name: Thousand Eyes
+- id: 16814190
+  name: Morozko
+- id: 16814191
+  name: Snoll
+- id: 16814192
+  name: Snoll
+- id: 16814193
+  name: Labyrinth Lizard
+- id: 16814194
+  name: Snoll
+- id: 16814195
+  name: Labyrinth Lizard
+- id: 16814196
+  name: Cryptonberry Plaguer
+- id: 16814197
+  name: Cryptonberry Cutter
+- id: 16814198
+  name: Labyrinth Lizard
+- id: 16814199
+  name: Snoll
+- id: 16814200
+  name: Labyrinth Lizard
+- id: 16814201
+  name: Snoll
+- id: 16814202
+  name: Labyrinth Lizard
+- id: 16814203
+  name: Snoll
+- id: 16814204
+  name: Cryptonberry Stalker
+- id: 16814205
+  name: Morozko
+- id: 16814206
+  name: Cryptonberry Harrier
+- id: 16814207
+  name: Tonberry's Elemental
+- id: 16814208
+  name: Snow Lizard
+- id: 16814209
+  name: Snow Lizard
+- id: 16814210
+  name: Dark Elemental
+- id: 16814211
+  name: Ice Elemental
+- id: 16814212
+  name: Dark Elemental
+- id: 16814213
+  name: Ice Elemental
+- id: 16814214
+  name: Cryptonberry Plaguer
+- id: 16814215
+  name: Cryptonberry Stalker
+- id: 16814216
+  name: Snow Lizard
+- id: 16814217
+  name: Dark Elemental
+- id: 16814218
+  name: Ice Elemental
+- id: 16814219
+  name: Snow Lizard
+- id: 16814220
+  name: Maledict Millstone
+- id: 16814221
+  name: Maledict Millstone
+- id: 16814222
+  name: Maledict Millstone
+- id: 16814223
+  name: Cryptonberry Harrier
+- id: 16814224
+  name: Tonberry's Elemental
+- id: 16814225
+  name: Diremite Assaulter
+- id: 16814226
+  name: Diremite Assaulter
+- id: 16814227
+  name: Diremite Assaulter
+- id: 16814228
+  name: Thousand Eyes
+- id: 16814229
+  name: Thousand Eyes
+- id: 16814230
+  name: Morozko
+- id: 16814231
+  name: Gargoyle-Iota
+- id: 16814232
+  name: Gargoyle-Kappa
+- id: 16814233
+  name: Gargoyle-Lambda
+- id: 16814234
+  name: Gargoyle-Mu
+- id: 16814235
+  name: Cryptonberry Harrier
+- id: 16814236
+  name: Tonberry's Elemental
+- id: 16814237
+  name: Cryptonberry Stalker
+- id: 16814238
+  name: Cryptonberry Cutter
+- id: 16814239
+  name: Cryptonberry Plaguer
+- id: 16814240
+  name: Labyrinth Lizard
+- id: 16814241
+  name: Labyrinth Lizard
+- id: 16814242
+  name: Gargoyle
+- id: 16814243
+  name: Gargoyle
+- id: 16814244
+  name: Labyrinth Lizard
+- id: 16814245
+  name: Labyrinth Lizard
+- id: 16814246
+  name: Cryptonberry Stalker
+- id: 16814247
+  name: Treasure Chest
+- id: 16814248
+  name: Labyrinth Lizard
+- id: 16814249
+  name: Magic Millstone
+- id: 16814250
+  name: Magic Millstone
+- id: 16814251
+  name: Camazotz
+- id: 16814252
+  name: Cryptonberry Plaguer
+- id: 16814253
+  name: Cryptonberry Harrier
+- id: 16814254
+  name: Tonberry's Elemental
+- id: 16814255
+  name: Cryptonberry Stalker
+- id: 16814256
+  name: Cryptonberry Cutter
+- id: 16814257
+  name: Camazotz
+- id: 16814258
+  name: Treasure Chest
+- id: 16814259
+  name: Camazotz
+- id: 16814260
+  name: Cryptonberry Plaguer
+- id: 16814261
+  name: Cryptonberry Stalker
+- id: 16814262
+  name: Cryptonberry Cutter
+- id: 16814263
+  name: Treasure Chest
+- id: 16814264
+  name: Labyrinth Lizard
+- id: 16814265
+  name: Labyrinth Lizard
+- id: 16814266
+  name: Magic Millstone
+- id: 16814267
+  name: Magic Millstone
+- id: 16814268
+  name: Magic Millstone
+- id: 16814269
+  name: Magic Millstone
+- id: 16814270
+  name: Camazotz
+- id: 16814271
+  name: Camazotz
+- id: 16814272
+  name: Cryptonberry Cutter
+- id: 16814273
+  name: Cryptonberry Harrier
+- id: 16814274
+  name: Tonberry's Elemental
+- id: 16814275
+  name: Ice Elemental
+- id: 16814276
+  name: Treasure Chest
+- id: 16814277
+  name: Magic Millstone
+- id: 16814278
+  name: Magic Millstone
+- id: 16814279
+  name: Labyrinth Lizard
+- id: 16814280
+  name: Labyrinth Lizard
+- id: 16814281
+  name: Labyrinth Lizard
+- id: 16814282
+  name: Magic Millstone
+- id: 16814283
+  name: Magic Millstone
+- id: 16814284
+  name: Camazotz
+- id: 16814285
+  name: Camazotz
+- id: 16814286
+  name: Diremite Stalker
+- id: 16814287
+  name: Diremite Stalker
+- id: 16814288
+  name: Diremite Stalker
+- id: 16814289
+  name: Cryptonberry Plaguer
+- id: 16814290
+  name: Treasure Chest
+- id: 16814291
+  name: Gargoyle
+- id: 16814292
+  name: Gargoyle
+- id: 16814293
+  name: Gargoyle
+- id: 16814294
+  name: Gargoyle
+- id: 16814295
+  name: Diremite Assaulter
+- id: 16814296
+  name: Diremite Assaulter
+- id: 16814297
+  name: Diremite Assaulter
+- id: 16814298
+  name: Diremite Assaulter
+- id: 16814299
+  name: Treasure Chest
+- id: 16814300
+  name: Dire Bat
+- id: 16814301
+  name: Dire Bat
+- id: 16814302
+  name: Ice Elemental
+- id: 16814303
+  name: Labyrinth Lizard
+- id: 16814304
+  name: Labyrinth Lizard
+- id: 16814305
+  name: Gazer
+- id: 16814306
+  name: Gazer
+- id: 16814307
+  name: Gazer
+- id: 16814308
+  name: Gazer
+- id: 16814309
+  name: Diremite
+- id: 16814310
+  name: Diremite
+- id: 16814311
+  name: Snowball
+- id: 16814312
+  name: Gazer
+- id: 16814313
+  name: Diremite
+- id: 16814314
+  name: Diremite
+- id: 16814315
+  name: Diremite
+- id: 16814316
+  name: Gazer
+- id: 16814317
+  name: Diremite
+- id: 16814318
+  name: Diremite
+- id: 16814319
+  name: Diremite
+- id: 16814320
+  name: Gyre-Carlin
+- id: 16814321
+  name: Snowball
+- id: 16814322
+  name: Gazer
+- id: 16814323
+  name: Gazer
+- id: 16814324
+  name: Diremite
+- id: 16814325
+  name: Diremite
+- id: 16814326
+  name: Gazer
+- id: 16814327
+  name: Gazer
+- id: 16814328
+  name: Diremite
+- id: 16814329
+  name: Diremite
+- id: 16814330
+  name: Diremite
+- id: 16814331
+  name: Gyre-Carlin
+- id: 16814332
+  name: Snowball
+- id: 16814333
+  name: Maze Lizard
+- id: 16814334
+  name: Maze Lizard
+- id: 16814335
+  name: Diremite
+- id: 16814336
+  name: Diremite
+- id: 16814337
+  name: Maze Lizard
+- id: 16814338
+  name: Maze Lizard
+- id: 16814339
+  name: Maze Lizard
+- id: 16814340
+  name: Diremite
+- id: 16814341
+  name: Diremite
+- id: 16814342
+  name: Maze Lizard
+- id: 16814343
+  name: Diremite
+- id: 16814344
+  name: Gyre-Carlin
+- id: 16814345
+  name: Diremite
+- id: 16814346
+  name: Vampire Bat
+- id: 16814347
+  name: Vampire Bat
+- id: 16814348
+  name: Diremite
+- id: 16814349
+  name: Diremite
+- id: 16814350
+  name: Diremite
+- id: 16814351
+  name: Vampire Bat
+- id: 16814352
+  name: Vampire Bat
+- id: 16814353
+  name: Dark Elemental
+- id: 16814354
+  name: Ice Elemental
+- id: 16814355
+  name: Vampire Bat
+- id: 16814356
+  name: Vampire Bat
+- id: 16814357
+  name: Vampire Bat
+- id: 16814358
+  name: Vampire Bat
+- id: 16814359
+  name: Snowball
+- id: 16814360
+  name: Snowball
+- id: 16814361
+  name: Nunyunuwi
+- id: 16814362
+  name: Maze Lizard
+- id: 16814363
+  name: Maze Lizard
+- id: 16814364
+  name: Diremite
+- id: 16814365
+  name: Diremite
+- id: 16814366
+  name: Maze Lizard
+- id: 16814367
+  name: Maze Lizard
+- id: 16814368
+  name: Snowball
+- id: 16814369
+  name: Snowball
+- id: 16814370
+  name: Thousand Eyes
+- id: 16814371
+  name: Dire Bat
+- id: 16814372
+  name: Dire Bat
+- id: 16814373
+  name: Maledict Millstone
+- id: 16814374
+  name: Maledict Millstone
+- id: 16814375
+  name: Maledict Millstone
+- id: 16814376
+  name: Thousand Eyes
+- id: 16814377
+  name: Thousand Eyes
+- id: 16814378
+  name: Dire Bat
+- id: 16814379
+  name: Dire Bat
+- id: 16814380
+  name: Diremite Assaulter
+- id: 16814381
+  name: Dire Bat
+- id: 16814382
+  name: Dire Bat
+- id: 16814383
+  name: Diremite Assaulter
+- id: 16814384
+  name: Diremite Assaulter
+- id: 16814385
+  name: Diremite Assaulter
+- id: 16814386
+  name: Snow Lizard
+- id: 16814387
+  name: Snow Lizard
+- id: 16814388
+  name: Dire Bat
+- id: 16814389
+  name: Dire Bat
+- id: 16814390
+  name: Avalanche
+- id: 16814391
+  name: Purgatory Bat
+- id: 16814392
+  name: Purgatory Bat
+- id: 16814393
+  name: Avalanche
+- id: 16814394
+  name: Million Eyes
+- id: 16814395
+  name: Million Eyes
+- id: 16814396
+  name: Million Eyes
+- id: 16814397
+  name: Million Eyes
+- id: 16814398
+  name: Purgatory Bat
+- id: 16814399
+  name: Avalanche
+- id: 16814400
+  name: Demonic Millstone
+- id: 16814401
+  name: Demonic Millstone
+- id: 16814402
+  name: Frost Lizard
+- id: 16814403
+  name: Frost Lizard
+- id: 16814404
+  name: Purgatory Bat
+- id: 16814405
+  name: Diremite Dominator
+- id: 16814406
+  name: Diremite Dominator
+- id: 16814407
+  name: Frost Lizard
+- id: 16814408
+  name: Frost Lizard
+- id: 16814409
+  name: Purgatory Bat
+- id: 16814410
+  name: Diremite Dominator
+- id: 16814411
+  name: Diremite Dominator
+- id: 16814412
+  name: Dark Elemental
+- id: 16814413
+  name: Ice Elemental
+- id: 16814414
+  name: Demonic Millstone
+- id: 16814415
+  name: Million Eyes
+- id: 16814416
+  name: Million Eyes
+- id: 16814417
+  name: Million Eyes
+- id: 16814418
+  name: Million Eyes
+- id: 16814419
+  name: Diremite Dominator
+- id: 16814420
+  name: Diremite Dominator
+- id: 16814421
+  name: Purgatory Bat
+- id: 16814422
+  name: Purgatory Bat
+- id: 16814423
+  name: Frost Lizard
+- id: 16814424
+  name: Frost Lizard
+- id: 16814425
+  name: Archaic Chest
+- id: 16814426
+  name: Dark Elemental
+- id: 16814427
+  name: Ice Elemental
+- id: 16814428
+  name: Archaic Chest
+- id: 16814429
+  name: Dark Elemental
+- id: 16814430
+  name: Ice Elemental
+- id: 16814431
+  name: Cryptonberry Stalker
+- id: 16814432
+  name: Golden-Tongued Culberry
+- id: 16814434
+  name: ???
+- id: 16814435
+  name: Achieve Master
+- id: 16814436
+  name: Unity Master
+- id: 16814442
+  name: TOWER_A_Lift_0
+- id: 16814445
+  name: Stone Door
+- id: 16814446
+  name: Stone Door
+- id: 16814447
+  name: Stone Door
+- id: 16814448
+  name: Stone Door
+- id: 16814449
+  name: Stone Door
+- id: 16814450
+  name: Stone Door
+- id: 16814451
+  name: Stone Door
+- id: 16814452
+  name: Stone Door
+- id: 16814453
+  name: Stone Door
+- id: 16814454
+  name: Stone Door
+- id: 16814455
+  name: Stone Door
+- id: 16814456
+  name: Stone Door
+- id: 16814457
+  name: Stone Door
+- id: 16814458
+  name: Stone Door
+- id: 16814459
+  name: Stone Door
+- id: 16814460
+  name: Stone Door
+- id: 16814461
+  name: TOWER_B_Lift_1
+- id: 16814464
+  name: TOWER_C_Lift_1
+- id: 16814467
+  name: TOWER_C_Lift_N
+- id: 16814468
+  name: door_i9o
+- id: 16814469
+  name: door_i9p
+- id: 16814470
+  name: door_i9q
+- id: 16814471
+  name: TOWER_C_Lift_W
+- id: 16814472
+  name: door_09p
+- id: 16814473
+  name: door_09q
+- id: 16814474
+  name: TOWER_C_Lift_E
+- id: 16814475
+  name: door_09j
+- id: 16814476
+  name: door_09k
+- id: 16814477
+  name: TOWER_C_Lift_S
+- id: 16814478
+  name: door_09m
+- id: 16814479
+  name: door_09l
+- id: 16814480
+  name: door_09i
+- id: 16814481
+  name: L_door_i9t
+- id: 16814482
+  name: door_09n
+- id: 16814483
+  name: door_09o
+- id: 16814484
+  name: L_door_i9s
+- id: 16814485
+  name: L_door_i9r
+- id: 16814486
+  name: TOWER_D_Lift_1
+- id: 16814489
+  name: door_09s
+- id: 16814490
+  name: door_09t
+- id: 16814491
+  name: door_09u
+- id: 16814492
+  name: door_09x
+- id: 16814493
+  name: door_09y
+- id: 16814494
+  name: door_09z
+- id: 16814495
+  name: door_i90
+- id: 16814496
+  name: door_i91
+- id: 16814497
+  name: door_i92
+- id: 16814498
+  name: door_i93
+- id: 16814499
+  name: door_09v
+- id: 16814500
+  name: ???
+- id: 16814501
+  name: Stone Door
+- id: 16814502
+  name: door_09w
+- id: 16814503
+  name: ???
+- id: 16814504
+  name: Stone Door
+- id: 16814505
+  name: TOWER_E_Lift_1
+- id: 16814508
+  name: TOWER_F_Lift_W
+- id: 16814511
+  name: TOWER_F_Lift_E
+- id: 16814514
+  name: Stone Door
+- id: 16814515
+  name: Stone Door
+- id: 16814516
+  name: TOWER_C_PANEL_N
+- id: 16814517
+  name: TOWER_C_PANEL_E
+- id: 16814518
+  name: TOWER_C_PANEL_S
+- id: 16814519
+  name: Crystal Receptor
+- id: 16814520
+  name: TOWER_D_PANEL
+- id: 16814521
+  name: Ev_FX
+- id: 16814522
+  name: Avatar Gate
+- id: 16814523
+  name: Avatar Gate
+- id: 16814524
+  name: Avatar Gate
+- id: 16814525
+  name: Avatar Gate
+- id: 16814526
+  name: Stone Gate
+- id: 16814527
+  name: ''
+- id: 16814528
+  name: ''
+- id: 16814529
+  name: ''
+- id: 16814530
+  name: ''
+- id: 16814531
+  name: ''
+- id: 16814532
+  name: Prishe
+- id: 16814533
+  name: Selh'teus
+- id: 16814534
+  name: Tenzen
+- id: 16814535
+  name: Ulmia
+- id: 16814536
+  name: Nag'molada
+- id: 16814537
+  name: Louverance
+- id: 16814538
+  name: ''
+- id: 16814539
+  name: ''
+- id: 16814540
+  name: ''
+- id: 16814541
+  name: ''
+- id: 16814542
+  name: ''
+- id: 16814543
+  name: ''
+- id: 16814544
+  name: Esha'ntarl
+- id: 16814545
+  name: Fenrir
+- id: 16814546
+  name: ''
+- id: 16814547
+  name: ''
+- id: 16814548
+  name: ''
+- id: 16814549
+  name: ???
+- id: 16814550
+  name: ''
+- id: 16814551
+  name: ''
+- id: 16814552
+  name: ''
+- id: 16814553
+  name: ''
+- id: 16814554
+  name: ''
+- id: 16814555
+  name: Ramblix
+- id: 16814556
+  name: Goblin Footprint
+- id: 16814557
+  name: Treasure Chest
+- id: 16814559
+  name: Moogle
+- id: 16814560
+  name: Moogle
+- id: 16814561
+  name: Moogle
+- id: 16814562
+  name: Moogle
+- id: 16814563
+  name: Moogle
+- id: 16814564
+  name: Moogle
+- id: 16814565
+  name: Moogle
+- id: 16814566
+  name: Moogle
+- id: 16814567
+  name: 'Home Point #1'
+- id: 16814568
+  name: 'Home Point #2'
+- id: 16814569
+  name: 'Home Point #3'
+- id: 16814570
+  name: 'Home Point #4'
+- id: 16814571
+  name: 'Home Point #5'

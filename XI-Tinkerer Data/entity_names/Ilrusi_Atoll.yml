@@ -1,0 +1,497 @@
+names:
+- id: 17002497
+  name: Percipient Fish
+- id: 17002498
+  name: Percipient Fish
+- id: 17002499
+  name: Percipient Fish
+- id: 17002500
+  name: Percipient Fish
+- id: 17002501
+  name: Percipient Fish
+- id: 17002502
+  name: Percipient Fish
+- id: 17002503
+  name: Percipient Fish
+- id: 17002504
+  name: Percipient Fish
+- id: 17002505
+  name: Cursed Chest
+- id: 17002506
+  name: Cursed Chest
+- id: 17002507
+  name: Cursed Chest
+- id: 17002508
+  name: Cursed Chest
+- id: 17002509
+  name: Cursed Chest
+- id: 17002510
+  name: Cursed Chest
+- id: 17002511
+  name: Cursed Chest
+- id: 17002512
+  name: Cursed Chest
+- id: 17002513
+  name: Cursed Chest
+- id: 17002514
+  name: Cursed Chest
+- id: 17002515
+  name: Cursed Chest
+- id: 17002516
+  name: Cursed Chest
+- id: 17002517
+  name: Lamia No.13
+- id: 17002518
+  name: Fallen Volunteer
+- id: 17002519
+  name: Fallen Imperial Wizard
+- id: 17002520
+  name: Fallen Imperial Trooper
+- id: 17002521
+  name: Carrion Crab
+- id: 17002522
+  name: Carrion Leech
+- id: 17002523
+  name: Carrion Crab
+- id: 17002524
+  name: Carrion Crab
+- id: 17002525
+  name: Carrion Leech
+- id: 17002526
+  name: Carrion Crab
+- id: 17002527
+  name: Carrion Crab
+- id: 17002528
+  name: Carrion Crab
+- id: 17002529
+  name: Carrion Slime
+- id: 17002530
+  name: Carrion Slime
+- id: 17002531
+  name: Carrion Slime
+- id: 17002532
+  name: Carrion Crab
+- id: 17002533
+  name: Carrion Leech
+- id: 17002534
+  name: Carrion Leech
+- id: 17002535
+  name: Carrion Leech
+- id: 17002536
+  name: Carrion Leech
+- id: 17002537
+  name: Carrion Leech
+- id: 17002538
+  name: Carrion Leech
+- id: 17002539
+  name: Carrion Toad
+- id: 17002540
+  name: Carrion Toad
+- id: 17002541
+  name: Undead Crab
+- id: 17002542
+  name: Undead Leech
+- id: 17002543
+  name: Undead Slime
+- id: 17002544
+  name: Undead Toad
+- id: 17002545
+  name: Demolition Automaton
+- id: 17002546
+  name: Wreckage
+- id: 17002547
+  name: Wreckage
+- id: 17002548
+  name: Wreckage
+- id: 17002549
+  name: Wreckage
+- id: 17002550
+  name: Wreckage
+- id: 17002551
+  name: Carrion Crab
+- id: 17002552
+  name: Carrion Crab
+- id: 17002553
+  name: Carrion Crab
+- id: 17002554
+  name: Carrion Crab
+- id: 17002555
+  name: Carrion Crab
+- id: 17002556
+  name: Imp
+- id: 17002557
+  name: Imp
+- id: 17002558
+  name: Imp
+- id: 17002559
+  name: Imp
+- id: 17002560
+  name: Imp
+- id: 17002561
+  name: Imp
+- id: 17002562
+  name: Imp
+- id: 17002563
+  name: Imp
+- id: 17002564
+  name: Qiqirn Chief Diver
+- id: 17002565
+  name: Qiqirn Diver
+- id: 17002566
+  name: Qiqirn Diver
+- id: 17002567
+  name: Qiqirn Diver
+- id: 17002568
+  name: Qiqirn Diver
+- id: 17002569
+  name: Qiqirn Diver
+- id: 17002570
+  name: Giant Orobon
+- id: 17002571
+  name: Giant Orobon
+- id: 17002572
+  name: Giant Orobon
+- id: 17002573
+  name: Giant Orobon
+- id: 17002574
+  name: Giant Orobon
+- id: 17002575
+  name: Giant Orobon
+- id: 17002576
+  name: Giant Orobon
+- id: 17002577
+  name: Kelp Pugil
+- id: 17002578
+  name: Kelp Pugil
+- id: 17002579
+  name: Kelp Pugil
+- id: 17002580
+  name: Kelp Pugil
+- id: 17002581
+  name: Kelp Pugil
+- id: 17002582
+  name: Kelp Pugil
+- id: 17002583
+  name: Kelp Pugil
+- id: 17002584
+  name: Kelp Pugil
+- id: 17002585
+  name: Kelp Kulshedra
+- id: 17002586
+  name: Kelp Kulshedra
+- id: 17002587
+  name: Kelp Kulshedra
+- id: 17002588
+  name: Kelp Kulshedra
+- id: 17002589
+  name: Kelp Kulshedra
+- id: 17002590
+  name: Kelp Crab
+- id: 17002591
+  name: Kelp Crab
+- id: 17002592
+  name: Kelp Crab
+- id: 17002593
+  name: K22B6-LAMIA
+- id: 17002594
+  name: K22B6-LAMIA
+- id: 17002595
+  name: K22H3-LAMIA
+- id: 17002596
+  name: K22H3-LAMIA
+- id: 17002597
+  name: K22P2-LAMIA
+- id: 17002598
+  name: K22P2-LAMIA
+- id: 17002599
+  name: D5R3-MERROW
+- id: 17002600
+  name: D5R3-MERROW
+- id: 17002601
+  name: D5J2-MERROW
+- id: 17002602
+  name: D5J2-MERROW
+- id: 17002603
+  name: D5S1-MERROW
+- id: 17002604
+  name: D5S1-MERROW
+- id: 17002605
+  name: Draugar
+- id: 17002606
+  name: Draugar
+- id: 17002607
+  name: Draugar
+- id: 17002608
+  name: Draugar
+- id: 17002609
+  name: Draugar
+- id: 17002610
+  name: Draugar
+- id: 17002611
+  name: Draugar
+- id: 17002612
+  name: Draugar
+- id: 17002613
+  name: Draugar
+- id: 17002614
+  name: Draugar
+- id: 17002615
+  name: Giant Pugil
+- id: 17002616
+  name: Puffer Pugil
+- id: 17002617
+  name: Clipper
+- id: 17002618
+  name: Snipper
+- id: 17002619
+  name: Kraken
+- id: 17002620
+  name: Orobon
+- id: 17002621
+  name: Qiqirn Pecheur
+- id: 17002622
+  name: Qiqirn Pecheur
+- id: 17002623
+  name: Qiqirn Pecheur
+- id: 17002624
+  name: Qiqirn Pecheur
+- id: 17002625
+  name: Qiqirn Pecheur
+- id: 17002626
+  name: Qiqirn Pecheur
+- id: 17002627
+  name: Qiqirn Pecheur
+- id: 17002628
+  name: Qiqirn Pecheur
+- id: 17002629
+  name: Qiqirn Pecheur
+- id: 17002630
+  name: Qiqirn Pecheur
+- id: 17002631
+  name: Qiqirn Pecheur
+- id: 17002632
+  name: Qiqirn Pecheur
+- id: 17002633
+  name: Qiqirn Pecheur
+- id: 17002634
+  name: Qiqirn Pecheur
+- id: 17002635
+  name: Qiqirn Pecheur
+- id: 17002636
+  name: Qiqirn Pecheur
+- id: 17002637
+  name: Qiqirn Pecheur
+- id: 17002638
+  name: Qiqirn Pecheur
+- id: 17002639
+  name: Qiqirn Pecheur
+- id: 17002640
+  name: Qiqirn Pecheur
+- id: 17002641
+  name: Qiqirn Pecheur
+- id: 17002642
+  name: Qiqirn Pecheur
+- id: 17002643
+  name: Qiqirn Pecheur
+- id: 17002644
+  name: Qiqirn Pecheur
+- id: 17002645
+  name: Qiqirn Pecheur
+- id: 17002646
+  name: Qiqirn Pecheur
+- id: 17002647
+  name: Qiqirn Pecheur
+- id: 17002648
+  name: Qiqirn Pecheur
+- id: 17002649
+  name: Qiqirn Pecheur
+- id: 17002650
+  name: Qiqirn Pecheur
+- id: 17002651
+  name: Khimaira 14X
+- id: 17002652
+  name: Martial Maestro Megomak
+- id: 17002654
+  name: Ancient Lockbox
+- id: 17002655
+  name: Rune of Release
+- id: 17002656
+  name: Uzhahn
+- id: 17002658
+  name: Qiqirun
+- id: 17002659
+  name: Clavauert B Chanoix
+- id: 17002660
+  name: Fairy Apkallu
+- id: 17002661
+  name: Fairy Apkallu
+- id: 17002662
+  name: Fairy Apkallu
+- id: 17002663
+  name: Fairy Apkallu
+- id: 17002664
+  name: Fairy Apkallu
+- id: 17002665
+  name: ???
+- id: 17002666
+  name: ???
+- id: 17002667
+  name: ???
+- id: 17002668
+  name: ???
+- id: 17002669
+  name: ???
+- id: 17002671
+  name: Tian Tian
+- id: 17002672
+  name: ???
+- id: 17002673
+  name: ???
+- id: 17002674
+  name: ???
+- id: 17002675
+  name: ???
+- id: 17002676
+  name: ???
+- id: 17002677
+  name: ???
+- id: 17002678
+  name: ???
+- id: 17002679
+  name: ???
+- id: 17002680
+  name: ???
+- id: 17002681
+  name: ???
+- id: 17002683
+  name: Raubahn
+- id: 17002684
+  name: Ulbuun
+- id: 17002685
+  name: Walagarim
+- id: 17002686
+  name: Bhjaama
+- id: 17002687
+  name: Zawahf
+- id: 17002688
+  name: Zshahda
+- id: 17002690
+  name: Achieve Master
+- id: 17002696
+  name: ''
+- id: 17002698
+  name: Moogle
+- id: 17002699
+  name: Moogle
+- id: 17002700
+  name: Moogle
+- id: 17002701
+  name: Moogle
+- id: 17002702
+  name: Moogle
+- id: 17002703
+  name: Moogle
+- id: 17002704
+  name: Moogle
+- id: 17002705
+  name: Moogle
+- id: 17002706
+  name: DOOR_MASTER
+- id: 17002707
+  name: _1j1
+- id: 17002708
+  name: _1j2
+- id: 17002709
+  name: _1j3
+- id: 17002710
+  name: _1j4
+- id: 17002711
+  name: _1j5
+- id: 17002712
+  name: _1j6
+- id: 17002713
+  name: _1j7
+- id: 17002714
+  name: _1j8
+- id: 17002715
+  name: _1j9
+- id: 17002716
+  name: _1ja
+- id: 17002717
+  name: _1jb
+- id: 17002718
+  name: _1jc
+- id: 17002719
+  name: _1jd
+- id: 17002720
+  name: _1je
+- id: 17002721
+  name: _1jf
+- id: 17002722
+  name: _1jg
+- id: 17002723
+  name: _1jh
+- id: 17002724
+  name: _1ji
+- id: 17002725
+  name: _1jj
+- id: 17002726
+  name: _1jk
+- id: 17002727
+  name: _1jl
+- id: 17002728
+  name: _1jm
+- id: 17002729
+  name: _1jn
+- id: 17002730
+  name: _1jo
+- id: 17002731
+  name: _1jp
+- id: 17002732
+  name: _1jq
+- id: 17002733
+  name: _1jr
+- id: 17002734
+  name: _1js
+- id: 17002735
+  name: _1jt
+- id: 17002736
+  name: _1ju
+- id: 17002737
+  name: _1jv
+- id: 17002738
+  name: _1jw
+- id: 17002739
+  name: _1jx
+- id: 17002740
+  name: _1jy
+- id: 17002741
+  name: _1jz
+- id: 17002742
+  name: _jj0
+- id: 17002743
+  name: _jj1
+- id: 17002744
+  name: _jj2
+- id: 17002745
+  name: _jj3
+- id: 17002746
+  name: _jj4
+- id: 17002747
+  name: _jj5
+- id: 17002748
+  name: _jj6
+- id: 17002749
+  name: _jj7
+- id: 17002750
+  name: _jj8
+- id: 17002751
+  name: _jj9
+- id: 17002752
+  name: _jja
+- id: 17002753
+  name: _jjb
+- id: 17002754
+  name: _jjc
+- id: 17002755
+  name: ''

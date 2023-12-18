@@ -1,0 +1,953 @@
+names:
+- id: 17612801
+  name: Undead Bats
+- id: 17612802
+  name: Undead Bats
+- id: 17612803
+  name: Undead Bats
+- id: 17612804
+  name: Undead Bats
+- id: 17612805
+  name: Undead Bats
+- id: 17612806
+  name: Revenant
+- id: 17612807
+  name: Revenant
+- id: 17612808
+  name: Drone
+- id: 17612809
+  name: Vampire Bat
+- id: 17612810
+  name: Vampire Bat
+- id: 17612811
+  name: Sluagh
+- id: 17612812
+  name: Revenant
+- id: 17612813
+  name: Revenant
+- id: 17612814
+  name: Drone
+- id: 17612815
+  name: Vampire Bat
+- id: 17612816
+  name: Vampire Bat
+- id: 17612817
+  name: Revenant
+- id: 17612818
+  name: Revenant
+- id: 17612819
+  name: Drone
+- id: 17612820
+  name: Vampire Bat
+- id: 17612821
+  name: Vampire Bat
+- id: 17612822
+  name: Undead Bats
+- id: 17612823
+  name: Undead Bats
+- id: 17612824
+  name: Undead Bats
+- id: 17612825
+  name: Drone
+- id: 17612826
+  name: Drone
+- id: 17612827
+  name: Undead Bats
+- id: 17612828
+  name: Undead Bats
+- id: 17612829
+  name: Drone
+- id: 17612830
+  name: Drone
+- id: 17612831
+  name: Drone
+- id: 17612832
+  name: Drone
+- id: 17612833
+  name: Revenant
+- id: 17612834
+  name: Vampire Bat
+- id: 17612835
+  name: Vampire Bat
+- id: 17612836
+  name: Altedour I Tavnazia
+- id: 17612837
+  name: Revenant
+- id: 17612838
+  name: Vampire Bat
+- id: 17612839
+  name: Vampire Bat
+- id: 17612840
+  name: Jenglot
+- id: 17612841
+  name: Revenant
+- id: 17612842
+  name: Vampire Bat
+- id: 17612843
+  name: Vampire Bat
+- id: 17612844
+  name: Revenant
+- id: 17612845
+  name: Vampire Bat
+- id: 17612846
+  name: Vampire Bat
+- id: 17612847
+  name: Clockwork Pod
+- id: 17612848
+  name: Clockwork Pod
+- id: 17612849
+  name: Miser Murphy
+- id: 17612850
+  name: Ore Golem
+- id: 17612851
+  name: Ore Golem
+- id: 17612852
+  name: Undead Bats
+- id: 17612853
+  name: Undead Bats
+- id: 17612854
+  name: Drone
+- id: 17612855
+  name: Drone
+- id: 17612856
+  name: Clockwork Pod
+- id: 17612857
+  name: Clockwork Pod
+- id: 17612858
+  name: Clockwork Pod
+- id: 17612859
+  name: Mind Hoarder
+- id: 17612860
+  name: Drone
+- id: 17612861
+  name: Drone
+- id: 17612862
+  name: Ore Golem
+- id: 17612863
+  name: Ore Golem
+- id: 17612864
+  name: Drone
+- id: 17612865
+  name: Drone
+- id: 17612866
+  name: Ore Golem
+- id: 17612867
+  name: Ore Golem
+- id: 17612868
+  name: Undead Bats
+- id: 17612869
+  name: Undead Bats
+- id: 17612870
+  name: Shadow
+- id: 17612871
+  name: Shadow
+- id: 17612872
+  name: Shadow
+- id: 17612873
+  name: Shadow
+- id: 17612874
+  name: Shadow
+- id: 17612875
+  name: Shadow
+- id: 17612876
+  name: Shadow
+- id: 17612877
+  name: Shadow
+- id: 17612878
+  name: Shadow
+- id: 17612879
+  name: Shadow
+- id: 17612880
+  name: Shadow
+- id: 17612881
+  name: Shadow
+- id: 17612882
+  name: Wekufe
+- id: 17612883
+  name: Wekufe
+- id: 17612884
+  name: Wekufe
+- id: 17612885
+  name: Wekufe
+- id: 17612886
+  name: Wekufe
+- id: 17612887
+  name: Wekufe
+- id: 17612888
+  name: Wekufe
+- id: 17612889
+  name: Wekufe
+- id: 17612890
+  name: Shadow
+- id: 17612891
+  name: Shadow
+- id: 17612892
+  name: Shadow
+- id: 17612893
+  name: Shadow
+- id: 17612894
+  name: Shadow
+- id: 17612895
+  name: Shadow
+- id: 17612896
+  name: Shadow
+- id: 17612897
+  name: Shadow
+- id: 17612898
+  name: Shadow
+- id: 17612899
+  name: Shadow
+- id: 17612900
+  name: Shadow
+- id: 17612901
+  name: Shadow
+- id: 17612902
+  name: Wekufe
+- id: 17612903
+  name: Wekufe
+- id: 17612904
+  name: Wekufe
+- id: 17612905
+  name: Wekufe
+- id: 17612906
+  name: Sentient Carafe
+- id: 17612907
+  name: Sentient Carafe
+- id: 17612908
+  name: Sentient Carafe
+- id: 17612909
+  name: Sentient Carafe
+- id: 17612910
+  name: Sentient Carafe
+- id: 17612911
+  name: Sentient Carafe
+- id: 17612912
+  name: Sentient Carafe
+- id: 17612913
+  name: Sentient Carafe
+- id: 17612914
+  name: Wekufe
+- id: 17612915
+  name: Wekufe
+- id: 17612916
+  name: Wekufe
+- id: 17612917
+  name: Wekufe
+- id: 17612918
+  name: Balayang
+- id: 17612919
+  name: Balayang
+- id: 17612920
+  name: Balayang
+- id: 17612921
+  name: Balayang
+- id: 17612922
+  name: Balayang
+- id: 17612923
+  name: Balayang
+- id: 17612924
+  name: Balayang
+- id: 17612925
+  name: Balayang
+- id: 17612926
+  name: Balayang
+- id: 17612927
+  name: Balayang
+- id: 17612928
+  name: Balayang
+- id: 17612929
+  name: Balayang
+- id: 17612930
+  name: Balayang
+- id: 17612931
+  name: Balayang
+- id: 17612932
+  name: Balayang
+- id: 17612933
+  name: Balayang
+- id: 17612934
+  name: Balayang
+- id: 17612935
+  name: Balayang
+- id: 17612936
+  name: Balayang
+- id: 17612937
+  name: Balayang
+- id: 17612938
+  name: Balayang
+- id: 17612939
+  name: Balayang
+- id: 17612940
+  name: Balayang
+- id: 17612941
+  name: Balayang
+- id: 17612942
+  name: Shadow
+- id: 17612943
+  name: Shadow
+- id: 17612944
+  name: Shadow
+- id: 17612945
+  name: Shadow
+- id: 17612946
+  name: Shadow
+- id: 17612947
+  name: Shadow
+- id: 17612948
+  name: Shadow
+- id: 17612949
+  name: Shadow
+- id: 17612950
+  name: Shadow
+- id: 17612951
+  name: Shadow
+- id: 17612952
+  name: Shadow
+- id: 17612953
+  name: Shadow
+- id: 17612954
+  name: Vampire Bat
+- id: 17612955
+  name: Vampire Bat
+- id: 17612956
+  name: Vampire Bat
+- id: 17612957
+  name: Clockwork Pod
+- id: 17612958
+  name: Ore Golem
+- id: 17612959
+  name: Vampire Bat
+- id: 17612960
+  name: Vampire Bat
+- id: 17612961
+  name: Vampire Bat
+- id: 17612962
+  name: Clockwork Pod
+- id: 17612963
+  name: Ore Golem
+- id: 17612964
+  name: Undead Bats
+- id: 17612965
+  name: Undead Bats
+- id: 17612966
+  name: Undead Bats
+- id: 17612967
+  name: Underworld Bats
+- id: 17612968
+  name: Underworld Bats
+- id: 17612969
+  name: Talos
+- id: 17612970
+  name: Talos
+- id: 17612971
+  name: Talos
+- id: 17612972
+  name: Talos
+- id: 17612973
+  name: Droma
+- id: 17612974
+  name: Droma
+- id: 17612975
+  name: Droma
+- id: 17612976
+  name: Camazotz
+- id: 17612977
+  name: Underworld Bats
+- id: 17612978
+  name: Underworld Bats
+- id: 17612979
+  name: Camazotz
+- id: 17612980
+  name: Camazotz
+- id: 17612981
+  name: Camazotz
+- id: 17612982
+  name: Camazotz
+- id: 17612983
+  name: Underworld Bats
+- id: 17612984
+  name: Underworld Bats
+- id: 17612985
+  name: Underworld Bats
+- id: 17612986
+  name: Utukku
+- id: 17612987
+  name: Utukku
+- id: 17612988
+  name: Specter
+- id: 17612989
+  name: Specter
+- id: 17612990
+  name: Specter
+- id: 17612991
+  name: Specter
+- id: 17612992
+  name: Underworld Bats
+- id: 17612993
+  name: Underworld Bats
+- id: 17612994
+  name: Underworld Bats
+- id: 17612995
+  name: Utukku
+- id: 17612996
+  name: Utukku
+- id: 17612997
+  name: Camazotz
+- id: 17612998
+  name: Camazotz
+- id: 17612999
+  name: Droma
+- id: 17613000
+  name: Droma
+- id: 17613001
+  name: Colossus
+- id: 17613002
+  name: Camazotz
+- id: 17613003
+  name: Camazotz
+- id: 17613004
+  name: Utukku
+- id: 17613005
+  name: Camazotz
+- id: 17613006
+  name: Camazotz
+- id: 17613007
+  name: Utukku
+- id: 17613008
+  name: Camazotz
+- id: 17613009
+  name: Camazotz
+- id: 17613010
+  name: Utukku
+- id: 17613011
+  name: Colossus
+- id: 17613012
+  name: Ice Elemental
+- id: 17613013
+  name: Dark Elemental
+- id: 17613014
+  name: Underworld Bats
+- id: 17613015
+  name: Specter
+- id: 17613016
+  name: Specter
+- id: 17613017
+  name: Specter
+- id: 17613018
+  name: Specter
+- id: 17613019
+  name: Underworld Bats
+- id: 17613020
+  name: Specter
+- id: 17613021
+  name: Specter
+- id: 17613022
+  name: Specter
+- id: 17613023
+  name: Specter
+- id: 17613024
+  name: Underworld Bats
+- id: 17613025
+  name: Specter
+- id: 17613026
+  name: Specter
+- id: 17613027
+  name: Specter
+- id: 17613028
+  name: Specter
+- id: 17613029
+  name: Killing Weapon
+- id: 17613030
+  name: Killing Weapon
+- id: 17613031
+  name: Hellish Weapon
+- id: 17613032
+  name: Hellish Weapon
+- id: 17613033
+  name: Underworld Bats
+- id: 17613034
+  name: Underworld Bats
+- id: 17613035
+  name: Droma
+- id: 17613036
+  name: Droma
+- id: 17613037
+  name: Droma
+- id: 17613038
+  name: Underworld Bats
+- id: 17613039
+  name: Killing Weapon
+- id: 17613040
+  name: Hellish Weapon
+- id: 17613041
+  name: Hellish Weapon
+- id: 17613042
+  name: Utukku
+- id: 17613043
+  name: Utukku
+- id: 17613044
+  name: Utukku
+- id: 17613045
+  name: Colossus
+- id: 17613046
+  name: Goliath
+- id: 17613047
+  name: Colossus
+- id: 17613048
+  name: Goliath
+- id: 17613049
+  name: Colossus
+- id: 17613050
+  name: Colossus
+- id: 17613051
+  name: Colossus
+- id: 17613052
+  name: Goliath
+- id: 17613053
+  name: Colossus
+- id: 17613054
+  name: Goliath
+- id: 17613055
+  name: Colossus
+- id: 17613056
+  name: Underworld Bats
+- id: 17613057
+  name: Underworld Bats
+- id: 17613058
+  name: Underworld Bats
+- id: 17613059
+  name: Underworld Bats
+- id: 17613060
+  name: Talos
+- id: 17613061
+  name: Talos
+- id: 17613062
+  name: Talos
+- id: 17613063
+  name: Talos
+- id: 17613064
+  name: Talos
+- id: 17613065
+  name: Talos
+- id: 17613066
+  name: Underworld Bats
+- id: 17613067
+  name: Underworld Bats
+- id: 17613068
+  name: Underworld Bats
+- id: 17613069
+  name: Underworld Bats
+- id: 17613070
+  name: Camazotz
+- id: 17613071
+  name: Camazotz
+- id: 17613072
+  name: Camazotz
+- id: 17613073
+  name: Camazotz
+- id: 17613074
+  name: Killing Weapon
+- id: 17613075
+  name: Hellish Weapon
+- id: 17613076
+  name: Killing Weapon
+- id: 17613077
+  name: Hellish Weapon
+- id: 17613078
+  name: Killing Weapon
+- id: 17613079
+  name: Hellish Weapon
+- id: 17613080
+  name: Killing Weapon
+- id: 17613081
+  name: Hellish Weapon
+- id: 17613082
+  name: Utukku
+- id: 17613083
+  name: Utukku
+- id: 17613084
+  name: Underworld Bats
+- id: 17613085
+  name: Underworld Bats
+- id: 17613086
+  name: Underworld Bats
+- id: 17613087
+  name: Colossus
+- id: 17613088
+  name: Colossus
+- id: 17613089
+  name: Underworld Bats
+- id: 17613090
+  name: Underworld Bats
+- id: 17613091
+  name: Underworld Bats
+- id: 17613092
+  name: Specter
+- id: 17613093
+  name: Specter
+- id: 17613094
+  name: Specter
+- id: 17613095
+  name: Specter
+- id: 17613096
+  name: Western Shadow
+- id: 17613097
+  name: Underworld Bats
+- id: 17613098
+  name: Underworld Bats
+- id: 17613099
+  name: Specter
+- id: 17613100
+  name: Specter
+- id: 17613101
+  name: Specter
+- id: 17613102
+  name: Specter
+- id: 17613103
+  name: Northern Shadow
+- id: 17613104
+  name: Underworld Bats
+- id: 17613105
+  name: Underworld Bats
+- id: 17613106
+  name: Specter
+- id: 17613107
+  name: Specter
+- id: 17613108
+  name: Specter
+- id: 17613109
+  name: Specter
+- id: 17613110
+  name: Eastern Shadow
+- id: 17613111
+  name: Underworld Bats
+- id: 17613112
+  name: Underworld Bats
+- id: 17613113
+  name: Underworld Bats
+- id: 17613114
+  name: Underworld Bats
+- id: 17613115
+  name: Utukku
+- id: 17613116
+  name: Utukku
+- id: 17613117
+  name: Specter
+- id: 17613118
+  name: Specter
+- id: 17613119
+  name: Specter
+- id: 17613120
+  name: Specter
+- id: 17613121
+  name: Southern Shadow
+- id: 17613122
+  name: Underworld Bats
+- id: 17613123
+  name: Underworld Bats
+- id: 17613124
+  name: Underworld Bats
+- id: 17613125
+  name: Droma
+- id: 17613126
+  name: Droma
+- id: 17613127
+  name: Underworld Bats
+- id: 17613128
+  name: Underworld Bats
+- id: 17613129
+  name: Dabotz's Ghost
+- id: 17613130
+  name: Capricious Cassie
+- id: 17613131
+  name: Orientalis Shadow
+- id: 17613132
+  name: Borealis Shadow
+- id: 17613133
+  name: Australis Shadow
+- id: 17613134
+  name: Occidentalis Shadow
+- id: 17613135
+  name: Orientalis Shadow
+- id: 17613136
+  name: Borealis Shadow
+- id: 17613137
+  name: Australis Shadow
+- id: 17613138
+  name: Occidentalis Shadow
+- id: 17613139
+  name: Orientalis Shadow
+- id: 17613140
+  name: Borealis Shadow
+- id: 17613141
+  name: Australis Shadow
+- id: 17613142
+  name: Occidentalis Shadow
+- id: 17613143
+  name: Carousing Celine
+- id: 17613144
+  name: Carousing Celine
+- id: 17613145
+  name: Carousing Celine
+- id: 17613146
+  name: Arcus Blades
+- id: 17613148
+  name: Seed Afterglow
+- id: 17613149
+  name: Seed Afterglow
+- id: 17613150
+  name: Seed Afterglow
+- id: 17613151
+  name: Seed Afterglow
+- id: 17613152
+  name: Seed Afterglow
+- id: 17613153
+  name: Seed Afterglow
+- id: 17613154
+  name: Seed Afterglow
+- id: 17613155
+  name: Seed Afterglow
+- id: 17613156
+  name: Seed Afterglow
+- id: 17613157
+  name: Treasure Casket
+- id: 17613158
+  name: Treasure Casket
+- id: 17613159
+  name: Treasure Casket
+- id: 17613160
+  name: Treasure Casket
+- id: 17613161
+  name: Treasure Casket
+- id: 17613162
+  name: Treasure Casket
+- id: 17613163
+  name: Treasure Casket
+- id: 17613164
+  name: Treasure Casket
+- id: 17613165
+  name: Treasure Casket
+- id: 17613166
+  name: Treasure Casket
+- id: 17613167
+  name: Treasure Casket
+- id: 17613168
+  name: Treasure Casket
+- id: 17613169
+  name: Treasure Casket
+- id: 17613170
+  name: Treasure Casket
+- id: 17613171
+  name: Treasure Casket
+- id: 17613172
+  name: Treasure Casket
+- id: 17613173
+  name: Achieve Master
+- id: 17613174
+  name: Unity Master
+- id: 17613179
+  name: Lion
+- id: 17613180
+  name: Zeid
+- id: 17613181
+  name: EventDirector
+- id: 17613182
+  name: Cermet Portal
+- id: 17613183
+  name: Cermet Gate
+- id: 17613184
+  name: Cermet Gate
+- id: 17613185
+  name: Cermet Door
+- id: 17613186
+  name: Cermet Door
+- id: 17613187
+  name: Cermet Door
+- id: 17613188
+  name: Cermet Door
+- id: 17613189
+  name: Cermet Door
+- id: 17613190
+  name: Cermet Door
+- id: 17613191
+  name: Cermet Door
+- id: 17613192
+  name: Cermet Door
+- id: 17613193
+  name: Cermet Door
+- id: 17613194
+  name: Cermet Door
+- id: 17613195
+  name: Cermet Door
+- id: 17613196
+  name: Cermet Door
+- id: 17613197
+  name: Cermet Door
+- id: 17613198
+  name: Cermet Door
+- id: 17613199
+  name: Cermet Door
+- id: 17613200
+  name: Cermet Door
+- id: 17613201
+  name: Cermet Door
+- id: 17613202
+  name: Cermet Door
+- id: 17613203
+  name: Cermet Door
+- id: 17613204
+  name: Cermet Door
+- id: 17613205
+  name: Cermet Door
+- id: 17613206
+  name: Cermet Door
+- id: 17613207
+  name: Cermet Door
+- id: 17613208
+  name: Cermet Door
+- id: 17613209
+  name: Cermet Door
+- id: 17613210
+  name: Cermet Door
+- id: 17613211
+  name: Cermet Door
+- id: 17613212
+  name: Cermet Door
+- id: 17613213
+  name: Cermet Door
+- id: 17613214
+  name: Cermet Door
+- id: 17613215
+  name: Cermet Door
+- id: 17613216
+  name: Cermet Door
+- id: 17613217
+  name: Cermet Door
+- id: 17613218
+  name: Cermet Door
+- id: 17613219
+  name: Cermet Door
+- id: 17613220
+  name: Cermet Door
+- id: 17613221
+  name: Cermet Door
+- id: 17613222
+  name: Cermet Door
+- id: 17613223
+  name: Cermet Door
+- id: 17613224
+  name: Cermet Door
+- id: 17613225
+  name: Cermet Door
+- id: 17613226
+  name: Cermet Door
+- id: 17613227
+  name: Cermet Door
+- id: 17613228
+  name: Cermet Door
+- id: 17613229
+  name: Cermet Door
+- id: 17613231
+  name: Moogle
+- id: 17613232
+  name: Moogle
+- id: 17613233
+  name: Moogle
+- id: 17613234
+  name: Moogle
+- id: 17613235
+  name: Moogle
+- id: 17613236
+  name: Moogle
+- id: 17613237
+  name: Moogle
+- id: 17613238
+  name: Moogle
+- id: 17613239
+  name: ''
+- id: 17613240
+  name: Rukususu
+- id: 17613241
+  name: ''
+- id: 17613242
+  name: Treasure Chest
+- id: 17613243
+  name: Dalzakk
+- id: 17613244
+  name: Dry Fountain
+- id: 17613245
+  name: Rainemard
+- id: 17613246
+  name: ???
+- id: 17613247
+  name: Underground Pool
+- id: 17613248
+  name: Underground Pool
+- id: 17613249
+  name: Underground Pool
+- id: 17613250
+  name: Balpah
+- id: 17613251
+  name: Pieuje
+- id: 17613252
+  name: Jeronne
+- id: 17613253
+  name: Trion
+- id: 17613254
+  name: Nonterene
+- id: 17613255
+  name: Maunadolace
+- id: 17613256
+  name: Curilla
+- id: 17613257
+  name: Guilerme
+- id: 17613258
+  name: Bacherume
+- id: 17613259
+  name: Rahal
+- id: 17613260
+  name: Antreneau
+- id: 17613261
+  name: Milchupain
+- id: 17613262
+  name: Aramaviont
+- id: 17613263
+  name: Ramblix
+- id: 17613264
+  name: Goblin Footprint
+- id: 17613265
+  name: Strange Apparatus
+- id: 17613266
+  name: Young Aldo
+- id: 17613267
+  name: Grounds Tome
+- id: 17613268
+  name: Grounds Tome
+- id: 17613269
+  name: Geomantic Reservoir
+- id: 17613272
+  name: ''
+- id: 17613273
+  name: ''
+- id: 17613274
+  name: ''
+- id: 17613275
+  name: ''
+- id: 17613276
+  name: Hazy Rune
+- id: 17613277
+  name: 'Home Point #1'
+- id: 17613278
+  name: 'Home Point #2'
+- id: 17613279
+  name: 'Home Point #3'
+- id: 17613280
+  name: 'Home Point #4'
+- id: 17613281
+  name: 'Home Point #5'
+- id: 17613282
+  name: Ethereal Junction
+- id: 17613283
+  name: Ethereal Junction
+- id: 17613284
+  name: Ethereal Junction

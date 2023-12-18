@@ -1,0 +1,865 @@
+names:
+- id: 17231873
+  name: Greater Pugil
+- id: 17231874
+  name: Vepar
+- id: 17231875
+  name: Kraken
+- id: 17231876
+  name: Apsaras
+- id: 17231877
+  name: Morgawr
+- id: 17231878
+  name: Tundra Tiger
+- id: 17231879
+  name: Tundra Tiger
+- id: 17231880
+  name: Tundra Tiger
+- id: 17231881
+  name: Tundra Tiger
+- id: 17231882
+  name: Goblin Pathfinder
+- id: 17231883
+  name: Goblin's Tiger
+- id: 17231884
+  name: Goblin Furrier
+- id: 17231885
+  name: Goblin Smithy
+- id: 17231886
+  name: Goblin Shaman
+- id: 17231887
+  name: Tundra Tiger
+- id: 17231888
+  name: Tundra Tiger
+- id: 17231889
+  name: Tundra Tiger
+- id: 17231890
+  name: Tundra Tiger
+- id: 17231891
+  name: Goblin Pathfinder
+- id: 17231892
+  name: Goblin's Tiger
+- id: 17231893
+  name: Goblin Furrier
+- id: 17231894
+  name: Goblin Smithy
+- id: 17231895
+  name: Goblin Shaman
+- id: 17231896
+  name: Living Statue
+- id: 17231897
+  name: Living Statue
+- id: 17231898
+  name: Bat Eye
+- id: 17231899
+  name: Tundra Tiger
+- id: 17231900
+  name: Tundra Tiger
+- id: 17231901
+  name: Cold Gigas
+- id: 17231902
+  name: Snow Gigas
+- id: 17231903
+  name: Rime Gigas
+- id: 17231904
+  name: Gigas's Tiger
+- id: 17231905
+  name: Sleet Gigas
+- id: 17231906
+  name: Dark Elemental
+- id: 17231907
+  name: Bat Eye
+- id: 17231908
+  name: Bat Eye
+- id: 17231909
+  name: Cold Gigas
+- id: 17231910
+  name: Snow Gigas
+- id: 17231911
+  name: Rime Gigas
+- id: 17231912
+  name: Gigas's Tiger
+- id: 17231913
+  name: Sleet Gigas
+- id: 17231914
+  name: Bat Eye
+- id: 17231915
+  name: Bat Eye
+- id: 17231916
+  name: Tundra Tiger
+- id: 17231917
+  name: Tundra Tiger
+- id: 17231918
+  name: Tundra Tiger
+- id: 17231919
+  name: Goblin Pathfinder
+- id: 17231920
+  name: Goblin's Tiger
+- id: 17231921
+  name: Goblin Furrier
+- id: 17231922
+  name: Goblin Smithy
+- id: 17231923
+  name: Goblin Shaman
+- id: 17231924
+  name: Cold Gigas
+- id: 17231925
+  name: Snow Gigas
+- id: 17231926
+  name: Rime Gigas
+- id: 17231927
+  name: Gigas's Tiger
+- id: 17231928
+  name: Sleet Gigas
+- id: 17231929
+  name: Ice Elemental
+- id: 17231930
+  name: Ice Elemental
+- id: 17231931
+  name: Living Statue
+- id: 17231932
+  name: Living Statue
+- id: 17231933
+  name: Bat Eye
+- id: 17231934
+  name: Bat Eye
+- id: 17231935
+  name: Bat Eye
+- id: 17231936
+  name: Bat Eye
+- id: 17231937
+  name: Bat Eye
+- id: 17231938
+  name: Bat Eye
+- id: 17231939
+  name: Bat Eye
+- id: 17231940
+  name: Bat Eye
+- id: 17231941
+  name: Bat Eye
+- id: 17231942
+  name: Bat Eye
+- id: 17231943
+  name: Ghast
+- id: 17231944
+  name: Ghast
+- id: 17231945
+  name: Lugat
+- id: 17231946
+  name: Lugat
+- id: 17231947
+  name: Dark Elemental
+- id: 17231948
+  name: Tundra Tiger
+- id: 17231949
+  name: Tundra Tiger
+- id: 17231950
+  name: Bat Eye
+- id: 17231951
+  name: Bat Eye
+- id: 17231952
+  name: Bat Eye
+- id: 17231953
+  name: Ghast
+- id: 17231954
+  name: Ghast
+- id: 17231955
+  name: Ghast
+- id: 17231956
+  name: Lugat
+- id: 17231957
+  name: Bat Eye
+- id: 17231958
+  name: Bat Eye
+- id: 17231959
+  name: Bat Eye
+- id: 17231960
+  name: Ghast
+- id: 17231961
+  name: Ghast
+- id: 17231962
+  name: Lugat
+- id: 17231963
+  name: Dark Elemental
+- id: 17231964
+  name: Bat Eye
+- id: 17231965
+  name: Bat Eye
+- id: 17231966
+  name: Ghast
+- id: 17231967
+  name: Ghast
+- id: 17231968
+  name: Lugat
+- id: 17231969
+  name: Tundra Tiger
+- id: 17231970
+  name: Tundra Tiger
+- id: 17231971
+  name: Nue
+- id: 17231972
+  name: Goblin Poacher
+- id: 17231973
+  name: Goblin Trader
+- id: 17231974
+  name: Goblin's Tiger
+- id: 17231975
+  name: Goblin Robber
+- id: 17231976
+  name: Goblin Reaper
+- id: 17231977
+  name: Living Statue
+- id: 17231978
+  name: Living Statue
+- id: 17231979
+  name: Tundra Tiger
+- id: 17231980
+  name: Tundra Tiger
+- id: 17231981
+  name: Bat Eye
+- id: 17231982
+  name: Bat Eye
+- id: 17231983
+  name: Tundra Tiger
+- id: 17231984
+  name: Tundra Tiger
+- id: 17231985
+  name: Tundra Tiger
+- id: 17231986
+  name: Cold Gigas
+- id: 17231987
+  name: Snow Gigas
+- id: 17231988
+  name: Rime Gigas
+- id: 17231989
+  name: Gigas's Tiger
+- id: 17231990
+  name: Sleet Gigas
+- id: 17231991
+  name: Bat Eye
+- id: 17231992
+  name: Bat Eye
+- id: 17231993
+  name: Tundra Tiger
+- id: 17231994
+  name: Tundra Tiger
+- id: 17231995
+  name: Tundra Tiger
+- id: 17231996
+  name: Stone Golem
+- id: 17231997
+  name: Tundra Tiger
+- id: 17231998
+  name: Tundra Tiger
+- id: 17231999
+  name: Goblin Pathfinder
+- id: 17232000
+  name: Goblin's Tiger
+- id: 17232001
+  name: Goblin Furrier
+- id: 17232002
+  name: Goblin Smithy
+- id: 17232003
+  name: Goblin Shaman
+- id: 17232004
+  name: Living Statue
+- id: 17232005
+  name: Living Statue
+- id: 17232006
+  name: Dark Elemental
+- id: 17232007
+  name: Bat Eye
+- id: 17232008
+  name: Bat Eye
+- id: 17232009
+  name: Tundra Tiger
+- id: 17232010
+  name: Tundra Tiger
+- id: 17232011
+  name: Tundra Tiger
+- id: 17232012
+  name: Stone Golem
+- id: 17232013
+  name: Stone Golem
+- id: 17232014
+  name: Tundra Tiger
+- id: 17232015
+  name: Tundra Tiger
+- id: 17232016
+  name: Goblin Poacher
+- id: 17232017
+  name: Goblin Trader
+- id: 17232018
+  name: Goblin's Tiger
+- id: 17232019
+  name: Goblin Robber
+- id: 17232020
+  name: Goblin Reaper
+- id: 17232021
+  name: Tundra Tiger
+- id: 17232022
+  name: Tundra Tiger
+- id: 17232023
+  name: Goblin Poacher
+- id: 17232024
+  name: Goblin Trader
+- id: 17232025
+  name: Goblin's Tiger
+- id: 17232026
+  name: Goblin Robber
+- id: 17232027
+  name: Goblin Reaper
+- id: 17232028
+  name: Tundra Tiger
+- id: 17232029
+  name: Tundra Tiger
+- id: 17232030
+  name: Goblin Poacher
+- id: 17232031
+  name: Goblin Trader
+- id: 17232032
+  name: Goblin's Tiger
+- id: 17232033
+  name: Goblin Robber
+- id: 17232034
+  name: Goblin Reaper
+- id: 17232035
+  name: Tundra Tiger
+- id: 17232036
+  name: Cold Gigas
+- id: 17232037
+  name: Snow Gigas
+- id: 17232038
+  name: Rime Gigas
+- id: 17232039
+  name: Gigas's Tiger
+- id: 17232040
+  name: Sleet Gigas
+- id: 17232041
+  name: Tundra Tiger
+- id: 17232042
+  name: Tundra Tiger
+- id: 17232043
+  name: Tundra Tiger
+- id: 17232044
+  name: Kirata
+- id: 17232045
+  name: Goblin Poacher
+- id: 17232046
+  name: Goblin Trader
+- id: 17232047
+  name: Goblin's Tiger
+- id: 17232048
+  name: Goblin Robber
+- id: 17232049
+  name: Goblin Reaper
+- id: 17232050
+  name: Living Statue
+- id: 17232051
+  name: Living Statue
+- id: 17232052
+  name: Tundra Tiger
+- id: 17232053
+  name: Tundra Tiger
+- id: 17232054
+  name: Cold Gigas
+- id: 17232055
+  name: Snow Gigas
+- id: 17232056
+  name: Rime Gigas
+- id: 17232057
+  name: Gigas's Tiger
+- id: 17232058
+  name: Sleet Gigas
+- id: 17232059
+  name: Cold Gigas
+- id: 17232060
+  name: Snow Gigas
+- id: 17232061
+  name: Rime Gigas
+- id: 17232062
+  name: Gigas's Tiger
+- id: 17232063
+  name: Sleet Gigas
+- id: 17232064
+  name: Ice Elemental
+- id: 17232065
+  name: Ice Elemental
+- id: 17232066
+  name: Tundra Tiger
+- id: 17232067
+  name: Tundra Tiger
+- id: 17232068
+  name: Tundra Tiger
+- id: 17232069
+  name: Stone Golem
+- id: 17232070
+  name: Goblin Poacher
+- id: 17232071
+  name: Goblin Trader
+- id: 17232072
+  name: Goblin's Tiger
+- id: 17232073
+  name: Goblin Robber
+- id: 17232074
+  name: Goblin Reaper
+- id: 17232075
+  name: Tundra Tiger
+- id: 17232076
+  name: Tundra Tiger
+- id: 17232077
+  name: Tundra Tiger
+- id: 17232078
+  name: Stone Golem
+- id: 17232079
+  name: Gargantua
+- id: 17232080
+  name: Goblin Poacher
+- id: 17232081
+  name: Goblin Trader
+- id: 17232082
+  name: Goblin's Tiger
+- id: 17232083
+  name: Goblin Robber
+- id: 17232084
+  name: Goblin Reaper
+- id: 17232085
+  name: Living Statue
+- id: 17232086
+  name: Living Statue
+- id: 17232087
+  name: Tundra Tiger
+- id: 17232088
+  name: Tundra Tiger
+- id: 17232089
+  name: Cold Gigas
+- id: 17232090
+  name: Snow Gigas
+- id: 17232091
+  name: Rime Gigas
+- id: 17232092
+  name: Gigas's Tiger
+- id: 17232093
+  name: Sleet Gigas
+- id: 17232094
+  name: Humbaba
+- id: 17232095
+  name: Cold Gigas
+- id: 17232096
+  name: Snow Gigas
+- id: 17232097
+  name: Rime Gigas
+- id: 17232098
+  name: Gigas's Tiger
+- id: 17232099
+  name: Sleet Gigas
+- id: 17232100
+  name: Cold Gigas
+- id: 17232101
+  name: Snow Gigas
+- id: 17232102
+  name: Rime Gigas
+- id: 17232103
+  name: Gigas's Tiger
+- id: 17232104
+  name: Sleet Gigas
+- id: 17232105
+  name: Ice Elemental
+- id: 17232106
+  name: Ice Elemental
+- id: 17232107
+  name: Goblin Poacher
+- id: 17232108
+  name: Goblin Trader
+- id: 17232109
+  name: Goblin's Tiger
+- id: 17232110
+  name: Goblin Robber
+- id: 17232111
+  name: Goblin Reaper
+- id: 17232112
+  name: Living Statue
+- id: 17232113
+  name: Living Statue
+- id: 17232114
+  name: Living Statue
+- id: 17232115
+  name: Living Statue
+- id: 17232116
+  name: Living Statue
+- id: 17232117
+  name: Calcabrina
+- id: 17232118
+  name: Goblin Poacher
+- id: 17232119
+  name: Goblin Trader
+- id: 17232120
+  name: Goblin's Tiger
+- id: 17232121
+  name: Goblin Robber
+- id: 17232122
+  name: Goblin Reaper
+- id: 17232123
+  name: Living Statue
+- id: 17232124
+  name: Hobgoblin Warrior
+- id: 17232125
+  name: Hobgoblin White Mage
+- id: 17232126
+  name: Hobgoblin Black Mage
+- id: 17232127
+  name: Hobgoblin Red Mage
+- id: 17232128
+  name: Hobgoblin Thief
+- id: 17232129
+  name: Hobgoblin Dark Knight
+- id: 17232130
+  name: Hobgoblin Ranger
+- id: 17232131
+  name: Hobgoblin Beastmaster
+- id: 17232132
+  name: Goblin's Tiger
+- id: 17232133
+  name: Gigas Warrior
+- id: 17232134
+  name: Gigas Monk
+- id: 17232135
+  name: Gigas Beastmaster
+- id: 17232136
+  name: Gigas Ranger
+- id: 17232137
+  name: Gigas's Tiger
+- id: 17232138
+  name: Gigas Hillrazer
+- id: 17232139
+  name: Gigas Hillrazer
+- id: 17232140
+  name: Gigas Clearcutter
+- id: 17232141
+  name: Gigas Clearcutter
+- id: 17232142
+  name: Gigas Hillrazer
+- id: 17232143
+  name: Gigas Hillrazer
+- id: 17232144
+  name: Gigas Clearcutter
+- id: 17232145
+  name: Gigas Clearcutter
+- id: 17232146
+  name: Gigas Overseer
+- id: 17232147
+  name: Plumbago
+- id: 17232148
+  name: Yilbegan
+- id: 17232149
+  name: Lord Ruthven
+- id: 17232150
+  name: Feuerunke
+- id: 17232151
+  name: Erebus
+- id: 17232152
+  name: Gjenganger
+- id: 17232153
+  name: Gjenganger
+- id: 17232154
+  name: Gjenganger
+- id: 17232155
+  name: Gjenganger
+- id: 17232156
+  name: Gorehound
+- id: 17232157
+  name: Gorehound
+- id: 17232158
+  name: Gorehound
+- id: 17232159
+  name: Gorehound
+- id: 17232160
+  name: Kalasutrax
+- id: 17232161
+  name: Kalasutrax
+- id: 17232162
+  name: Kalasutrax
+- id: 17232163
+  name: Largantua
+- id: 17232164
+  name: Largantua
+- id: 17232165
+  name: Largantua
+- id: 17232166
+  name: Rousing Raaz
+- id: 17232167
+  name: Rapturous Raaz
+- id: 17232168
+  name: Rhapsodic Raaz
+- id: 17232169
+  name: Beastmaster
+- id: 17232174
+  name: Treasure Casket
+- id: 17232175
+  name: Treasure Casket
+- id: 17232176
+  name: Treasure Casket
+- id: 17232177
+  name: Treasure Casket
+- id: 17232178
+  name: Treasure Casket
+- id: 17232179
+  name: Treasure Casket
+- id: 17232180
+  name: Treasure Casket
+- id: 17232181
+  name: Treasure Casket
+- id: 17232182
+  name: Treasure Casket
+- id: 17232183
+  name: Treasure Casket
+- id: 17232184
+  name: Treasure Casket
+- id: 17232185
+  name: Treasure Casket
+- id: 17232186
+  name: Treasure Casket
+- id: 17232187
+  name: Treasure Casket
+- id: 17232188
+  name: Treasure Casket
+- id: 17232189
+  name: Treasure Casket
+- id: 17232190
+  name: Treasure Coffer
+- id: 17232191
+  name: Achieve Master
+- id: 17232192
+  name: Unity Master
+- id: 17232197
+  name: Mirror Pond
+- id: 17232198
+  name: Dariah
+- id: 17232200
+  name: Moogle
+- id: 17232201
+  name: Moogle
+- id: 17232202
+  name: Moogle
+- id: 17232203
+  name: Moogle
+- id: 17232204
+  name: Moogle
+- id: 17232205
+  name: Moogle
+- id: 17232206
+  name: Moogle
+- id: 17232207
+  name: Moogle
+- id: 17232208
+  name: Parledaire, R.K.
+- id: 17232209
+  name: Akane, I.M.
+- id: 17232210
+  name: Ryunchi-Pauchi, W.W.
+- id: 17232211
+  name: ''
+- id: 17232212
+  name: ''
+- id: 17232213
+  name: ''
+- id: 17232214
+  name: ''
+- id: 17232215
+  name: Leaufetie, R.K.
+- id: 17232216
+  name: Rattling Rain, I.M.
+- id: 17232217
+  name: Chopapa, W.W.
+- id: 17232218
+  name: Gueriette
+- id: 17232219
+  name: ''
+- id: 17232220
+  name: ''
+- id: 17232221
+  name: ''
+- id: 17232222
+  name: ''
+- id: 17232223
+  name: ''
+- id: 17232224
+  name: Torino-Samarino
+- id: 17232225
+  name: Potete
+- id: 17232226
+  name: Leigon-Moigon
+- id: 17232227
+  name: Beastmen's Banner
+- id: 17232228
+  name: EFFECTER
+- id: 17232229
+  name: Carbuncle
+- id: 17232230
+  name: Talking Doll
+- id: 17232231
+  name: Ramblix
+- id: 17232232
+  name: Goblin Footprint
+- id: 17232233
+  name: Trail Markings
+- id: 17232234
+  name: Ulrich
+- id: 17232235
+  name: Francmage
+- id: 17232236
+  name: Iru-Kuiru
+- id: 17232237
+  name: Yow Rabntah
+- id: 17232238
+  name: Cornelia
+- id: 17232239
+  name: ''
+- id: 17232240
+  name: Raogrimm
+- id: 17232241
+  name: ???
+- id: 17232242
+  name: Diabolos
+- id: 17232243
+  name: Diabolos
+- id: 17232244
+  name: Diabolos
+- id: 17232245
+  name: ''
+- id: 17232246
+  name: Capacucu
+- id: 17232247
+  name: Putori-Tutori
+- id: 17232248
+  name: Kilhwch
+- id: 17232249
+  name: Mieuseloir
+- id: 17232250
+  name: Lhu Mhakaracca
+- id: 17232251
+  name: Xonia
+- id: 17232252
+  name: Fonove
+- id: 17232253
+  name: Dzhau Yaam
+- id: 17232254
+  name: Kupalu-Harupalu
+- id: 17232255
+  name: Noillurie
+- id: 17232256
+  name: Umon-Paumon
+- id: 17232257
+  name: Ghebben
+- id: 17232258
+  name: Elrica
+- id: 17232259
+  name: Terounalivet
+- id: 17232260
+  name: ???
+- id: 17232262
+  name: Iron Grate
+- id: 17232263
+  name: Iron Grate
+- id: 17232264
+  name: Iron Grate
+- id: 17232265
+  name: Iron Grate
+- id: 17232266
+  name: Iron Grate
+- id: 17232267
+  name: Iron Grate
+- id: 17232268
+  name: ???
+- id: 17232269
+  name: Nag'molada
+- id: 17232270
+  name: Makki-Chebukki
+- id: 17232271
+  name: Kukki-Chebukki
+- id: 17232272
+  name: Cherukiki
+- id: 17232273
+  name: Shikaree Y
+- id: 17232274
+  name: Ildy-Goldy
+- id: 17232275
+  name: Luck Rune
+- id: 17232276
+  name: ''
+- id: 17232277
+  name: ''
+- id: 17232278
+  name: Mirror Pond
+- id: 17232279
+  name: ???
+- id: 17232280
+  name: Klafaan
+- id: 17232281
+  name: Palometa
+- id: 17232282
+  name: Field Manual
+- id: 17232283
+  name: Field Manual
+- id: 17232284
+  name: Field Manual
+- id: 17232285
+  name: Field Manual
+- id: 17232286
+  name: Field Parchment
+- id: 17232287
+  name: Ethereal Junction
+- id: 17232288
+  name: Ethereal Junction
+- id: 17232289
+  name: Ethereal Junction
+- id: 17232290
+  name: Mogball-Local
+- id: 17232291
+  name: Mog-Tablet
+- id: 17232292
+  name: DebugMaster
+- id: 17232293
+  name: Stooge Moogle
+- id: 17232294
+  name: Lonely Evergreen
+- id: 17232295
+  name: ''
+- id: 17232296
+  name: Goblin Grenadier
+- id: 17232297
+  name: Element
+- id: 17232298
+  name: Northwestern Pip
+- id: 17232299
+  name: Western Pip
+- id: 17232300
+  name: Southwestern Pip
+- id: 17232301
+  name: Northeastern Pip
+- id: 17232302
+  name: Eastern Pip
+- id: 17232303
+  name: Southeastern Pip
+- id: 17232304
+  name: Summoner
+- id: 17232305
+  name: Summoner
+- id: 17232306
+  name: Planar Rift
+- id: 17232307
+  name: Planar Rift
+- id: 17232308
+  name: Planar Rift
+- id: 17232309
+  name: Riftworn Pyxis
+- id: 17232310
+  name: Riftworn Pyxis
+- id: 17232311
+  name: Riftworn Pyxis
+- id: 17232312
+  name: Geomantic Reservoir
+- id: 17232315
+  name: Geomantic Reservoir
+- id: 17232318
+  name: Survival Guide

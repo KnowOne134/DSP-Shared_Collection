@@ -1,0 +1,987 @@
+names:
+- id: 16945153
+  name: Antaeus
+- id: 16945154
+  name: Vanguard Footsoldier
+- id: 16945155
+  name: Vanguard Amputator
+- id: 16945156
+  name: Vanguard Vexer
+- id: 16945157
+  name: Vanguard Predator
+- id: 16945158
+  name: Vanguard Impaler
+- id: 16945159
+  name: Vanguard's Wyvern
+- id: 16945160
+  name: Serjeant Tombstone
+- id: 16945161
+  name: Serjeant Tombstone
+- id: 16945162
+  name: Serjeant Tombstone
+- id: 16945163
+  name: Warchief Tombstone
+- id: 16945164
+  name: Vanguard Grappler
+- id: 16945165
+  name: Vanguard Pillager
+- id: 16945166
+  name: Vanguard Trooper
+- id: 16945167
+  name: Vanguard Bugler
+- id: 16945168
+  name: Vanguard Dollmaster
+- id: 16945169
+  name: Vanguard's Avatar
+- id: 16945170
+  name: Serjeant Tombstone
+- id: 16945171
+  name: Serjeant Tombstone
+- id: 16945172
+  name: Serjeant Tombstone
+- id: 16945173
+  name: Warchief Tombstone
+- id: 16945174
+  name: Vanguard Mesmerizer
+- id: 16945175
+  name: Vanguard Neckchopper
+- id: 16945176
+  name: Vanguard Hawker
+- id: 16945177
+  name: Vanguard's Hecteyes
+- id: 16945178
+  name: Vanguard Gutslasher
+- id: 16945179
+  name: Vanguard Backstabber
+- id: 16945180
+  name: Serjeant Tombstone
+- id: 16945181
+  name: Serjeant Tombstone
+- id: 16945182
+  name: Serjeant Tombstone
+- id: 16945183
+  name: Warchief Tombstone
+- id: 16945184
+  name: Vanguard Militant
+- id: 16945185
+  name: Vanguard Thaumaturge
+- id: 16945186
+  name: Vanguard Beasttender
+- id: 16945187
+  name: Vanguard's Scorpion
+- id: 16945188
+  name: Vanguard Mason
+- id: 16945189
+  name: Vanguard Hatamoto
+- id: 16945190
+  name: Adamantking Effigy
+- id: 16945191
+  name: Adamantking Effigy
+- id: 16945192
+  name: Adamantking Effigy
+- id: 16945193
+  name: Adamantking Image
+- id: 16945194
+  name: Vanguard Vindicator
+- id: 16945195
+  name: Vanguard Protector
+- id: 16945196
+  name: Vanguard Defender
+- id: 16945197
+  name: Vanguard Kusa
+- id: 16945198
+  name: Vanguard Undertaker
+- id: 16945199
+  name: Vanguard's Avatar
+- id: 16945200
+  name: Adamantking Effigy
+- id: 16945201
+  name: Adamantking Effigy
+- id: 16945202
+  name: Adamantking Effigy
+- id: 16945203
+  name: Adamantking Image
+- id: 16945204
+  name: Vanguard Constable
+- id: 16945205
+  name: Vanguard Purloiner
+- id: 16945206
+  name: Vanguard Vigilante
+- id: 16945207
+  name: Vanguard Minstrel
+- id: 16945208
+  name: Vanguard Drakekeeper
+- id: 16945209
+  name: Vanguard's Wyvern
+- id: 16945210
+  name: Adamantking Effigy
+- id: 16945211
+  name: Adamantking Effigy
+- id: 16945212
+  name: Adamantking Effigy
+- id: 16945213
+  name: Adamantking Image
+- id: 16945214
+  name: Vanguard Skirmisher
+- id: 16945215
+  name: Vanguard Sentinel
+- id: 16945216
+  name: Vanguard Exemplar
+- id: 16945217
+  name: Vanguard Inciter
+- id: 16945218
+  name: Vanguard Ogresoother
+- id: 16945219
+  name: Vanguard's Crow
+- id: 16945220
+  name: Manifest Icon
+- id: 16945221
+  name: Manifest Icon
+- id: 16945222
+  name: Manifest Icon
+- id: 16945223
+  name: Avatar Idol
+- id: 16945224
+  name: Vanguard Priest
+- id: 16945225
+  name: Vanguard Prelate
+- id: 16945226
+  name: Vanguard Chanter
+- id: 16945227
+  name: Vanguard Partisan
+- id: 16945228
+  name: Vanguard's Wyvern
+- id: 16945229
+  name: Vanguard Assassin
+- id: 16945230
+  name: Manifest Icon
+- id: 16945231
+  name: Manifest Icon
+- id: 16945232
+  name: Manifest Icon
+- id: 16945233
+  name: Avatar Idol
+- id: 16945234
+  name: Vanguard Visionary
+- id: 16945235
+  name: Vanguard Liberator
+- id: 16945236
+  name: Vanguard Salvager
+- id: 16945237
+  name: Vanguard Persecutor
+- id: 16945238
+  name: Vanguard Oracle
+- id: 16945239
+  name: Vanguard's Avatar
+- id: 16945240
+  name: Manifest Icon
+- id: 16945241
+  name: Manifest Icon
+- id: 16945242
+  name: Manifest Icon
+- id: 16945243
+  name: Avatar Idol
+- id: 16945244
+  name: Vanguard Smithy
+- id: 16945245
+  name: Vanguard Enchanter
+- id: 16945246
+  name: Vanguard Ambusher
+- id: 16945247
+  name: Vanguard Hitman
+- id: 16945248
+  name: Vanguard Dragontamer
+- id: 16945249
+  name: Vanguard's Wyvern
+- id: 16945250
+  name: Goblin Replica
+- id: 16945251
+  name: Goblin Replica
+- id: 16945252
+  name: Goblin Replica
+- id: 16945253
+  name: Goblin Statue
+- id: 16945254
+  name: Vanguard Pitfighter
+- id: 16945255
+  name: Vanguard Shaman
+- id: 16945256
+  name: Vanguard Tinkerer
+- id: 16945257
+  name: Vanguard Maestro
+- id: 16945258
+  name: Vanguard Necromancer
+- id: 16945259
+  name: Vanguard's Avatar
+- id: 16945260
+  name: Goblin Replica
+- id: 16945261
+  name: Goblin Replica
+- id: 16945262
+  name: Goblin Replica
+- id: 16945263
+  name: Goblin Statue
+- id: 16945264
+  name: Vanguard Alchemist
+- id: 16945265
+  name: Vanguard Welldigger
+- id: 16945266
+  name: Vanguard Armorer
+- id: 16945267
+  name: Vanguard Pathfinder
+- id: 16945268
+  name: Vanguard's Slime
+- id: 16945269
+  name: Vanguard Ronin
+- id: 16945270
+  name: Goblin Replica
+- id: 16945271
+  name: Goblin Replica
+- id: 16945272
+  name: Goblin Replica
+- id: 16945273
+  name: Goblin Statue
+- id: 16945274
+  name: Nightmare Kraken
+- id: 16945275
+  name: Nightmare Kraken
+- id: 16945276
+  name: Nightmare Kraken
+- id: 16945277
+  name: Nightmare Kraken
+- id: 16945278
+  name: Nightmare Kraken
+- id: 16945279
+  name: Nightmare Kraken
+- id: 16945280
+  name: Nightmare Kraken
+- id: 16945281
+  name: Nightmare Kraken
+- id: 16945282
+  name: Nightmare Kraken
+- id: 16945283
+  name: Nightmare Kraken
+- id: 16945284
+  name: Nightmare Kraken
+- id: 16945285
+  name: Nightmare Kraken
+- id: 16945286
+  name: Nightmare Kraken
+- id: 16945287
+  name: Scolopendra
+- id: 16945288
+  name: Nightmare Weapon
+- id: 16945289
+  name: Nightmare Weapon
+- id: 16945290
+  name: Nightmare Weapon
+- id: 16945291
+  name: Nightmare Weapon
+- id: 16945292
+  name: Nightmare Weapon
+- id: 16945293
+  name: Nightmare Weapon
+- id: 16945294
+  name: Nightmare Weapon
+- id: 16945295
+  name: Nightmare Weapon
+- id: 16945296
+  name: Nightmare Weapon
+- id: 16945297
+  name: Nightmare Weapon
+- id: 16945298
+  name: Nightmare Weapon
+- id: 16945299
+  name: Nightmare Weapon
+- id: 16945300
+  name: Nightmare Weapon
+- id: 16945301
+  name: Nightmare Weapon
+- id: 16945302
+  name: Nightmare Weapon
+- id: 16945303
+  name: Nightmare Weapon
+- id: 16945304
+  name: Nightmare Weapon
+- id: 16945305
+  name: Nightmare Stirge
+- id: 16945306
+  name: Nightmare Stirge
+- id: 16945307
+  name: Nightmare Stirge
+- id: 16945308
+  name: Nightmare Stirge
+- id: 16945309
+  name: Nightmare Stirge
+- id: 16945310
+  name: Nightmare Stirge
+- id: 16945311
+  name: Nightmare Stirge
+- id: 16945312
+  name: Nightmare Stirge
+- id: 16945313
+  name: Nightmare Stirge
+- id: 16945314
+  name: Nightmare Stirge
+- id: 16945315
+  name: Nightmare Stirge
+- id: 16945316
+  name: Nightmare Stirge
+- id: 16945317
+  name: Nightmare Stirge
+- id: 16945318
+  name: Nightmare Stirge
+- id: 16945319
+  name: Nightmare Stirge
+- id: 16945320
+  name: Stringes
+- id: 16945321
+  name: Nightmare Gaylas
+- id: 16945322
+  name: Nightmare Gaylas
+- id: 16945323
+  name: Nightmare Gaylas
+- id: 16945324
+  name: Nightmare Gaylas
+- id: 16945325
+  name: Nightmare Gaylas
+- id: 16945326
+  name: Nightmare Gaylas
+- id: 16945327
+  name: Nightmare Gaylas
+- id: 16945328
+  name: Nightmare Gaylas
+- id: 16945329
+  name: Nightmare Gaylas
+- id: 16945330
+  name: Nightmare Gaylas
+- id: 16945331
+  name: Nightmare Gaylas
+- id: 16945332
+  name: Nightmare Gaylas
+- id: 16945333
+  name: Nightmare Gaylas
+- id: 16945334
+  name: Nightmare Gaylas
+- id: 16945335
+  name: Nightmare Gaylas
+- id: 16945336
+  name: Nightmare Gaylas
+- id: 16945337
+  name: Nightmare Tiger
+- id: 16945338
+  name: Nightmare Tiger
+- id: 16945339
+  name: Nightmare Tiger
+- id: 16945340
+  name: Nightmare Tiger
+- id: 16945341
+  name: Nightmare Tiger
+- id: 16945342
+  name: Nightmare Tiger
+- id: 16945343
+  name: Nightmare Tiger
+- id: 16945344
+  name: Nightmare Tiger
+- id: 16945345
+  name: Nightmare Tiger
+- id: 16945346
+  name: Nightmare Tiger
+- id: 16945347
+  name: Nightmare Tiger
+- id: 16945348
+  name: Nightmare Tiger
+- id: 16945349
+  name: Nightmare Diremite
+- id: 16945350
+  name: Nightmare Diremite
+- id: 16945351
+  name: Nightmare Diremite
+- id: 16945352
+  name: Nightmare Diremite
+- id: 16945353
+  name: Nightmare Diremite
+- id: 16945354
+  name: Nightmare Diremite
+- id: 16945355
+  name: Nightmare Diremite
+- id: 16945356
+  name: Nightmare Diremite
+- id: 16945357
+  name: Nightmare Diremite
+- id: 16945358
+  name: Nightmare Diremite
+- id: 16945359
+  name: Nightmare Diremite
+- id: 16945360
+  name: Nightmare Diremite
+- id: 16945361
+  name: Nightmare Diremite
+- id: 16945362
+  name: Nightmare Diremite
+- id: 16945363
+  name: Nightmare Diremite
+- id: 16945364
+  name: Nightmare Roc
+- id: 16945365
+  name: Nightmare Roc
+- id: 16945366
+  name: Nightmare Roc
+- id: 16945367
+  name: Nightmare Raptor
+- id: 16945368
+  name: Nightmare Raptor
+- id: 16945369
+  name: Nightmare Raptor
+- id: 16945370
+  name: Nightmare Raptor
+- id: 16945371
+  name: Nightmare Raptor
+- id: 16945372
+  name: Nightmare Raptor
+- id: 16945373
+  name: Nightmare Raptor
+- id: 16945374
+  name: Nightmare Raptor
+- id: 16945375
+  name: Nightmare Raptor
+- id: 16945376
+  name: Nightmare Raptor
+- id: 16945377
+  name: Nightmare Raptor
+- id: 16945378
+  name: Nightmare Raptor
+- id: 16945379
+  name: Nightmare Raptor
+- id: 16945380
+  name: Nightmare Raptor
+- id: 16945381
+  name: Suttung
+- id: 16945382
+  name: Nightmare Snoll
+- id: 16945383
+  name: Nightmare Snoll
+- id: 16945384
+  name: Nightmare Snoll
+- id: 16945385
+  name: Nightmare Snoll
+- id: 16945386
+  name: Nightmare Snoll
+- id: 16945387
+  name: Nightmare Snoll
+- id: 16945388
+  name: Nightmare Snoll
+- id: 16945389
+  name: Nightmare Snoll
+- id: 16945390
+  name: Nightmare Snoll
+- id: 16945391
+  name: Nightmare Snoll
+- id: 16945392
+  name: Nightmare Snoll
+- id: 16945393
+  name: Nightmare Snoll
+- id: 16945394
+  name: Nightmare Snoll
+- id: 16945395
+  name: Nightmare Snoll
+- id: 16945396
+  name: Nightmare Snoll
+- id: 16945397
+  name: Nightmare Snoll
+- id: 16945398
+  name: Nightmare Snoll
+- id: 16945399
+  name: Nightmare Snoll
+- id: 16945400
+  name: Nightmare Snoll
+- id: 16945401
+  name: Nightmare Snoll
+- id: 16945402
+  name: Nightmare Snoll
+- id: 16945403
+  name: Arch Antaeus
+- id: 16945404
+  name: Nightmare Roc
+- id: 16945405
+  name: Nightmare Roc
+- id: 16945406
+  name: Nightmare Roc
+- id: 16945407
+  name: Nightmare Stirge
+- id: 16945408
+  name: Nightmare Stirge
+- id: 16945409
+  name: Nightmare Stirge
+- id: 16945410
+  name: Nightmare Stirge
+- id: 16945411
+  name: Nightmare Stirge
+- id: 16945412
+  name: Nightmare Stirge
+- id: 16945413
+  name: Nightmare Stirge
+- id: 16945414
+  name: Nightmare Stirge
+- id: 16945415
+  name: Nightmare Stirge
+- id: 16945416
+  name: Nightmare Stirge
+- id: 16945417
+  name: Nightmare Stirge
+- id: 16945418
+  name: Nightmare Stirge
+- id: 16945419
+  name: Nightmare Stirge
+- id: 16945420
+  name: Nightmare Stirge
+- id: 16945421
+  name: Lost Stringes
+- id: 16945422
+  name: Nightmare Diremite
+- id: 16945423
+  name: Nightmare Diremite
+- id: 16945424
+  name: Nightmare Diremite
+- id: 16945425
+  name: Nightmare Diremite
+- id: 16945426
+  name: Nightmare Diremite
+- id: 16945427
+  name: Nightmare Diremite
+- id: 16945428
+  name: Nightmare Diremite
+- id: 16945429
+  name: Nightmare Diremite
+- id: 16945430
+  name: Nightmare Diremite
+- id: 16945431
+  name: Nightmare Gaylas
+- id: 16945432
+  name: Nightmare Gaylas
+- id: 16945433
+  name: Nightmare Gaylas
+- id: 16945434
+  name: Nightmare Gaylas
+- id: 16945435
+  name: Nightmare Gaylas
+- id: 16945436
+  name: Nightmare Gaylas
+- id: 16945437
+  name: Nightmare Gaylas
+- id: 16945438
+  name: Nightmare Gaylas
+- id: 16945439
+  name: Nightmare Gaylas
+- id: 16945440
+  name: Nightmare Gaylas
+- id: 16945441
+  name: Nightmare Gaylas
+- id: 16945442
+  name: Nightmare Gaylas
+- id: 16945443
+  name: Nightmare Kraken
+- id: 16945444
+  name: Nightmare Kraken
+- id: 16945445
+  name: Nightmare Kraken
+- id: 16945446
+  name: Nightmare Kraken
+- id: 16945447
+  name: Nightmare Kraken
+- id: 16945448
+  name: Nightmare Kraken
+- id: 16945449
+  name: Nightmare Kraken
+- id: 16945450
+  name: Nightmare Kraken
+- id: 16945451
+  name: Nightmare Kraken
+- id: 16945452
+  name: Nightmare Kraken
+- id: 16945453
+  name: Nightmare Kraken
+- id: 16945454
+  name: Nightmare Kraken
+- id: 16945455
+  name: Nightmare Kraken
+- id: 16945456
+  name: Nightmare Kraken
+- id: 16945457
+  name: Lost Scolopendra
+- id: 16945458
+  name: Nightmare Snoll
+- id: 16945459
+  name: Nightmare Snoll
+- id: 16945460
+  name: Nightmare Snoll
+- id: 16945461
+  name: Nightmare Snoll
+- id: 16945462
+  name: Nightmare Snoll
+- id: 16945463
+  name: Nightmare Snoll
+- id: 16945464
+  name: Nightmare Snoll
+- id: 16945465
+  name: Nightmare Snoll
+- id: 16945466
+  name: Nightmare Snoll
+- id: 16945467
+  name: Nightmare Snoll
+- id: 16945468
+  name: Nightmare Snoll
+- id: 16945469
+  name: Nightmare Snoll
+- id: 16945470
+  name: Lost Suttung
+- id: 16945471
+  name: Vanguard Amputator
+- id: 16945472
+  name: Vanguard Vexer
+- id: 16945473
+  name: Vanguard Neckchopper
+- id: 16945474
+  name: Vanguard Predator
+- id: 16945475
+  name: Vanguard Impaler
+- id: 16945476
+  name: Vanguard's Wyvern
+- id: 16945477
+  name: Serjeant Tombstone
+- id: 16945478
+  name: Serjeant Tombstone
+- id: 16945479
+  name: Serjeant Tombstone
+- id: 16945480
+  name: Warchief Tombstone
+- id: 16945481
+  name: Vanguard Footsoldier
+- id: 16945482
+  name: Vanguard Pillager
+- id: 16945483
+  name: Vanguard Trooper
+- id: 16945484
+  name: Vanguard Bugler
+- id: 16945485
+  name: Vanguard Gutslasher
+- id: 16945486
+  name: Vanguard Dollmaster
+- id: 16945487
+  name: Vanguard's Avatar
+- id: 16945488
+  name: Serjeant Tombstone
+- id: 16945489
+  name: Serjeant Tombstone
+- id: 16945490
+  name: Serjeant Tombstone
+- id: 16945491
+  name: Warchief Tombstone
+- id: 16945492
+  name: Vanguard Grappler
+- id: 16945493
+  name: Vanguard Mesmerizer
+- id: 16945494
+  name: Vanguard Hawker
+- id: 16945495
+  name: Vanguard's Hecteyes
+- id: 16945496
+  name: Vanguard Backstabber
+- id: 16945497
+  name: Serjeant Tombstone
+- id: 16945498
+  name: Serjeant Tombstone
+- id: 16945499
+  name: Serjeant Tombstone
+- id: 16945500
+  name: Warchief Tombstone
+- id: 16945501
+  name: Vanguard Alchemist
+- id: 16945502
+  name: Vanguard Armorer
+- id: 16945503
+  name: Vanguard Pathfinder
+- id: 16945504
+  name: Vanguard's Slime
+- id: 16945505
+  name: Vanguard Ronin
+- id: 16945506
+  name: Goblin Replica
+- id: 16945507
+  name: Goblin Replica
+- id: 16945508
+  name: Goblin Replica
+- id: 16945509
+  name: Goblin Statue
+- id: 16945510
+  name: Nightmare Tiger
+- id: 16945511
+  name: Nightmare Tiger
+- id: 16945512
+  name: Nightmare Tiger
+- id: 16945513
+  name: Nightmare Tiger
+- id: 16945514
+  name: Nightmare Tiger
+- id: 16945515
+  name: Nightmare Tiger
+- id: 16945516
+  name: Nightmare Tiger
+- id: 16945517
+  name: Nightmare Tiger
+- id: 16945518
+  name: Nightmare Tiger
+- id: 16945519
+  name: Nightmare Tiger
+- id: 16945520
+  name: Nightmare Tiger
+- id: 16945521
+  name: Nightmare Tiger
+- id: 16945522
+  name: Vanguard Smithy
+- id: 16945523
+  name: Vanguard Welldigger
+- id: 16945524
+  name: Vanguard Tinkerer
+- id: 16945525
+  name: Vanguard Pathfinder
+- id: 16945526
+  name: Vanguard's Slime
+- id: 16945527
+  name: Goblin Replica
+- id: 16945528
+  name: Goblin Replica
+- id: 16945529
+  name: Goblin Replica
+- id: 16945530
+  name: Goblin Statue
+- id: 16945531
+  name: Vanguard Enchanter
+- id: 16945532
+  name: Vanguard Ambusher
+- id: 16945533
+  name: Vanguard Hitman
+- id: 16945534
+  name: Vanguard Dragontamer
+- id: 16945535
+  name: Vanguard's Wyvern
+- id: 16945536
+  name: Goblin Replica
+- id: 16945537
+  name: Goblin Replica
+- id: 16945538
+  name: Goblin Replica
+- id: 16945539
+  name: Goblin Statue
+- id: 16945540
+  name: Vanguard Pitfighter
+- id: 16945541
+  name: Vanguard Shaman
+- id: 16945542
+  name: Vanguard Maestro
+- id: 16945543
+  name: Vanguard Necromancer
+- id: 16945544
+  name: Vanguard's Avatar
+- id: 16945545
+  name: Goblin Replica
+- id: 16945546
+  name: Goblin Replica
+- id: 16945547
+  name: Goblin Replica
+- id: 16945548
+  name: Goblin Statue
+- id: 16945549
+  name: Nightmare Weapon
+- id: 16945550
+  name: Nightmare Weapon
+- id: 16945551
+  name: Nightmare Weapon
+- id: 16945552
+  name: Nightmare Weapon
+- id: 16945553
+  name: Nightmare Weapon
+- id: 16945554
+  name: Nightmare Weapon
+- id: 16945555
+  name: Nightmare Weapon
+- id: 16945556
+  name: Nightmare Weapon
+- id: 16945557
+  name: Nightmare Weapon
+- id: 16945558
+  name: Nightmare Weapon
+- id: 16945559
+  name: Vanguard Militant
+- id: 16945560
+  name: Vanguard Thaumaturge
+- id: 16945561
+  name: Vanguard Beasttender
+- id: 16945562
+  name: Vanguard's Scorpion
+- id: 16945563
+  name: Vanguard Mason
+- id: 16945564
+  name: Vanguard Hatamoto
+- id: 16945565
+  name: Adamantking Effigy
+- id: 16945566
+  name: Adamantking Effigy
+- id: 16945567
+  name: Adamantking Effigy
+- id: 16945568
+  name: Adamantking Image
+- id: 16945569
+  name: Vanguard Vindicator
+- id: 16945570
+  name: Vanguard Protector
+- id: 16945571
+  name: Vanguard Defender
+- id: 16945572
+  name: Vanguard Kusa
+- id: 16945573
+  name: Vanguard Undertaker
+- id: 16945574
+  name: Vanguard's Avatar
+- id: 16945575
+  name: Adamantking Effigy
+- id: 16945576
+  name: Adamantking Effigy
+- id: 16945577
+  name: Adamantking Effigy
+- id: 16945578
+  name: Adamantking Image
+- id: 16945579
+  name: Vanguard Constable
+- id: 16945580
+  name: Vanguard Purloiner
+- id: 16945581
+  name: Vanguard Vigilante
+- id: 16945582
+  name: Vanguard Minstrel
+- id: 16945583
+  name: Vanguard Drakekeeper
+- id: 16945584
+  name: Vanguard's Wyvern
+- id: 16945585
+  name: Adamantking Effigy
+- id: 16945586
+  name: Adamantking Effigy
+- id: 16945587
+  name: Adamantking Effigy
+- id: 16945588
+  name: Adamantking Image
+- id: 16945589
+  name: Nightmare Raptor
+- id: 16945590
+  name: Nightmare Raptor
+- id: 16945591
+  name: Nightmare Raptor
+- id: 16945592
+  name: Nightmare Raptor
+- id: 16945593
+  name: Nightmare Raptor
+- id: 16945594
+  name: Nightmare Raptor
+- id: 16945595
+  name: Nightmare Raptor
+- id: 16945596
+  name: Nightmare Raptor
+- id: 16945597
+  name: Nightmare Raptor
+- id: 16945598
+  name: Nightmare Raptor
+- id: 16945599
+  name: Vanguard Skirmisher
+- id: 16945600
+  name: Vanguard Sentinel
+- id: 16945601
+  name: Vanguard Exemplar
+- id: 16945602
+  name: Vanguard Inciter
+- id: 16945603
+  name: Vanguard Ogresoother
+- id: 16945604
+  name: Vanguard's Crow
+- id: 16945605
+  name: Manifest Icon
+- id: 16945606
+  name: Manifest Icon
+- id: 16945607
+  name: Manifest Icon
+- id: 16945608
+  name: Avatar Idol
+- id: 16945609
+  name: Vanguard Priest
+- id: 16945610
+  name: Vanguard Prelate
+- id: 16945611
+  name: Vanguard Chanter
+- id: 16945612
+  name: Vanguard Partisan
+- id: 16945613
+  name: Vanguard's Wyvern
+- id: 16945614
+  name: Vanguard Assassin
+- id: 16945615
+  name: Manifest Icon
+- id: 16945616
+  name: Manifest Icon
+- id: 16945617
+  name: Manifest Icon
+- id: 16945618
+  name: Avatar Idol
+- id: 16945619
+  name: Vanguard Visionary
+- id: 16945620
+  name: Vanguard Liberator
+- id: 16945621
+  name: Vanguard Salvager
+- id: 16945622
+  name: Vanguard Persecutor
+- id: 16945623
+  name: Vanguard Oracle
+- id: 16945624
+  name: Vanguard's Avatar
+- id: 16945625
+  name: Manifest Icon
+- id: 16945626
+  name: Manifest Icon
+- id: 16945627
+  name: Manifest Icon
+- id: 16945628
+  name: Avatar Idol
+- id: 16945630
+  name: Achieve Master
+- id: 16945631
+  name: Unity Master
+- id: 16945637
+  name: Somnial Threshold
+- id: 16945638
+  name: ???
+- id: 16945639
+  name: ???
+- id: 16945640
+  name: ???
+- id: 16945641
+  name: ???
+- id: 16945642
+  name: ???
+- id: 16945643
+  name: ''
+- id: 16945645
+  name: Moogle
+- id: 16945646
+  name: Moogle
+- id: 16945647
+  name: Moogle
+- id: 16945648
+  name: Moogle
+- id: 16945649
+  name: Moogle
+- id: 16945650
+  name: Moogle
+- id: 16945651
+  name: Moogle
+- id: 16945652
+  name: Moogle

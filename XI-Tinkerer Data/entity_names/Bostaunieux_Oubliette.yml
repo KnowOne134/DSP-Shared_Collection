@@ -1,0 +1,675 @@
+names:
+- id: 17461249
+  name: Bloodsucker
+- id: 17461250
+  name: Acid Grease
+- id: 17461251
+  name: Bloodsucker
+- id: 17461252
+  name: Mousse
+- id: 17461253
+  name: Mousse
+- id: 17461254
+  name: Funnel Bats
+- id: 17461255
+  name: Funnel Bats
+- id: 17461256
+  name: Funnel Bats
+- id: 17461257
+  name: Funnel Bats
+- id: 17461258
+  name: Funnel Bats
+- id: 17461259
+  name: Funnel Bats
+- id: 17461260
+  name: Funnel Bats
+- id: 17461261
+  name: Funnel Bats
+- id: 17461262
+  name: Hecatomb Hound
+- id: 17461263
+  name: Werebat
+- id: 17461264
+  name: Werebat
+- id: 17461265
+  name: Werebat
+- id: 17461266
+  name: Werebat
+- id: 17461267
+  name: Hecatomb Hound
+- id: 17461268
+  name: Hecatomb Hound
+- id: 17461269
+  name: Werebat
+- id: 17461270
+  name: Werebat
+- id: 17461271
+  name: Hecatomb Hound
+- id: 17461272
+  name: Hecatomb Hound
+- id: 17461273
+  name: Werebat
+- id: 17461274
+  name: Werebat
+- id: 17461275
+  name: Haunt
+- id: 17461276
+  name: Garm
+- id: 17461277
+  name: Garm
+- id: 17461278
+  name: Garm
+- id: 17461279
+  name: Garm
+- id: 17461280
+  name: Haunt
+- id: 17461281
+  name: Haunt
+- id: 17461282
+  name: Werebat
+- id: 17461283
+  name: Werebat
+- id: 17461284
+  name: Werebat
+- id: 17461285
+  name: Werebat
+- id: 17461286
+  name: Werebat
+- id: 17461287
+  name: Funnel Bats
+- id: 17461288
+  name: Funnel Bats
+- id: 17461289
+  name: Dark Aspic
+- id: 17461290
+  name: Dark Aspic
+- id: 17461291
+  name: Funnel Bats
+- id: 17461292
+  name: Funnel Bats
+- id: 17461293
+  name: Dark Aspic
+- id: 17461294
+  name: Dark Aspic
+- id: 17461295
+  name: Haunt
+- id: 17461296
+  name: Funnel Bats
+- id: 17461297
+  name: Dark Aspic
+- id: 17461298
+  name: Funnel Bats
+- id: 17461299
+  name: Funnel Bats
+- id: 17461300
+  name: Funnel Bats
+- id: 17461301
+  name: Mousse
+- id: 17461302
+  name: Mousse
+- id: 17461303
+  name: Mousse
+- id: 17461304
+  name: Mousse
+- id: 17461305
+  name: Mousse
+- id: 17461306
+  name: Mousse
+- id: 17461307
+  name: Sewer Syrup
+- id: 17461308
+  name: Garm
+- id: 17461309
+  name: Garm
+- id: 17461310
+  name: Garm
+- id: 17461311
+  name: Garm
+- id: 17461312
+  name: Garm
+- id: 17461313
+  name: Garm
+- id: 17461314
+  name: Garm
+- id: 17461315
+  name: Shii
+- id: 17461316
+  name: Funnel Bats
+- id: 17461317
+  name: Dark Aspic
+- id: 17461318
+  name: Funnel Bats
+- id: 17461319
+  name: Funnel Bats
+- id: 17461320
+  name: Dark Aspic
+- id: 17461321
+  name: Dark Aspic
+- id: 17461322
+  name: Werebat
+- id: 17461323
+  name: Werebat
+- id: 17461324
+  name: Werebat
+- id: 17461325
+  name: Dark Aspic
+- id: 17461326
+  name: Dark Aspic
+- id: 17461327
+  name: Haunt
+- id: 17461328
+  name: Werebat
+- id: 17461329
+  name: Werebat
+- id: 17461330
+  name: Werebat
+- id: 17461331
+  name: Werebat
+- id: 17461332
+  name: Dark Aspic
+- id: 17461333
+  name: Dark Aspic
+- id: 17461334
+  name: Garm
+- id: 17461335
+  name: Garm
+- id: 17461336
+  name: Haunt
+- id: 17461337
+  name: Haunt
+- id: 17461338
+  name: Drexerion the Condemned
+- id: 17461339
+  name: Garm
+- id: 17461340
+  name: Garm
+- id: 17461341
+  name: Haunt
+- id: 17461342
+  name: Haunt
+- id: 17461343
+  name: Phanduron the Condemned
+- id: 17461344
+  name: Blind Bat
+- id: 17461345
+  name: Blind Bat
+- id: 17461346
+  name: Blind Bat
+- id: 17461347
+  name: Blind Bat
+- id: 17461348
+  name: Panna Cotta
+- id: 17461349
+  name: Panna Cotta
+- id: 17461350
+  name: Blind Bat
+- id: 17461351
+  name: Blind Bat
+- id: 17461352
+  name: Blind Bat
+- id: 17461353
+  name: Panna Cotta
+- id: 17461354
+  name: Panna Cotta
+- id: 17461355
+  name: Nachtmahr
+- id: 17461356
+  name: Nachtmahr
+- id: 17461357
+  name: Panna Cotta
+- id: 17461358
+  name: Panna Cotta
+- id: 17461359
+  name: Nachtmahr
+- id: 17461360
+  name: Blind Bat
+- id: 17461361
+  name: Blind Bat
+- id: 17461362
+  name: Panna Cotta
+- id: 17461363
+  name: Nachtmahr
+- id: 17461364
+  name: Blind Bat
+- id: 17461365
+  name: Blind Bat
+- id: 17461366
+  name: Blind Bat
+- id: 17461367
+  name: Blind Bat
+- id: 17461368
+  name: Blind Bat
+- id: 17461369
+  name: Panna Cotta
+- id: 17461370
+  name: Panna Cotta
+- id: 17461371
+  name: Dabilla
+- id: 17461372
+  name: Dabilla
+- id: 17461373
+  name: Dabilla
+- id: 17461374
+  name: Dabilla
+- id: 17461375
+  name: Dabilla
+- id: 17461376
+  name: Dabilla
+- id: 17461377
+  name: Dabilla
+- id: 17461378
+  name: Dabilla
+- id: 17461379
+  name: Nachtmahr
+- id: 17461380
+  name: Nachtmahr
+- id: 17461381
+  name: Nachtmahr
+- id: 17461382
+  name: Panna Cotta
+- id: 17461383
+  name: Panna Cotta
+- id: 17461384
+  name: Nachtmahr
+- id: 17461385
+  name: Nachtmahr
+- id: 17461386
+  name: Nachtmahr
+- id: 17461387
+  name: Blind Bat
+- id: 17461388
+  name: Blind Bat
+- id: 17461389
+  name: Panna Cotta
+- id: 17461390
+  name: Nachtmahr
+- id: 17461391
+  name: Panna Cotta
+- id: 17461392
+  name: Blind Bat
+- id: 17461393
+  name: Blind Bat
+- id: 17461394
+  name: Blind Bat
+- id: 17461395
+  name: Blind Bat
+- id: 17461396
+  name: Panna Cotta
+- id: 17461397
+  name: Panna Cotta
+- id: 17461398
+  name: Dabilla
+- id: 17461399
+  name: Dabilla
+- id: 17461400
+  name: Dabilla
+- id: 17461401
+  name: Dabilla
+- id: 17461402
+  name: Wurdalak
+- id: 17461403
+  name: Dabilla
+- id: 17461404
+  name: Wurdalak
+- id: 17461405
+  name: Dabilla
+- id: 17461406
+  name: Dabilla
+- id: 17461407
+  name: Dabilla
+- id: 17461408
+  name: Dabilla
+- id: 17461409
+  name: Wurdalak
+- id: 17461410
+  name: Blind Bat
+- id: 17461411
+  name: Blind Bat
+- id: 17461412
+  name: Blind Bat
+- id: 17461413
+  name: Blind Bat
+- id: 17461414
+  name: Blind Bat
+- id: 17461415
+  name: Blind Bat
+- id: 17461416
+  name: Blind Bat
+- id: 17461417
+  name: Wurdalak
+- id: 17461418
+  name: Blind Bat
+- id: 17461419
+  name: Blind Bat
+- id: 17461420
+  name: Blind Bat
+- id: 17461421
+  name: Wurdalak
+- id: 17461422
+  name: Werebat
+- id: 17461423
+  name: Werebat
+- id: 17461424
+  name: Werebat
+- id: 17461425
+  name: Werebat
+- id: 17461426
+  name: Werebat
+- id: 17461427
+  name: Werebat
+- id: 17461428
+  name: Werebat
+- id: 17461429
+  name: Werebat
+- id: 17461430
+  name: Werebat
+- id: 17461431
+  name: Werebat
+- id: 17461432
+  name: Werebat
+- id: 17461433
+  name: Arioch
+- id: 17461434
+  name: Bloodsucker
+- id: 17461435
+  name: Bloodsucker
+- id: 17461436
+  name: Bloodsucker
+- id: 17461437
+  name: Bloodsucker
+- id: 17461438
+  name: Bloodsucker
+- id: 17461439
+  name: Bloodsucker
+- id: 17461440
+  name: Bloodsucker
+- id: 17461441
+  name: Bloodsucker
+- id: 17461442
+  name: Bloodsucker
+- id: 17461443
+  name: Bloodsucker
+- id: 17461444
+  name: Bloodsucker
+- id: 17461445
+  name: Bloodsucker
+- id: 17461446
+  name: Bloodsucker
+- id: 17461447
+  name: Bloodsucker
+- id: 17461448
+  name: Bloodsucker
+- id: 17461449
+  name: Bloodsucker
+- id: 17461450
+  name: Bloodsucker
+- id: 17461451
+  name: Bloodsucker
+- id: 17461452
+  name: Bloodsucker
+- id: 17461453
+  name: Bloodsucker
+- id: 17461454
+  name: Bloodsucker
+- id: 17461455
+  name: Bloodsucker
+- id: 17461456
+  name: Bloodsucker
+- id: 17461457
+  name: Bloodsucker
+- id: 17461458
+  name: Bloodsucker
+- id: 17461459
+  name: Bloodsucker
+- id: 17461460
+  name: Bloodsucker
+- id: 17461461
+  name: Bloodsucker
+- id: 17461462
+  name: Bloodsucker
+- id: 17461463
+  name: Bloodsucker
+- id: 17461464
+  name: Bloodsucker
+- id: 17461465
+  name: Bloodsucker
+- id: 17461466
+  name: Bloodsucker
+- id: 17461467
+  name: Bloodsucker
+- id: 17461468
+  name: Bloodsucker
+- id: 17461469
+  name: Gespenst
+- id: 17461470
+  name: Gespenst
+- id: 17461471
+  name: Manes
+- id: 17461472
+  name: Bloodsucker
+- id: 17461473
+  name: Bloodsucker
+- id: 17461474
+  name: Bloodsucker
+- id: 17461475
+  name: Bloodsucker
+- id: 17461476
+  name: Gespenst
+- id: 17461477
+  name: Gespenst
+- id: 17461478
+  name: Bloodsucker
+- id: 17461479
+  name: Bodach
+- id: 17461480
+  name: Garbage Gel
+- id: 17461481
+  name: Garbage Gel
+- id: 17461482
+  name: Garbage Gel
+- id: 17461486
+  name: ???
+- id: 17461487
+  name: Treasure Casket
+- id: 17461488
+  name: Treasure Casket
+- id: 17461489
+  name: Treasure Casket
+- id: 17461490
+  name: Treasure Casket
+- id: 17461491
+  name: Treasure Casket
+- id: 17461492
+  name: Treasure Casket
+- id: 17461493
+  name: Treasure Casket
+- id: 17461494
+  name: Treasure Casket
+- id: 17461495
+  name: Treasure Casket
+- id: 17461496
+  name: Treasure Casket
+- id: 17461497
+  name: Treasure Casket
+- id: 17461498
+  name: Treasure Casket
+- id: 17461499
+  name: Treasure Casket
+- id: 17461500
+  name: Treasure Casket
+- id: 17461501
+  name: Treasure Casket
+- id: 17461502
+  name: Treasure Casket
+- id: 17461503
+  name: Achieve Master
+- id: 17461504
+  name: Unity Master
+- id: 17461509
+  name: Novalmauge
+- id: 17461510
+  name: Chumia
+- id: 17461511
+  name: Wooden Door
+- id: 17461512
+  name: Cell Door
+- id: 17461513
+  name: Couchatorage
+- id: 17461514
+  name: Sewer Lid
+- id: 17461515
+  name: Cell Door
+- id: 17461516
+  name: Cell Door
+- id: 17461517
+  name: Cell Door
+- id: 17461518
+  name: Cell Door
+- id: 17461519
+  name: Cell Door
+- id: 17461520
+  name: Cell Door
+- id: 17461521
+  name: Cell Door
+- id: 17461522
+  name: Cell Door
+- id: 17461523
+  name: Cell Door
+- id: 17461524
+  name: Cell Door
+- id: 17461525
+  name: Cell Door
+- id: 17461526
+  name: Cell Door
+- id: 17461527
+  name: Cell Door
+- id: 17461528
+  name: Cell Door
+- id: 17461529
+  name: Cell Door
+- id: 17461530
+  name: Cell Door
+- id: 17461531
+  name: Cell Door
+- id: 17461532
+  name: Cell Door
+- id: 17461533
+  name: ''
+- id: 17461534
+  name: ''
+- id: 17461535
+  name: ''
+- id: 17461536
+  name: ''
+- id: 17461537
+  name: ''
+- id: 17461538
+  name: ''
+- id: 17461539
+  name: ''
+- id: 17461540
+  name: ''
+- id: 17461541
+  name: ''
+- id: 17461542
+  name: ''
+- id: 17461543
+  name: ''
+- id: 17461544
+  name: ''
+- id: 17461545
+  name: ''
+- id: 17461546
+  name: ''
+- id: 17461547
+  name: ''
+- id: 17461548
+  name: ''
+- id: 17461549
+  name: ''
+- id: 17461550
+  name: ''
+- id: 17461551
+  name: ''
+- id: 17461552
+  name: ''
+- id: 17461553
+  name: ''
+- id: 17461554
+  name: ''
+- id: 17461555
+  name: ''
+- id: 17461556
+  name: ''
+- id: 17461557
+  name: ''
+- id: 17461558
+  name: Brugaire
+- id: 17461559
+  name: Jurgenclaus
+- id: 17461561
+  name: Moogle
+- id: 17461562
+  name: Moogle
+- id: 17461563
+  name: Moogle
+- id: 17461564
+  name: Moogle
+- id: 17461565
+  name: Moogle
+- id: 17461566
+  name: Moogle
+- id: 17461567
+  name: Moogle
+- id: 17461568
+  name: Moogle
+- id: 17461569
+  name: ''
+- id: 17461570
+  name: Ramblix
+- id: 17461571
+  name: Goblin Footprint
+- id: 17461572
+  name: GoalPoint
+- id: 17461573
+  name: GoalPoint
+- id: 17461574
+  name: GoalPoint
+- id: 17461575
+  name: GoalPoint
+- id: 17461576
+  name: GoalPoint
+- id: 17461577
+  name: GoalPoint
+- id: 17461578
+  name: Moogle
+- id: 17461579
+  name: Moogle
+- id: 17461580
+  name: Moogle
+- id: 17461581
+  name: Moogle
+- id: 17461582
+  name: Moogle
+- id: 17461583
+  name: Moogle
+- id: 17461584
+  name: Grounds Tome
+- id: 17461585
+  name: Grounds Tome
+- id: 17461586
+  name: Grounds Tome
+- id: 17461587
+  name: Geomantic Reservoir
+- id: 17461590
+  name: Survival Guide
+- id: 17461591
+  name: Linkshell Concierge
+- id: 17461592
+  name: Chat Manual
+- id: 17461593
+  name: Ethereal Junction
+- id: 17461594
+  name: Ethereal Junction
+- id: 17461595
+  name: Ethereal Junction

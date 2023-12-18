@@ -1,0 +1,377 @@
+lists:
+  0:
+  - string: Search
+  1:
+  - string: Region Info
+  2:
+  - string: Items
+  3:
+  - string: Mog Safe
+  4:
+  - string: Layout
+  5:
+  - string: Commands
+  6:
+  - string: Ready Mode
+  7:
+  - string: Battle Mode
+  8:
+  - string: Map
+  9:
+  - string: Mog House
+  10:
+  - string: Trade
+  11:
+  - string: Ranged Atk.
+  12:
+  - string: Shop
+  13:
+  - string: Guild Shop
+  14:
+  - string: Bazaar
+  15:
+  - string: Set Bazaar
+  16:
+  - string: Deliveries
+  17:
+  - string: Cancel Delivery
+  18:
+  - string: Auction
+  19:
+  - string: Party
+  20:
+  - string: Equipment
+  21:
+  - string: San d'Oria
+  22:
+  - string: Bastok
+  23:
+  - string: Windurst
+  24:
+  - string: Rise of the Zilart
+  25:
+  - string: 'San d''Oria: Current Quests'
+  26:
+  - string: 'Bastok: Current Quests'
+  27:
+  - string: 'Windurst: Current Quests'
+  28:
+  - string: 'Jeuno: Current Quests'
+  29:
+  - string: 'Other Areas: Current Quests'
+  30:
+  - string: 'Outlands: Current Quests'
+  31:
+  - string: 'San d''Oria: Completed Quests'
+  32:
+  - string: 'Bastok: Completed Quests'
+  33:
+  - string: 'Windurst: Completed Quests'
+  34:
+  - string: 'Jeuno: Completed Quests'
+  35:
+  - string: 'Other Areas: Completed Quests'
+  36:
+  - string: 'Outlands: Completed Quests'
+  37:
+  - string: Storage
+  38:
+  - string: Search by Area
+  39:
+  - string: Search by Job
+  40:
+  - string: B
+  41:
+  - string: Search by Level
+  42:
+  - string: Search by Allegiance
+  43:
+  - string: Search by Race
+  44:
+  - string: Comment Type
+  45:
+  - string: Keyboard Input
+  46:
+  - string: Keyboard
+  47:
+  - string: Japanese Input
+  48:
+  - string: Gameplay
+  49:
+  - string: Misc.
+  50:
+  - string: Global
+  51:
+  - string: Windows
+  52:
+  - string: Misc. 2
+  53:
+  - string: Mouse/Cam.
+  54:
+  - string: Config
+  55:
+  - string: Font Colors
+  56:
+  - string: Default
+  57:
+  - string: K.O.
+  58:
+  - string: ''
+  59:
+  - string: Key Items
+  60:
+  - string: Help Desk
+  61:
+  - string: Friend List
+  62:
+  - string: No. of Items
+  63:
+  - string: Auto-sort
+  64:
+  - string: Manual Sort
+  65:
+  - string: Main Job
+  66:
+  - string: Support Job
+  67:
+  - string: Change Jobs
+  68:
+  - string: Abilities
+  69:
+  - string: Keyboard
+  70:
+  - string: ''
+  71:
+  - string: Linkshell
+  72:
+  - string: Log Window
+  73:
+  - string: Treasure Pool
+  74:
+  - string: Treasure
+  75:
+  - string: Edit Macros
+  76:
+  - string: Magic List
+  77:
+  - string: Magic
+  78:
+  - string: Wide Scan
+  79:
+  - string: Markers
+  80:
+  - string: MacroPalette
+  81:
+  - string: Status
+  82:
+  - string: Messages
+  83:
+  - string: Friend Registration
+  84:
+  - string: Send Message
+  85:
+  - string: Missions
+  86:
+  - string: Area
+  87:
+  - string: Delivery Box
+  88:
+  - string: Price Set
+  89:
+  - string: Gardening
+  90:
+  - string: '?'
+  91:
+  - string: Online Stat.
+  92:
+  - string: Privacy Lv.
+  93:
+  - string: Profile
+  94:
+  - string: Party
+  95:
+  - string: Party Leader
+  96:
+  - string: Alliance
+  97:
+  - string: Languages
+  98:
+  - string: Distribution
+  99:
+  - string: Accept?
+  100:
+  - string: Quests
+  101:
+  - string: Revival
+  102:
+  - string: Scan
+  103:
+  - string: Search by Level
+  104:
+  - string: Search by Name
+  105:
+  - string: Refine by Type
+  106:
+  - string: Search by Rank
+  107:
+  - string: View House
+  108:
+  - string: Bazaar
+  109:
+  - string: Edit Macros
+  110:
+  - string: Time Played
+  111:
+  - string: Current Time
+  112:
+  - string: Log Out
+  113:
+  - string: Shut Down
+  114:
+  - string: Synthesis
+  115:
+  - string: Ammo&Misc.
+  116:
+  - string: Armor
+  117:
+  - string: ction.
+  118:
+  - string: Food
+  119:
+  - string: Price History
+  120:
+  - string: Others
+  121:
+  - string: Bid
+  122:
+  - string: Magic Scrolls
+  123:
+  - string: Materials
+  124:
+  - string: Meals
+  125:
+  - string: Weapons
+  126:
+  - string: Blacklist
+  127:
+  - string: Casting
+  128:
+  - string: Filter
+  129:
+  - string: Chat
+  130:
+  - string: Categories
+  131:
+  - string: Chains of Promathia
+  132:
+  - string: Fellow
+  133:
+  - string: Camera
+  134:
+  - string: Assault
+  135:
+  - string: Treasures of Aht Urhgan
+  136:
+  - string: 'Aht Urhgan: Current Quests'
+  137:
+  - string: 'Aht Urhgan: Completed Quests'
+  138:
+  - string: Mog Locker
+  139:
+  - string: Locker
+  140:
+  - string: Besieged
+  141:
+  - string: Blue Magic
+  142:
+  - string: Conquest
+  143:
+  - string: Campaign
+  144:
+  - string: Wings of the Goddess
+  145:
+  - string: 'Crystal War: Current Quests'
+  146:
+  - string: 'Crystal War: Completed Quests'
+  147:
+  - string: Open Mog House
+  148:
+  - string: Close Mog House
+  149:
+  - string: Level Sync
+  150:
+  - string: Tabula
+  151:
+  - string: Satchel
+  152:
+  - string: A Crystalline Prophecy
+  153:
+  - string: A Moogle Kupo d'Etat
+  154:
+  - string: A Shantotto Ascension
+  155:
+  - string: Abyssea
+  156:
+  - string: 'Abyssea: Current Quests'
+  157:
+  - string: 'Abyssea: Completed Quests'
+  158:
+  - string: Mog Sack
+  159:
+  - string: Seekers of Adoulin
+  160:
+  - string: 'Adoulin: Current Quests'
+  161:
+  - string: 'Adoulin: Completed Quests'
+  162:
+  - string: Colonization
+  163:
+  - string: 'Coalition: Current Assignments'
+  164:
+  - string: 'Coalition: Completed Assignments'
+  165:
+  - string: Customization
+  166:
+  - string: Mog Case
+  167:
+  - string: Currencies
+  168:
+  - string: M.Ward.
+  169:
+  - string: Storage Options
+  170:
+  - string: Synthesis
+  171:
+  - string: Favorites
+  172:
+  - string: Equipment Sets
+  173:
+  - string: Unity
+  174:
+  - string: Linkshell 2
+  175:
+  - string: Log Settings
+  176:
+  - string: Default Log Settings
+  177:
+  - string: Link
+  178:
+  - string: Misc. 3
+  179:
+  - string: Communication
+  180:
+  - string: Emote List
+  181:
+  - string: Safe 2
+  182:
+  - string: Remodel
+  183:
+  - string: Rhapsodies of Vana'diel
+  184:
+  - string: Misc. 4
+  185:
+  - string: M.Ward. 2
+  186:
+  - string: M.Ward. 3
+  187:
+  - string: M.Ward. 4

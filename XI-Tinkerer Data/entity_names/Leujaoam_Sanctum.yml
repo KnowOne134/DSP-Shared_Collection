@@ -1,0 +1,657 @@
+names:
+- id: 17059841
+  name: Leujaoam Worm
+- id: 17059842
+  name: Leujaoam Worm
+- id: 17059843
+  name: Leujaoam Worm
+- id: 17059844
+  name: Leujaoam Worm
+- id: 17059845
+  name: Leujaoam Worm
+- id: 17059846
+  name: Leujaoam Worm
+- id: 17059847
+  name: Leujaoam Worm
+- id: 17059848
+  name: Leujaoam Worm
+- id: 17059849
+  name: Leujaoam Worm
+- id: 17059850
+  name: Leujaoam Worm
+- id: 17059851
+  name: Leujaoam Worm
+- id: 17059852
+  name: Leujaoam Worm
+- id: 17059853
+  name: Leujaoam Worm
+- id: 17059854
+  name: Leujaoam Worm
+- id: 17059855
+  name: Leujaoam Worm
+- id: 17059856
+  name: Qiqirn Miner
+- id: 17059857
+  name: Qiqirn Miner
+- id: 17059858
+  name: Qiqirn Miner
+- id: 17059859
+  name: Qiqirn Miner
+- id: 17059860
+  name: Qiqirn Miner
+- id: 17059861
+  name: Qiqirn Miner
+- id: 17059862
+  name: Qiqirn Miner
+- id: 17059863
+  name: Qiqirn Miner
+- id: 17059864
+  name: Mineral Eater
+- id: 17059865
+  name: Mineral Eater
+- id: 17059866
+  name: Mineral Eater
+- id: 17059867
+  name: Mineral Eater
+- id: 17059868
+  name: Mineral Eater
+- id: 17059869
+  name: Mineral Eater
+- id: 17059870
+  name: Mineral Eater
+- id: 17059871
+  name: Mineral Eater
+- id: 17059872
+  name: Mineral Eater
+- id: 17059873
+  name: Mineral Eater
+- id: 17059874
+  name: Clavauert B Chanoix
+- id: 17059875
+  name: Frozen Bones
+- id: 17059876
+  name: Frozen Bones
+- id: 17059877
+  name: Frozen Bones
+- id: 17059878
+  name: Frozen Bones
+- id: 17059879
+  name: Frozen Bones
+- id: 17059880
+  name: Frozen Bones
+- id: 17059881
+  name: Frozen Bones
+- id: 17059882
+  name: Frozen Bones
+- id: 17059883
+  name: Frozen Bones
+- id: 17059884
+  name: Gelid Bhoot
+- id: 17059885
+  name: Gelid Bhoot
+- id: 17059886
+  name: Gelid Bhoot
+- id: 17059887
+  name: Gelid Bhoot
+- id: 17059888
+  name: Gelid Bhoot
+- id: 17059889
+  name: Gelid Bhoot
+- id: 17059890
+  name: Gelid Bhoot
+- id: 17059891
+  name: Coney
+- id: 17059892
+  name: Coney
+- id: 17059893
+  name: Coney
+- id: 17059894
+  name: Coney
+- id: 17059895
+  name: Coney
+- id: 17059896
+  name: Coney
+- id: 17059897
+  name: Coney
+- id: 17059898
+  name: Coney
+- id: 17059899
+  name: Coney
+- id: 17059900
+  name: Coney
+- id: 17059901
+  name: Coney
+- id: 17059902
+  name: Coney
+- id: 17059903
+  name: Coney
+- id: 17059904
+  name: Coney
+- id: 17059905
+  name: Coney
+- id: 17059906
+  name: Coney
+- id: 17059907
+  name: Coney
+- id: 17059908
+  name: Coney
+- id: 17059909
+  name: Coney
+- id: 17059910
+  name: Coney
+- id: 17059911
+  name: Ice Cage
+- id: 17059912
+  name: Ice Cage
+- id: 17059913
+  name: Ice Cage
+- id: 17059914
+  name: Ice Cage
+- id: 17059915
+  name: Ice Cage
+- id: 17059916
+  name: Qiqirn Shepherd
+- id: 17059917
+  name: Qiqirn Mine
+- id: 17059918
+  name: Qiqirn Shepherd
+- id: 17059919
+  name: Qiqirn Mine
+- id: 17059920
+  name: Qiqirn Shepherd
+- id: 17059921
+  name: Qiqirn Mine
+- id: 17059922
+  name: Qiqirn Shepherd
+- id: 17059923
+  name: Qiqirn Mine
+- id: 17059924
+  name: Qiqirn Shepherd
+- id: 17059925
+  name: Qiqirn Mine
+- id: 17059926
+  name: Qiqirn Shepherd
+- id: 17059927
+  name: Qiqirn Mine
+- id: 17059928
+  name: Qiqirn Mine Baron
+- id: 17059929
+  name: Qiqirn Greengrocer
+- id: 17059930
+  name: Qiqirn Dealer
+- id: 17059931
+  name: Karakul
+- id: 17059932
+  name: Karakul
+- id: 17059933
+  name: Karakul
+- id: 17059934
+  name: Karakul
+- id: 17059935
+  name: Karakul
+- id: 17059936
+  name: Imp
+- id: 17059937
+  name: Imp
+- id: 17059938
+  name: Imp
+- id: 17059939
+  name: Imp
+- id: 17059940
+  name: Imp
+- id: 17059941
+  name: Imp
+- id: 17059942
+  name: Imp
+- id: 17059943
+  name: Imp
+- id: 17059944
+  name: Imp
+- id: 17059945
+  name: Imp
+- id: 17059946
+  name: Gasharyad
+- id: 17059947
+  name: Salimuhl
+- id: 17059948
+  name: Lamia Prosector
+- id: 17059949
+  name: Lamia Bowyer
+- id: 17059950
+  name: Lamia Sharper
+- id: 17059951
+  name: Lamia Prosector
+- id: 17059952
+  name: Lamia Bowyer
+- id: 17059953
+  name: Lamia Sharper
+- id: 17059954
+  name: Lamia Prosector
+- id: 17059955
+  name: Lamia Bowyer
+- id: 17059956
+  name: Lamia Sharper
+- id: 17059957
+  name: Lamia Prosector
+- id: 17059958
+  name: Kusa
+- id: 17059959
+  name: Kusa
+- id: 17059960
+  name: Kusa
+- id: 17059961
+  name: Kusa
+- id: 17059962
+  name: Kusa
+- id: 17059963
+  name: Kusa
+- id: 17059964
+  name: Kusa
+- id: 17059965
+  name: Kusa
+- id: 17059966
+  name: Kusa
+- id: 17059967
+  name: Kusa
+- id: 17059968
+  name: Kusa
+- id: 17059969
+  name: Kusa
+- id: 17059970
+  name: Kusa
+- id: 17059971
+  name: Kusa
+- id: 17059972
+  name: Kusa
+- id: 17059973
+  name: Kusa
+- id: 17059974
+  name: Saizo
+- id: 17059975
+  name: Oko
+- id: 17059976
+  name: Danzo
+- id: 17059977
+  name: Kudagitsune
+- id: 17059978
+  name: Kudagitsune
+- id: 17059979
+  name: Kudagitsune
+- id: 17059980
+  name: Kudagitsune
+- id: 17059981
+  name: Kudagitsune
+- id: 17059982
+  name: Kudagitsune
+- id: 17059983
+  name: Kudagitsune
+- id: 17059984
+  name: Shailham
+- id: 17059985
+  name: Dhiadjhar
+- id: 17059986
+  name: Zhadjaraf
+- id: 17059987
+  name: Ganmuul
+- id: 17059988
+  name: Jalyaat
+- id: 17059989
+  name: Rahdjab
+- id: 17059990
+  name: Ghahnis
+- id: 17059991
+  name: Tahbmar
+- id: 17059992
+  name: Rhushouf
+- id: 17059993
+  name: Raubahn
+- id: 17059994
+  name: Ghayaraan
+- id: 17059995
+  name: Krinahal
+- id: 17059996
+  name: Varajahl
+- id: 17059997
+  name: Mareyamad
+- id: 17059998
+  name: Shayaam
+- id: 17059999
+  name: Habraheem
+- id: 17060000
+  name: Qudeen
+- id: 17060001
+  name: Salyhaar
+- id: 17060002
+  name: Sharayaan
+- id: 17060003
+  name: Ubdeen
+- id: 17060004
+  name: Bashdeel
+- id: 17060005
+  name: Wharadi
+- id: 17060006
+  name: Hkadouf
+- id: 17060007
+  name: Afrhaad
+- id: 17060008
+  name: Nareema
+- id: 17060009
+  name: Udhaaman
+- id: 17060010
+  name: Yhalbin
+- id: 17060011
+  name: Count Dracula
+- id: 17060012
+  name: Cursed Doppelganger
+- id: 17060014
+  name: Ancient Lockbox
+- id: 17060015
+  name: Rune of Release
+- id: 17060016
+  name: Mining Point
+- id: 17060017
+  name: Mining Point
+- id: 17060018
+  name: Mining Point
+- id: 17060019
+  name: Mining Point
+- id: 17060020
+  name: Mining Point
+- id: 17060021
+  name: Mining Point
+- id: 17060022
+  name: Mining Point
+- id: 17060023
+  name: Mining Point
+- id: 17060024
+  name: Mining Point
+- id: 17060025
+  name: Mining Point
+- id: 17060026
+  name: Mulwahah
+- id: 17060027
+  name: Vegetation
+- id: 17060028
+  name: Vegetation
+- id: 17060029
+  name: Vegetation
+- id: 17060030
+  name: Vegetation
+- id: 17060031
+  name: Vegetation
+- id: 17060032
+  name: Vegetation
+- id: 17060033
+  name: Vegetation
+- id: 17060034
+  name: Vegetation
+- id: 17060035
+  name: Vegetation
+- id: 17060036
+  name: Vegetation
+- id: 17060037
+  name: Vegetation
+- id: 17060038
+  name: Vegetation
+- id: 17060039
+  name: Vegetation
+- id: 17060040
+  name: Vegetation
+- id: 17060041
+  name: Vegetation
+- id: 17060042
+  name: Vegetation
+- id: 17060043
+  name: Vegetation
+- id: 17060044
+  name: Vegetation
+- id: 17060045
+  name: Vegetation
+- id: 17060046
+  name: Vegetation
+- id: 17060047
+  name: Vegetation
+- id: 17060048
+  name: Vegetation
+- id: 17060049
+  name: Vegetation
+- id: 17060050
+  name: Vegetation
+- id: 17060051
+  name: Vegetation
+- id: 17060052
+  name: Vegetation
+- id: 17060053
+  name: Vegetation
+- id: 17060054
+  name: Vegetation
+- id: 17060055
+  name: Vegetation
+- id: 17060056
+  name: Vegetation
+- id: 17060057
+  name: Vegetation
+- id: 17060058
+  name: Mining Point
+- id: 17060059
+  name: Mining Point
+- id: 17060060
+  name: Mining Point
+- id: 17060061
+  name: Mining Point
+- id: 17060062
+  name: Mining Point
+- id: 17060063
+  name: Mining Point
+- id: 17060064
+  name: Mining Point
+- id: 17060065
+  name: Mining Point
+- id: 17060066
+  name: Mining Point
+- id: 17060067
+  name: Mining Point
+- id: 17060068
+  name: Mining Point
+- id: 17060069
+  name: Mining Point
+- id: 17060070
+  name: Mining Point
+- id: 17060071
+  name: Mining Point
+- id: 17060072
+  name: Mining Point
+- id: 17060073
+  name: Mining Point
+- id: 17060074
+  name: Mining Point
+- id: 17060075
+  name: Mining Point
+- id: 17060076
+  name: Mining Point
+- id: 17060077
+  name: Mining Point
+- id: 17060078
+  name: Mining Point
+- id: 17060079
+  name: Harvesting Point
+- id: 17060080
+  name: Harvesting Point
+- id: 17060081
+  name: Harvesting Point
+- id: 17060082
+  name: Harvesting Point
+- id: 17060083
+  name: Harvesting Point
+- id: 17060084
+  name: Harvesting Point
+- id: 17060085
+  name: Harvesting Point
+- id: 17060086
+  name: Harvesting Point
+- id: 17060087
+  name: Harvesting Point
+- id: 17060088
+  name: Harvesting Point
+- id: 17060089
+  name: Harvesting Point
+- id: 17060090
+  name: Harvesting Point
+- id: 17060091
+  name: Harvesting Point
+- id: 17060092
+  name: Harvesting Point
+- id: 17060093
+  name: Harvesting Point
+- id: 17060094
+  name: Harvesting Point
+- id: 17060095
+  name: Harvesting Point
+- id: 17060096
+  name: Harvesting Point
+- id: 17060097
+  name: Harvesting Point
+- id: 17060098
+  name: Harvesting Point
+- id: 17060099
+  name: Harvesting Point
+- id: 17060101
+  name: Kuihlud
+- id: 17060102
+  name: Nareema
+- id: 17060103
+  name: ???
+- id: 17060104
+  name: Achieve Master
+- id: 17060111
+  name: Moogle
+- id: 17060112
+  name: Moogle
+- id: 17060113
+  name: Moogle
+- id: 17060114
+  name: Moogle
+- id: 17060115
+  name: Moogle
+- id: 17060116
+  name: Moogle
+- id: 17060117
+  name: Moogle
+- id: 17060118
+  name: Moogle
+- id: 17060119
+  name: DOOR_MASTER
+- id: 17060120
+  name: _1x1
+- id: 17060121
+  name: _1x2
+- id: 17060122
+  name: _1x3
+- id: 17060123
+  name: _1x4
+- id: 17060124
+  name: _1x5
+- id: 17060125
+  name: _1x6
+- id: 17060126
+  name: _1x7
+- id: 17060127
+  name: _1x8
+- id: 17060128
+  name: _1x9
+- id: 17060129
+  name: _1xa
+- id: 17060130
+  name: _1xb
+- id: 17060131
+  name: _1xc
+- id: 17060132
+  name: _1xd
+- id: 17060133
+  name: _1xe
+- id: 17060134
+  name: _1xf
+- id: 17060135
+  name: _1xg
+- id: 17060136
+  name: _1xh
+- id: 17060137
+  name: _1xi
+- id: 17060138
+  name: _1xj
+- id: 17060139
+  name: _1xk
+- id: 17060140
+  name: _1xl
+- id: 17060141
+  name: _1xm
+- id: 17060142
+  name: _1xn
+- id: 17060143
+  name: _1xo
+- id: 17060144
+  name: _1xp
+- id: 17060145
+  name: _1xq
+- id: 17060146
+  name: _1xr
+- id: 17060147
+  name: _1xs
+- id: 17060148
+  name: _1xt
+- id: 17060149
+  name: _1xu
+- id: 17060150
+  name: _1xv
+- id: 17060151
+  name: _1xw
+- id: 17060152
+  name: _1xx
+- id: 17060153
+  name: _1xy
+- id: 17060154
+  name: _1xz
+- id: 17060155
+  name: _jx0
+- id: 17060156
+  name: _jx1
+- id: 17060157
+  name: _jx2
+- id: 17060158
+  name: _jx3
+- id: 17060159
+  name: _jx4
+- id: 17060160
+  name: _jx5
+- id: 17060161
+  name: _jx6
+- id: 17060162
+  name: _jx7
+- id: 17060163
+  name: _jx8
+- id: 17060164
+  name: _jx9
+- id: 17060165
+  name: _jxa
+- id: 17060166
+  name: _jxb
+- id: 17060167
+  name: _jxc
+- id: 17060168
+  name: _jxd
+- id: 17060169
+  name: _jxe
+- id: 17060170
+  name: _jxf
+- id: 17060171
+  name: _jxg
+- id: 17060172
+  name: _jxh
+- id: 17060173
+  name: _jxi
+- id: 17060174
+  name: _jxj
+- id: 17060175
+  name: _jxk
+- id: 17060176
+  name: ''

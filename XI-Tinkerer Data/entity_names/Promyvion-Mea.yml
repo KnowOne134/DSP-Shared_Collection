@@ -1,0 +1,681 @@
+names:
+- id: 16859137
+  name: Wanderer
+- id: 16859138
+  name: Wanderer
+- id: 16859139
+  name: Weeper
+- id: 16859140
+  name: Weeper
+- id: 16859141
+  name: Wanderer
+- id: 16859142
+  name: Weeper
+- id: 16859143
+  name: Wanderer
+- id: 16859144
+  name: Wanderer
+- id: 16859145
+  name: Idle Wanderer
+- id: 16859146
+  name: Idle Wanderer
+- id: 16859147
+  name: Idle Wanderer
+- id: 16859148
+  name: Idle Wanderer
+- id: 16859149
+  name: Craver
+- id: 16859150
+  name: ''
+- id: 16859151
+  name: Memory Receptacle
+- id: 16859152
+  name: Stray
+- id: 16859153
+  name: Stray
+- id: 16859154
+  name: Stray
+- id: 16859155
+  name: Wanderer
+- id: 16859156
+  name: Wanderer
+- id: 16859157
+  name: Wanderer
+- id: 16859158
+  name: Weeper
+- id: 16859159
+  name: Idle Wanderer
+- id: 16859160
+  name: Idle Wanderer
+- id: 16859161
+  name: Idle Wanderer
+- id: 16859162
+  name: Idle Wanderer
+- id: 16859163
+  name: Idle Wanderer
+- id: 16859164
+  name: Idle Wanderer
+- id: 16859165
+  name: Idle Wanderer
+- id: 16859166
+  name: Idle Wanderer
+- id: 16859167
+  name: Idle Wanderer
+- id: 16859168
+  name: Weeper
+- id: 16859169
+  name: Wanderer
+- id: 16859170
+  name: Wanderer
+- id: 16859171
+  name: Wanderer
+- id: 16859172
+  name: Weeper
+- id: 16859173
+  name: Wanderer
+- id: 16859174
+  name: Weeper
+- id: 16859175
+  name: Seether
+- id: 16859176
+  name: Wanderer
+- id: 16859177
+  name: Wanderer
+- id: 16859178
+  name: Seether
+- id: 16859179
+  name: Wanderer
+- id: 16859180
+  name: Weeper
+- id: 16859181
+  name: Wanderer
+- id: 16859182
+  name: Weeper
+- id: 16859183
+  name: Weeper
+- id: 16859184
+  name: Wanderer
+- id: 16859185
+  name: Weeper
+- id: 16859186
+  name: Wanderer
+- id: 16859187
+  name: Seether
+- id: 16859188
+  name: Weeper
+- id: 16859189
+  name: Weeper
+- id: 16859190
+  name: Weeper
+- id: 16859191
+  name: Seether
+- id: 16859192
+  name: Weeper
+- id: 16859193
+  name: Weeper
+- id: 16859194
+  name: Craver
+- id: 16859195
+  name: Craver
+- id: 16859196
+  name: Craver
+- id: 16859197
+  name: ''
+- id: 16859198
+  name: Memory Receptacle
+- id: 16859199
+  name: Stray
+- id: 16859200
+  name: Stray
+- id: 16859201
+  name: Stray
+- id: 16859202
+  name: Stray
+- id: 16859203
+  name: Stray
+- id: 16859204
+  name: ''
+- id: 16859205
+  name: Memory Receptacle
+- id: 16859206
+  name: Stray
+- id: 16859207
+  name: Stray
+- id: 16859208
+  name: Stray
+- id: 16859209
+  name: Stray
+- id: 16859210
+  name: Stray
+- id: 16859211
+  name: ''
+- id: 16859212
+  name: Memory Receptacle
+- id: 16859213
+  name: Stray
+- id: 16859214
+  name: Stray
+- id: 16859215
+  name: Stray
+- id: 16859216
+  name: Stray
+- id: 16859217
+  name: Stray
+- id: 16859218
+  name: ''
+- id: 16859219
+  name: Memory Receptacle
+- id: 16859220
+  name: Stray
+- id: 16859221
+  name: Stray
+- id: 16859222
+  name: Stray
+- id: 16859223
+  name: Stray
+- id: 16859224
+  name: Stray
+- id: 16859225
+  name: Idle Wanderer
+- id: 16859226
+  name: Idle Wanderer
+- id: 16859227
+  name: Idle Wanderer
+- id: 16859228
+  name: Idle Wanderer
+- id: 16859229
+  name: Idle Wanderer
+- id: 16859230
+  name: Idle Wanderer
+- id: 16859231
+  name: Idle Wanderer
+- id: 16859232
+  name: Wanderer
+- id: 16859233
+  name: Weeper
+- id: 16859234
+  name: Weeper
+- id: 16859235
+  name: Weeper
+- id: 16859236
+  name: Weeper
+- id: 16859237
+  name: Seether
+- id: 16859238
+  name: Weeper
+- id: 16859239
+  name: Weeper
+- id: 16859240
+  name: Wanderer
+- id: 16859241
+  name: Wanderer
+- id: 16859242
+  name: Weeper
+- id: 16859243
+  name: Weeper
+- id: 16859244
+  name: Weeper
+- id: 16859245
+  name: Seether
+- id: 16859246
+  name: Seether
+- id: 16859247
+  name: Wanderer
+- id: 16859248
+  name: Wanderer
+- id: 16859249
+  name: Weeper
+- id: 16859250
+  name: Weeper
+- id: 16859251
+  name: Weeper
+- id: 16859252
+  name: Wanderer
+- id: 16859253
+  name: Wanderer
+- id: 16859254
+  name: Weeper
+- id: 16859255
+  name: Seether
+- id: 16859256
+  name: Weeper
+- id: 16859257
+  name: Idle Wanderer
+- id: 16859258
+  name: Woeful Weeper
+- id: 16859259
+  name: Idle Wanderer
+- id: 16859260
+  name: Idle Wanderer
+- id: 16859261
+  name: Idle Wanderer
+- id: 16859262
+  name: Idle Wanderer
+- id: 16859263
+  name: Idle Wanderer
+- id: 16859264
+  name: Idle Wanderer
+- id: 16859265
+  name: Woeful Weeper
+- id: 16859266
+  name: Idle Wanderer
+- id: 16859267
+  name: Idle Wanderer
+- id: 16859268
+  name: Craver
+- id: 16859269
+  name: Craver
+- id: 16859270
+  name: ''
+- id: 16859271
+  name: Memory Receptacle
+- id: 16859272
+  name: Stray
+- id: 16859273
+  name: Stray
+- id: 16859274
+  name: Stray
+- id: 16859275
+  name: Stray
+- id: 16859276
+  name: Stray
+- id: 16859277
+  name: Stray
+- id: 16859278
+  name: Stray
+- id: 16859279
+  name: ''
+- id: 16859280
+  name: Memory Receptacle
+- id: 16859281
+  name: Stray
+- id: 16859282
+  name: Stray
+- id: 16859283
+  name: Stray
+- id: 16859284
+  name: Stray
+- id: 16859285
+  name: Stray
+- id: 16859286
+  name: Stray
+- id: 16859287
+  name: Stray
+- id: 16859288
+  name: ''
+- id: 16859289
+  name: Memory Receptacle
+- id: 16859290
+  name: Stray
+- id: 16859291
+  name: Stray
+- id: 16859292
+  name: Stray
+- id: 16859293
+  name: Stray
+- id: 16859294
+  name: Stray
+- id: 16859295
+  name: Stray
+- id: 16859296
+  name: Stray
+- id: 16859297
+  name: Weeper
+- id: 16859298
+  name: Weeper
+- id: 16859299
+  name: Weeper
+- id: 16859300
+  name: Weeper
+- id: 16859301
+  name: Weeper
+- id: 16859302
+  name: Weeper
+- id: 16859303
+  name: Wanderer
+- id: 16859304
+  name: Wanderer
+- id: 16859305
+  name: Weeper
+- id: 16859306
+  name: Weeper
+- id: 16859307
+  name: Seether
+- id: 16859308
+  name: Weeper
+- id: 16859309
+  name: Seether
+- id: 16859310
+  name: Weeper
+- id: 16859311
+  name: Weeper
+- id: 16859312
+  name: Weeper
+- id: 16859313
+  name: Weeper
+- id: 16859314
+  name: Weeper
+- id: 16859315
+  name: Wanderer
+- id: 16859316
+  name: Seether
+- id: 16859317
+  name: Weeper
+- id: 16859318
+  name: Wanderer
+- id: 16859319
+  name: Weeper
+- id: 16859320
+  name: Weeper
+- id: 16859321
+  name: Weeper
+- id: 16859322
+  name: Idle Wanderer
+- id: 16859323
+  name: Idle Wanderer
+- id: 16859324
+  name: Idle Wanderer
+- id: 16859325
+  name: Idle Wanderer
+- id: 16859326
+  name: Idle Wanderer
+- id: 16859327
+  name: Idle Wanderer
+- id: 16859328
+  name: Idle Wanderer
+- id: 16859329
+  name: Woeful Weeper
+- id: 16859330
+  name: Idle Wanderer
+- id: 16859331
+  name: Idle Wanderer
+- id: 16859332
+  name: Idle Wanderer
+- id: 16859333
+  name: Woeful Weeper
+- id: 16859334
+  name: Idle Wanderer
+- id: 16859335
+  name: Idle Wanderer
+- id: 16859336
+  name: Idle Wanderer
+- id: 16859337
+  name: Weeper
+- id: 16859338
+  name: Seether
+- id: 16859339
+  name: Weeper
+- id: 16859340
+  name: Wanderer
+- id: 16859341
+  name: Weeper
+- id: 16859342
+  name: Wanderer
+- id: 16859343
+  name: Weeper
+- id: 16859344
+  name: Craver
+- id: 16859345
+  name: Craver
+- id: 16859346
+  name: ''
+- id: 16859347
+  name: Memory Receptacle
+- id: 16859348
+  name: Stray
+- id: 16859349
+  name: Stray
+- id: 16859350
+  name: Stray
+- id: 16859351
+  name: Stray
+- id: 16859352
+  name: Stray
+- id: 16859353
+  name: Stray
+- id: 16859354
+  name: Stray
+- id: 16859355
+  name: ''
+- id: 16859356
+  name: Memory Receptacle
+- id: 16859357
+  name: Stray
+- id: 16859358
+  name: Stray
+- id: 16859359
+  name: Stray
+- id: 16859360
+  name: Stray
+- id: 16859361
+  name: Stray
+- id: 16859362
+  name: Stray
+- id: 16859363
+  name: Stray
+- id: 16859364
+  name: ''
+- id: 16859365
+  name: Memory Receptacle
+- id: 16859366
+  name: Stray
+- id: 16859367
+  name: Stray
+- id: 16859368
+  name: Stray
+- id: 16859369
+  name: Stray
+- id: 16859370
+  name: Stray
+- id: 16859371
+  name: Stray
+- id: 16859372
+  name: Stray
+- id: 16859373
+  name: Idle Wanderer
+- id: 16859374
+  name: Idle Wanderer
+- id: 16859375
+  name: Idle Wanderer
+- id: 16859376
+  name: Idle Wanderer
+- id: 16859377
+  name: Idle Wanderer
+- id: 16859378
+  name: Livid Seether
+- id: 16859379
+  name: Idle Wanderer
+- id: 16859380
+  name: Idle Wanderer
+- id: 16859381
+  name: Idle Wanderer
+- id: 16859382
+  name: Livid Seether
+- id: 16859383
+  name: Idle Wanderer
+- id: 16859384
+  name: Idle Wanderer
+- id: 16859385
+  name: Idle Wanderer
+- id: 16859386
+  name: Livid Seether
+- id: 16859387
+  name: Idle Wanderer
+- id: 16859388
+  name: Idle Wanderer
+- id: 16859389
+  name: Seether
+- id: 16859390
+  name: Weeper
+- id: 16859391
+  name: Weeper
+- id: 16859392
+  name: Seether
+- id: 16859393
+  name: Wanderer
+- id: 16859394
+  name: Weeper
+- id: 16859395
+  name: Weeper
+- id: 16859396
+  name: Seether
+- id: 16859397
+  name: Weeper
+- id: 16859398
+  name: Weeper
+- id: 16859399
+  name: Weeper
+- id: 16859400
+  name: Weeper
+- id: 16859401
+  name: Seether
+- id: 16859402
+  name: Wanderer
+- id: 16859403
+  name: Weeper
+- id: 16859404
+  name: Weeper
+- id: 16859405
+  name: Weeper
+- id: 16859406
+  name: Weeper
+- id: 16859407
+  name: Seether
+- id: 16859408
+  name: Seether
+- id: 16859409
+  name: Weeper
+- id: 16859410
+  name: Weeper
+- id: 16859411
+  name: Seether
+- id: 16859412
+  name: Weeper
+- id: 16859413
+  name: Weeper
+- id: 16859414
+  name: Weeper
+- id: 16859415
+  name: Seether
+- id: 16859416
+  name: Wanderer
+- id: 16859417
+  name: Weeper
+- id: 16859418
+  name: Weeper
+- id: 16859419
+  name: Weeper
+- id: 16859420
+  name: Weeper
+- id: 16859421
+  name: Seether
+- id: 16859422
+  name: Weeper
+- id: 16859423
+  name: Weeper
+- id: 16859424
+  name: Seether
+- id: 16859425
+  name: Wanderer
+- id: 16859426
+  name: Weeper
+- id: 16859427
+  name: Weeper
+- id: 16859428
+  name: Seether
+- id: 16859429
+  name: Seether
+- id: 16859430
+  name: Seether
+- id: 16859431
+  name: Weeper
+- id: 16859432
+  name: Weeper
+- id: 16859433
+  name: Wanderer
+- id: 16859434
+  name: Wanderer
+- id: 16859435
+  name: Weeper
+- id: 16859436
+  name: Craver
+- id: 16859437
+  name: Craver
+- id: 16859438
+  name: Craver
+- id: 16859439
+  name: Craver
+- id: 16859440
+  name: Craver
+- id: 16859441
+  name: Coveter
+- id: 16859444
+  name: Achieve Master
+- id: 16859445
+  name: Unity Master
+- id: 16859451
+  name: warp_01
+- id: 16859452
+  name: warp_02
+- id: 16859453
+  name: warp_03
+- id: 16859454
+  name: warp_04
+- id: 16859455
+  name: warp_05
+- id: 16859456
+  name: warp_06
+- id: 16859457
+  name: warp_07
+- id: 16859458
+  name: warp_08
+- id: 16859459
+  name: warp_09
+- id: 16859460
+  name: warp_10
+- id: 16859461
+  name: warp_11
+- id: 16859462
+  name: Memory Flux
+- id: 16859463
+  name: Memory Flux
+- id: 16859464
+  name: Memory Flux
+- id: 16859465
+  name: kiokudama_a
+- id: 16859466
+  name: kiokudama_b
+- id: 16859467
+  name: kiokudama_c
+- id: 16859468
+  name: ???
+- id: 16859470
+  name: Moogle
+- id: 16859471
+  name: Moogle
+- id: 16859472
+  name: Moogle
+- id: 16859473
+  name: Moogle
+- id: 16859474
+  name: Moogle
+- id: 16859475
+  name: Moogle
+- id: 16859476
+  name: Moogle
+- id: 16859477
+  name: Moogle
+- id: 16859478
+  name: Rendezvous Point
+- id: 16859479
+  name: ???
+- id: 16859480
+  name: ???
+- id: 16859481
+  name: ???
+- id: 16859482
+  name: ???
+- id: 16859483
+  name: ???
+- id: 16859484
+  name: ''

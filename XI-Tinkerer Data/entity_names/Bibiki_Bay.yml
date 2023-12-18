@@ -1,0 +1,735 @@
+names:
+- id: 16793601
+  name: Ghost Crab
+- id: 16793602
+  name: Grindylow
+- id: 16793603
+  name: Greater Pugil
+- id: 16793604
+  name: Apsaras
+- id: 16793605
+  name: Kraken
+- id: 16793606
+  name: Lancet Jagil
+- id: 16793607
+  name: Jagil
+- id: 16793608
+  name: Coralline Uragnite
+- id: 16793609
+  name: Coralline Uragnite
+- id: 16793610
+  name: Coralline Uragnite
+- id: 16793611
+  name: Coralline Uragnite
+- id: 16793612
+  name: Kraken
+- id: 16793613
+  name: Viscous Clot
+- id: 16793614
+  name: Coralline Uragnite
+- id: 16793615
+  name: Coralline Uragnite
+- id: 16793616
+  name: Viscous Clot
+- id: 16793617
+  name: Coralline Uragnite
+- id: 16793618
+  name: Ignis Fatuus
+- id: 16793619
+  name: Coastal Opo-opo
+- id: 16793620
+  name: Coastal Opo-opo
+- id: 16793621
+  name: Alraune
+- id: 16793622
+  name: Toucan
+- id: 16793623
+  name: Alraune
+- id: 16793624
+  name: Alraune
+- id: 16793625
+  name: Coastal Opo-opo
+- id: 16793626
+  name: Coastal Opo-opo
+- id: 16793627
+  name: Coastal Opo-opo
+- id: 16793628
+  name: Toucan
+- id: 16793629
+  name: Coastal Opo-opo
+- id: 16793630
+  name: Coastal Opo-opo
+- id: 16793631
+  name: Toucan
+- id: 16793632
+  name: Ignis Fatuus
+- id: 16793633
+  name: Alraune
+- id: 16793634
+  name: Alraune
+- id: 16793635
+  name: Alraune
+- id: 16793636
+  name: Jagil
+- id: 16793637
+  name: Coralline Uragnite
+- id: 16793638
+  name: Coralline Uragnite
+- id: 16793639
+  name: Viscous Clot
+- id: 16793640
+  name: Jagil
+- id: 16793641
+  name: Jagil
+- id: 16793642
+  name: Coralline Uragnite
+- id: 16793643
+  name: Coralline Uragnite
+- id: 16793644
+  name: Kraken
+- id: 16793645
+  name: Jagil
+- id: 16793646
+  name: Serra
+- id: 16793647
+  name: Viscous Clot
+- id: 16793648
+  name: Coastal Opo-opo
+- id: 16793649
+  name: Jagil
+- id: 16793650
+  name: Toucan
+- id: 16793651
+  name: Jagil
+- id: 16793652
+  name: Alraune
+- id: 16793653
+  name: Coastal Opo-opo
+- id: 16793654
+  name: Coastal Opo-opo
+- id: 16793655
+  name: Alraune
+- id: 16793656
+  name: Coastal Opo-opo
+- id: 16793657
+  name: Alraune
+- id: 16793658
+  name: Alraune
+- id: 16793659
+  name: Coastal Opo-opo
+- id: 16793660
+  name: Alraune
+- id: 16793661
+  name: Alraune
+- id: 16793662
+  name: Coralline Uragnite
+- id: 16793663
+  name: Coralline Uragnite
+- id: 16793664
+  name: Jagil
+- id: 16793665
+  name: Coralline Uragnite
+- id: 16793666
+  name: Coralline Uragnite
+- id: 16793667
+  name: Kraken
+- id: 16793668
+  name: Toucan
+- id: 16793669
+  name: Toucan
+- id: 16793670
+  name: Viscous Clot
+- id: 16793671
+  name: Viscous Clot
+- id: 16793672
+  name: Alraune
+- id: 16793673
+  name: Coastal Opo-opo
+- id: 16793674
+  name: Coastal Opo-opo
+- id: 16793675
+  name: Toucan
+- id: 16793676
+  name: Jagil
+- id: 16793677
+  name: Toucan
+- id: 16793678
+  name: Jagil
+- id: 16793679
+  name: Toucan
+- id: 16793680
+  name: Alraune
+- id: 16793681
+  name: Alraune
+- id: 16793682
+  name: Alraune
+- id: 16793683
+  name: Coastal Opo-opo
+- id: 16793684
+  name: Coastal Opo-opo
+- id: 16793685
+  name: Coastal Opo-opo
+- id: 16793686
+  name: Coralline Uragnite
+- id: 16793687
+  name: Coralline Uragnite
+- id: 16793688
+  name: Viscous Clot
+- id: 16793689
+  name: Coralline Uragnite
+- id: 16793690
+  name: Coralline Uragnite
+- id: 16793691
+  name: Kraken
+- id: 16793692
+  name: Toucan
+- id: 16793693
+  name: Alraune
+- id: 16793694
+  name: Ignis Fatuus
+- id: 16793695
+  name: Viscous Clot
+- id: 16793696
+  name: Coastal Opo-opo
+- id: 16793697
+  name: Coastal Opo-opo
+- id: 16793698
+  name: Shankha
+- id: 16793699
+  name: Jagil
+- id: 16793700
+  name: Jagil
+- id: 16793701
+  name: Toucan
+- id: 16793702
+  name: Coastal Opo-opo
+- id: 16793703
+  name: Alraune
+- id: 16793704
+  name: Alraune
+- id: 16793705
+  name: Toucan
+- id: 16793706
+  name: Jagil
+- id: 16793707
+  name: Alraune
+- id: 16793708
+  name: Alraune
+- id: 16793709
+  name: Coastal Opo-opo
+- id: 16793710
+  name: Ignis Fatuus
+- id: 16793711
+  name: Peerifool
+- id: 16793712
+  name: Peerifool
+- id: 16793713
+  name: Peerifool
+- id: 16793714
+  name: Peerifool
+- id: 16793715
+  name: Peerifool
+- id: 16793716
+  name: Peerifool
+- id: 16793717
+  name: Island Rarab
+- id: 16793718
+  name: Island Rarab
+- id: 16793719
+  name: Marine Dhalmel
+- id: 16793720
+  name: Marine Dhalmel
+- id: 16793721
+  name: Raven
+- id: 16793722
+  name: Marine Dhalmel
+- id: 16793723
+  name: Eft
+- id: 16793724
+  name: Raven
+- id: 16793725
+  name: Island Rarab
+- id: 16793726
+  name: Ignis Fatuus
+- id: 16793727
+  name: Marine Dhalmel
+- id: 16793728
+  name: Island Rarab
+- id: 16793729
+  name: Goblin Shaman
+- id: 16793730
+  name: Eft
+- id: 16793731
+  name: Eft
+- id: 16793732
+  name: Eft
+- id: 16793733
+  name: Eft
+- id: 16793734
+  name: Eft
+- id: 16793735
+  name: Eft
+- id: 16793736
+  name: Eft
+- id: 16793737
+  name: Eft
+- id: 16793738
+  name: Raven
+- id: 16793739
+  name: Raven
+- id: 16793740
+  name: Raven
+- id: 16793741
+  name: Eft
+- id: 16793742
+  name: Intulo
+- id: 16793743
+  name: Marine Dhalmel
+- id: 16793744
+  name: Marine Dhalmel
+- id: 16793745
+  name: Eft
+- id: 16793746
+  name: Goblin Pathfinder
+- id: 16793747
+  name: Goblin's Rarab
+- id: 16793748
+  name: Marine Dhalmel
+- id: 16793749
+  name: Island Rarab
+- id: 16793750
+  name: Hobgoblin Martialist
+- id: 16793751
+  name: Hobgoblin Animalier
+- id: 16793752
+  name: Goblin's Rarab
+- id: 16793753
+  name: Teine Sith
+- id: 16793754
+  name: Tropical Rarab
+- id: 16793755
+  name: Tropical Rarab
+- id: 16793756
+  name: Tropical Rarab
+- id: 16793757
+  name: Hobgoblin Venerer
+- id: 16793758
+  name: Catoblepas
+- id: 16793759
+  name: Hobgoblin Fascinator
+- id: 16793760
+  name: Tragopan
+- id: 16793761
+  name: Tragopan
+- id: 16793762
+  name: Tropical Rarab
+- id: 16793763
+  name: Tropical Rarab
+- id: 16793764
+  name: Tropical Rarab
+- id: 16793765
+  name: Tragopan
+- id: 16793766
+  name: Tragopan
+- id: 16793767
+  name: Teine Sith
+- id: 16793768
+  name: Catoblepas
+- id: 16793769
+  name: Catoblepas
+- id: 16793770
+  name: Tragopan
+- id: 16793771
+  name: Catoblepas
+- id: 16793772
+  name: Catoblepas
+- id: 16793773
+  name: Tropical Rarab
+- id: 16793774
+  name: Tartarus Eft
+- id: 16793775
+  name: Tartarus Eft
+- id: 16793776
+  name: Splacknuck
+- id: 16793777
+  name: Hobgoblin Animalier
+- id: 16793778
+  name: Goblin's Rarab
+- id: 16793779
+  name: Tartarus Eft
+- id: 16793780
+  name: Hobgoblin Fascinator
+- id: 16793781
+  name: Tartarus Eft
+- id: 16793782
+  name: Catoblepas
+- id: 16793783
+  name: Tragopan
+- id: 16793784
+  name: Hobgoblin Martialist
+- id: 16793785
+  name: Hobgoblin Venerer
+- id: 16793786
+  name: Tragopan
+- id: 16793787
+  name: Tropical Rarab
+- id: 16793788
+  name: Tartarus Eft
+- id: 16793789
+  name: Tartarus Eft
+- id: 16793790
+  name: Catoblepas
+- id: 16793791
+  name: Tropical Rarab
+- id: 16793792
+  name: Hobgoblin Fascinator
+- id: 16793793
+  name: Tragopan
+- id: 16793794
+  name: Catoblepas
+- id: 16793795
+  name: Catoblepas
+- id: 16793796
+  name: Hobgoblin Martialist
+- id: 16793797
+  name: Hobgoblin Animalier
+- id: 16793798
+  name: Goblin's Rarab
+- id: 16793799
+  name: Hobgoblin Venerer
+- id: 16793800
+  name: Hobgoblin Blagger
+- id: 16793801
+  name: Hobgoblin Toreador
+- id: 16793802
+  name: Bight Rarab
+- id: 16793803
+  name: Camelopard
+- id: 16793804
+  name: Bight Rarab
+- id: 16793805
+  name: Hobgoblin Toreador
+- id: 16793806
+  name: Camelopard
+- id: 16793807
+  name: Bight Rarab
+- id: 16793808
+  name: Bight Rarab
+- id: 16793809
+  name: Bight Rarab
+- id: 16793810
+  name: Hobgoblin Physician
+- id: 16793811
+  name: Hobgoblin Blagger
+- id: 16793812
+  name: Camelopard
+- id: 16793813
+  name: Camelopard
+- id: 16793814
+  name: Bight Rarab
+- id: 16793815
+  name: Camelopard
+- id: 16793816
+  name: Camelopard
+- id: 16793817
+  name: Camelopard
+- id: 16793818
+  name: Hobgoblin Alastor
+- id: 16793819
+  name: Hobgoblin Alastor
+- id: 16793820
+  name: Hobgoblin Blagger
+- id: 16793821
+  name: Camelopard
+- id: 16793822
+  name: Camelopard
+- id: 16793823
+  name: Hypnos Eft
+- id: 16793824
+  name: Hypnos Eft
+- id: 16793825
+  name: Hypnos Eft
+- id: 16793826
+  name: Hypnos Eft
+- id: 16793827
+  name: Hobgoblin Toreador
+- id: 16793828
+  name: Hobgoblin Blagger
+- id: 16793829
+  name: Hypnos Eft
+- id: 16793830
+  name: Hypnos Eft
+- id: 16793831
+  name: Hypnos Eft
+- id: 16793832
+  name: Hypnos Eft
+- id: 16793833
+  name: Hobgoblin Physician
+- id: 16793834
+  name: Hobgoblin Alastor
+- id: 16793835
+  name: Hypnos Eft
+- id: 16793836
+  name: Hypnos Eft
+- id: 16793837
+  name: Hobgoblin Alastor
+- id: 16793838
+  name: Hobgoblin Toreador
+- id: 16793839
+  name: Camelopard
+- id: 16793840
+  name: Camelopard
+- id: 16793841
+  name: Bight Rarab
+- id: 16793842
+  name: Bight Rarab
+- id: 16793843
+  name: Hypnos Eft
+- id: 16793844
+  name: Hypnos Eft
+- id: 16793845
+  name: Hobgoblin Alastor
+- id: 16793846
+  name: Hobgoblin Toreador
+- id: 16793847
+  name: Hobgoblin Physician
+- id: 16793848
+  name: Bight Rarab
+- id: 16793849
+  name: Hypnos Eft
+- id: 16793850
+  name: Hobgoblin Physician
+- id: 16793851
+  name: Hobgoblin Angler
+- id: 16793852
+  name: Hobgoblin Angler
+- id: 16793853
+  name: Hobgoblin Angler
+- id: 16793854
+  name: Hypnos Eft
+- id: 16793855
+  name: Hypnos Eft
+- id: 16793856
+  name: Hypnos Eft
+- id: 16793857
+  name: Rohemolipaud
+- id: 16793858
+  name: Dalham
+- id: 16793859
+  name: Shen
+- id: 16793860
+  name: Shen's Filtrate
+- id: 16793861
+  name: Shen's Filtrate
+- id: 16793862
+  name: Bismarck
+- id: 16793863
+  name: Primordial Pugil
+- id: 16793864
+  name: Primordial Pugil
+- id: 16793865
+  name: Primordial Pugil
+- id: 16793866
+  name: Primordial Pugil
+- id: 16793867
+  name: Primordial Pugil
+- id: 16793868
+  name: Primordial Pugil
+- id: 16793869
+  name: Primordial Pugil
+- id: 16793870
+  name: Primordial Pugil
+- id: 16793871
+  name: Primordial Pugil
+- id: 16793872
+  name: Primordial Pugil
+- id: 16793873
+  name: Bismarck
+- id: 16793874
+  name: Primordial Pugil
+- id: 16793875
+  name: Primordial Pugil
+- id: 16793876
+  name: Primordial Pugil
+- id: 16793877
+  name: Primordial Pugil
+- id: 16793878
+  name: Primordial Pugil
+- id: 16793879
+  name: Primordial Pugil
+- id: 16793880
+  name: Primordial Pugil
+- id: 16793881
+  name: Primordial Pugil
+- id: 16793882
+  name: Primordial Pugil
+- id: 16793883
+  name: Primordial Pugil
+- id: 16793884
+  name: Bismarck
+- id: 16793885
+  name: Primordial Pugil
+- id: 16793886
+  name: Primordial Pugil
+- id: 16793887
+  name: Primordial Pugil
+- id: 16793888
+  name: Primordial Pugil
+- id: 16793889
+  name: Primordial Pugil
+- id: 16793890
+  name: Primordial Pugil
+- id: 16793891
+  name: Primordial Pugil
+- id: 16793892
+  name: Primordial Pugil
+- id: 16793893
+  name: Primordial Pugil
+- id: 16793894
+  name: Primordial Pugil
+- id: 16793895
+  name: Intuila
+- id: 16793896
+  name: Intuila
+- id: 16793897
+  name: Intuila
+- id: 16793900
+  name: ???
+- id: 16793901
+  name: Achieve Master
+- id: 16793902
+  name: Unity Master
+- id: 16793909
+  name: Test LIGHT
+- id: 16793910
+  name: TAKARA_GOB_NPC
+- id: 16793911
+  name: Fheli Lapatzuo
+- id: 16793912
+  name: Noih Tahparawh
+- id: 16793913
+  name: ship
+- id: 16793914
+  name: sdoor_s
+- id: 16793915
+  name: sdoor_t
+- id: 16793916
+  name: Pohka Chichiyowahl
+- id: 16793917
+  name: Mep Nhapopoluko
+- id: 16793918
+  name: ''
+- id: 16793919
+  name: Toh Zonikki
+- id: 16793920
+  name: Clamming Point
+- id: 16793921
+  name: Clamming Point
+- id: 16793922
+  name: Clamming Point
+- id: 16793923
+  name: Clamming Point
+- id: 16793924
+  name: Clamming Point
+- id: 16793925
+  name: Clamming Point
+- id: 16793926
+  name: Clamming Point
+- id: 16793927
+  name: Clamming Point
+- id: 16793928
+  name: ''
+- id: 16793929
+  name: ???
+- id: 16793930
+  name: ??? Warmachine
+- id: 16793931
+  name: Vukki-Chebukki
+- id: 16793932
+  name: Louverance
+- id: 16793933
+  name: Mame01
+- id: 16793934
+  name: Mame02
+- id: 16793935
+  name: Mame03
+- id: 16793936
+  name: Tori01
+- id: 16793937
+  name: ???
+- id: 16793938
+  name: Weathered Boat
+- id: 16793939
+  name: Rohemolipaud
+- id: 16793940
+  name: Sanctia
+- id: 16793941
+  name: Novice Moogle
+- id: 16793942
+  name: Rhalo Davigoh
+- id: 16793943
+  name: ???
+- id: 16793944
+  name: Shikaree Z
+- id: 16793945
+  name: Shikaree Y
+- id: 16793946
+  name: Shikaree X
+- id: 16793948
+  name: Moogle
+- id: 16793949
+  name: Moogle
+- id: 16793950
+  name: Moogle
+- id: 16793951
+  name: Moogle
+- id: 16793952
+  name: Moogle
+- id: 16793953
+  name: Moogle
+- id: 16793954
+  name: Moogle
+- id: 16793955
+  name: Moogle
+- id: 16793956
+  name: Ramblix
+- id: 16793957
+  name: Goblin Footprint
+- id: 16793958
+  name: Tswe Panipahr
+- id: 16793959
+  name: ''
+- id: 16793960
+  name: ''
+- id: 16793961
+  name: ???
+- id: 16793962
+  name: Makki-Chebukki
+- id: 16793963
+  name: Kukki-Chebukki
+- id: 16793964
+  name: Cherukiki
+- id: 16793965
+  name: Kiteh Nanjyea
+- id: 16793966
+  name: ''
+- id: 16793967
+  name: Planar Rift
+- id: 16793968
+  name: Planar Rift
+- id: 16793969
+  name: Planar Rift
+- id: 16793970
+  name: Riftworn Pyxis
+- id: 16793971
+  name: Riftworn Pyxis
+- id: 16793972
+  name: Riftworn Pyxis
+- id: 16793973
+  name: Ethereal Junction
+- id: 16793974
+  name: Ethereal Junction
+- id: 16793975
+  name: Ethereal Junction
+- id: 16793976
+  name: Survival Guide

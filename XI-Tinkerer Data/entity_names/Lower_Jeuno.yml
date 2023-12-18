@@ -1,0 +1,569 @@
+names:
+- id: 17780737
+  name: Wolfgang
+- id: 17780738
+  name: Pherimociel
+- id: 17780739
+  name: Auchefort
+- id: 17780740
+  name: Prishe
+- id: 17780741
+  name: Ulmia
+- id: 17780742
+  name: Ghebi Damomohe
+- id: 17780743
+  name: Aldo
+- id: 17780744
+  name: Verena
+- id: 17780745
+  name: Geebeh
+- id: 17780746
+  name: Paya-Sabya
+- id: 17780747
+  name: Garnev
+- id: 17780748
+  name: Yin Pocanakhu
+- id: 17780749
+  name: Harnek
+- id: 17780750
+  name: Sattal-Mansal
+- id: 17780751
+  name: Dietmund
+- id: 17780752
+  name: Domingart
+- id: 17780753
+  name: Chocobo
+- id: 17780754
+  name: Tovrutaux
+- id: 17780755
+  name: Seyaya
+- id: 17780756
+  name: Teigero-Bangero
+- id: 17780757
+  name: Naruru
+- id: 17780758
+  name: Panta-Putta
+- id: 17780759
+  name: Two of Swords
+- id: 17780760
+  name: Pawkrix
+- id: 17780761
+  name: Muckvix
+- id: 17780762
+  name: Bluffnix
+- id: 17780763
+  name: Fickblix
+- id: 17780764
+  name: Mertaire
+- id: 17780765
+  name: Mataligeat
+- id: 17780766
+  name: Bki Tbujhja
+- id: 17780767
+  name: Lewenhart
+- id: 17780768
+  name: Ruslan
+- id: 17780769
+  name: Derrick
+- id: 17780770
+  name: Kurou-Morou
+- id: 17780771
+  name: Chululu
+- id: 17780772
+  name: Runga-Kopunga
+- id: 17780773
+  name: Sutarara
+- id: 17780774
+  name: Joseph
+- id: 17780775
+  name: Danzhor
+- id: 17780776
+  name: Raji
+- id: 17780777
+  name: Shomera
+- id: 17780778
+  name: Crazy Wolf
+- id: 17780779
+  name: Amhu Sabaroleka
+- id: 17780780
+  name: Jazmin
+- id: 17780781
+  name: Tawfeeq
+- id: 17780782
+  name: Bogharg
+- id: 17780783
+  name: Odasel
+- id: 17780784
+  name: Kikilolo
+- id: 17780785
+  name: Nakho Jawantal
+- id: 17780786
+  name: Gurdern
+- id: 17780787
+  name: Omer
+- id: 17780788
+  name: Venika
+- id: 17780789
+  name: Saprut
+- id: 17780790
+  name: Kuah Dakonsa
+- id: 17780791
+  name: Yamilla
+- id: 17780792
+  name: Honorine
+- id: 17780793
+  name: Momiji
+- id: 17780794
+  name: Navisse
+- id: 17780795
+  name: Vola
+- id: 17780796
+  name: Mendi
+- id: 17780797
+  name: Lion
+- id: 17780798
+  name: Guttrix
+- id: 17780799
+  name: Vauderame
+- id: 17780800
+  name: Esca
+- id: 17780801
+  name: Nbu Latteh
+- id: 17780802
+  name: Yatniel
+- id: 17780803
+  name: Hagain
+- id: 17780804
+  name: Dauman
+- id: 17780805
+  name: Pakulo-Kakulo
+- id: 17780806
+  name: Nanaa Mihgo
+- id: 17780807
+  name: Sniggnix
+- id: 17780808
+  name: Pauluart
+- id: 17780809
+  name: Pauluart
+- id: 17780810
+  name: Prishe
+- id: 17780811
+  name: ???
+- id: 17780812
+  name: Vingijard
+- id: 17780813
+  name: Atori-Tutori
+- id: 17780814
+  name: ' '
+- id: 17780815
+  name: Chapi Galepilai
+- id: 17780816
+  name: Crooked Arrow
+- id: 17780817
+  name: Cherukiki
+- id: 17780818
+  name: Kukki-Chebukki
+- id: 17780819
+  name: Makki-Chebukki
+- id: 17780820
+  name: Nag'molada
+- id: 17780821
+  name: Geuhbe
+- id: 17780822
+  name: Door:Chocobo Stables
+- id: 17780823
+  name: Door:Merchant's House
+- id: 17780824
+  name: Door:Gems by Kshama
+- id: 17780825
+  name: Door:Muckvix's Junk Shop
+- id: 17780826
+  name: Door:Othon's Garments
+- id: 17780827
+  name: Door:Waag-Deeg's Magic
+- id: 17780828
+  name: Door:"Merry Minstrel"
+- id: 17780829
+  name: Door:Chamber of Commerce
+- id: 17780830
+  name: Door:Chamber of Commerce
+- id: 17780831
+  name: Door:"Neptune's Spire"
+- id: 17780832
+  name: Door:"Neptune's Spire"
+- id: 17780833
+  name: Door:"Neptune's Spire"
+- id: 17780834
+  name: Door:"Neptune's Spire"
+- id: 17780835
+  name: Door:Tenshodo H.Q.
+- id: 17780836
+  name: Door:Tenshodo H.Q.
+- id: 17780837
+  name: Door:Aldo's Room
+- id: 17780838
+  name: Door:Muckvix's Junk Shop
+- id: 17780839
+  name: Door:"Goblins' Goblet"
+- id: 17780840
+  name: Door:Merchant's House
+- id: 17780841
+  name: Stinknix
+- id: 17780842
+  name: Yoskolo
+- id: 17780843
+  name: Tuh Almobankha
+- id: 17780844
+  name: Biora
+- id: 17780845
+  name: Subash
+- id: 17780846
+  name: Mesukiki
+- id: 17780847
+  name: Auction Counter
+- id: 17780848
+  name: Auction Counter
+- id: 17780849
+  name: Auction Counter
+- id: 17780850
+  name: Auction Counter
+- id: 17780851
+  name: Chocobo
+- id: 17780852
+  name: Chocobo
+- id: 17780853
+  name: Shashan-Mishan
+- id: 17780854
+  name: ''
+- id: 17780855
+  name: ''
+- id: 17780856
+  name: Miladi-Nildi
+- id: 17780857
+  name: Akamafula
+- id: 17780858
+  name: Amalasanda
+- id: 17780859
+  name: Creepstix
+- id: 17780860
+  name: Promurouve
+- id: 17780861
+  name: Adelflete
+- id: 17780862
+  name: Morefie
+- id: 17780863
+  name: Matoaka
+- id: 17780864
+  name: Chetak
+- id: 17780865
+  name: Chenokih
+- id: 17780866
+  name: Hasim
+- id: 17780867
+  name: Susu
+- id: 17780868
+  name: Taza
+- id: 17780869
+  name: Rhimonne
+- id: 17780870
+  name: Audee
+- id: 17780871
+  name: Fephita
+- id: 17780872
+  name: Guide Stone
+- id: 17780873
+  name: 'Home Point #1'
+- id: 17780874
+  name: 'Home Point #2'
+- id: 17780875
+  name: 'Home Point #3'
+- id: 17780876
+  name: 'Home Point #4'
+- id: 17780877
+  name: 'Home Point #5'
+- id: 17780878
+  name: Alrauverat
+- id: 17780879
+  name: Zauko
+- id: 17780880
+  name: Vhana Ehgaklywha
+- id: 17780881
+  name: Streetlamp
+- id: 17780882
+  name: Streetlamp
+- id: 17780883
+  name: Streetlamp
+- id: 17780884
+  name: Streetlamp
+- id: 17780885
+  name: Streetlamp
+- id: 17780886
+  name: Streetlamp
+- id: 17780887
+  name: Streetlamp
+- id: 17780888
+  name: Streetlamp
+- id: 17780889
+  name: Streetlamp
+- id: 17780890
+  name: Streetlamp
+- id: 17780891
+  name: Streetlamp
+- id: 17780892
+  name: Streetlamp
+- id: 17780894
+  name: Moogle
+- id: 17780895
+  name: Moogle
+- id: 17780896
+  name: Moogle
+- id: 17780897
+  name: Moogle
+- id: 17780898
+  name: Moogle
+- id: 17780899
+  name: Moogle
+- id: 17780900
+  name: Moogle
+- id: 17780901
+  name: Moogle
+- id: 17780902
+  name: Moogle
+- id: 17780903
+  name: ''
+- id: 17780904
+  name: ???
+- id: 17780905
+  name: ''
+- id: 17780906
+  name: Moogle
+- id: 17780907
+  name: Symphonic Curator
+- id: 17780908
+  name: Pawnpix
+- id: 17780909
+  name: Stufstix
+- id: 17780910
+  name: ''
+- id: 17780911
+  name: Parike-Poranke
+- id: 17780912
+  name: Caruvinda
+- id: 17780913
+  name: ''
+- id: 17780914
+  name: ''
+- id: 17780915
+  name: Luto Mewrilah
+- id: 17780916
+  name: Palometa
+- id: 17780917
+  name: Laurana
+- id: 17780918
+  name: Tosuka-Porika
+- id: 17780919
+  name: Ritopopo
+- id: 17780920
+  name: Taliesin
+- id: 17780921
+  name: ???
+- id: 17780922
+  name: ''
+- id: 17780923
+  name: Klafaan
+- id: 17780924
+  name: Faursel
+- id: 17780925
+  name: Game Table
+- id: 17780926
+  name: Game Table
+- id: 17780927
+  name: Game Table
+- id: 17780928
+  name: Rakuru-Rakoru
+- id: 17780929
+  name: Talking Doll
+- id: 17780930
+  name: ''
+- id: 17780931
+  name: Zalsuhm
+- id: 17780932
+  name: ''
+- id: 17780933
+  name: NPC01
+- id: 17780934
+  name: NPC02
+- id: 17780935
+  name: NPC03
+- id: 17780936
+  name: NPC04
+- id: 17780937
+  name: NPC05
+- id: 17780938
+  name: ???
+- id: 17780939
+  name: ???
+- id: 17780940
+  name: ''
+- id: 17780941
+  name: Liki Steligho
+- id: 17780942
+  name: Treasure Coffer
+- id: 17780943
+  name: Chatnachoq
+- id: 17780944
+  name: Maze Mongers Shopfront
+- id: 17780945
+  name: TABULA-MAKER
+- id: 17780946
+  name: Goldagrik
+- id: 17780947
+  name: Duplidoc
+- id: 17780949
+  name: Duplidoc
+- id: 17780950
+  name: Duplidoc
+- id: 17780951
+  name: Duplidoc
+- id: 17780952
+  name: Duplidoc
+- id: 17780953
+  name: Duplidoc
+- id: 17780954
+  name: Duplidoc
+- id: 17780955
+  name: Duplidoc
+- id: 17780956
+  name: Duplidoc
+- id: 17780957
+  name: Duplidoc
+- id: 17780958
+  name: Chimh Dlesbah
+- id: 17780959
+  name: Darcia
+- id: 17780960
+  name: Waypoint
+- id: 17780961
+  name: ''
+- id: 17780962
+  name: Talib
+- id: 17780963
+  name: Boisterous Jackal
+- id: 17780964
+  name: ''
+- id: 17780965
+  name: Yoran-Oran
+- id: 17780966
+  name: '1'
+- id: 17780967
+  name: '2'
+- id: 17780968
+  name: '3'
+- id: 17780969
+  name: '4'
+- id: 17780970
+  name: '5'
+- id: 17780971
+  name: Synergy Engineer
+- id: 17780972
+  name: Synergy Engineer
+- id: 17780973
+  name: Synergy Furnace
+- id: 17780974
+  name: Synergy Furnace
+- id: 17780975
+  name: Synergy Furnace
+- id: 17780976
+  name: Synergy Furnace
+- id: 17780977
+  name: Synergy Enthusiast
+- id: 17780978
+  name: Porter Moogle
+- id: 17780980
+  name: Voidwatch Purveyor
+- id: 17780981
+  name: Domenic
+- id: 17780982
+  name: Nantoto
+- id: 17780983
+  name: ???
+- id: 17780984
+  name: Rolandienne
+- id: 17780985
+  name: Isakoth
+- id: 17780986
+  name: Fhelm Jobeizat
+- id: 17780987
+  name: Eternal Flame
+- id: 17780988
+  name: Nantoto
+- id: 17780989
+  name: Eternal Flame
+- id: 17780990
+  name: Rolandienne
+- id: 17780991
+  name: Fhelm Jobeizat
+- id: 17780992
+  name: Isakoth
+- id: 17780993
+  name: ''
+- id: 17780994
+  name: ''
+- id: 17780995
+  name: ''
+- id: 17780996
+  name: ''
+- id: 17780997
+  name: ''
+- id: 17780998
+  name: Sweepstox
+- id: 17780999
+  name: Treasure Coffer
+- id: 17781000
+  name: Greyson
+- id: 17781001
+  name: Kavivian
+- id: 17781002
+  name: Cassie
+- id: 17781003
+  name: Relolo
+- id: 17781004
+  name: Vivian
+- id: 17781005
+  name: ''
+- id: 17781006
+  name: ''
+- id: 17781007
+  name: ''
+- id: 17781008
+  name: ''
+- id: 17781009
+  name: Cafe Maid
+- id: 17781010
+  name: Samantha
+- id: 17781011
+  name: Vestelo
+- id: 17781012
+  name: ''
+- id: 17781013
+  name: Olero-Velero
+- id: 17781014
+  name: Raneutimiore
+- id: 17781015
+  name: Fhara Mashuhba
+- id: 17781016
+  name: Festering Wound
+- id: 17781017
+  name: Flasco-Rasco
+- id: 17781018
+  name: ''
+- id: 17781019
+  name: ''
+- id: 17781020
+  name: ''
+- id: 17781021
+  name: Achieve Master
+- id: 17781022
+  name: Unity Master
+- id: 17781023
+  name: Susuroon

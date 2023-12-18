@@ -1,0 +1,769 @@
+names:
+- id: 17559553
+  name: Land Crab
+- id: 17559554
+  name: Land Crab
+- id: 17559555
+  name: Coral Crab
+- id: 17559556
+  name: Wadi Leech
+- id: 17559557
+  name: Thread Leech
+- id: 17559558
+  name: Geyser Lizard
+- id: 17559559
+  name: Rock Lizard
+- id: 17559560
+  name: Rock Lizard
+- id: 17559561
+  name: Rock Lizard
+- id: 17559562
+  name: Goblin Thug
+- id: 17559563
+  name: Goblin Thug
+- id: 17559564
+  name: Goblin Weaver
+- id: 17559565
+  name: Rock Lizard
+- id: 17559566
+  name: Rock Lizard
+- id: 17559567
+  name: Rock Lizard
+- id: 17559568
+  name: Rock Lizard
+- id: 17559569
+  name: Rock Lizard
+- id: 17559570
+  name: Goblin Thug
+- id: 17559571
+  name: Goblin Weaver
+- id: 17559572
+  name: Goblin Thug
+- id: 17559573
+  name: Goblin Weaver
+- id: 17559574
+  name: Hoarder Hare
+- id: 17559575
+  name: Hoarder Hare
+- id: 17559576
+  name: Hoarder Hare
+- id: 17559577
+  name: Goblin Thug
+- id: 17559578
+  name: Goblin Weaver
+- id: 17559579
+  name: Goblin Thug
+- id: 17559580
+  name: Goblin Weaver
+- id: 17559581
+  name: Hoarder Hare
+- id: 17559582
+  name: Hoarder Hare
+- id: 17559583
+  name: Hoarder Hare
+- id: 17559584
+  name: Teporingo
+- id: 17559585
+  name: Goblin Ambusher
+- id: 17559586
+  name: Goblin Ambusher
+- id: 17559587
+  name: Goblin Tinkerer
+- id: 17559588
+  name: Goblin Butcher
+- id: 17559589
+  name: Wadi Hare
+- id: 17559590
+  name: Wadi Hare
+- id: 17559591
+  name: Wadi Hare
+- id: 17559592
+  name: Steam Lizard
+- id: 17559593
+  name: Goblin Ambusher
+- id: 17559594
+  name: Goblin Ambusher
+- id: 17559595
+  name: Goblin Tinkerer
+- id: 17559596
+  name: Goblin Butcher
+- id: 17559597
+  name: Wadi Hare
+- id: 17559598
+  name: Wadi Hare
+- id: 17559599
+  name: Wadi Hare
+- id: 17559600
+  name: Steam Lizard
+- id: 17559601
+  name: Wadi Hare
+- id: 17559602
+  name: Wadi Hare
+- id: 17559603
+  name: Rock Lizard
+- id: 17559604
+  name: Rock Lizard
+- id: 17559605
+  name: Rock Lizard
+- id: 17559606
+  name: Goblin Thug
+- id: 17559607
+  name: Goblin Weaver
+- id: 17559608
+  name: Goblin Fisher
+- id: 17559609
+  name: Goblin Thug
+- id: 17559610
+  name: Goblin Weaver
+- id: 17559611
+  name: Goblin Fisher
+- id: 17559612
+  name: Rock Lizard
+- id: 17559613
+  name: Stone Eater
+- id: 17559614
+  name: Stone Eater
+- id: 17559615
+  name: Stone Eater
+- id: 17559616
+  name: Goblin Thug
+- id: 17559617
+  name: Goblin Weaver
+- id: 17559618
+  name: Goblin Fisher
+- id: 17559619
+  name: Goblin Thug
+- id: 17559620
+  name: Goblin Weaver
+- id: 17559621
+  name: Goblin Fisher
+- id: 17559622
+  name: Rock Lizard
+- id: 17559623
+  name: Stone Eater
+- id: 17559624
+  name: Stone Eater
+- id: 17559625
+  name: Stone Eater
+- id: 17559626
+  name: Rock Lizard
+- id: 17559627
+  name: Rock Lizard
+- id: 17559628
+  name: Rock Lizard
+- id: 17559629
+  name: Goblin Thug
+- id: 17559630
+  name: Goblin Weaver
+- id: 17559631
+  name: Goblin Fisher
+- id: 17559632
+  name: Goblin Thug
+- id: 17559633
+  name: Goblin Weaver
+- id: 17559634
+  name: Goblin Fisher
+- id: 17559635
+  name: Rock Lizard
+- id: 17559636
+  name: Wadi Crab
+- id: 17559637
+  name: Wadi Crab
+- id: 17559638
+  name: Wadi Crab
+- id: 17559639
+  name: Goblin Thug
+- id: 17559640
+  name: Goblin Weaver
+- id: 17559641
+  name: Goblin Fisher
+- id: 17559642
+  name: Goblin Thug
+- id: 17559643
+  name: Goblin Weaver
+- id: 17559644
+  name: Goblin Fisher
+- id: 17559645
+  name: Rock Lizard
+- id: 17559646
+  name: Wadi Crab
+- id: 17559647
+  name: Wadi Crab
+- id: 17559648
+  name: Wadi Crab
+- id: 17559649
+  name: Rock Lizard
+- id: 17559650
+  name: Goblin Thug
+- id: 17559651
+  name: Goblin Weaver
+- id: 17559652
+  name: Goblin Thug
+- id: 17559653
+  name: Goblin Weaver
+- id: 17559654
+  name: Rock Lizard
+- id: 17559655
+  name: Wadi Crab
+- id: 17559656
+  name: Goblin Thug
+- id: 17559657
+  name: Goblin Weaver
+- id: 17559658
+  name: Goblin Thug
+- id: 17559659
+  name: Goblin Weaver
+- id: 17559660
+  name: Rock Lizard
+- id: 17559661
+  name: Wadi Crab
+- id: 17559662
+  name: Goblin Ambusher
+- id: 17559663
+  name: Goblin Ambusher
+- id: 17559664
+  name: Goblin Tinkerer
+- id: 17559665
+  name: Goblin Butcher
+- id: 17559666
+  name: Wadi Leech
+- id: 17559667
+  name: Wadi Leech
+- id: 17559668
+  name: Wadi Leech
+- id: 17559669
+  name: Steam Lizard
+- id: 17559670
+  name: Goblin Ambusher
+- id: 17559671
+  name: Goblin Ambusher
+- id: 17559672
+  name: Goblin Tinkerer
+- id: 17559673
+  name: Goblin Butcher
+- id: 17559674
+  name: Wadi Leech
+- id: 17559675
+  name: Wadi Leech
+- id: 17559676
+  name: Wadi Leech
+- id: 17559677
+  name: Steam Lizard
+- id: 17559678
+  name: Goblin Brigand
+- id: 17559679
+  name: Goblin Headsman
+- id: 17559680
+  name: Goblin Healer
+- id: 17559681
+  name: Goblin Brigand
+- id: 17559682
+  name: Goblin Headsman
+- id: 17559683
+  name: Goblin Healer
+- id: 17559684
+  name: Witchetty Grub
+- id: 17559685
+  name: Witchetty Grub
+- id: 17559686
+  name: Goblin Brigand
+- id: 17559687
+  name: Goblin Headsman
+- id: 17559688
+  name: Goblin Healer
+- id: 17559689
+  name: Couloir Leech
+- id: 17559690
+  name: Couloir Leech
+- id: 17559691
+  name: Goblin Brigand
+- id: 17559692
+  name: Goblin Headsman
+- id: 17559693
+  name: Goblin Healer
+- id: 17559694
+  name: Couloir Leech
+- id: 17559695
+  name: Couloir Leech
+- id: 17559696
+  name: Goblin Brigand
+- id: 17559697
+  name: Goblin Headsman
+- id: 17559698
+  name: Goblin Healer
+- id: 17559699
+  name: Couloir Leech
+- id: 17559700
+  name: Couloir Leech
+- id: 17559701
+  name: Goblin Brigand
+- id: 17559702
+  name: Goblin Brigand
+- id: 17559703
+  name: Witchetty Grub
+- id: 17559704
+  name: Witchetty Grub
+- id: 17559705
+  name: Goblin Brigand
+- id: 17559706
+  name: Goblin Headsman
+- id: 17559707
+  name: Goblin Healer
+- id: 17559708
+  name: Prim Pika
+- id: 17559709
+  name: Prim Pika
+- id: 17559710
+  name: Prim Pika
+- id: 17559711
+  name: Goblin Brigand
+- id: 17559712
+  name: Goblin Headsman
+- id: 17559713
+  name: Goblin Healer
+- id: 17559714
+  name: Prim Pika
+- id: 17559715
+  name: Prim Pika
+- id: 17559716
+  name: Prim Pika
+- id: 17559717
+  name: Goblin Brigand
+- id: 17559718
+  name: Goblin Headsman
+- id: 17559719
+  name: Goblin Healer
+- id: 17559720
+  name: Prim Pika
+- id: 17559721
+  name: Prim Pika
+- id: 17559722
+  name: Prim Pika
+- id: 17559723
+  name: Goblin Brigand
+- id: 17559724
+  name: Goblin Headsman
+- id: 17559725
+  name: Goblin Healer
+- id: 17559726
+  name: Prim Pika
+- id: 17559727
+  name: Prim Pika
+- id: 17559728
+  name: Prim Pika
+- id: 17559729
+  name: Goblin Headsman
+- id: 17559730
+  name: Goblin Headsman
+- id: 17559731
+  name: Goblin Headsman
+- id: 17559732
+  name: Witchetty Grub
+- id: 17559733
+  name: Witchetty Grub
+- id: 17559734
+  name: Goblin Healer
+- id: 17559735
+  name: Goblin Healer
+- id: 17559736
+  name: Goblin Healer
+- id: 17559737
+  name: Witchetty Grub
+- id: 17559738
+  name: Witchetty Grub
+- id: 17559739
+  name: Natty Gibbon
+- id: 17559740
+  name: Natty Gibbon
+- id: 17559741
+  name: Natty Gibbon
+- id: 17559742
+  name: Natty Gibbon
+- id: 17559743
+  name: Trimmer
+- id: 17559744
+  name: Trimmer
+- id: 17559745
+  name: Trimmer
+- id: 17559746
+  name: Trimmer
+- id: 17559747
+  name: Witchetty Grub
+- id: 17559748
+  name: Witchetty Grub
+- id: 17559749
+  name: Witchetty Grub
+- id: 17559750
+  name: Witchetty Grub
+- id: 17559751
+  name: Witchetty Grub
+- id: 17559752
+  name: Witchetty Grub
+- id: 17559753
+  name: Natty Gibbon
+- id: 17559754
+  name: Natty Gibbon
+- id: 17559755
+  name: Natty Gibbon
+- id: 17559756
+  name: Trimmer
+- id: 17559757
+  name: Trimmer
+- id: 17559758
+  name: Trimmer
+- id: 17559759
+  name: Natty Gibbon
+- id: 17559760
+  name: Natty Gibbon
+- id: 17559761
+  name: Natty Gibbon
+- id: 17559762
+  name: Trimmer
+- id: 17559763
+  name: Trimmer
+- id: 17559764
+  name: Trimmer
+- id: 17559765
+  name: Natty Gibbon
+- id: 17559766
+  name: Natty Gibbon
+- id: 17559767
+  name: Natty Gibbon
+- id: 17559768
+  name: Trimmer
+- id: 17559769
+  name: Trimmer
+- id: 17559770
+  name: Trimmer
+- id: 17559771
+  name: Natty Gibbon
+- id: 17559772
+  name: Natty Gibbon
+- id: 17559773
+  name: Natty Gibbon
+- id: 17559774
+  name: Fume Lizard
+- id: 17559775
+  name: Fume Lizard
+- id: 17559776
+  name: Fume Lizard
+- id: 17559777
+  name: Natty Gibbon
+- id: 17559778
+  name: Natty Gibbon
+- id: 17559779
+  name: Natty Gibbon
+- id: 17559780
+  name: Fume Lizard
+- id: 17559781
+  name: Fume Lizard
+- id: 17559782
+  name: Fume Lizard
+- id: 17559783
+  name: Natty Gibbon
+- id: 17559784
+  name: Natty Gibbon
+- id: 17559785
+  name: Natty Gibbon
+- id: 17559786
+  name: Fume Lizard
+- id: 17559787
+  name: Fume Lizard
+- id: 17559788
+  name: Fume Lizard
+- id: 17559789
+  name: Fume Lizard
+- id: 17559790
+  name: Fume Lizard
+- id: 17559791
+  name: Fume Lizard
+- id: 17559792
+  name: Fume Lizard
+- id: 17559793
+  name: Fume Lizard
+- id: 17559794
+  name: Goblin Conjurer
+- id: 17559795
+  name: Goblin Conjurer
+- id: 17559796
+  name: Prim Pika
+- id: 17559797
+  name: Prim Pika
+- id: 17559798
+  name: Prim Pika
+- id: 17559799
+  name: Goblin Conjurer
+- id: 17559800
+  name: Goblin Conjurer
+- id: 17559801
+  name: Prim Pika
+- id: 17559802
+  name: Prim Pika
+- id: 17559803
+  name: Prim Pika
+- id: 17559804
+  name: Goblin Conjurer
+- id: 17559805
+  name: Goblin Conjurer
+- id: 17559806
+  name: Witchetty Grub
+- id: 17559807
+  name: Witchetty Grub
+- id: 17559808
+  name: Witchetty Grub
+- id: 17559809
+  name: Goblin Bladesmith
+- id: 17559810
+  name: Goblin Bladesmith
+- id: 17559811
+  name: Witchetty Grub
+- id: 17559812
+  name: Witchetty Grub
+- id: 17559813
+  name: Witchetty Grub
+- id: 17559814
+  name: Goblin Bladesmith
+- id: 17559815
+  name: Goblin Bladesmith
+- id: 17559816
+  name: Prim Pika
+- id: 17559817
+  name: Prim Pika
+- id: 17559818
+  name: Prim Pika
+- id: 17559819
+  name: Prim Pika
+- id: 17559820
+  name: Prim Pika
+- id: 17559821
+  name: Prim Pika
+- id: 17559822
+  name: Prim Pika
+- id: 17559823
+  name: Prim Pika
+- id: 17559824
+  name: Goblin Bushwhacker
+- id: 17559825
+  name: Goblin Bushwhacker
+- id: 17559826
+  name: Goblin Bushwhacker
+- id: 17559827
+  name: Witchetty Grub
+- id: 17559828
+  name: Witchetty Grub
+- id: 17559829
+  name: Witchetty Grub
+- id: 17559830
+  name: Witchetty Grub
+- id: 17559831
+  name: Goblin Bushwhacker
+- id: 17559832
+  name: Couloir Leech
+- id: 17559833
+  name: Couloir Leech
+- id: 17559834
+  name: Couloir Leech
+- id: 17559835
+  name: Couloir Leech
+- id: 17559836
+  name: Couloir Leech
+- id: 17559837
+  name: Couloir Leech
+- id: 17559838
+  name: Couloir Leech
+- id: 17559839
+  name: Witchetty Grub
+- id: 17559840
+  name: Witchetty Grub
+- id: 17559841
+  name: Goblin Conjurer
+- id: 17559842
+  name: Goblin Bladesmith
+- id: 17559843
+  name: Goblin Bushwhacker
+- id: 17559844
+  name: Couloir Leech
+- id: 17559845
+  name: Couloir Leech
+- id: 17559846
+  name: Goblin Conjurer
+- id: 17559847
+  name: Goblin Bladesmith
+- id: 17559848
+  name: Goblin Bushwhacker
+- id: 17559849
+  name: Couloir Leech
+- id: 17559850
+  name: Couloir Leech
+- id: 17559851
+  name: Couloir Leech
+- id: 17559852
+  name: Goblin Conjurer
+- id: 17559853
+  name: Goblin Bladesmith
+- id: 17559854
+  name: Goblin Bushwhacker
+- id: 17559855
+  name: Couloir Leech
+- id: 17559856
+  name: Couloir Leech
+- id: 17559857
+  name: Couloir Leech
+- id: 17559858
+  name: Goblin Bladesmith
+- id: 17559859
+  name: Goblin Bushwhacker
+- id: 17559860
+  name: Couloir Leech
+- id: 17559861
+  name: Couloir Leech
+- id: 17559862
+  name: Couloir Leech
+- id: 17559863
+  name: Witchetty Grub
+- id: 17559864
+  name: Witchetty Grub
+- id: 17559865
+  name: Witchetty Grub
+- id: 17559866
+  name: Witchetty Grub
+- id: 17559867
+  name: Witchetty Grub
+- id: 17559868
+  name: Witchetty Grub
+- id: 17559869
+  name: Chocoboleech
+- id: 17559870
+  name: Fire Elemental
+- id: 17559871
+  name: Celaeno
+- id: 17559872
+  name: Celaeno
+- id: 17559873
+  name: Celaeno
+- id: 17559876
+  name: ???
+- id: 17559877
+  name: Treasure Casket
+- id: 17559878
+  name: Treasure Casket
+- id: 17559879
+  name: Treasure Casket
+- id: 17559880
+  name: Treasure Casket
+- id: 17559881
+  name: Treasure Casket
+- id: 17559882
+  name: Treasure Casket
+- id: 17559883
+  name: Treasure Casket
+- id: 17559884
+  name: Treasure Casket
+- id: 17559885
+  name: Treasure Casket
+- id: 17559886
+  name: Treasure Casket
+- id: 17559887
+  name: Treasure Casket
+- id: 17559888
+  name: Treasure Casket
+- id: 17559889
+  name: Treasure Casket
+- id: 17559890
+  name: Treasure Casket
+- id: 17559891
+  name: Treasure Casket
+- id: 17559892
+  name: Treasure Casket
+- id: 17559893
+  name: Achieve Master
+- id: 17559894
+  name: Unity Master
+- id: 17559899
+  name: ''
+- id: 17559900
+  name: ''
+- id: 17559901
+  name: ''
+- id: 17559903
+  name: Moogle
+- id: 17559904
+  name: Moogle
+- id: 17559905
+  name: Moogle
+- id: 17559906
+  name: Moogle
+- id: 17559907
+  name: Moogle
+- id: 17559908
+  name: Moogle
+- id: 17559909
+  name: Moogle
+- id: 17559910
+  name: Moogle
+- id: 17559911
+  name: ???
+- id: 17559912
+  name: ''
+- id: 17559913
+  name: ''
+- id: 17559914
+  name: ''
+- id: 17559915
+  name: Cermet Door
+- id: 17559916
+  name: Strange Apparatus
+- id: 17559917
+  name: ???
+- id: 17559918
+  name: ???
+- id: 17559919
+  name: ???
+- id: 17559920
+  name: Saltvix
+- id: 17559921
+  name: Grasswix
+- id: 17559922
+  name: Eggblix
+- id: 17559923
+  name: ''
+- id: 17559924
+  name: Treasure Chest
+- id: 17559925
+  name: Ken
+- id: 17559926
+  name: Marin
+- id: 17559927
+  name: Ramblix
+- id: 17559928
+  name: Goblin Footprint
+- id: 17559929
+  name: Planar Rift
+- id: 17559930
+  name: Planar Rift
+- id: 17559931
+  name: Planar Rift
+- id: 17559932
+  name: Riftworn Pyxis
+- id: 17559933
+  name: Riftworn Pyxis
+- id: 17559934
+  name: Riftworn Pyxis
+- id: 17559935
+  name: Grounds Tome
+- id: 17559936
+  name: Grounds Tome
+- id: 17559937
+  name: Geomagnetic Fount
+- id: 17559938
+  name: ''
+- id: 17559939
+  name: ''
+- id: 17559940
+  name: ''
+- id: 17559941
+  name: ''
+- id: 17559942
+  name: Hazy Rune
+- id: 17559943
+  name: Survival Guide

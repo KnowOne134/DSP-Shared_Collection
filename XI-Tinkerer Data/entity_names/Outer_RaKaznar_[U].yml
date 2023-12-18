@@ -1,0 +1,661 @@
+names:
+- id: 17903617
+  name: Acrimonious Dullahan
+- id: 17903618
+  name: Cantankerous Yztarg
+- id: 17903619
+  name: Impervious Marolith
+- id: 17903620
+  name: Shambling Naraka
+- id: 17903621
+  name: Watchdog Orthrus
+- id: 17903622
+  name: Unwavering Ironclad
+- id: 17903623
+  name: Jaunting Yecuex
+- id: 17903624
+  name: Tweeting Caeferli
+- id: 17903625
+  name: Snorting Skormoth
+- id: 17903626
+  name: Wafting Fluturini
+- id: 17903627
+  name: Splenetic Umbril
+- id: 17903628
+  name: Splenetic Umbril
+- id: 17903629
+  name: Splenetic Umbril
+- id: 17903630
+  name: Breathless Clansman
+- id: 17903631
+  name: Breathless Clansman
+- id: 17903632
+  name: Breathless Clansman
+- id: 17903633
+  name: Effluvial Acuex
+- id: 17903634
+  name: Effluvial Acuex
+- id: 17903635
+  name: Effluvial Acuex
+- id: 17903636
+  name: Dismal Djinn
+- id: 17903637
+  name: Dismal Djinn
+- id: 17903638
+  name: Dismal Djinn
+- id: 17903639
+  name: Splenetic Umbril
+- id: 17903640
+  name: Splenetic Umbril
+- id: 17903641
+  name: Splenetic Umbril
+- id: 17903642
+  name: Breathless Clansman
+- id: 17903643
+  name: Breathless Clansman
+- id: 17903644
+  name: Breathless Clansman
+- id: 17903645
+  name: Effluvial Acuex
+- id: 17903646
+  name: Effluvial Acuex
+- id: 17903647
+  name: Effluvial Acuex
+- id: 17903648
+  name: Dismal Djinn
+- id: 17903649
+  name: Dismal Djinn
+- id: 17903650
+  name: Dismal Djinn
+- id: 17903651
+  name: Burnished Mimic
+- id: 17903652
+  name: Burnished Mimic
+- id: 17903653
+  name: Burnished Mimic
+- id: 17903654
+  name: Burnished Mimic
+- id: 17903655
+  name: Burnished Mimic
+- id: 17903656
+  name: Spooked Heartwing
+- id: 17903657
+  name: Putraxia
+- id: 17903658
+  name: Fire Elemental
+- id: 17903659
+  name: Ice Elemental
+- id: 17903660
+  name: Earth Elemental
+- id: 17903661
+  name: Air Elemental
+- id: 17903662
+  name: Thunder Elemental
+- id: 17903663
+  name: Water Elemental
+- id: 17903664
+  name: Light Elemental
+- id: 17903665
+  name: Dark Elemental
+- id: 17903666
+  name: Fire Elemental
+- id: 17903667
+  name: Fire Elemental
+- id: 17903668
+  name: Fire Elemental
+- id: 17903669
+  name: Fire Elemental
+- id: 17903670
+  name: Fire Elemental
+- id: 17903671
+  name: Fire Elemental
+- id: 17903672
+  name: Fire Elemental
+- id: 17903673
+  name: Fire Elemental
+- id: 17903674
+  name: Wicked Baelfyr
+- id: 17903675
+  name: Ice Elemental
+- id: 17903676
+  name: Ice Elemental
+- id: 17903677
+  name: Ice Elemental
+- id: 17903678
+  name: Ice Elemental
+- id: 17903679
+  name: Ice Elemental
+- id: 17903680
+  name: Ice Elemental
+- id: 17903681
+  name: Ice Elemental
+- id: 17903682
+  name: Ice Elemental
+- id: 17903683
+  name: Conniving Gefyrst
+- id: 17903684
+  name: Earth Elemental
+- id: 17903685
+  name: Earth Elemental
+- id: 17903686
+  name: Earth Elemental
+- id: 17903687
+  name: Earth Elemental
+- id: 17903688
+  name: Earth Elemental
+- id: 17903689
+  name: Earth Elemental
+- id: 17903690
+  name: Earth Elemental
+- id: 17903691
+  name: Earth Elemental
+- id: 17903692
+  name: Vile Byrgen
+- id: 17903693
+  name: Air Elemental
+- id: 17903694
+  name: Air Elemental
+- id: 17903695
+  name: Air Elemental
+- id: 17903696
+  name: Air Elemental
+- id: 17903697
+  name: Air Elemental
+- id: 17903698
+  name: Air Elemental
+- id: 17903699
+  name: Air Elemental
+- id: 17903700
+  name: Air Elemental
+- id: 17903701
+  name: Reckless Ungeweder
+- id: 17903702
+  name: Thunder Elemental
+- id: 17903703
+  name: Thunder Elemental
+- id: 17903704
+  name: Thunder Elemental
+- id: 17903705
+  name: Thunder Elemental
+- id: 17903706
+  name: Thunder Elemental
+- id: 17903707
+  name: Thunder Elemental
+- id: 17903708
+  name: Thunder Elemental
+- id: 17903709
+  name: Thunder Elemental
+- id: 17903710
+  name: Reckless Ungeweder
+- id: 17903711
+  name: Water Elemental
+- id: 17903712
+  name: Water Elemental
+- id: 17903713
+  name: Water Elemental
+- id: 17903714
+  name: Water Elemental
+- id: 17903715
+  name: Water Elemental
+- id: 17903716
+  name: Water Elemental
+- id: 17903717
+  name: Water Elemental
+- id: 17903718
+  name: Water Elemental
+- id: 17903719
+  name: Conniving Gefyrst
+- id: 17903720
+  name: Light Elemental
+- id: 17903721
+  name: Light Elemental
+- id: 17903722
+  name: Light Elemental
+- id: 17903723
+  name: Light Elemental
+- id: 17903724
+  name: Light Elemental
+- id: 17903725
+  name: Light Elemental
+- id: 17903726
+  name: Light Elemental
+- id: 17903727
+  name: Light Elemental
+- id: 17903728
+  name: Wicked Baelfyr
+- id: 17903729
+  name: Dark Elemental
+- id: 17903730
+  name: Dark Elemental
+- id: 17903731
+  name: Dark Elemental
+- id: 17903732
+  name: Dark Elemental
+- id: 17903733
+  name: Dark Elemental
+- id: 17903734
+  name: Dark Elemental
+- id: 17903735
+  name: Dark Elemental
+- id: 17903736
+  name: Dark Elemental
+- id: 17903737
+  name: Vile Byrgen
+- id: 17903738
+  name: Blightslither
+- id: 17903739
+  name: Spiteful Byrgen
+- id: 17903740
+  name: Spiteful Byrgen
+- id: 17903741
+  name: Spiteful Byrgen
+- id: 17903742
+  name: Spiteful Byrgen
+- id: 17903743
+  name: Psychotic Gefyrst
+- id: 17903744
+  name: Psychotic Gefyrst
+- id: 17903745
+  name: Psychotic Gefyrst
+- id: 17903746
+  name: Psychotic Gefyrst
+- id: 17903747
+  name: Insidivo
+- id: 17903748
+  name: Corrupt Baelfyr
+- id: 17903749
+  name: Corrupt Baelfyr
+- id: 17903750
+  name: Corrupt Baelfyr
+- id: 17903751
+  name: Corrupt Baelfyr
+- id: 17903752
+  name: Insidious Ungeweder
+- id: 17903753
+  name: Insidious Ungeweder
+- id: 17903754
+  name: Insidious Ungeweder
+- id: 17903755
+  name: Insidious Ungeweder
+- id: 17903756
+  name: Rancibus
+- id: 17903762
+  name: Ravaging Acuex
+- id: 17903763
+  name: Ravaging Acuex
+- id: 17903764
+  name: Ravaging Acuex
+- id: 17903765
+  name: Ravaging Acuex
+- id: 17903766
+  name: Ravaging Acuex
+- id: 17903767
+  name: Ravaging Acuex
+- id: 17903768
+  name: Ravaging Acuex
+- id: 17903769
+  name: Gangrenous Leech
+- id: 17903770
+  name: Gangrenous Leech
+- id: 17903771
+  name: Gangrenous Leech
+- id: 17903772
+  name: Gangrenous Leech
+- id: 17903773
+  name: Gangrenous Leech
+- id: 17903774
+  name: Gangrenous Leech
+- id: 17903775
+  name: Gangrenous Leech
+- id: 17903776
+  name: Gangrenous Leech
+- id: 17903777
+  name: Gangrenous Leech
+- id: 17903778
+  name: Gangrenous Leech
+- id: 17903779
+  name: Gangrenous Leech
+- id: 17903780
+  name: Gangrenous Leech
+- id: 17903781
+  name: Gangrenous Leech
+- id: 17903782
+  name: Gangrenous Leech
+- id: 17903783
+  name: Gangrenous Leech
+- id: 17903784
+  name: Gangrenous Leech
+- id: 17903785
+  name: Gangrenous Leech
+- id: 17903786
+  name: Gangrenous Leech
+- id: 17903787
+  name: Dreary Obdella
+- id: 17903788
+  name: Dreary Obdella
+- id: 17903789
+  name: Dreary Obdella
+- id: 17903790
+  name: Dreary Obdella
+- id: 17903791
+  name: Dreary Obdella
+- id: 17903792
+  name: Dreary Obdella
+- id: 17903793
+  name: Unabated Mush
+- id: 17903794
+  name: Unabated Mush
+- id: 17903795
+  name: Unabated Mush
+- id: 17903796
+  name: Unabated Mush
+- id: 17903797
+  name: Unabated Mush
+- id: 17903798
+  name: Unabated Mush
+- id: 17903799
+  name: Unabated Mush
+- id: 17903800
+  name: Unabated Mush
+- id: 17903801
+  name: Unabated Mush
+- id: 17903802
+  name: Unabated Mush
+- id: 17903803
+  name: Unabated Mush
+- id: 17903804
+  name: Unabated Mush
+- id: 17903805
+  name: Unabated Mush
+- id: 17903806
+  name: Unabated Mush
+- id: 17903807
+  name: Unabated Mush
+- id: 17903808
+  name: Unabated Mush
+- id: 17903809
+  name: Unabated Mush
+- id: 17903810
+  name: Unabated Mush
+- id: 17903811
+  name: Jaundiced Slime
+- id: 17903812
+  name: Jaundiced Slime
+- id: 17903813
+  name: Jaundiced Slime
+- id: 17903814
+  name: Jaundiced Slime
+- id: 17903815
+  name: Jaundiced Slime
+- id: 17903816
+  name: Jaundiced Slime
+- id: 17903817
+  name: Ravaging Acuex
+- id: 17903818
+  name: Ravaging Acuex
+- id: 17903819
+  name: Ravaging Acuex
+- id: 17903820
+  name: Ravaging Acuex
+- id: 17903821
+  name: Ravaging Acuex
+- id: 17903822
+  name: Ravaging Acuex
+- id: 17903823
+  name: Ravaging Acuex
+- id: 17903824
+  name: Ravaging Acuex
+- id: 17903825
+  name: Ravaging Acuex
+- id: 17903826
+  name: Ravaging Acuex
+- id: 17903827
+  name: Ravaging Acuex
+- id: 17903828
+  name: Ravaging Acuex
+- id: 17903829
+  name: Ravaging Acuex
+- id: 17903830
+  name: Ravaging Acuex
+- id: 17903831
+  name: Ravaging Acuex
+- id: 17903832
+  name: Murkcrawler
+- id: 17903833
+  name: Gangrenous Leech
+- id: 17903834
+  name: Gangrenous Leech
+- id: 17903835
+  name: Gangrenous Leech
+- id: 17903836
+  name: Gangrenous Leech
+- id: 17903837
+  name: Dreary Obdella
+- id: 17903838
+  name: Dreary Obdella
+- id: 17903839
+  name: Dreary Obdella
+- id: 17903840
+  name: Brimboil
+- id: 17903841
+  name: Brimboil
+- id: 17903842
+  name: Brimboil
+- id: 17903843
+  name: Brimboil
+- id: 17903844
+  name: Brimboil
+- id: 17903845
+  name: Brimboil
+- id: 17903846
+  name: Brimboil
+- id: 17903847
+  name: Brimboil
+- id: 17903848
+  name: Brimboil
+- id: 17903849
+  name: Brimboil
+- id: 17903850
+  name: Brimboil
+- id: 17903851
+  name: Unabated Mush
+- id: 17903852
+  name: Unabated Mush
+- id: 17903853
+  name: Unabated Mush
+- id: 17903854
+  name: Unabated Mush
+- id: 17903855
+  name: Jaundiced Slime
+- id: 17903856
+  name: Jaundiced Slime
+- id: 17903857
+  name: Jaundiced Slime
+- id: 17903858
+  name: Palloritus
+- id: 17903859
+  name: Spurned Saboteur
+- id: 17903860
+  name: Spurned Fluteslinger
+- id: 17903861
+  name: Spurned Nightstalker
+- id: 17903862
+  name: Spurned Deeparrow
+- id: 17903863
+  name: Spurned Hexer
+- id: 17903864
+  name: Spurned Elementalist
+- id: 17903865
+  name: Spurned Engraver
+- id: 17903866
+  name: Spurned Valiant
+- id: 17903867
+  name: Shunned Saboteur
+- id: 17903868
+  name: Shunned Nightstalker
+- id: 17903869
+  name: Shunned Deeparrow
+- id: 17903870
+  name: Shunned Fluteslinger
+- id: 17903871
+  name: Shunned Hexer
+- id: 17903872
+  name: Shunned Elementalist
+- id: 17903873
+  name: Shunned Engraver
+- id: 17903874
+  name: Shunned Valiant
+- id: 17903875
+  name: Shunned Saboteur
+- id: 17903876
+  name: Shunned Fluteslinger
+- id: 17903877
+  name: Shunned Nightstalker
+- id: 17903878
+  name: Shunned Deeparrow
+- id: 17903879
+  name: Shunned Hexer
+- id: 17903880
+  name: Shunned Elementalist
+- id: 17903881
+  name: Shunned Engraver
+- id: 17903882
+  name: Shunned Valiant
+- id: 17903883
+  name: Shunned Saboteur
+- id: 17903884
+  name: Shunned Fluteslinger
+- id: 17903885
+  name: Shunned Nightstalker
+- id: 17903886
+  name: Shunned Deeparrow
+- id: 17903887
+  name: Shunned Hexer
+- id: 17903888
+  name: Shunned Elementalist
+- id: 17903889
+  name: Shunned Engraver
+- id: 17903890
+  name: Shunned Valiant
+- id: 17903891
+  name: Wailing Corse
+- id: 17903892
+  name: Wailing Corse
+- id: 17903893
+  name: Wailing Corse
+- id: 17903894
+  name: Wailing Corse
+- id: 17903895
+  name: Wailing Corse
+- id: 17903896
+  name: Wailing Corse
+- id: 17903897
+  name: Lightreaper
+- id: 17903898
+  name: Disdained One
+- id: 17903899
+  name: Disdained One
+- id: 17903900
+  name: Disdained One
+- id: 17903901
+  name: Disdained's Prime
+- id: 17903902
+  name: Disdained One
+- id: 17903903
+  name: Disdained One
+- id: 17903904
+  name: Disdained's Hound
+- id: 17903905
+  name: Disdained One
+- id: 17903906
+  name: Disdained One
+- id: 17903907
+  name: Disdained's Wyvern
+- id: 17903908
+  name: Disdained One
+- id: 17903909
+  name: Disdained One
+- id: 17903910
+  name: Disdained One
+- id: 17903911
+  name: Disdained One
+- id: 17903912
+  name: Luopan
+- id: 17903913
+  name: Disdained One
+- id: 17903914
+  name: Perfidien
+- id: 17903915
+  name: Plouton
+- id: 17903917
+  name: Treasure Coffer
+- id: 17903918
+  name: Treasure Coffer
+- id: 17903919
+  name: Treasure Coffer
+- id: 17903920
+  name: Treasure Coffer
+- id: 17903921
+  name: Treasure Coffer
+- id: 17903922
+  name: Achieve Master
+- id: 17903929
+  name: Noetic Ascension
+- id: 17903930
+  name: Noetic Ascension
+- id: 17903931
+  name: Noetic Ascension
+- id: 17903932
+  name: Noetic Ascension
+- id: 17903933
+  name: Noetic Ascension
+- id: 17903934
+  name: Noetic Ascension
+- id: 17903935
+  name: Noetic Ascension
+- id: 17903936
+  name: Noetic Ascension
+- id: 17903937
+  name: Noetic Ascension
+- id: 17903938
+  name: Noetic Ascension
+- id: 17903946
+  name: Treasure Coffer
+- id: 17903947
+  name: Treasure Coffer
+- id: 17903948
+  name: Treasure Coffer
+- id: 17903949
+  name: Treasure Coffer
+- id: 17903950
+  name: Treasure Coffer
+- id: 17903951
+  name: Treasure Coffer
+- id: 17903953
+  name: Moogle
+- id: 17903954
+  name: Moogle
+- id: 17903955
+  name: Moogle
+- id: 17903956
+  name: Moogle
+- id: 17903957
+  name: Moogle
+- id: 17903958
+  name: Moogle
+- id: 17903959
+  name: Moogle
+- id: 17903960
+  name: Moogle
+- id: 17904017
+  name: 'Anomaly Trigger #1'
+- id: 17904018
+  name: 'Anomaly Trigger #2'
+- id: 17904019
+  name: 'Anomaly Trigger #3'
+- id: 17904020
+  name: 'Anomaly Trigger #4'
+- id: 17904021
+  name: 'Anomaly Trigger #5'
+- id: 17904022
+  name: 'Anomaly Trigger #6'

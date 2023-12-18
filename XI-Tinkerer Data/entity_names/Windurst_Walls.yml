@@ -1,0 +1,587 @@
+names:
+- id: 17756161
+  name: PRODUCER
+- id: 17756162
+  name: DIRECTOR
+- id: 17756163
+  name: warp01
+- id: 17756164
+  name: warp02
+- id: 17756165
+  name: warp03
+- id: 17756166
+  name: warp04
+- id: 17756167
+  name: warp05
+- id: 17756168
+  name: warp06
+- id: 17756169
+  name: warp07
+- id: 17756170
+  name: warp08
+- id: 17756171
+  name: Zokima-Rokima
+- id: 17756172
+  name: Pakke-Pokke
+- id: 17756173
+  name: Keo-Koruo
+- id: 17756174
+  name: Chawo Shipeynyo
+- id: 17756175
+  name: Door:House of the Hero
+- id: 17756176
+  name: ''
+- id: 17756177
+  name: Ajido-Marujido
+- id: 17756178
+  name: Kohlo-Lakolo
+- id: 17756179
+  name: Papo-Hopo
+- id: 17756180
+  name: Gomada-Vulmada
+- id: 17756181
+  name: Pichichi
+- id: 17756182
+  name: Yafa Yaa
+- id: 17756183
+  name: Pyo Nzon
+- id: 17756184
+  name: Nanaa Mihgo
+- id: 17756185
+  name: Joker
+- id: 17756186
+  name: Shantotto
+- id: 17756187
+  name: Hiwon-Biwon
+- id: 17756188
+  name: Yoran-Oran
+- id: 17756189
+  name: Ekamama
+- id: 17756190
+  name: Toi-Poi
+- id: 17756191
+  name: Door_5
+- id: 17756192
+  name: Shantotto
+- id: 17756193
+  name: Koru-Moru
+- id: 17756194
+  name: Luuh Koplehn
+- id: 17756195
+  name: Maan-Pokuun
+- id: 17756196
+  name: Bonchacha
+- id: 17756197
+  name: Ambrosius
+- id: 17756198
+  name: Orudoba-Sondeba
+- id: 17756199
+  name: Tsuaora-Tsuora
+- id: 17756200
+  name: Selulu
+- id: 17756201
+  name: Kenono
+- id: 17756202
+  name: Auction Counter
+- id: 17756203
+  name: Auction Counter
+- id: 17756204
+  name: Auction Counter
+- id: 17756205
+  name: Auction Counter
+- id: 17756206
+  name: Esmeralda
+- id: 17756207
+  name: Keir
+- id: 17756208
+  name: Ran
+- id: 17756209
+  name: Ignaz
+- id: 17756210
+  name: Zayhi-Bauhi
+- id: 17756211
+  name: Rutango-Botango
+- id: 17756212
+  name: Kalupa-Tawalupa
+- id: 17756213
+  name: Raamimi
+- id: 17756214
+  name: Kohpo-Akuupo
+- id: 17756215
+  name: Nozaza
+- id: 17756216
+  name: Yanakiki
+- id: 17756217
+  name: Augu-Maugu
+- id: 17756218
+  name: Ten of Diamonds
+- id: 17756219
+  name: Nine of Diamonds
+- id: 17756220
+  name: Seven of Diamonds
+- id: 17756221
+  name: Six of Diamonds
+- id: 17756222
+  name: Five of Diamonds
+- id: 17756223
+  name: Four of Diamonds
+- id: 17756224
+  name: Jack of Diamonds
+- id: 17756225
+  name: Komomo
+- id: 17756226
+  name: Suhie-Kaihie
+- id: 17756227
+  name: Pakeke
+- id: 17756228
+  name: Aromu-Oromu
+- id: 17756229
+  name: Polink-Moink
+- id: 17756230
+  name: Moan-Maon
+- id: 17756231
+  name: Finene
+- id: 17756232
+  name: Purere
+- id: 17756233
+  name: Chomomo
+- id: 17756234
+  name: Gerun-Garun
+- id: 17756235
+  name: Yoriri
+- id: 17756236
+  name: Kimumu
+- id: 17756237
+  name: Mehruru
+- id: 17756238
+  name: Dabaide-Obaide
+- id: 17756239
+  name: Karija-Marija
+- id: 17756240
+  name: Purakoko
+- id: 17756241
+  name: Pakora-Makora
+- id: 17756242
+  name: Anini
+- id: 17756243
+  name: Polikal-Ramikal
+- id: 17756244
+  name: Mukuku
+- id: 17756245
+  name: Malmi-Monmi
+- id: 17756246
+  name: Pantsa-Karutsa
+- id: 17756247
+  name: Horuni-Mawoni
+- id: 17756248
+  name: Kaaya Majiad
+- id: 17756249
+  name: Migi Centa
+- id: 17756250
+  name: Juna Moshal
+- id: 17756251
+  name: Naih Arihmepp
+- id: 17756252
+  name: Lala Gohma
+- id: 17756253
+  name: Haah Chakaila
+- id: 17756254
+  name: Quentin
+- id: 17756255
+  name: Uwaine
+- id: 17756256
+  name: Takoda
+- id: 17756257
+  name: Florencia
+- id: 17756258
+  name: Karola
+- id: 17756259
+  name: Shinchai-Tocchai
+- id: 17756260
+  name: ''
+- id: 17756261
+  name: Ojha Rhawash
+- id: 17756262
+  name: Komulili
+- id: 17756263
+  name: 'Home Point #1'
+- id: 17756264
+  name: 'Home Point #2'
+- id: 17756265
+  name: 'Home Point #3'
+- id: 17756266
+  name: 'Home Point #4'
+- id: 17756267
+  name: 'Home Point #5'
+- id: 17756268
+  name: Moogle
+- id: 17756269
+  name: ''
+- id: 17756270
+  name: ???
+- id: 17756271
+  name: ''
+- id: 17756272
+  name: Moogle
+- id: 17756273
+  name: Symphonic Curator
+- id: 17756274
+  name: Door:Koru-Moru's Manor
+- id: 17756275
+  name: Door:Yoran-Oran's Manor
+- id: 17756276
+  name: Door:Zonpa-Zippa's Manor
+- id: 17756277
+  name: Door:Shantotto's Manor
+- id: 17756278
+  name: Door:Jeunoan Consul
+- id: 17756279
+  name: Door:Jeunoan Consul
+- id: 17756280
+  name: Priming Gate
+- id: 17756282
+  name: Moogle
+- id: 17756283
+  name: Moogle
+- id: 17756284
+  name: Moogle
+- id: 17756285
+  name: Moogle
+- id: 17756286
+  name: Moogle
+- id: 17756287
+  name: Moogle
+- id: 17756288
+  name: Moogle
+- id: 17756289
+  name: Moogle
+- id: 17756290
+  name: ''
+- id: 17756291
+  name: Kobunono
+- id: 17756292
+  name: Burute-Sorute
+- id: 17756293
+  name: World Shifter
+- id: 17756294
+  name: Apururu
+- id: 17756295
+  name: Ildy-Goldy
+- id: 17756296
+  name: Rukususu
+- id: 17756297
+  name: Koru-Moru
+- id: 17756298
+  name: ''
+- id: 17756299
+  name: ''
+- id: 17756300
+  name: Semih Lafihna
+- id: 17756301
+  name: Star Sibyl
+- id: 17756302
+  name: Carbuncle
+- id: 17756303
+  name: Juvillie
+- id: 17756304
+  name: Scavnix
+- id: 17756305
+  name: ''
+- id: 17756306
+  name: Trail Markings
+- id: 17756307
+  name: Ulrich
+- id: 17756308
+  name: Francmage
+- id: 17756309
+  name: Iru-Kuiru
+- id: 17756310
+  name: Yow Rabntah
+- id: 17756311
+  name: Cornelia
+- id: 17756312
+  name: ''
+- id: 17756313
+  name: Raogrimm
+- id: 17756314
+  name: ???
+- id: 17756315
+  name: Diabolos
+- id: 17756316
+  name: Diabolos
+- id: 17756317
+  name: Diabolos
+- id: 17756318
+  name: ???
+- id: 17756319
+  name: Makki-Chebukki
+- id: 17756320
+  name: Kukki-Chebukki
+- id: 17756321
+  name: Cherukiki
+- id: 17756322
+  name: Ulmia
+- id: 17756323
+  name: Prishe
+- id: 17756324
+  name: Shikaree Y
+- id: 17756325
+  name: Muhk Johldy
+- id: 17756326
+  name: Kapeh Myohrye
+- id: 17756327
+  name: Festive Moogle
+- id: 17756328
+  name: Festive Moogle
+- id: 17756329
+  name: ''
+- id: 17756330
+  name: ???
+- id: 17756331
+  name: ''
+- id: 17756332
+  name: ''
+- id: 17756333
+  name: ''
+- id: 17756334
+  name: Shantotto
+- id: 17756335
+  name: '1'
+- id: 17756336
+  name: '2'
+- id: 17756337
+  name: '3'
+- id: 17756338
+  name: '4'
+- id: 17756339
+  name: '5'
+- id: 17756340
+  name: '6'
+- id: 17756341
+  name: '7'
+- id: 17756342
+  name: '8'
+- id: 17756343
+  name: '9'
+- id: 17756344
+  name: '10'
+- id: 17756345
+  name: Synergy Engineer
+- id: 17756346
+  name: Synergy Engineer
+- id: 17756347
+  name: Synergy Furnace
+- id: 17756348
+  name: Synergy Furnace
+- id: 17756349
+  name: Synergy Furnace
+- id: 17756350
+  name: Synergy Furnace
+- id: 17756351
+  name: Synergy Enthusiast
+- id: 17756352
+  name: Arbitrix
+- id: 17756353
+  name: Treasure Coffer
+- id: 17756354
+  name: ''
+- id: 17756355
+  name: Moogle
+- id: 17756356
+  name: Moogle
+- id: 17756357
+  name: ???
+- id: 17756358
+  name: Mumor
+- id: 17756359
+  name: Uka Totlihn
+- id: 17756360
+  name: Diva
+- id: 17756361
+  name: Ullegore
+- id: 17756362
+  name: ''
+- id: 17756363
+  name: Foudeel
+- id: 17756364
+  name: Bashraf
+- id: 17756365
+  name: Wahboud
+- id: 17756366
+  name: Tango
+- id: 17756367
+  name: Bongo
+- id: 17756368
+  name: Fandango
+- id: 17756369
+  name: Wahboud
+- id: 17756370
+  name: Mumor
+- id: 17756371
+  name: Mumor
+- id: 17756372
+  name: ''
+- id: 17756373
+  name: ''
+- id: 17756374
+  name: ''
+- id: 17756375
+  name: ''
+- id: 17756376
+  name: ''
+- id: 17756377
+  name: ''
+- id: 17756378
+  name: ''
+- id: 17756379
+  name: ''
+- id: 17756380
+  name: ''
+- id: 17756381
+  name: ''
+- id: 17756382
+  name: ''
+- id: 17756383
+  name: ''
+- id: 17756384
+  name: ''
+- id: 17756385
+  name: ''
+- id: 17756386
+  name: Babban Ny Mheillea
+- id: 17756387
+  name: ''
+- id: 17756388
+  name: ''
+- id: 17756389
+  name: ''
+- id: 17756390
+  name: ''
+- id: 17756391
+  name: ''
+- id: 17756392
+  name: ''
+- id: 17756393
+  name: ''
+- id: 17756394
+  name: ''
+- id: 17756395
+  name: ''
+- id: 17756396
+  name: ''
+- id: 17756397
+  name: ''
+- id: 17756399
+  name: Shard of Sunlight
+- id: 17756400
+  name: Shard of Sunlight
+- id: 17756401
+  name: Shard of Sunlight
+- id: 17756402
+  name: Shard of Sunlight
+- id: 17756403
+  name: Shard of Sunlight
+- id: 17756404
+  name: Shard of Sunlight
+- id: 17756405
+  name: Shard of Sunlight
+- id: 17756406
+  name: Shard of Sunlight
+- id: 17756407
+  name: Shard of Sunlight
+- id: 17756408
+  name: Shard of Sunlight
+- id: 17756409
+  name: Shard of Sunlight
+- id: 17756410
+  name: Shard of Sunlight
+- id: 17756411
+  name: Shard of Sunlight
+- id: 17756412
+  name: Shard of Sunlight
+- id: 17756413
+  name: Shard of Sunlight
+- id: 17756414
+  name: Shard of Sunlight
+- id: 17756415
+  name: Shard of Sunlight
+- id: 17756416
+  name: Shard of Sunlight
+- id: 17756417
+  name: Abenzio
+- id: 17756418
+  name: Bryher
+- id: 17756419
+  name: Camlin
+- id: 17756420
+  name: Darach
+- id: 17756421
+  name: Babban's Progeny
+- id: 17756422
+  name: Babban's Progeny
+- id: 17756423
+  name: Babban's Progeny
+- id: 17756424
+  name: Babban's Progeny
+- id: 17756425
+  name: Greeter Moogle
+- id: 17756426
+  name: Achieve Master
+- id: 17756427
+  name: Unity Master
+- id: 17756428
+  name: ''
+- id: 17756429
+  name: Iroha
+- id: 17756430
+  name: Lion
+- id: 17756431
+  name: Zeid
+- id: 17756432
+  name: ''
+- id: 17756433
+  name: Selh'teus
+- id: 17756434
+  name: Selh'teus
+- id: 17756435
+  name: Selh'teus
+- id: 17756436
+  name: Balamor
+- id: 17756437
+  name: ???
+- id: 17756438
+  name: ''
+- id: 17756439
+  name: ''
+- id: 17756440
+  name: Disjoined One
+- id: 17756441
+  name: Disjoined One
+- id: 17756442
+  name: Disjoined One
+- id: 17756443
+  name: Disjoined One
+- id: 17756444
+  name: Disjoined One
+- id: 17756445
+  name: Disjoined One
+- id: 17756446
+  name: Disjoined One
+- id: 17756447
+  name: Disjoined One
+- id: 17756448
+  name: ''
+- id: 17756449
+  name: ''
+- id: 17756450
+  name: ''
+- id: 17756451
+  name: Tenzen
+- id: 17756452
+  name: ''
+- id: 17756453
+  name: ''
+- id: 17756454
+  name: Enigmatic Footprints
+- id: 17756455
+  name: Layer Reserve

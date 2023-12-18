@@ -1,0 +1,703 @@
+names:
+- id: 16932865
+  name: Armoury Crate
+- id: 16932866
+  name: Armoury Crate
+- id: 16932867
+  name: Armoury Crate
+- id: 16932868
+  name: Fir Bholg
+- id: 16932869
+  name: Fir Bholg
+- id: 16932870
+  name: Fir Bholg
+- id: 16932871
+  name: Fir Bholg
+- id: 16932872
+  name: Fir Bholg
+- id: 16932873
+  name: Fir Bholg
+- id: 16932874
+  name: Fir Bholg
+- id: 16932875
+  name: Fir Bholg
+- id: 16932876
+  name: Fir Bholg
+- id: 16932877
+  name: Fir Bholg
+- id: 16932878
+  name: Armoury Crate
+- id: 16932879
+  name: Armoury Crate
+- id: 16932880
+  name: Armoury Crate
+- id: 16932881
+  name: Jidra
+- id: 16932882
+  name: Jidra
+- id: 16932883
+  name: Jidra
+- id: 16932884
+  name: Jidra
+- id: 16932885
+  name: Jidra
+- id: 16932886
+  name: Jidra
+- id: 16932887
+  name: Jidra
+- id: 16932888
+  name: Jidra
+- id: 16932889
+  name: Arboricole Hornet
+- id: 16932890
+  name: Arboricole Raven
+- id: 16932891
+  name: Arboricole Opo-opo
+- id: 16932892
+  name: Arboricole Spider
+- id: 16932893
+  name: Arboricole Beetle
+- id: 16932894
+  name: Arboricole Crawler
+- id: 16932895
+  name: Apollyon Sapling
+- id: 16932896
+  name: Armoury Crate
+- id: 16932897
+  name: Armoury Crate
+- id: 16932898
+  name: Armoury Crate
+- id: 16932899
+  name: Armoury Crate
+- id: 16932900
+  name: Armoury Crate
+- id: 16932901
+  name: Armoury Crate
+- id: 16932902
+  name: Armoury Crate
+- id: 16932903
+  name: Armoury Crate
+- id: 16932904
+  name: Armoury Crate
+- id: 16932905
+  name: Armoury Crate
+- id: 16932906
+  name: Armoury Crate
+- id: 16932907
+  name: Armoury Crate
+- id: 16932908
+  name: Armoury Crate
+- id: 16932909
+  name: Armoury Crate
+- id: 16932910
+  name: Air Elemental
+- id: 16932911
+  name: Dark Elemental
+- id: 16932912
+  name: Earth Elemental
+- id: 16932913
+  name: Fire Elemental
+- id: 16932914
+  name: Ice Elemental
+- id: 16932915
+  name: Light Elemental
+- id: 16932916
+  name: Water Elemental
+- id: 16932917
+  name: Thunder Elemental
+- id: 16932918
+  name: Air Elemental
+- id: 16932919
+  name: Dark Elemental
+- id: 16932920
+  name: Earth Elemental
+- id: 16932921
+  name: Fire Elemental
+- id: 16932922
+  name: Ice Elemental
+- id: 16932923
+  name: Light Elemental
+- id: 16932924
+  name: Water Elemental
+- id: 16932925
+  name: Thunder Elemental
+- id: 16932926
+  name: Air Elemental
+- id: 16932927
+  name: Dark Elemental
+- id: 16932928
+  name: Earth Elemental
+- id: 16932929
+  name: Fire Elemental
+- id: 16932930
+  name: Ice Elemental
+- id: 16932931
+  name: Light Elemental
+- id: 16932932
+  name: Water Elemental
+- id: 16932933
+  name: Thunder Elemental
+- id: 16932934
+  name: Armoury Crate
+- id: 16932935
+  name: Armoury Crate
+- id: 16932936
+  name: Armoury Crate
+- id: 16932937
+  name: Pluto
+- id: 16932938
+  name: Bardha
+- id: 16932939
+  name: Bardha
+- id: 16932940
+  name: Bardha
+- id: 16932941
+  name: Bardha
+- id: 16932942
+  name: Bardha
+- id: 16932943
+  name: Bardha
+- id: 16932944
+  name: Bardha
+- id: 16932945
+  name: Armoury Crate
+- id: 16932946
+  name: Armoury Crate
+- id: 16932947
+  name: Armoury Crate
+- id: 16932948
+  name: Armoury Crate
+- id: 16932949
+  name: Armoury Crate
+- id: 16932950
+  name: Zlatorog
+- id: 16932951
+  name: Mountain Buffalo
+- id: 16932952
+  name: Mountain Buffalo
+- id: 16932953
+  name: Mountain Buffalo
+- id: 16932954
+  name: Mountain Buffalo
+- id: 16932955
+  name: Mountain Buffalo
+- id: 16932956
+  name: Mountain Buffalo
+- id: 16932957
+  name: Mountain Buffalo
+- id: 16932958
+  name: Armoury Crate
+- id: 16932959
+  name: Armoury Crate
+- id: 16932960
+  name: Armoury Crate
+- id: 16932961
+  name: Armoury Crate
+- id: 16932962
+  name: Armoury Crate
+- id: 16932963
+  name: Millenary Mossback
+- id: 16932964
+  name: Apollyon Scavenger
+- id: 16932965
+  name: Apollyon Scavenger
+- id: 16932966
+  name: Apollyon Scavenger
+- id: 16932967
+  name: Apollyon Scavenger
+- id: 16932968
+  name: Apollyon Scavenger
+- id: 16932969
+  name: Apollyon Scavenger
+- id: 16932970
+  name: Apollyon Scavenger
+- id: 16932971
+  name: Armoury Crate
+- id: 16932972
+  name: Armoury Crate
+- id: 16932973
+  name: Armoury Crate
+- id: 16932974
+  name: Armoury Crate
+- id: 16932975
+  name: Armoury Crate
+- id: 16932976
+  name: Cynoprosopi
+- id: 16932977
+  name: Gorynich
+- id: 16932978
+  name: Gorynich
+- id: 16932979
+  name: Gorynich
+- id: 16932980
+  name: Gorynich
+- id: 16932981
+  name: Gorynich
+- id: 16932982
+  name: Armoury Crate
+- id: 16932983
+  name: Armoury Crate
+- id: 16932984
+  name: Armoury Crate
+- id: 16932985
+  name: Kaiser Behemoth
+- id: 16932986
+  name: Kronprinz Behemoth
+- id: 16932987
+  name: Kronprinz Behemoth
+- id: 16932988
+  name: Kronprinz Behemoth
+- id: 16932989
+  name: Armoury Crate
+- id: 16932990
+  name: Armoury Crate
+- id: 16932991
+  name: Armoury Crate
+- id: 16932992
+  name: Ghost Clot
+- id: 16932993
+  name: Metalloid Amoeba
+- id: 16932994
+  name: Metalloid Amoeba
+- id: 16932995
+  name: Metalloid Amoeba
+- id: 16932996
+  name: Metalloid Amoeba
+- id: 16932997
+  name: Metalloid Amoeba
+- id: 16932998
+  name: Metalloid Amoeba
+- id: 16932999
+  name: Metalloid Amoeba
+- id: 16933000
+  name: Metalloid Amoeba
+- id: 16933001
+  name: Metalloid Amoeba
+- id: 16933002
+  name: Metalloid Amoeba
+- id: 16933003
+  name: Armoury Crate
+- id: 16933004
+  name: Armoury Crate
+- id: 16933005
+  name: Armoury Crate
+- id: 16933006
+  name: Tieholtsodi
+- id: 16933007
+  name: Adamantshell
+- id: 16933008
+  name: Adamantshell
+- id: 16933009
+  name: Adamantshell
+- id: 16933010
+  name: Adamantshell
+- id: 16933011
+  name: Adamantshell
+- id: 16933012
+  name: Adamantshell
+- id: 16933013
+  name: Adamantshell
+- id: 16933014
+  name: Adamantshell
+- id: 16933015
+  name: Adamantshell
+- id: 16933016
+  name: Adamantshell
+- id: 16933017
+  name: Armoury Crate
+- id: 16933018
+  name: Armoury Crate
+- id: 16933019
+  name: Armoury Crate
+- id: 16933020
+  name: Grave Digger
+- id: 16933021
+  name: Inhumer
+- id: 16933022
+  name: Inhumer
+- id: 16933023
+  name: Inhumer
+- id: 16933024
+  name: Inhumer
+- id: 16933025
+  name: Inhumer
+- id: 16933026
+  name: Inhumer
+- id: 16933027
+  name: Inhumer
+- id: 16933028
+  name: Inhumer
+- id: 16933029
+  name: Inhumer
+- id: 16933030
+  name: Inhumer
+- id: 16933031
+  name: Armoury Crate
+- id: 16933032
+  name: Evil Armory
+- id: 16933033
+  name: Flying Spear
+- id: 16933034
+  name: Flying Spear
+- id: 16933035
+  name: Flying Spear
+- id: 16933036
+  name: Flying Spear
+- id: 16933037
+  name: Flying Spear
+- id: 16933038
+  name: Flying Spear
+- id: 16933039
+  name: Flying Spear
+- id: 16933040
+  name: Flying Spear
+- id: 16933041
+  name: Armoury Crate
+- id: 16933042
+  name: Armoury Crate
+- id: 16933043
+  name: Armoury Crate
+- id: 16933044
+  name: Goobbue Harvester
+- id: 16933045
+  name: Barometz
+- id: 16933046
+  name: Borametz
+- id: 16933047
+  name: Barometz
+- id: 16933048
+  name: Borametz
+- id: 16933049
+  name: Barometz
+- id: 16933050
+  name: Borametz
+- id: 16933051
+  name: Barometz
+- id: 16933052
+  name: Borametz
+- id: 16933053
+  name: Armoury Crate
+- id: 16933054
+  name: Armoury Crate
+- id: 16933055
+  name: Barometz
+- id: 16933056
+  name: Borametz
+- id: 16933057
+  name: Barometz
+- id: 16933058
+  name: Borametz
+- id: 16933059
+  name: Armoury Crate
+- id: 16933060
+  name: Armoury Crate
+- id: 16933061
+  name: Armoury Crate
+- id: 16933062
+  name: Thiazi
+- id: 16933063
+  name: Thiazi
+- id: 16933064
+  name: Bialozar
+- id: 16933065
+  name: Bialozar
+- id: 16933066
+  name: Cornu
+- id: 16933067
+  name: Cornu
+- id: 16933068
+  name: Cornu
+- id: 16933069
+  name: Cornu
+- id: 16933070
+  name: Sirin
+- id: 16933071
+  name: Sirin
+- id: 16933072
+  name: Sirin
+- id: 16933073
+  name: Sirin
+- id: 16933074
+  name: Armoury Crate
+- id: 16933075
+  name: Armoury Crate
+- id: 16933076
+  name: Armoury Crate
+- id: 16933077
+  name: Armoury Crate
+- id: 16933078
+  name: Armoury Crate
+- id: 16933079
+  name: Armoury Crate
+- id: 16933080
+  name: Armoury Crate
+- id: 16933081
+  name: Apollyon Sweeper
+- id: 16933082
+  name: Apollyon Cleaner
+- id: 16933083
+  name: Apollyon Cleaner
+- id: 16933084
+  name: Apollyon Cleaner
+- id: 16933085
+  name: Apollyon Cleaner
+- id: 16933086
+  name: Apollyon Sweeper
+- id: 16933087
+  name: Apollyon Cleaner
+- id: 16933088
+  name: Apollyon Cleaner
+- id: 16933089
+  name: Apollyon Cleaner
+- id: 16933090
+  name: Apollyon Cleaner
+- id: 16933091
+  name: Apollyon Sweeper
+- id: 16933092
+  name: Apollyon Cleaner
+- id: 16933093
+  name: Apollyon Cleaner
+- id: 16933094
+  name: Apollyon Cleaner
+- id: 16933095
+  name: Apollyon Cleaner
+- id: 16933096
+  name: Armoury Crate
+- id: 16933097
+  name: Armoury Crate
+- id: 16933098
+  name: Armoury Crate
+- id: 16933099
+  name: Hyperion
+- id: 16933100
+  name: Okeanos
+- id: 16933101
+  name: Cronos
+- id: 16933102
+  name: Kerkopes
+- id: 16933103
+  name: Kerkopes
+- id: 16933104
+  name: Kerkopes
+- id: 16933105
+  name: Kerkopes
+- id: 16933106
+  name: Kerkopes
+- id: 16933107
+  name: Kerkopes
+- id: 16933108
+  name: Kerkopes
+- id: 16933109
+  name: Kerkopes
+- id: 16933110
+  name: Armoury Crate
+- id: 16933111
+  name: Armoury Crate
+- id: 16933112
+  name: Armoury Crate
+- id: 16933113
+  name: Criosphinx
+- id: 16933114
+  name: Hieracosphinx
+- id: 16933115
+  name: Troglodyte Dhalmel
+- id: 16933116
+  name: Troglodyte Dhalmel
+- id: 16933117
+  name: Troglodyte Dhalmel
+- id: 16933118
+  name: Troglodyte Dhalmel
+- id: 16933119
+  name: Troglodyte Dhalmel
+- id: 16933120
+  name: Troglodyte Dhalmel
+- id: 16933121
+  name: Troglodyte Dhalmel
+- id: 16933122
+  name: Troglodyte Dhalmel
+- id: 16933123
+  name: Armoury Crate
+- id: 16933124
+  name: Proto-Omega
+- id: 16933125
+  name: Gunpod
+- id: 16933126
+  name: Armoury Crate
+- id: 16933127
+  name: Armoury Crate
+- id: 16933128
+  name: Armoury Crate
+- id: 16933129
+  name: Carnagechief Jackbodokk
+- id: 16933130
+  name: Grognard Mesmerizer
+- id: 16933131
+  name: Grognard Neckchopper
+- id: 16933132
+  name: Grognard Footsoldier
+- id: 16933133
+  name: Grognard Grappler
+- id: 16933134
+  name: Grognard Predator
+- id: 16933135
+  name: Grognard Impaler
+- id: 16933136
+  name: Orc's Wyvern
+- id: 16933137
+  name: Na'Qba Chirurgeon
+- id: 16933138
+  name: Star Ruby Quadav
+- id: 16933139
+  name: Wootz Quadav
+- id: 16933140
+  name: Fossil Quadav
+- id: 16933141
+  name: Star Sapphire Quadav
+- id: 16933142
+  name: Whitegold Quadav
+- id: 16933143
+  name: Lightsteel Quadav
+- id: 16933144
+  name: Dee Wapa the Desolator
+- id: 16933145
+  name: Yagudo's Elemental
+- id: 16933146
+  name: Yagudo's Avatar
+- id: 16933147
+  name: Yagudo Archpriest
+- id: 16933148
+  name: Yagudo Knight Templar
+- id: 16933149
+  name: Yagudo Disciplinant
+- id: 16933150
+  name: Yagudo Prelatess
+- id: 16933151
+  name: Yagudo Kapellmeister
+- id: 16933152
+  name: Yagudo Eradicator
+- id: 16933153
+  name: Armoury Crate
+- id: 16933154
+  name: Nergal
+- id: 16933155
+  name: Apollyon Demon
+- id: 16933156
+  name: Apollyon Demon
+- id: 16933157
+  name: Apollyon Demon
+- id: 16933158
+  name: Apollyon Demon
+- id: 16933159
+  name: Apollyon Demon
+- id: 16933160
+  name: Apollyon Demon
+- id: 16933161
+  name: Apollyon Demon
+- id: 16933162
+  name: Apollyon Demon
+- id: 16933163
+  name: Apollyon Demon
+- id: 16933164
+  name: Apollyon Demon
+- id: 16933165
+  name: Armoury Crate
+- id: 16933166
+  name: Bata
+- id: 16933167
+  name: Apollyon Taurus
+- id: 16933168
+  name: Apollyon Taurus
+- id: 16933169
+  name: Apollyon Taurus
+- id: 16933170
+  name: Apollyon Taurus
+- id: 16933171
+  name: Apollyon Taurus
+- id: 16933172
+  name: Apollyon Taurus
+- id: 16933173
+  name: Apollyon Taurus
+- id: 16933174
+  name: Apollyon Taurus
+- id: 16933175
+  name: Apollyon Taurus
+- id: 16933176
+  name: Apollyon Taurus
+- id: 16933177
+  name: Armoury Crate
+- id: 16933178
+  name: Aeshma
+- id: 16933179
+  name: Apollyon Ahriman
+- id: 16933180
+  name: Apollyon Ahriman
+- id: 16933181
+  name: Apollyon Ahriman
+- id: 16933182
+  name: Apollyon Ahriman
+- id: 16933183
+  name: Apollyon Ahriman
+- id: 16933184
+  name: Apollyon Ahriman
+- id: 16933185
+  name: Apollyon Ahriman
+- id: 16933186
+  name: Apollyon Ahriman
+- id: 16933187
+  name: Apollyon Ahriman
+- id: 16933188
+  name: Ahriman's Avatar
+- id: 16933189
+  name: Apollyon Ahriman
+- id: 16933190
+  name: Ahriman's Avatar
+- id: 16933191
+  name: Armoury Crate
+- id: 16933192
+  name: Arch-Omega
+- id: 16933193
+  name: Gunpod
+- id: 16933194
+  name: Gunpod
+- id: 16933195
+  name: Gunpod
+- id: 16933202
+  name: Sentinel Column
+- id: 16933203
+  name: Sentinel Column
+- id: 16933204
+  name: Achieve Master
+- id: 16933205
+  name: Unity Master
+- id: 16933218
+  name: Swirling Vortex
+- id: 16933219
+  name: Swirling Vortex
+- id: 16933220
+  name: Swirling Vortex
+- id: 16933221
+  name: Swirling Vortex
+- id: 16933222
+  name: Swirling Vortex
+- id: 16933223
+  name: Swirling Vortex
+- id: 16933242
+  name: Radiant Aureole
+- id: 16933243
+  name: Radiant Aureole
+- id: 16933245
+  name: Moogle
+- id: 16933246
+  name: Moogle
+- id: 16933247
+  name: Moogle
+- id: 16933248
+  name: Moogle
+- id: 16933249
+  name: Moogle
+- id: 16933250
+  name: Moogle
+- id: 16933251
+  name: Moogle
+- id: 16933252
+  name: Moogle

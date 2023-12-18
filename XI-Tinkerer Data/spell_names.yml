@@ -1,0 +1,2051 @@
+bytes_per_entry: 140
+flip_bytes: false
+lists:
+  0:
+  - string: (NULL)
+  1:
+  - string: Cure
+  2:
+  - string: Cure II
+  3:
+  - string: Cure III
+  4:
+  - string: Cure IV
+  5:
+  - string: Cure V
+  6:
+  - string: Cure VI
+  7:
+  - string: Curaga
+  8:
+  - string: Curaga II
+  9:
+  - string: Curaga III
+  10:
+  - string: Curaga IV
+  11:
+  - string: Curaga V
+  12:
+  - string: Raise
+  13:
+  - string: Raise II
+  14:
+  - string: Poisona
+  15:
+  - string: Paralyna
+  16:
+  - string: Blindna
+  17:
+  - string: Silena
+  18:
+  - string: Stona
+  19:
+  - string: Viruna
+  20:
+  - string: Cursna
+  21:
+  - string: Holy
+  22:
+  - string: Holy II
+  23:
+  - string: Dia
+  24:
+  - string: Dia II
+  25:
+  - string: Dia III
+  26:
+  - string: Dia IV
+  27:
+  - string: Dia V
+  28:
+  - string: Banish
+  29:
+  - string: Banish II
+  30:
+  - string: Banish III
+  31:
+  - string: Banish IV
+  32:
+  - string: Banish V
+  33:
+  - string: Diaga
+  34:
+  - string: Diaga II
+  35:
+  - string: Diaga III
+  36:
+  - string: Diaga IV
+  37:
+  - string: Diaga V
+  38:
+  - string: Banishga
+  39:
+  - string: Banishga II
+  40:
+  - string: Banishga III
+  41:
+  - string: Banishga IV
+  42:
+  - string: Banishga V
+  43:
+  - string: Protect
+  44:
+  - string: Protect II
+  45:
+  - string: Protect III
+  46:
+  - string: Protect IV
+  47:
+  - string: Protect V
+  48:
+  - string: Shell
+  49:
+  - string: Shell II
+  50:
+  - string: Shell III
+  51:
+  - string: Shell IV
+  52:
+  - string: Shell V
+  53:
+  - string: Blink
+  54:
+  - string: Stoneskin
+  55:
+  - string: Aquaveil
+  56:
+  - string: Slow
+  57:
+  - string: Haste
+  58:
+  - string: Paralyze
+  59:
+  - string: Silence
+  60:
+  - string: Barfire
+  61:
+  - string: Barblizzard
+  62:
+  - string: Baraero
+  63:
+  - string: Barstone
+  64:
+  - string: Barthunder
+  65:
+  - string: Barwater
+  66:
+  - string: Barfira
+  67:
+  - string: Barblizzara
+  68:
+  - string: Baraera
+  69:
+  - string: Barstonra
+  70:
+  - string: Barthundra
+  71:
+  - string: Barwatera
+  72:
+  - string: Barsleep
+  73:
+  - string: Barpoison
+  74:
+  - string: Barparalyze
+  75:
+  - string: Barblind
+  76:
+  - string: Barsilence
+  77:
+  - string: Barpetrify
+  78:
+  - string: Barvirus
+  79:
+  - string: Slow II
+  80:
+  - string: Paralyze II
+  81:
+  - string: Recall-Jugner
+  82:
+  - string: Recall-Pashh
+  83:
+  - string: Recall-Meriph
+  84:
+  - string: Baramnesia
+  85:
+  - string: Baramnesra
+  86:
+  - string: Barsleepra
+  87:
+  - string: Barpoisonra
+  88:
+  - string: Barparalyzra
+  89:
+  - string: Barblindra
+  90:
+  - string: Barsilencera
+  91:
+  - string: Barpetra
+  92:
+  - string: Barvira
+  93:
+  - string: Cura
+  94:
+  - string: Sacrifice
+  95:
+  - string: Esuna
+  96:
+  - string: Auspice
+  97:
+  - string: Reprisal
+  98:
+  - string: Repose
+  99:
+  - string: Sandstorm
+  100:
+  - string: Enfire
+  101:
+  - string: Enblizzard
+  102:
+  - string: Enaero
+  103:
+  - string: Enstone
+  104:
+  - string: Enthunder
+  105:
+  - string: Enwater
+  106:
+  - string: Phalanx
+  107:
+  - string: Phalanx II
+  108:
+  - string: Regen
+  109:
+  - string: Refresh
+  110:
+  - string: Regen II
+  111:
+  - string: Regen III
+  112:
+  - string: Flash
+  113:
+  - string: Rainstorm
+  114:
+  - string: Windstorm
+  115:
+  - string: Firestorm
+  116:
+  - string: Hailstorm
+  117:
+  - string: Thunderstorm
+  118:
+  - string: Voidstorm
+  119:
+  - string: Aurorastorm
+  120:
+  - string: Teleport-Yhoat
+  121:
+  - string: Teleport-Altep
+  122:
+  - string: Teleport-Holla
+  123:
+  - string: Teleport-Dem
+  124:
+  - string: Teleport-Mea
+  125:
+  - string: Protectra
+  126:
+  - string: Protectra II
+  127:
+  - string: Protectra III
+  128:
+  - string: Protectra IV
+  129:
+  - string: Protectra V
+  130:
+  - string: Shellra
+  131:
+  - string: Shellra II
+  132:
+  - string: Shellra III
+  133:
+  - string: Shellra IV
+  134:
+  - string: Shellra V
+  135:
+  - string: Reraise
+  136:
+  - string: Invisible
+  137:
+  - string: Sneak
+  138:
+  - string: Deodorize
+  139:
+  - string: Teleport-Vahzl
+  140:
+  - string: Raise III
+  141:
+  - string: Reraise II
+  142:
+  - string: Reraise III
+  143:
+  - string: Erase
+  144:
+  - string: Fire
+  145:
+  - string: Fire II
+  146:
+  - string: Fire III
+  147:
+  - string: Fire IV
+  148:
+  - string: Fire V
+  149:
+  - string: Blizzard
+  150:
+  - string: Blizzard II
+  151:
+  - string: Blizzard III
+  152:
+  - string: Blizzard IV
+  153:
+  - string: Blizzard V
+  154:
+  - string: Aero
+  155:
+  - string: Aero II
+  156:
+  - string: Aero III
+  157:
+  - string: Aero IV
+  158:
+  - string: Aero V
+  159:
+  - string: Stone
+  160:
+  - string: Stone II
+  161:
+  - string: Stone III
+  162:
+  - string: Stone IV
+  163:
+  - string: Stone V
+  164:
+  - string: Thunder
+  165:
+  - string: Thunder II
+  166:
+  - string: Thunder III
+  167:
+  - string: Thunder IV
+  168:
+  - string: Thunder V
+  169:
+  - string: Water
+  170:
+  - string: Water II
+  171:
+  - string: Water III
+  172:
+  - string: Water IV
+  173:
+  - string: Water V
+  174:
+  - string: Firaga
+  175:
+  - string: Firaga II
+  176:
+  - string: Firaga III
+  177:
+  - string: Firaga IV
+  178:
+  - string: Firaga V
+  179:
+  - string: Blizzaga
+  180:
+  - string: Blizzaga II
+  181:
+  - string: Blizzaga III
+  182:
+  - string: Blizzaga IV
+  183:
+  - string: Blizzaga V
+  184:
+  - string: Aeroga
+  185:
+  - string: Aeroga II
+  186:
+  - string: Aeroga III
+  187:
+  - string: Aeroga IV
+  188:
+  - string: Aeroga V
+  189:
+  - string: Stonega
+  190:
+  - string: Stonega II
+  191:
+  - string: Stonega III
+  192:
+  - string: Stonega IV
+  193:
+  - string: Stonega V
+  194:
+  - string: Thundaga
+  195:
+  - string: Thundaga II
+  196:
+  - string: Thundaga III
+  197:
+  - string: Thundaga IV
+  198:
+  - string: Thundaga V
+  199:
+  - string: Waterga
+  200:
+  - string: Waterga II
+  201:
+  - string: Waterga III
+  202:
+  - string: Waterga IV
+  203:
+  - string: Waterga V
+  204:
+  - string: Flare
+  205:
+  - string: Flare II
+  206:
+  - string: Freeze
+  207:
+  - string: Freeze II
+  208:
+  - string: Tornado
+  209:
+  - string: Tornado II
+  210:
+  - string: Quake
+  211:
+  - string: Quake II
+  212:
+  - string: Burst
+  213:
+  - string: Burst II
+  214:
+  - string: Flood
+  215:
+  - string: Flood II
+  216:
+  - string: Gravity
+  217:
+  - string: Gravity II
+  218:
+  - string: Meteor
+  219:
+  - string: Comet
+  220:
+  - string: Poison
+  221:
+  - string: Poison II
+  222:
+  - string: Poison III
+  223:
+  - string: Poison IV
+  224:
+  - string: Poison V
+  225:
+  - string: Poisonga
+  226:
+  - string: Poisonga II
+  227:
+  - string: Poisonga III
+  228:
+  - string: Poisonga IV
+  229:
+  - string: Poisonga V
+  230:
+  - string: Bio
+  231:
+  - string: Bio II
+  232:
+  - string: Bio III
+  233:
+  - string: Bio IV
+  234:
+  - string: Bio V
+  235:
+  - string: Burn
+  236:
+  - string: Frost
+  237:
+  - string: Choke
+  238:
+  - string: Rasp
+  239:
+  - string: Shock
+  240:
+  - string: Drown
+  241:
+  - string: Retrace
+  242:
+  - string: Absorb-ACC
+  243:
+  - string: Absorb-Attri
+  244:
+  - string: Meteor II
+  245:
+  - string: Drain
+  246:
+  - string: Drain II
+  247:
+  - string: Aspir
+  248:
+  - string: Aspir II
+  249:
+  - string: Blaze Spikes
+  250:
+  - string: Ice Spikes
+  251:
+  - string: Shock Spikes
+  252:
+  - string: Stun
+  253:
+  - string: Sleep
+  254:
+  - string: Blind
+  255:
+  - string: Break
+  256:
+  - string: Virus
+  257:
+  - string: Curse
+  258:
+  - string: Bind
+  259:
+  - string: Sleep II
+  260:
+  - string: Dispel
+  261:
+  - string: Warp
+  262:
+  - string: Warp II
+  263:
+  - string: Escape
+  264:
+  - string: Tractor
+  265:
+  - string: Tractor II
+  266:
+  - string: Absorb-STR
+  267:
+  - string: Absorb-DEX
+  268:
+  - string: Absorb-VIT
+  269:
+  - string: Absorb-AGI
+  270:
+  - string: Absorb-INT
+  271:
+  - string: Absorb-MND
+  272:
+  - string: Absorb-CHR
+  273:
+  - string: Sleepga
+  274:
+  - string: Sleepga II
+  275:
+  - string: Absorb-TP
+  276:
+  - string: Blind II
+  277:
+  - string: Dread Spikes
+  278:
+  - string: Geohelix
+  279:
+  - string: Hydrohelix
+  280:
+  - string: Anemohelix
+  281:
+  - string: Pyrohelix
+  282:
+  - string: Cryohelix
+  283:
+  - string: Ionohelix
+  284:
+  - string: Noctohelix
+  285:
+  - string: Luminohelix
+  286:
+  - string: Addle
+  287:
+  - string: Klimaform
+  288:
+  - string: Fire Spirit
+  289:
+  - string: Ice Spirit
+  290:
+  - string: Air Spirit
+  291:
+  - string: Earth Spirit
+  292:
+  - string: Thunder Spirit
+  293:
+  - string: Water Spirit
+  294:
+  - string: Light Spirit
+  295:
+  - string: Dark Spirit
+  296:
+  - string: Carbuncle
+  297:
+  - string: Fenrir
+  298:
+  - string: Ifrit
+  299:
+  - string: Titan
+  300:
+  - string: Leviathan
+  301:
+  - string: Garuda
+  302:
+  - string: Shiva
+  303:
+  - string: Ramuh
+  304:
+  - string: Diabolos
+  305:
+  - string: Odin
+  306:
+  - string: Alexander
+  307:
+  - string: Cait Sith
+  308:
+  - string: Animus Augeo
+  309:
+  - string: Animus Minuo
+  310:
+  - string: Enlight
+  311:
+  - string: Endark
+  312:
+  - string: Enfire II
+  313:
+  - string: Enblizzard II
+  314:
+  - string: Enaero II
+  315:
+  - string: Enstone II
+  316:
+  - string: Enthunder II
+  317:
+  - string: Enwater II
+  318:
+  - string: 'Monomi: Ichi'
+  319:
+  - string: 'Aisha: Ichi'
+  320:
+  - string: 'Katon: Ichi'
+  321:
+  - string: 'Katon: Ni'
+  322:
+  - string: 'Katon: San'
+  323:
+  - string: 'Hyoton: Ichi'
+  324:
+  - string: 'Hyoton: Ni'
+  325:
+  - string: 'Hyoton: San'
+  326:
+  - string: 'Huton: Ichi'
+  327:
+  - string: 'Huton: Ni'
+  328:
+  - string: 'Huton: San'
+  329:
+  - string: 'Doton: Ichi'
+  330:
+  - string: 'Doton: Ni'
+  331:
+  - string: 'Doton: San'
+  332:
+  - string: 'Raiton: Ichi'
+  333:
+  - string: 'Raiton: Ni'
+  334:
+  - string: 'Raiton: San'
+  335:
+  - string: 'Suiton: Ichi'
+  336:
+  - string: 'Suiton: Ni'
+  337:
+  - string: 'Suiton: San'
+  338:
+  - string: 'Utsusemi: Ichi'
+  339:
+  - string: 'Utsusemi: Ni'
+  340:
+  - string: 'Utsusemi: San'
+  341:
+  - string: 'Jubaku: Ichi'
+  342:
+  - string: 'Jubaku: Ni'
+  343:
+  - string: 'Jubaku: San'
+  344:
+  - string: 'Hojo: Ichi'
+  345:
+  - string: 'Hojo: Ni'
+  346:
+  - string: 'Hojo: San'
+  347:
+  - string: 'Kurayami: Ichi'
+  348:
+  - string: 'Kurayami: Ni'
+  349:
+  - string: 'Kurayami: San'
+  350:
+  - string: 'Dokumori: Ichi'
+  351:
+  - string: 'Dokumori: Ni'
+  352:
+  - string: 'Dokumori: San'
+  353:
+  - string: 'Tonko: Ichi'
+  354:
+  - string: 'Tonko: Ni'
+  355:
+  - string: 'Tonko: San'
+  356:
+  - string: Paralyga
+  357:
+  - string: Slowga
+  358:
+  - string: Hastega
+  359:
+  - string: Silencega
+  360:
+  - string: Dispelga
+  361:
+  - string: Blindga
+  362:
+  - string: Bindga
+  363:
+  - string: Sleepga
+  364:
+  - string: Sleepga II
+  365:
+  - string: Breakga
+  366:
+  - string: Graviga
+  367:
+  - string: Death
+  368:
+  - string: Foe Requiem
+  369:
+  - string: Foe Requiem II
+  370:
+  - string: Foe Requiem III
+  371:
+  - string: Foe Requiem IV
+  372:
+  - string: Foe Requiem V
+  373:
+  - string: Foe Requiem VI
+  374:
+  - string: Foe Requiem VII
+  375:
+  - string: Foe Requiem VIII
+  376:
+  - string: Horde Lullaby
+  377:
+  - string: Horde Lullaby II
+  378:
+  - string: Army's Paeon
+  379:
+  - string: Army's Paeon II
+  380:
+  - string: Army's Paeon III
+  381:
+  - string: Army's Paeon IV
+  382:
+  - string: Army's Paeon V
+  383:
+  - string: Army's Paeon VI
+  384:
+  - string: Army's Paeon VII
+  385:
+  - string: Army's Paeon VIII
+  386:
+  - string: Mage's Ballad
+  387:
+  - string: Mage's Ballad II
+  388:
+  - string: Mage's Ballad III
+  389:
+  - string: Knight's Minne
+  390:
+  - string: Knight's Minne II
+  391:
+  - string: Knight's Minne III
+  392:
+  - string: Knight's Minne IV
+  393:
+  - string: Knight's Minne V
+  394:
+  - string: Valor Minuet
+  395:
+  - string: Valor Minuet II
+  396:
+  - string: Valor Minuet III
+  397:
+  - string: Valor Minuet IV
+  398:
+  - string: Valor Minuet V
+  399:
+  - string: Sword Madrigal
+  400:
+  - string: Blade Madrigal
+  401:
+  - string: Hunter's Prelude
+  402:
+  - string: Archer's Prelude
+  403:
+  - string: Sheepfoe Mambo
+  404:
+  - string: Dragonfoe Mambo
+  405:
+  - string: Fowl Aubade
+  406:
+  - string: Herb Pastoral
+  407:
+  - string: Chocobo Hum
+  408:
+  - string: Shining Fantasia
+  409:
+  - string: Scop's Operetta
+  410:
+  - string: Puppet's Operetta
+  411:
+  - string: Jester's Operetta
+  412:
+  - string: Gold Capriccio
+  413:
+  - string: Devotee Serenade
+  414:
+  - string: Warding Round
+  415:
+  - string: Goblin Gavotte
+  416:
+  - string: Cactuar Fugue
+  417:
+  - string: Honor March
+  418:
+  - string: Protected Aria
+  419:
+  - string: Advancing March
+  420:
+  - string: Victory March
+  421:
+  - string: Battlefield Elegy
+  422:
+  - string: Carnage Elegy
+  423:
+  - string: Massacre Elegy
+  424:
+  - string: Sinewy Etude
+  425:
+  - string: Dextrous Etude
+  426:
+  - string: Vivacious Etude
+  427:
+  - string: Quick Etude
+  428:
+  - string: Learned Etude
+  429:
+  - string: Spirited Etude
+  430:
+  - string: Enchanting Etude
+  431:
+  - string: Herculean Etude
+  432:
+  - string: Uncanny Etude
+  433:
+  - string: Vital Etude
+  434:
+  - string: Swift Etude
+  435:
+  - string: Sage Etude
+  436:
+  - string: Logical Etude
+  437:
+  - string: Bewitching Etude
+  438:
+  - string: Fire Carol
+  439:
+  - string: Ice Carol
+  440:
+  - string: Wind Carol
+  441:
+  - string: Earth Carol
+  442:
+  - string: Lightning Carol
+  443:
+  - string: Water Carol
+  444:
+  - string: Light Carol
+  445:
+  - string: Dark Carol
+  446:
+  - string: Fire Carol II
+  447:
+  - string: Ice Carol II
+  448:
+  - string: Wind Carol II
+  449:
+  - string: Earth Carol II
+  450:
+  - string: Lightning Carol II
+  451:
+  - string: Water Carol II
+  452:
+  - string: Light Carol II
+  453:
+  - string: Dark Carol II
+  454:
+  - string: Fire Threnody
+  455:
+  - string: Ice Threnody
+  456:
+  - string: Wind Threnody
+  457:
+  - string: Earth Threnody
+  458:
+  - string: Ltng. Threnody
+  459:
+  - string: Water Threnody
+  460:
+  - string: Light Threnody
+  461:
+  - string: Dark Threnody
+  462:
+  - string: Magic Finale
+  463:
+  - string: Foe Lullaby
+  464:
+  - string: Goddess's Hymnus
+  465:
+  - string: Chocobo Mazurka
+  466:
+  - string: Maiden's Virelai
+  467:
+  - string: Raptor Mazurka
+  468:
+  - string: Foe Sirvente
+  469:
+  - string: Adventurer's Dirge
+  470:
+  - string: Sentinel's Scherzo
+  471:
+  - string: Foe Lullaby II
+  472:
+  - string: Pining Nocturne
+  473:
+  - string: Refresh II
+  474:
+  - string: Cura II
+  475:
+  - string: Cura III
+  476:
+  - string: Crusade
+  477:
+  - string: Regen IV
+  478:
+  - string: Embrava
+  479:
+  - string: Boost-STR
+  480:
+  - string: Boost-DEX
+  481:
+  - string: Boost-VIT
+  482:
+  - string: Boost-AGI
+  483:
+  - string: Boost-INT
+  484:
+  - string: Boost-MND
+  485:
+  - string: Boost-CHR
+  486:
+  - string: Gain-STR
+  487:
+  - string: Gain-DEX
+  488:
+  - string: Gain-VIT
+  489:
+  - string: Gain-AGI
+  490:
+  - string: Gain-INT
+  491:
+  - string: Gain-MND
+  492:
+  - string: Gain-CHR
+  493:
+  - string: Temper
+  494:
+  - string: Arise
+  495:
+  - string: Adloquium
+  496:
+  - string: Firaja
+  497:
+  - string: Blizzaja
+  498:
+  - string: Aeroja
+  499:
+  - string: Stoneja
+  500:
+  - string: Thundaja
+  501:
+  - string: Waterja
+  502:
+  - string: Kaustra
+  503:
+  - string: Impact
+  504:
+  - string: Regen V
+  505:
+  - string: 'Gekka: Ichi'
+  506:
+  - string: 'Yain: Ichi'
+  507:
+  - string: 'Myoshu: Ichi'
+  508:
+  - string: 'Yurin: Ichi'
+  509:
+  - string: 'Kakka: Ichi'
+  510:
+  - string: 'Migawari: Ichi'
+  511:
+  - string: Haste II
+  512:
+  - string: dummy
+  513:
+  - string: Venom Shell
+  514:
+  - string: .
+  515:
+  - string: Maelstrom
+  516:
+  - string: .
+  517:
+  - string: Metallic Body
+  518:
+  - string: .
+  519:
+  - string: Screwdriver
+  520:
+  - string: .
+  521:
+  - string: MP Drainkiss
+  522:
+  - string: Death Ray
+  523:
+  - string: .
+  524:
+  - string: Sandspin
+  525:
+  - string: .
+  526:
+  - string: .
+  527:
+  - string: Smite of Rage
+  528:
+  - string: .
+  529:
+  - string: Bludgeon
+  530:
+  - string: Refueling
+  531:
+  - string: Ice Break
+  532:
+  - string: Blitzstrahl
+  533:
+  - string: Self-Destruct
+  534:
+  - string: Mysterious Light
+  535:
+  - string: Cold Wave
+  536:
+  - string: Poison Breath
+  537:
+  - string: Stinking Gas
+  538:
+  - string: Memento Mori
+  539:
+  - string: Terror Touch
+  540:
+  - string: Spinal Cleave
+  541:
+  - string: Blood Saber
+  542:
+  - string: Digest
+  543:
+  - string: Mandibular Bite
+  544:
+  - string: Cursed Sphere
+  545:
+  - string: Sickle Slash
+  546:
+  - string: .
+  547:
+  - string: Cocoon
+  548:
+  - string: Filamented Hold
+  549:
+  - string: Pollen
+  550:
+  - string: .
+  551:
+  - string: Power Attack
+  552:
+  - string: .
+  553:
+  - string: .
+  554:
+  - string: Death Scissors
+  555:
+  - string: Magnetite Cloud
+  556:
+  - string: .
+  557:
+  - string: Eyes On Me
+  558:
+  - string: .
+  559:
+  - string: .
+  560:
+  - string: Frenetic Rip
+  561:
+  - string: Frightful Roar
+  562:
+  - string: .
+  563:
+  - string: Hecatomb Wave
+  564:
+  - string: Body Slam
+  565:
+  - string: Radiant Breath
+  566:
+  - string: .
+  567:
+  - string: Helldive
+  568:
+  - string: .
+  569:
+  - string: Jet Stream
+  570:
+  - string: Blood Drain
+  571:
+  - string: .
+  572:
+  - string: Sound Blast
+  573:
+  - string: Feather Tickle
+  574:
+  - string: Feather Barrier
+  575:
+  - string: Jettatura
+  576:
+  - string: Yawn
+  577:
+  - string: Foot Kick
+  578:
+  - string: Wild Carrot
+  579:
+  - string: Voracious Trunk
+  580:
+  - string: .
+  581:
+  - string: Healing Breeze
+  582:
+  - string: Chaotic Eye
+  583:
+  - string: .
+  584:
+  - string: Sheep Song
+  585:
+  - string: Ram Charge
+  586:
+  - string: .
+  587:
+  - string: Claw Cyclone
+  588:
+  - string: Lowing
+  589:
+  - string: Dimensional Death
+  590:
+  - string: .
+  591:
+  - string: Heat Breath
+  592:
+  - string: Blank Gaze
+  593:
+  - string: Magic Fruit
+  594:
+  - string: Uppercut
+  595:
+  - string: 1000 Needles
+  596:
+  - string: Pinecone Bomb
+  597:
+  - string: Sprout Smack
+  598:
+  - string: Soporific
+  599:
+  - string: Queasyshroom
+  600:
+  - string: .
+  601:
+  - string: .
+  602:
+  - string: .
+  603:
+  - string: Wild Oats
+  604:
+  - string: Bad Breath
+  605:
+  - string: Geist Wall
+  606:
+  - string: Awful Eye
+  607:
+  - string: .
+  608:
+  - string: Frost Breath
+  609:
+  - string: .
+  610:
+  - string: Infrasonics
+  611:
+  - string: Disseverment
+  612:
+  - string: Actinic Burst
+  613:
+  - string: Reactor Cool
+  614:
+  - string: Saline Coat
+  615:
+  - string: Plasma Charge
+  616:
+  - string: Temporal Shift
+  617:
+  - string: Vertical Cleave
+  618:
+  - string: Blastbomb
+  619:
+  - string: .
+  620:
+  - string: Battle Dance
+  621:
+  - string: Sandspray
+  622:
+  - string: Grand Slam
+  623:
+  - string: Head Butt
+  624:
+  - string: .
+  625:
+  - string: .
+  626:
+  - string: Bomb Toss
+  627:
+  - string: .
+  628:
+  - string: Frypan
+  629:
+  - string: Flying Hip Press
+  630:
+  - string: .
+  631:
+  - string: Hydro Shot
+  632:
+  - string: Diamondhide
+  633:
+  - string: Enervation
+  634:
+  - string: Light of Penance
+  635:
+  - string: .
+  636:
+  - string: Warm-Up
+  637:
+  - string: Firespit
+  638:
+  - string: Feather Storm
+  639:
+  - string: .
+  640:
+  - string: Tail Slap
+  641:
+  - string: Hysteric Barrage
+  642:
+  - string: Amplification
+  643:
+  - string: Cannonball
+  644:
+  - string: Mind Blast
+  645:
+  - string: Exuviation
+  646:
+  - string: Magic Hammer
+  647:
+  - string: Zephyr Mantle
+  648:
+  - string: Regurgitation
+  649:
+  - string: jet-stream-attack
+  650:
+  - string: Seedspray
+  651:
+  - string: Corrosive Ooze
+  652:
+  - string: Spiral Spin
+  653:
+  - string: Asuran Claws
+  654:
+  - string: Sub-zero Smash
+  655:
+  - string: Triumphant Roar
+  656:
+  - string: Acrid Stream
+  657:
+  - string: Blazing Bound
+  658:
+  - string: Plenilune Embrace
+  659:
+  - string: Demoralizing Roar
+  660:
+  - string: Cimicine Discharge
+  661:
+  - string: Animating Wail
+  662:
+  - string: Battery Charge
+  663:
+  - string: Leafstorm
+  664:
+  - string: Regeneration
+  665:
+  - string: Final Sting
+  666:
+  - string: Goblin Rush
+  667:
+  - string: Vanity Dive
+  668:
+  - string: Magic Barrier
+  669:
+  - string: Whirl of Rage
+  670:
+  - string: Benthic Typhoon
+  671:
+  - string: Auroral Drape
+  672:
+  - string: Osmosis
+  673:
+  - string: Quad. Continuum
+  674:
+  - string: Fantod
+  675:
+  - string: Thermal Pulse
+  676:
+  - string: jet-stream-attack
+  677:
+  - string: Empty Thrash
+  678:
+  - string: Dream Flower
+  679:
+  - string: Occultation
+  680:
+  - string: Charged Whisker
+  681:
+  - string: Winds of Promy.
+  682:
+  - string: Delta Thrust
+  683:
+  - string: Evryone. Grudge
+  684:
+  - string: Reaving Wind
+  685:
+  - string: Barrier Tusk
+  686:
+  - string: Mortal Ray
+  687:
+  - string: Water Bomb
+  688:
+  - string: Heavy Strike
+  689:
+  - string: Dark Orb
+  690:
+  - string: White Wind
+  691:
+  - string: jet-stream-attack
+  692:
+  - string: Sudden Lunge
+  693:
+  - string: Quadrastrike
+  694:
+  - string: Vapor Spray
+  695:
+  - string: Thunder Breath
+  696:
+  - string: O. Counterstance
+  697:
+  - string: Amorphic Spikes
+  698:
+  - string: Wind Breath
+  699:
+  - string: Barbed Crescent
+  700:
+  - string: Nat. Meditation
+  701:
+  - string: Tem. Upheaval
+  702:
+  - string: Rending Deluge
+  703:
+  - string: Embalming Earth
+  704:
+  - string: Paralyzing Triad
+  705:
+  - string: Foul Waters
+  706:
+  - string: Glutinous Dart
+  707:
+  - string: Retinal Glare
+  708:
+  - string: Subduction
+  709:
+  - string: Thrashing Assault
+  710:
+  - string: Erratic Flutter
+  711:
+  - string: Restoral
+  712:
+  - string: Rail Cannon
+  713:
+  - string: Diffusion Ray
+  714:
+  - string: Sinker Drill
+  715:
+  - string: Molting Plumage
+  716:
+  - string: Nectarous Deluge
+  717:
+  - string: Sweeping Gouge
+  718:
+  - string: Atra. Libations
+  719:
+  - string: Searing Tempest
+  720:
+  - string: Spectral Floe
+  721:
+  - string: Anvil Lightning
+  722:
+  - string: Entomb
+  723:
+  - string: Saurian Slide
+  724:
+  - string: Palling Salvo
+  725:
+  - string: Blinding Fulgor
+  726:
+  - string: Scouring Spate
+  727:
+  - string: Silent Storm
+  728:
+  - string: Tenebral Crush
+  729:
+  - string: .
+  730:
+  - string: .
+  731:
+  - string: .
+  732:
+  - string: .
+  733:
+  - string: .
+  734:
+  - string: .
+  735:
+  - string: .
+  736:
+  - string: Thunderbolt
+  737:
+  - string: Harden Shell
+  738:
+  - string: Absolute Terror
+  739:
+  - string: Gates of Hades
+  740:
+  - string: Tourbillion
+  741:
+  - string: Pyric Bulwark
+  742:
+  - string: Bilgestorm
+  743:
+  - string: Bloodrake
+  744:
+  - string: Droning Whirlwind
+  745:
+  - string: Carcharian Verve
+  746:
+  - string: Blistering Roar
+  747:
+  - string: Uproot
+  748:
+  - string: Crashing Thunder
+  749:
+  - string: Polar Roar
+  750:
+  - string: Mighty Guard
+  751:
+  - string: Cruel Joke
+  752:
+  - string: Cesspool
+  753:
+  - string: Tearing Gust
+  754:
+  - string: jet-stream-attack
+  755:
+  - string: jet-stream-attack
+  756:
+  - string: jet-stream-attack
+  757:
+  - string: jet-stream-attack
+  758:
+  - string: jet-stream-attack
+  759:
+  - string: jet-stream-attack
+  760:
+  - string: jet-stream-attack
+  761:
+  - string: jet-stream-attack
+  762:
+  - string: jet-stream-attack
+  763:
+  - string: jet-stream-attack
+  764:
+  - string: jet-stream-attack
+  765:
+  - string: jet-stream-attack
+  766:
+  - string: jet-stream-attack
+  767:
+  - string: jet-stream-attack
+  768:
+  - string: Indi-Regen
+  769:
+  - string: Indi-Poison
+  770:
+  - string: Indi-Refresh
+  771:
+  - string: Indi-Haste
+  772:
+  - string: Indi-STR
+  773:
+  - string: Indi-DEX
+  774:
+  - string: Indi-VIT
+  775:
+  - string: Indi-AGI
+  776:
+  - string: Indi-INT
+  777:
+  - string: Indi-MND
+  778:
+  - string: Indi-CHR
+  779:
+  - string: Indi-Fury
+  780:
+  - string: Indi-Barrier
+  781:
+  - string: Indi-Acumen
+  782:
+  - string: Indi-Fend
+  783:
+  - string: Indi-Precision
+  784:
+  - string: Indi-Voidance
+  785:
+  - string: Indi-Focus
+  786:
+  - string: Indi-Attunement
+  787:
+  - string: Indi-Wilt
+  788:
+  - string: Indi-Frailty
+  789:
+  - string: Indi-Fade
+  790:
+  - string: Indi-Malaise
+  791:
+  - string: Indi-Slip
+  792:
+  - string: Indi-Torpor
+  793:
+  - string: Indi-Vex
+  794:
+  - string: Indi-Languor
+  795:
+  - string: Indi-Slow
+  796:
+  - string: Indi-Paralysis
+  797:
+  - string: Indi-Gravity
+  798:
+  - string: Geo-Regen
+  799:
+  - string: Geo-Poison
+  800:
+  - string: Geo-Refresh
+  801:
+  - string: Geo-Haste
+  802:
+  - string: Geo-STR
+  803:
+  - string: Geo-DEX
+  804:
+  - string: Geo-VIT
+  805:
+  - string: Geo-AGI
+  806:
+  - string: Geo-INT
+  807:
+  - string: Geo-MND
+  808:
+  - string: Geo-CHR
+  809:
+  - string: Geo-Fury
+  810:
+  - string: Geo-Barrier
+  811:
+  - string: Geo-Acumen
+  812:
+  - string: Geo-Fend
+  813:
+  - string: Geo-Precision
+  814:
+  - string: Geo-Voidance
+  815:
+  - string: Geo-Focus
+  816:
+  - string: Geo-Attunement
+  817:
+  - string: Geo-Wilt
+  818:
+  - string: Geo-Frailty
+  819:
+  - string: Geo-Fade
+  820:
+  - string: Geo-Malaise
+  821:
+  - string: Geo-Slip
+  822:
+  - string: Geo-Torpor
+  823:
+  - string: Geo-Vex
+  824:
+  - string: Geo-Languor
+  825:
+  - string: Geo-Slow
+  826:
+  - string: Geo-Paralysis
+  827:
+  - string: Geo-Gravity
+  828:
+  - string: Fira
+  829:
+  - string: Fira II
+  830:
+  - string: Blizzara
+  831:
+  - string: Blizzara II
+  832:
+  - string: Aera
+  833:
+  - string: Aera II
+  834:
+  - string: Stonera
+  835:
+  - string: Stonera II
+  836:
+  - string: Thundara
+  837:
+  - string: Thundara II
+  838:
+  - string: Watera
+  839:
+  - string: Watera II
+  840:
+  - string: Foil
+  841:
+  - string: Distract
+  842:
+  - string: Distract II
+  843:
+  - string: Frazzle
+  844:
+  - string: Frazzle II
+  845:
+  - string: Flurry
+  846:
+  - string: Flurry II
+  847:
+  - string: Atomos
+  848:
+  - string: Reraise IV
+  849:
+  - string: Fire VI
+  850:
+  - string: Blizzard VI
+  851:
+  - string: Aero VI
+  852:
+  - string: Stone VI
+  853:
+  - string: Thunder VI
+  854:
+  - string: Water VI
+  855:
+  - string: Enlight II
+  856:
+  - string: Endark II
+  857:
+  - string: Sandstorm II
+  858:
+  - string: Rainstorm II
+  859:
+  - string: Windstorm II
+  860:
+  - string: Firestorm II
+  861:
+  - string: Hailstorm II
+  862:
+  - string: Thunderstorm II
+  863:
+  - string: Voidstorm II
+  864:
+  - string: Aurorastorm II
+  865:
+  - string: Fira III
+  866:
+  - string: Blizzara III
+  867:
+  - string: Aera III
+  868:
+  - string: Stonera III
+  869:
+  - string: Thundara III
+  870:
+  - string: Watera III
+  871:
+  - string: Fire Threnody II
+  872:
+  - string: Ice Threnody II
+  873:
+  - string: Wind Threnody II
+  874:
+  - string: Earth Threnody II
+  875:
+  - string: Ltng. Threnody II
+  876:
+  - string: Water Threnody II
+  877:
+  - string: Light Threnody II
+  878:
+  - string: Dark Threnody II
+  879:
+  - string: Inundation
+  880:
+  - string: Drain III
+  881:
+  - string: Aspir III
+  882:
+  - string: Distract III
+  883:
+  - string: Frazzle III
+  884:
+  - string: Addle II
+  885:
+  - string: Geohelix II
+  886:
+  - string: Hydrohelix II
+  887:
+  - string: Anemohelix II
+  888:
+  - string: Pyrohelix II
+  889:
+  - string: Cryohelix II
+  890:
+  - string: Ionohelix II
+  891:
+  - string: Noctohelix II
+  892:
+  - string: Luminohelix II
+  893:
+  - string: Full Cure
+  894:
+  - string: Refresh III
+  895:
+  - string: Temper II
+  896:
+  - string: Shantotto
+  897:
+  - string: Naji
+  898:
+  - string: Kupipi
+  899:
+  - string: Excenmille
+  900:
+  - string: Ayame
+  901:
+  - string: Nanaa Mihgo
+  902:
+  - string: Curilla
+  903:
+  - string: Volker
+  904:
+  - string: Ajido-Marujido
+  905:
+  - string: Trion
+  906:
+  - string: Zeid
+  907:
+  - string: Lion
+  908:
+  - string: Tenzen
+  909:
+  - string: Mihli Aliapoh
+  910:
+  - string: Valaineral
+  911:
+  - string: Joachim
+  912:
+  - string: Naja Salaheem
+  913:
+  - string: Prishe
+  914:
+  - string: Ulmia
+  915:
+  - string: Shikaree Z
+  916:
+  - string: Cherukiki
+  917:
+  - string: Iron Eater
+  918:
+  - string: Gessho
+  919:
+  - string: Gadalar
+  920:
+  - string: Rainemard
+  921:
+  - string: Ingrid
+  922:
+  - string: Lehko Habhoka
+  923:
+  - string: Nashmeira
+  924:
+  - string: Zazarg
+  925:
+  - string: Ovjang
+  926:
+  - string: Mnejing
+  927:
+  - string: Sakura
+  928:
+  - string: Luzaf
+  929:
+  - string: Najelith
+  930:
+  - string: Aldo
+  931:
+  - string: Moogle
+  932:
+  - string: Fablinix
+  933:
+  - string: Maat
+  934:
+  - string: D. Shantotto
+  935:
+  - string: Star Sibyl
+  936:
+  - string: Karaha-Baruha
+  937:
+  - string: Cid
+  938:
+  - string: Gilgamesh
+  939:
+  - string: Areuhat
+  940:
+  - string: Semih Lafihna
+  941:
+  - string: Elivira
+  942:
+  - string: Noillurie
+  943:
+  - string: Lhu Mhakaracca
+  944:
+  - string: Ferreous Coffin
+  945:
+  - string: Lilisette
+  946:
+  - string: Mumor
+  947:
+  - string: Uka Totlihn
+  948:
+  - string: Klara
+  949:
+  - string: Romaa Mihgo
+  950:
+  - string: Kuyin Hathdenna
+  951:
+  - string: Rahal
+  952:
+  - string: Koru-Moru
+  953:
+  - string: Pieuje (UC)
+  954:
+  - string: I. Shield (UC)
+  955:
+  - string: Apururu (UC)
+  956:
+  - string: Jakoh (UC)
+  957:
+  - string: Flaviria (UC)
+  958:
+  - string: Babban
+  959:
+  - string: Abenzio
+  960:
+  - string: Rughadjeen
+  961:
+  - string: Kukki-Chebukki
+  962:
+  - string: Margret
+  963:
+  - string: Chacharoon
+  964:
+  - string: Lhe Lhangavo
+  965:
+  - string: Arciela
+  966:
+  - string: Mayakov
+  967:
+  - string: Qultada
+  968:
+  - string: Adelheid
+  969:
+  - string: Amchuchu
+  970:
+  - string: Brygid
+  971:
+  - string: Mildaurion
+  972:
+  - string: Halver
+  973:
+  - string: Rongelouts
+  974:
+  - string: Leonoyne
+  975:
+  - string: Maximilian
+  976:
+  - string: Kayeel-Payeel
+  977:
+  - string: Robel-Akbel
+  978:
+  - string: Kupofried
+  979:
+  - string: Selh'teus
+  980:
+  - string: Yoran-Oran (UC)
+  981:
+  - string: Sylvie (UC)
+  982:
+  - string: Abquhbah
+  983:
+  - string: Balamor
+  984:
+  - string: August
+  985:
+  - string: Rosulatia
+  986:
+  - string: Teodor
+  987:
+  - string: Ullegore
+  988:
+  - string: Makki-Chebukki
+  989:
+  - string: King of Hearts
+  990:
+  - string: Morimar
+  991:
+  - string: Darrcuiln
+  992:
+  - string: AAHM
+  993:
+  - string: AAEV
+  994:
+  - string: AAMR
+  995:
+  - string: AATT
+  996:
+  - string: AAGK
+  997:
+  - string: Iroha
+  998:
+  - string: Ygnas
+  999:
+  - string: .
+  1000:
+  - string: .
+  1001:
+  - string: .
+  1002:
+  - string: .
+  1003:
+  - string: .
+  1004:
+  - string: Excenmille [S]
+  1005:
+  - string: Ayame (UC)
+  1006:
+  - string: Maat (UC)
+  1007:
+  - string: Aldo (UC)
+  1008:
+  - string: Naja (UC)
+  1009:
+  - string: Lion II
+  1010:
+  - string: Zeid II
+  1011:
+  - string: Prishe II
+  1012:
+  - string: Nashmeira II
+  1013:
+  - string: Lilisette II
+  1014:
+  - string: Tenzen II
+  1015:
+  - string: Mumor II
+  1016:
+  - string: Ingrid II
+  1017:
+  - string: Arciela II
+  1018:
+  - string: Iroha II
+  1019:
+  - string: Shantotto II
+  1020:
+  - string: .
+  1021:
+  - string: .
+  1022:
+  - string: .
+  1023:
+  - string: .

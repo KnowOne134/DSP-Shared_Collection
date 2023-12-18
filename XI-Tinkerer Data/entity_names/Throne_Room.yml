@@ -1,0 +1,519 @@
+names:
+- id: 17453057
+  name: Shadow Lord
+- id: 17453058
+  name: Shadow Lord
+- id: 17453059
+  name: Shadow Lord
+- id: 17453060
+  name: Shadow Lord
+- id: 17453061
+  name: Shadow Lord
+- id: 17453062
+  name: Shadow Lord
+- id: 17453063
+  name: Zeid
+- id: 17453064
+  name: Zeid
+- id: 17453065
+  name: Shadow of Rage
+- id: 17453066
+  name: Shadow of Rage
+- id: 17453067
+  name: Zeid
+- id: 17453068
+  name: Zeid
+- id: 17453069
+  name: Shadow of Rage
+- id: 17453070
+  name: Shadow of Rage
+- id: 17453071
+  name: Zeid
+- id: 17453072
+  name: Zeid
+- id: 17453073
+  name: Shadow of Rage
+- id: 17453074
+  name: Shadow of Rage
+- id: 17453075
+  name: Grand Marquis Chomiel
+- id: 17453076
+  name: Duke Amduscias
+- id: 17453077
+  name: Count Andromalius
+- id: 17453078
+  name: Duke Dantalian
+- id: 17453079
+  name: Armoury Crate
+- id: 17453080
+  name: Demon's Elemental
+- id: 17453081
+  name: Demon's Avatar
+- id: 17453082
+  name: Grand Marquis Chomiel
+- id: 17453083
+  name: Duke Amduscias
+- id: 17453084
+  name: Count Andromalius
+- id: 17453085
+  name: Duke Dantalian
+- id: 17453086
+  name: Armoury Crate
+- id: 17453087
+  name: Demon's Elemental
+- id: 17453088
+  name: Demon's Avatar
+- id: 17453089
+  name: Grand Marquis Chomiel
+- id: 17453090
+  name: Duke Amduscias
+- id: 17453091
+  name: Count Andromalius
+- id: 17453092
+  name: Duke Dantalian
+- id: 17453093
+  name: Armoury Crate
+- id: 17453094
+  name: Demon's Elemental
+- id: 17453095
+  name: Demon's Avatar
+- id: 17453096
+  name: Gunther
+- id: 17453097
+  name: Crimson Grimoire
+- id: 17453098
+  name: Gunther
+- id: 17453099
+  name: Crimson Grimoire
+- id: 17453100
+  name: Gunther
+- id: 17453101
+  name: Crimson Grimoire
+- id: 17453102
+  name: Riko Kupenreich
+- id: 17453103
+  name: Henchman Moogle
+- id: 17453104
+  name: Henchman Moogle
+- id: 17453105
+  name: Henchman Moogle
+- id: 17453106
+  name: Henchman Moogle
+- id: 17453107
+  name: Henchman Moogle
+- id: 17453108
+  name: Henchman Moogle
+- id: 17453109
+  name: Henchman Moogle
+- id: 17453110
+  name: Henchman Moogle
+- id: 17453111
+  name: Henchman Moogle
+- id: 17453112
+  name: Riko Kupenreich
+- id: 17453113
+  name: Henchman Moogle
+- id: 17453114
+  name: Henchman Moogle
+- id: 17453115
+  name: Henchman Moogle
+- id: 17453116
+  name: Henchman Moogle
+- id: 17453117
+  name: Henchman Moogle
+- id: 17453118
+  name: Henchman Moogle
+- id: 17453119
+  name: Henchman Moogle
+- id: 17453120
+  name: Henchman Moogle
+- id: 17453121
+  name: Henchman Moogle
+- id: 17453122
+  name: Riko Kupenreich
+- id: 17453123
+  name: Henchman Moogle
+- id: 17453124
+  name: Henchman Moogle
+- id: 17453125
+  name: Henchman Moogle
+- id: 17453126
+  name: Henchman Moogle
+- id: 17453127
+  name: Henchman Moogle
+- id: 17453128
+  name: Henchman Moogle
+- id: 17453129
+  name: Henchman Moogle
+- id: 17453130
+  name: Henchman Moogle
+- id: 17453131
+  name: Henchman Moogle
+- id: 17453132
+  name: Grand Marquis Chomiel
+- id: 17453133
+  name: Duke Amduscias
+- id: 17453134
+  name: Count Andromalius
+- id: 17453135
+  name: Duke Dantalian
+- id: 17453136
+  name: Armoury Crate
+- id: 17453137
+  name: Demon's Elemental
+- id: 17453138
+  name: Demon's Avatar
+- id: 17453139
+  name: Grand Marquis Chomiel
+- id: 17453140
+  name: Duke Amduscias
+- id: 17453141
+  name: Count Andromalius
+- id: 17453142
+  name: Duke Dantalian
+- id: 17453143
+  name: Armoury Crate
+- id: 17453144
+  name: Demon's Elemental
+- id: 17453145
+  name: Demon's Avatar
+- id: 17453146
+  name: Grand Marquis Chomiel
+- id: 17453147
+  name: Duke Amduscias
+- id: 17453148
+  name: Count Andromalius
+- id: 17453149
+  name: Duke Dantalian
+- id: 17453150
+  name: Armoury Crate
+- id: 17453151
+  name: Demon's Elemental
+- id: 17453152
+  name: Demon's Avatar
+- id: 17453153
+  name: Grand Marquis Chomiel
+- id: 17453154
+  name: Duke Amduscias
+- id: 17453155
+  name: Count Andromalius
+- id: 17453156
+  name: Duke Dantalian
+- id: 17453157
+  name: Armoury Crate
+- id: 17453158
+  name: Demon's Elemental
+- id: 17453159
+  name: Demon's Avatar
+- id: 17453160
+  name: Grand Marquis Chomiel
+- id: 17453161
+  name: Duke Amduscias
+- id: 17453162
+  name: Count Andromalius
+- id: 17453163
+  name: Duke Dantalian
+- id: 17453164
+  name: Armoury Crate
+- id: 17453165
+  name: Demon's Elemental
+- id: 17453166
+  name: Demon's Avatar
+- id: 17453167
+  name: Grand Marquis Chomiel
+- id: 17453168
+  name: Duke Amduscias
+- id: 17453169
+  name: Count Andromalius
+- id: 17453170
+  name: Duke Dantalian
+- id: 17453171
+  name: Armoury Crate
+- id: 17453172
+  name: Demon's Elemental
+- id: 17453173
+  name: Demon's Avatar
+- id: 17453174
+  name: Grand Marquis Chomiel
+- id: 17453175
+  name: Duke Amduscias
+- id: 17453176
+  name: Count Andromalius
+- id: 17453177
+  name: Duke Dantalian
+- id: 17453178
+  name: Armoury Crate
+- id: 17453179
+  name: Demon's Elemental
+- id: 17453180
+  name: Demon's Avatar
+- id: 17453181
+  name: Grand Marquis Chomiel
+- id: 17453182
+  name: Duke Amduscias
+- id: 17453183
+  name: Count Andromalius
+- id: 17453184
+  name: Duke Dantalian
+- id: 17453185
+  name: Armoury Crate
+- id: 17453186
+  name: Demon's Elemental
+- id: 17453187
+  name: Demon's Avatar
+- id: 17453188
+  name: Grand Marquis Chomiel
+- id: 17453189
+  name: Duke Amduscias
+- id: 17453190
+  name: Count Andromalius
+- id: 17453191
+  name: Duke Dantalian
+- id: 17453192
+  name: Armoury Crate
+- id: 17453193
+  name: Demon's Elemental
+- id: 17453194
+  name: Demon's Avatar
+- id: 17453195
+  name: Grand Marquis Chomiel
+- id: 17453196
+  name: Duke Amduscias
+- id: 17453197
+  name: Count Andromalius
+- id: 17453198
+  name: Duke Dantalian
+- id: 17453199
+  name: Armoury Crate
+- id: 17453200
+  name: Demon's Elemental
+- id: 17453201
+  name: Demon's Avatar
+- id: 17453202
+  name: Grand Marquis Chomiel
+- id: 17453203
+  name: Duke Amduscias
+- id: 17453204
+  name: Count Andromalius
+- id: 17453205
+  name: Duke Dantalian
+- id: 17453206
+  name: Armoury Crate
+- id: 17453207
+  name: Demon's Elemental
+- id: 17453208
+  name: Demon's Avatar
+- id: 17453209
+  name: Grand Marquis Chomiel
+- id: 17453210
+  name: Duke Amduscias
+- id: 17453211
+  name: Count Andromalius
+- id: 17453212
+  name: Duke Dantalian
+- id: 17453213
+  name: Armoury Crate
+- id: 17453214
+  name: Demon's Elemental
+- id: 17453215
+  name: Demon's Avatar
+- id: 17453216
+  name: Grand Marquis Chomiel
+- id: 17453217
+  name: Duke Amduscias
+- id: 17453218
+  name: Count Andromalius
+- id: 17453219
+  name: Duke Dantalian
+- id: 17453220
+  name: Armoury Crate
+- id: 17453221
+  name: Demon's Elemental
+- id: 17453222
+  name: Demon's Avatar
+- id: 17453223
+  name: Grand Marquis Chomiel
+- id: 17453224
+  name: Duke Amduscias
+- id: 17453225
+  name: Count Andromalius
+- id: 17453226
+  name: Duke Dantalian
+- id: 17453227
+  name: Armoury Crate
+- id: 17453228
+  name: Demon's Elemental
+- id: 17453229
+  name: Demon's Avatar
+- id: 17453230
+  name: Grand Marquis Chomiel
+- id: 17453231
+  name: Duke Amduscias
+- id: 17453232
+  name: Count Andromalius
+- id: 17453233
+  name: Duke Dantalian
+- id: 17453234
+  name: Armoury Crate
+- id: 17453235
+  name: Demon's Elemental
+- id: 17453236
+  name: Demon's Avatar
+- id: 17453237
+  name: Shadow Lord
+- id: 17453238
+  name: Shadow Lord
+- id: 17453239
+  name: Shadow Lord
+- id: 17453240
+  name: Shadow Lord
+- id: 17453241
+  name: Shadow Lord
+- id: 17453242
+  name: Shadow Lord
+- id: 17453243
+  name: Shadow Lord
+- id: 17453244
+  name: Shadow Lord
+- id: 17453245
+  name: Shadow Lord
+- id: 17453246
+  name: Shadow Lord
+- id: 17453247
+  name: Shadow Lord
+- id: 17453248
+  name: Shadow Lord
+- id: 17453249
+  name: Shadow Lord
+- id: 17453250
+  name: Shadow Lord
+- id: 17453251
+  name: Shadow Lord
+- id: 17453252
+  name: Shadow Lord
+- id: 17453253
+  name: Shadow Lord
+- id: 17453254
+  name: Shadow Lord
+- id: 17453255
+  name: Shadow Lord
+- id: 17453256
+  name: Shadow Lord
+- id: 17453257
+  name: Shadow Lord
+- id: 17453258
+  name: Shadow Lord
+- id: 17453259
+  name: Shadow Lord
+- id: 17453260
+  name: Shadow Lord
+- id: 17453261
+  name: Shadow Lord
+- id: 17453262
+  name: Shadow Lord
+- id: 17453263
+  name: Shadow Lord
+- id: 17453264
+  name: Shadow Lord
+- id: 17453265
+  name: Shadow Lord
+- id: 17453266
+  name: Shadow Lord
+- id: 17453267
+  name: Achieve Master
+- id: 17453268
+  name: Unity Master
+- id: 17453273
+  name: Throne Room
+- id: 17453274
+  name: Ore Door
+- id: 17453275
+  name: Ore Door
+- id: 17453276
+  name: Ore Door
+- id: 17453281
+  name: Shadow Lord
+- id: 17453282
+  name: Shadow Lord
+- id: 17453283
+  name: Zeid
+- id: 17453284
+  name: Raogrimm
+- id: 17453285
+  name: Cornelia
+- id: 17453286
+  name: Lion
+- id: 17453287
+  name: ' '
+- id: 17453288
+  name: ' '
+- id: 17453290
+  name: Moogle
+- id: 17453291
+  name: Moogle
+- id: 17453292
+  name: Moogle
+- id: 17453293
+  name: Moogle
+- id: 17453294
+  name: Moogle
+- id: 17453295
+  name: Moogle
+- id: 17453296
+  name: Moogle
+- id: 17453297
+  name: Moogle
+- id: 17453298
+  name: Ore Door
+- id: 17453299
+  name: Volker
+- id: 17453300
+  name: Naji
+- id: 17453301
+  name: Ayame
+- id: 17453302
+  name: Iron Eater
+- id: 17453303
+  name: Ramblix
+- id: 17453304
+  name: Goblin Footprint
+- id: 17453305
+  name: ???
+- id: 17453306
+  name: ''
+- id: 17453307
+  name: ''
+- id: 17453308
+  name: Schultz
+- id: 17453309
+  name: ''
+- id: 17453310
+  name: ''
+- id: 17453311
+  name: ''
+- id: 17453312
+  name: ''
+- id: 17453313
+  name: ???
+- id: 17453314
+  name: ''
+- id: 17453315
+  name: Moogle
+- id: 17453316
+  name: Toto Kupeliaure
+- id: 17453317
+  name: Riko Kupenreich
+- id: 17453318
+  name: Riko Kupenreich
+- id: 17453319
+  name: '1'
+- id: 17453320
+  name: '2'
+- id: 17453321
+  name: '3'
+- id: 17453322
+  name: '4'
+- id: 17453323
+  name: '5'
+- id: 17453324
+  name: '6'

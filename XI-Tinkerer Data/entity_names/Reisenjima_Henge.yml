@@ -1,0 +1,653 @@
+names:
+- id: 17973249
+  name: Sweetwater Tiger
+- id: 17973250
+  name: Sweetwater Tiger
+- id: 17973251
+  name: Sweetwater Tiger
+- id: 17973252
+  name: Sweetwater Tiger
+- id: 17973253
+  name: Sweetwater Tiger
+- id: 17973254
+  name: Sweetwater Tiger
+- id: 17973255
+  name: Sweetwater Tiger
+- id: 17973256
+  name: Sweetwater Fly
+- id: 17973257
+  name: Sweetwater Fly
+- id: 17973258
+  name: Sweetwater Fly
+- id: 17973259
+  name: Sweetwater Fly
+- id: 17973260
+  name: Sweetwater Fly
+- id: 17973261
+  name: Sweetwater Fly
+- id: 17973262
+  name: Sweetwater Fly
+- id: 17973263
+  name: Transcended Tiger
+- id: 17973264
+  name: Transcended Fly
+- id: 17973265
+  name: Sweetwater Leech
+- id: 17973266
+  name: Sweetwater Leech
+- id: 17973267
+  name: Sweetwater Leech
+- id: 17973268
+  name: Sweetwater Leech
+- id: 17973269
+  name: Sweetwater Leech
+- id: 17973270
+  name: Sweetwater Leech
+- id: 17973271
+  name: Sweetwater Leech
+- id: 17973272
+  name: Sweetwater Beetle
+- id: 17973273
+  name: Sweetwater Beetle
+- id: 17973274
+  name: Sweetwater Beetle
+- id: 17973275
+  name: Sweetwater Beetle
+- id: 17973276
+  name: Sweetwater Beetle
+- id: 17973277
+  name: Sweetwater Beetle
+- id: 17973278
+  name: Sweetwater Beetle
+- id: 17973279
+  name: Transcended Beetle
+- id: 17973280
+  name: Transcended Leech
+- id: 17973281
+  name: Glassy Thinker
+- id: 17973282
+  name: Glassy Craver
+- id: 17973283
+  name: Glassy Gorger
+- id: 17973284
+  name: Sweetwater Hippogryph
+- id: 17973285
+  name: Sweetwater Hippogryph
+- id: 17973286
+  name: Sweetwater Hippogryph
+- id: 17973287
+  name: Sweetwater Hippogryph
+- id: 17973288
+  name: Sweetwater Hippogryph
+- id: 17973289
+  name: Sweetwater Hippogryph
+- id: 17973290
+  name: Sweetwater Hippogryph
+- id: 17973291
+  name: Sweetwater Goobbue
+- id: 17973292
+  name: Sweetwater Goobbue
+- id: 17973293
+  name: Sweetwater Goobbue
+- id: 17973294
+  name: Sweetwater Goobbue
+- id: 17973295
+  name: Sweetwater Goobbue
+- id: 17973296
+  name: Sweetwater Goobbue
+- id: 17973297
+  name: Sweetwater Goobbue
+- id: 17973298
+  name: Sweetwater Faaz
+- id: 17973299
+  name: Sweetwater Faaz
+- id: 17973300
+  name: Sweetwater Faaz
+- id: 17973301
+  name: Sweetwater Faaz
+- id: 17973302
+  name: Sweetwater Faaz
+- id: 17973303
+  name: Sweetwater Faaz
+- id: 17973304
+  name: Sweetwater Faaz
+- id: 17973305
+  name: Sweetwater Pugil
+- id: 17973306
+  name: Sweetwater Pugil
+- id: 17973307
+  name: Sweetwater Pugil
+- id: 17973308
+  name: Sweetwater Pugil
+- id: 17973309
+  name: Sweetwater Pugil
+- id: 17973310
+  name: Sweetwater Pugil
+- id: 17973311
+  name: Sweetwater Pugil
+- id: 17973312
+  name: Transcended Hippogryph
+- id: 17973313
+  name: Transcended Goobbue
+- id: 17973314
+  name: Transcended Faaz
+- id: 17973315
+  name: Transcended Pugil
+- id: 17973316
+  name: Sweetwater Toad
+- id: 17973317
+  name: Sweetwater Toad
+- id: 17973318
+  name: Sweetwater Toad
+- id: 17973319
+  name: Sweetwater Toad
+- id: 17973320
+  name: Sweetwater Toad
+- id: 17973321
+  name: Sweetwater Toad
+- id: 17973322
+  name: Sweetwater Toad
+- id: 17973323
+  name: Sweetwater Raptor
+- id: 17973324
+  name: Sweetwater Raptor
+- id: 17973325
+  name: Sweetwater Raptor
+- id: 17973326
+  name: Sweetwater Raptor
+- id: 17973327
+  name: Sweetwater Raptor
+- id: 17973328
+  name: Sweetwater Raptor
+- id: 17973329
+  name: Sweetwater Raptor
+- id: 17973330
+  name: Sweetwater Mosquito
+- id: 17973331
+  name: Sweetwater Mosquito
+- id: 17973332
+  name: Sweetwater Mosquito
+- id: 17973333
+  name: Sweetwater Mosquito
+- id: 17973334
+  name: Sweetwater Mosquito
+- id: 17973335
+  name: Sweetwater Mosquito
+- id: 17973336
+  name: Sweetwater Mosquito
+- id: 17973337
+  name: Sweetwater Bats
+- id: 17973338
+  name: Sweetwater Bats
+- id: 17973339
+  name: Sweetwater Bats
+- id: 17973340
+  name: Sweetwater Bats
+- id: 17973341
+  name: Sweetwater Bats
+- id: 17973342
+  name: Sweetwater Bats
+- id: 17973343
+  name: Sweetwater Bats
+- id: 17973344
+  name: Transcended Toad
+- id: 17973345
+  name: Transcended Raptor
+- id: 17973346
+  name: Transcended Mosquito
+- id: 17973347
+  name: Transcended Bats
+- id: 17973348
+  name: Sweetwater Elemental
+- id: 17973349
+  name: Sweetwater Elemental
+- id: 17973350
+  name: Sweetwater Elemental
+- id: 17973351
+  name: Sweetwater Elemental
+- id: 17973352
+  name: Sweetwater Elemental
+- id: 17973353
+  name: Sweetwater Elemental
+- id: 17973354
+  name: Sweetwater Elemental
+- id: 17973355
+  name: Sweetwater Slime
+- id: 17973356
+  name: Sweetwater Slime
+- id: 17973357
+  name: Sweetwater Slime
+- id: 17973358
+  name: Sweetwater Slime
+- id: 17973359
+  name: Sweetwater Slime
+- id: 17973360
+  name: Sweetwater Slime
+- id: 17973361
+  name: Sweetwater Slime
+- id: 17973362
+  name: Sweetwater Lucani
+- id: 17973363
+  name: Sweetwater Lucani
+- id: 17973364
+  name: Sweetwater Lucani
+- id: 17973365
+  name: Sweetwater Lucani
+- id: 17973366
+  name: Sweetwater Lucani
+- id: 17973367
+  name: Sweetwater Lucani
+- id: 17973368
+  name: Sweetwater Lucani
+- id: 17973369
+  name: Sweetwater Worm
+- id: 17973370
+  name: Sweetwater Worm
+- id: 17973371
+  name: Sweetwater Worm
+- id: 17973372
+  name: Sweetwater Worm
+- id: 17973373
+  name: Sweetwater Worm
+- id: 17973374
+  name: Sweetwater Worm
+- id: 17973375
+  name: Sweetwater Worm
+- id: 17973376
+  name: Transcended Elemental
+- id: 17973377
+  name: Transcended Slime
+- id: 17973378
+  name: Transcended Lucani
+- id: 17973379
+  name: Transcended Worm
+- id: 17973380
+  name: Sweetwater Chapuli
+- id: 17973381
+  name: Sweetwater Chapuli
+- id: 17973382
+  name: Sweetwater Chapuli
+- id: 17973383
+  name: Sweetwater Chapuli
+- id: 17973384
+  name: Sweetwater Chapuli
+- id: 17973385
+  name: Sweetwater Chapuli
+- id: 17973386
+  name: Sweetwater Chapuli
+- id: 17973387
+  name: Sweetwater Treant
+- id: 17973388
+  name: Sweetwater Treant
+- id: 17973389
+  name: Sweetwater Treant
+- id: 17973390
+  name: Sweetwater Treant
+- id: 17973391
+  name: Sweetwater Treant
+- id: 17973392
+  name: Sweetwater Treant
+- id: 17973393
+  name: Sweetwater Treant
+- id: 17973394
+  name: Sweetwater Mantis
+- id: 17973395
+  name: Sweetwater Mantis
+- id: 17973396
+  name: Sweetwater Mantis
+- id: 17973397
+  name: Sweetwater Mantis
+- id: 17973398
+  name: Sweetwater Mantis
+- id: 17973399
+  name: Sweetwater Mantis
+- id: 17973400
+  name: Sweetwater Mantis
+- id: 17973401
+  name: Sweetwater Doomed
+- id: 17973402
+  name: Sweetwater Doomed
+- id: 17973403
+  name: Sweetwater Doomed
+- id: 17973404
+  name: Sweetwater Doomed
+- id: 17973405
+  name: Sweetwater Doomed
+- id: 17973406
+  name: Sweetwater Doomed
+- id: 17973407
+  name: Sweetwater Doomed
+- id: 17973408
+  name: Transcended Chapuli
+- id: 17973409
+  name: Transcended Treant
+- id: 17973410
+  name: Transcended Mantis
+- id: 17973411
+  name: Transcended Doomed
+- id: 17973412
+  name: Sweetwater Skeleton
+- id: 17973413
+  name: Sweetwater Skeleton
+- id: 17973414
+  name: Sweetwater Skeleton
+- id: 17973415
+  name: Sweetwater Skeleton
+- id: 17973416
+  name: Sweetwater Skeleton
+- id: 17973417
+  name: Sweetwater Skeleton
+- id: 17973418
+  name: Sweetwater Skeleton
+- id: 17973419
+  name: Sweetwater Cyhiraeth
+- id: 17973420
+  name: Sweetwater Cyhiraeth
+- id: 17973421
+  name: Sweetwater Cyhiraeth
+- id: 17973422
+  name: Sweetwater Cyhiraeth
+- id: 17973423
+  name: Sweetwater Cyhiraeth
+- id: 17973424
+  name: Sweetwater Cyhiraeth
+- id: 17973425
+  name: Sweetwater Cyhiraeth
+- id: 17973426
+  name: Sweetwater Ghost
+- id: 17973427
+  name: Sweetwater Ghost
+- id: 17973428
+  name: Sweetwater Ghost
+- id: 17973429
+  name: Sweetwater Ghost
+- id: 17973430
+  name: Sweetwater Ghost
+- id: 17973431
+  name: Sweetwater Ghost
+- id: 17973432
+  name: Sweetwater Ghost
+- id: 17973433
+  name: Sweetwater Doll
+- id: 17973434
+  name: Sweetwater Doll
+- id: 17973435
+  name: Sweetwater Doll
+- id: 17973436
+  name: Sweetwater Doll
+- id: 17973437
+  name: Sweetwater Doll
+- id: 17973438
+  name: Sweetwater Doll
+- id: 17973439
+  name: Sweetwater Doll
+- id: 17973440
+  name: Transcended Skeleton
+- id: 17973441
+  name: Transcended Cyhiraeth
+- id: 17973442
+  name: Transcended Ghost
+- id: 17973443
+  name: Transcended Doll
+- id: 17973444
+  name: Kin
+- id: 17973445
+  name: Gin
+- id: 17973446
+  name: Kei
+- id: 17973447
+  name: Kyou
+- id: 17973448
+  name: Fu
+- id: 17973449
+  name: 'Treasure Portent #1'
+- id: 17973450
+  name: 'Treasure Portent #2'
+- id: 17973451
+  name: 'Treasure Portent #3'
+- id: 17973452
+  name: 'Treasure Portent #4'
+- id: 17973453
+  name: 'Treasure Portent #5'
+- id: 17973454
+  name: 'Treasure Portent #6'
+- id: 17973455
+  name: 'Treasure Portent #7'
+- id: 17973456
+  name: 'Treasure Portent #8'
+- id: 17973457
+  name: 'Treasure Portent #9'
+- id: 17973458
+  name: 'Treasure Portent #10'
+- id: 17973459
+  name: 'Treasure Portent #11'
+- id: 17973460
+  name: 'Treasure Portent #12'
+- id: 17973461
+  name: 'Treasure Portent #13'
+- id: 17973462
+  name: 'Treasure Portent #14'
+- id: 17973463
+  name: 'Treasure Portent #15'
+- id: 17973464
+  name: 'Treasure Portent #16'
+- id: 17973465
+  name: 'Treasure Portent #1'
+- id: 17973466
+  name: 'Treasure Portent #2'
+- id: 17973467
+  name: 'Treasure Portent #3'
+- id: 17973468
+  name: 'Treasure Portent #4'
+- id: 17973469
+  name: 'Treasure Portent #5'
+- id: 17973470
+  name: 'Treasure Portent #6'
+- id: 17973471
+  name: 'Treasure Portent #7'
+- id: 17973472
+  name: 'Treasure Portent #8'
+- id: 17973473
+  name: 'Treasure Portent #9'
+- id: 17973474
+  name: 'Treasure Portent #10'
+- id: 17973475
+  name: 'Treasure Portent #11'
+- id: 17973476
+  name: 'Treasure Portent #12'
+- id: 17973477
+  name: 'Treasure Portent #13'
+- id: 17973478
+  name: 'Treasure Portent #14'
+- id: 17973479
+  name: 'Treasure Portent #15'
+- id: 17973480
+  name: 'Treasure Portent #16'
+- id: 17973481
+  name: 'Treasure Portent #1'
+- id: 17973482
+  name: 'Treasure Portent #2'
+- id: 17973483
+  name: 'Treasure Portent #3'
+- id: 17973484
+  name: 'Treasure Portent #4'
+- id: 17973485
+  name: 'Treasure Portent #5'
+- id: 17973486
+  name: 'Treasure Portent #6'
+- id: 17973487
+  name: 'Treasure Portent #7'
+- id: 17973488
+  name: 'Treasure Portent #8'
+- id: 17973489
+  name: 'Treasure Portent #9'
+- id: 17973490
+  name: 'Treasure Portent #10'
+- id: 17973491
+  name: 'Treasure Portent #11'
+- id: 17973492
+  name: 'Treasure Portent #12'
+- id: 17973493
+  name: 'Treasure Portent #13'
+- id: 17973494
+  name: 'Treasure Portent #14'
+- id: 17973495
+  name: 'Treasure Portent #15'
+- id: 17973496
+  name: 'Treasure Portent #16'
+- id: 17973497
+  name: Sweetwater Rabbit
+- id: 17973498
+  name: Sweetwater Rabbit
+- id: 17973499
+  name: Sweetwater Rabbit
+- id: 17973500
+  name: Sweetwater Rabbit
+- id: 17973501
+  name: Sweetwater Rabbit
+- id: 17973502
+  name: Sweetwater Rabbit
+- id: 17973503
+  name: Sweetwater Rabbit
+- id: 17973504
+  name: Sweetwater Mandragora
+- id: 17973505
+  name: Sweetwater Mandragora
+- id: 17973506
+  name: Sweetwater Mandragora
+- id: 17973507
+  name: Sweetwater Mandragora
+- id: 17973508
+  name: Sweetwater Mandragora
+- id: 17973509
+  name: Sweetwater Mandragora
+- id: 17973510
+  name: Sweetwater Mandragora
+- id: 17973511
+  name: Sweetwater Lizard
+- id: 17973512
+  name: Sweetwater Lizard
+- id: 17973513
+  name: Sweetwater Lizard
+- id: 17973514
+  name: Sweetwater Lizard
+- id: 17973515
+  name: Sweetwater Lizard
+- id: 17973516
+  name: Sweetwater Lizard
+- id: 17973517
+  name: Sweetwater Lizard
+- id: 17973518
+  name: Sweetwater Vulture
+- id: 17973519
+  name: Sweetwater Vulture
+- id: 17973520
+  name: Sweetwater Vulture
+- id: 17973521
+  name: Sweetwater Vulture
+- id: 17973522
+  name: Sweetwater Vulture
+- id: 17973523
+  name: Sweetwater Vulture
+- id: 17973524
+  name: Sweetwater Vulture
+- id: 17973525
+  name: Sweetwater Ladybug
+- id: 17973526
+  name: Sweetwater Ladybug
+- id: 17973527
+  name: Sweetwater Ladybug
+- id: 17973528
+  name: Sweetwater Ladybug
+- id: 17973529
+  name: Sweetwater Ladybug
+- id: 17973530
+  name: Sweetwater Ladybug
+- id: 17973531
+  name: Sweetwater Ladybug
+- id: 17973532
+  name: Sweetwater Porxie
+- id: 17973533
+  name: Sweetwater Porxie
+- id: 17973534
+  name: Sweetwater Porxie
+- id: 17973535
+  name: Sweetwater Porxie
+- id: 17973536
+  name: Sweetwater Porxie
+- id: 17973537
+  name: Sweetwater Porxie
+- id: 17973538
+  name: Sweetwater Porxie
+- id: 17973539
+  name: Sweetwater Panopt
+- id: 17973540
+  name: Sweetwater Panopt
+- id: 17973541
+  name: Sweetwater Panopt
+- id: 17973542
+  name: Sweetwater Panopt
+- id: 17973543
+  name: Sweetwater Panopt
+- id: 17973544
+  name: Sweetwater Panopt
+- id: 17973545
+  name: Sweetwater Panopt
+- id: 17973546
+  name: Sweetwater Unseelie
+- id: 17973547
+  name: Sweetwater Unseelie
+- id: 17973548
+  name: Sweetwater Unseelie
+- id: 17973549
+  name: Sweetwater Unseelie
+- id: 17973550
+  name: Sweetwater Unseelie
+- id: 17973551
+  name: Sweetwater Unseelie
+- id: 17973552
+  name: Sweetwater Unseelie
+- id: 17973553
+  name: Transcended Rabbit
+- id: 17973554
+  name: Transcended Mandragora
+- id: 17973555
+  name: Transcended Lizard
+- id: 17973556
+  name: Transcended Vulture
+- id: 17973557
+  name: Transcended Ladybug
+- id: 17973558
+  name: Transcended Porxie
+- id: 17973559
+  name: Transcended Panopt
+- id: 17973560
+  name: Transcended Unseelie
+- id: 17973561
+  name: Ou
+- id: 17973563
+  name: Unity Master
+- id: 17973564
+  name: Achieve Master
+- id: 17973571
+  name: Moogle
+- id: 17973572
+  name: Moogle
+- id: 17973573
+  name: Moogle
+- id: 17973574
+  name: Moogle
+- id: 17973575
+  name: Moogle
+- id: 17973576
+  name: Moogle
+- id: 17973577
+  name: Moogle
+- id: 17973578
+  name: Moogle
+- id: 17973579
+  name: ''
+- id: 17973580
+  name: reisen_master
+- id: 17973581
+  name: Ethereal Ingress

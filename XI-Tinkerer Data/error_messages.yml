@@ -1,0 +1,484 @@
+lists:
+  0:
+  - string: 'Error code: POL-%04d'
+  1:
+  - string: 'Error code: FFXI-%04d'
+  2:
+  - string: Could not connect to lobby server.
+  3:
+  - string: Transmission error with lobby server.
+  4:
+  - string: 'Transmission packet error #1.'
+  5:
+  - string: 'Transmission packet error #2。'
+  6:
+  - string: |-
+      Connection to the PlayOnline server lost.
+      Returning to the PlayOnline FINAL FANTASY XI top page.
+  7:
+  - string: Character names must be at least three letters in length.
+  8:
+  - string: Gold World Pass too short to be valid.
+  9:
+  - string: |-
+      Unless you enter a Gold World Pass,
+      you can only specify a world server
+      where you already have a character.
+  10:
+  - string: Protocol time out error.
+  11:
+  - string: Inconsistency occured with handle information.
+  12:
+  - string: |-
+      Connection to the FINAL FANTASY XI server lost.
+      Returning to the PlayOnline FINAL FANTASY XI top page.
+  13:
+  - string: |-
+      Cannot select this character.
+      Character's content ID is no longer valid.
+      Please restore the content ID to select this character.
+  14:
+  - string: |-
+      The world server you specified does not exist.
+      Please check the spelling of the world name
+      before trying again.
+  15:
+  - string: World name not specified.
+  16:
+  - string: |
+      Content ID for selected character not found.
+      Please reboot PlayOnline.
+  17:
+  - string: |-
+      Same character is already logged in.
+      Please wait a few minutes before trying to reconnect.
+  18:
+  - string: |-
+      Your character data may be damaged.
+      Please contact PlayOnline support services.
+  19:
+  - string: Unable to connect to area server.
+  20:
+  - string: 'Failed to carry out data creation #1 on world server'
+  21:
+  - string: 'Failed to carry out data creation #2 on world server'
+  22:
+  - string: |-
+      Unable to log on to world server.
+      Server currently congested.
+  23:
+  - string: |-
+      Unable to log on to area server.
+      Server currently congested.
+  24:
+  - string: Expansion pack area not registered.
+  25:
+  - string: Expansion pack area not installed.
+  26:
+  - string: This protocol is not supported.
+  27:
+  - string: |-
+      There has been a communication error with the FINAL FANTASY XI server.
+      Please log out from PlayOnline and wait several
+      minutes before logging in again.
+  28:
+  - string: Authentication failed. Password incorrect.
+  29:
+  - string: Unable to find character.
+  30:
+  - string: Unable to find content ID.
+  31:
+  - string: |-
+      Unable to connect to world server.
+      Specified operation failed.
+  32:
+  - string: Login search server returned an error.
+  33:
+  - string: |-
+      Same character is already logged in.
+      Please wait a few minutes before trying to reconnect.
+  34:
+  - string: |-
+      Could not connect to world server.
+      Please check this title's news for announcements.
+  35:
+  - string: Registration with lobby server failed.
+  36:
+  - string: 'Registration #1 with world server failed.'
+  37:
+  - string: 'Registration #2 with world server failed.'
+  38:
+  - string: Failed to delete from world server.
+  39:
+  - string: |-
+      The character name you entered is unavailable.
+      Please choose another name.
+  40:
+  - string: Failed to register with name server.
+  41:
+  - string: 'Internal error #1.'
+  42:
+  - string: Incorrect Gold World Pass.
+  43:
+  - string: Gold World Pass expired.
+  44:
+  - string: Failed to delete character.
+  45:
+  - string: 'Internal error #2.'
+  46:
+  - string: 'Internal error #3.'
+  47:
+  - string: Character's parameters are incorrect.
+  48:
+  - string: |-
+      The character name you entered is unavailable.
+      Please choose another name.
+  49:
+  - string: |-
+      Your Gold World Pass is not valid for
+      the world you have specified.
+  50:
+  - string: 'Internal error #4. Please try to create a new character again.'
+  51:
+  - string: Failed to cancel character reservation.
+  52:
+  - string: |-
+      Unable to create a character on the specified world server.
+      Server population limit reached.
+  53:
+  - string: 'Transmission packet error #3.'
+  54:
+  - string: |-
+      Unable to delete.
+      Specified character is currently logged in.
+  55:
+  - string: |-
+      The game's data has been updated.
+      Please return to the PlayOnline FINAL FANTASY XI
+      top page and download the latest version.
+  56:
+  - string: |-
+      Could not connect to lobby server.
+      Please check this title's news for announcements.
+  57:
+  - string: 'Internal error #6.'
+  58:
+  - string: |-
+      The character name you entered is unavailable.
+      Please choose another name.
+  59:
+  - string: 'Registration #3 with world server failed.'
+  60:
+  - string: 'Internal error #5.'
+  61:
+  - string: 'Internal error #7.'
+  62:
+  - string: |
+      Unable to acquire error messages.
+      Switching to direct numerical display mode.
+  63:
+  - string: Unable to reserve required memory. Press OK to shut down.
+  64:
+  - string: Connection to the FINAL FANTASY XI server lost. Press OK to shut down.
+  65:
+  - string: |-
+      Connection to server lost. (PlayOnline)
+      Returning to the PlayOnline FINAL FANTASY XI top page.
+  66:
+  - string: You cannot use that command while viewing the chat log.
+  67:
+  - string: You cannot use that command at this time.
+  68:
+  - string: You cannot use that command here.
+  69:
+  - string: You must close the currently open window to use that command.
+  70:
+  - string: You must specify a valid target.
+  71:
+  - string: You cannot use that command here.
+  72:
+  - string: You cannot use that command while your moogle is away.
+  73:
+  - string: You cannot fish here.
+  74:
+  - string: You cannot dig here.
+  75:
+  - string: You cannot use that command while mounted.
+  76:
+  - string: You must wait a little while before calling forth your mount.
+  77:
+  - string: You cannot use that command while fishing.
+  78:
+  - string: You cannot use that command during synthesis.
+  79:
+  - string: You cannot use that command while unconscious.
+  80:
+  - string: You cannot use that command while changing the layout of your room.
+  81:
+  - string: You cannot use that command while healing.
+  82:
+  - string: You can only use that command during battle.
+  83:
+  - string: You cannot use that command while trading.
+  84:
+  - string: You cannot use that command while making delivery arrangements.
+  85:
+  - string: You cannot use that command while checking your delivery box.
+  86:
+  - string: ''
+  87:
+  - string: Incorrect job, job level too low, or required ability not activated.
+  88:
+  - string: Not enough MP.
+  89:
+  - string: You must wait longer to use that spell.
+  90:
+  - string: You must specify a valid target for that spell.
+  91:
+  - string: ''
+  92:
+  - string: You must wait longer to use that ability.
+  93:
+  - string: You must specify a valid target for that ability.
+  94:
+  - string: Job traits are always active.
+  95:
+  - string: Not enough TP.
+  96:
+  - string: You cannot display this type of message.
+  97:
+  - string: You cannot view maps while riding on elevators.
+  98:
+  - string: There is no map for this area.
+  99:
+  - string: You must specify the correct materials.
+  100:
+  - string: You must wait longer before repeating that action.
+  101:
+  - string: Search failed.
+  102:
+  - string: No friends registered.
+  103:
+  - string: No entries in blacklist.
+  104:
+  - string: No linkshell items in inventory.
+  105:
+  - string: You have no messages.
+  106:
+  - string: You have no items up for auction.
+  107:
+  - string: No applicable entries.
+  108:
+  - string: |-
+      You currently have the maximum number of items allowed up for auction.
+      You must remove one of those items in order to submit a bid.
+  109:
+  - string: |-
+      You can only place seven items on auction at once.
+      Either check off sold and unsold merchandise from the "Sales Status" list or remove an item from auction.
+      Items already sent to your delivery box must also be checked off the list.
+  110:
+  - string: |-
+      The result of your bid is pending.
+       If the result does not appear soon, check your inventory by selecting "Items" from the main menu.
+  111:
+  - string: |-
+      You cannot remove that item from auction.
+      Either your inventory is full or you can only hold one item of that type.
+  112:
+  - string: |-
+      You cannot bid on that merchandise.
+      Either your inventory is full or you can only hold one item of that type.
+  113:
+  - string: No linkshell items equipped.
+  114:
+  - string: ' '
+  115:
+  - string: Cannot select while playing FINAL FANTASY XI.
+  116:
+  - string: ' '
+  117:
+  - string: ' '
+  118:
+  - string: ' '
+  119:
+  - string: ' '
+  120:
+  - string: ' '
+  121:
+  - string: You cannot register more than 200 friends to your Friend List.
+  122:
+  - string: Cannot do that action while processing another PlayOnline message.
+  123:
+  - string: Current area is not subject to conquest.
+  124:
+  - string: You were unable to make that purchase.
+  125:
+  - string: You cannot cast lots. Your inventory is full.
+  126:
+  - string: You can only hold one item of this type.
+  127:
+  - string: No trade targets in range.
+  128:
+  - string: |-
+      You cannot make that purchase.
+      Your inventory is full.
+  129:
+  - string: |-
+      You cannot make that purchase.
+      Either your inventory is full or the guild is out of stock.
+  130:
+  - string: |-
+      The guild would not buy that from you.
+      Its stock of that item is full.
+  131:
+  - string: |-
+      Your order could not be filled completely.
+      Either your inventory became full or the guild ran out of stock.
+  132:
+  - string: |-
+      The guild could not purchase the full amount.
+      Its stock of that item became full.
+  133:
+  - string: Communications seem to be congested.
+  134:
+  - string: Delivery orders are currently backlogged.
+  135:
+  - string: Recipient's delivery box is full.
+  136:
+  - string: Your inventory is full.
+  137:
+  - string: You can only hold one item of that type.
+  138:
+  - string: Unable to scan.
+  139:
+  - string: You need the Dual Wield ability to equip that as a sub-weapon.
+  140:
+  - string: Unable to execute that command. Your inventory is full.
+  141:
+  - string: Cannot save screenshot.
+  142:
+  - string: You were unable to change your equipped items.
+  143:
+  - string: dummy
+  144:
+  - string: dummy
+  145:
+  - string: dummy
+  146:
+  - string: dummy
+  147:
+  - string: That feature is currently unavailable.
+  148:
+  - string: Auto-disconnect failed.
+  149:
+  - string: Cannot attack target.
+  150:
+  - string: |-
+      There was no input within set time, so the program
+      automatically disconnected itself from the game server.
+      Now ending FINAL FANTASY XI and returning to PlayOnline.
+  151:
+  - string: You cannot use that command while charmed.
+  152:
+  - string: You must have a main weapon equipped before equipping a sub-weapon.
+  153:
+  - string: You can only equip a sub-weapon when your main weapon is a one-handed weapon.
+  154:
+  - string: Please wait longer before making another purchase.
+  155:
+  - string: You were unable to carry out that transaction.
+  156:
+  - string: An error occurred.
+  157:
+  - string: No linkshell message exists.
+  158:
+  - string: You are not authorized to perform that action.
+  159:
+  - string: You are unable to invite that person to join your party.
+  160:
+  - string: You cannot perform that action while sitting.
+  161:
+  - string: That person is already registered on your friend list.
+  162:
+  - string: You were unable to add that person to your friend list.
+  163:
+  - string: Transaction cancelled. You can only hold one item of that type.
+  164:
+  - string: You cannot perform that action on the selected sub-target.
+  165:
+  - string: You cannot perform that action on the selected target.
+  166:
+  - string: You cannot perform that action while participating in Conflict.
+  167:
+  - string: You can only perform that action when participating in Conflict.
+  168:
+  - string: That cannot be used right now.
+  169:
+  - string: |-
+      No response from the FINAL FANTASY XI server.
+      Connection timed out.
+      Press OK to shut down.
+  170:
+  - string: |-
+      No response from the FINAL FANTASY XI server.
+      Connection timed out.
+      Press OK to shut down.
+  171:
+  - string: |-
+      Time out reported by the FINAL FANTASY XI server.
+      Press OK to shut down.
+  172:
+  - string: Connection to the FINAL FANTASY XI server lost. Press OK to shut down.
+  173:
+  - string: Connection to the FINAL FANTASY XI server lost. Press OK to shut down.
+  174:
+  - string: Connection to the FINAL FANTASY XI server lost. Press OK to shut down.
+  175:
+  - string: Partially depleted items cannot be put up for auction.
+  176:
+  - string: That command cannot be performed while wearing a costume.
+  177:
+  - string: That command cannot be used outside of your Mog House.
+  178:
+  - string: That command cannot be used on players on your blacklist.
+  179:
+  - string: |-
+      A Gold World Pass is valid
+      for your first character only.
+  180:
+  - string: You cannot cast blue magic spells that have not been set.
+  181:
+  - string: You do not currently have access to a Mog Locker.
+  182:
+  - string: Your blue magic spells have recently been reset. Unable to cast spell.
+  183:
+  - string: You cannot customize an activated automaton.
+  184:
+  - string: (The delivery service is currently unavailable.)
+  185:
+  - string: (Auction house services are currently unavailable.)
+  186:
+  - string: You cannot perform that action while under a level restriction or participating in Besieged.
+  187:
+  - string: You cannot use that command inside another character's Mog House.
+  188:
+  - string: Your current status prevents you from using that ability.
+  189:
+  - string: You have not met one or more requirements needed to enter Mog Gardens.
+  190:
+  - string: You are unable to use Trust magic at this time.
+  191:
+  - string: You cannot perform this action because no synthesis history exists.
+  192:
+  - string: You must wait longer before repeating that action.
+  193:
+  - string: You do not possess that chair.
+  194:
+  - string: Focus targeting can only be applied to other party members.
+  195:
+  - string: You cannot request to join that player's party.
+  196:
+  - string: You are unable to request to join the party of someone you have blacklisted.
+  197:
+  - string: You were unable to make a request to join.

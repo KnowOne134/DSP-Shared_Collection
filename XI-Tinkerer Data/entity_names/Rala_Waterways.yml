@@ -1,0 +1,551 @@
+names:
+- id: 17833985
+  name: Sawtooth Pugil
+- id: 17833986
+  name: Sawtooth Pugil
+- id: 17833987
+  name: Sawtooth Pugil
+- id: 17833988
+  name: Waterlogged Toad
+- id: 17833989
+  name: Waterlogged Toad
+- id: 17833990
+  name: Spoutdrenched Toad
+- id: 17833991
+  name: Spoutdrenched Toad
+- id: 17833992
+  name: Spoutdrenched Toad
+- id: 17833993
+  name: Rustwater Toad
+- id: 17833994
+  name: Waterway Pugil
+- id: 17833995
+  name: Waterway Pugil
+- id: 17833996
+  name: Waterway Pugil
+- id: 17833997
+  name: Waterway Pugil
+- id: 17833998
+  name: Rustwater Toad
+- id: 17833999
+  name: Rustwater Toad
+- id: 17834000
+  name: Rustwater Toad
+- id: 17834001
+  name: Rustwater Toad
+- id: 17834002
+  name: Rustwater Toad
+- id: 17834003
+  name: Spoutdrenched Toad
+- id: 17834004
+  name: Spoutdrenched Toad
+- id: 17834005
+  name: Spoutdrenched Toad
+- id: 17834006
+  name: Rustwater Toad
+- id: 17834007
+  name: Stillwater Funguar
+- id: 17834008
+  name: Stillwater Funguar
+- id: 17834009
+  name: Stillwater Funguar
+- id: 17834010
+  name: Stillwater Funguar
+- id: 17834011
+  name: Spoutdrenched Toad
+- id: 17834012
+  name: Spoutdrenched Toad
+- id: 17834013
+  name: Chalybeous Slime
+- id: 17834014
+  name: Flavescent Slime
+- id: 17834015
+  name: Stillwater Funguar
+- id: 17834016
+  name: Stillwater Funguar
+- id: 17834017
+  name: Stillwater Funguar
+- id: 17834018
+  name: Stillwater Funguar
+- id: 17834019
+  name: Spoutdrenched Toad
+- id: 17834020
+  name: Spoutdrenched Toad
+- id: 17834021
+  name: Chalybeous Slime
+- id: 17834022
+  name: Flavescent Slime
+- id: 17834023
+  name: Baleful Tarichuk
+- id: 17834024
+  name: Baleful Tarichuk
+- id: 17834025
+  name: Unrelenting Eft
+- id: 17834026
+  name: Unrelenting Eft
+- id: 17834027
+  name: Unrelenting Eft
+- id: 17834028
+  name: Unrelenting Eft
+- id: 17834029
+  name: Stillwater Funguar
+- id: 17834030
+  name: Stillwater Funguar
+- id: 17834031
+  name: Spoutdrenched Toad
+- id: 17834032
+  name: Stillwater Funguar
+- id: 17834033
+  name: Stillwater Funguar
+- id: 17834034
+  name: Chalybeous Slime
+- id: 17834035
+  name: Flavescent Slime
+- id: 17834036
+  name: Chalybeous Slime
+- id: 17834037
+  name: Flavescent Slime
+- id: 17834038
+  name: Pewter Diremite
+- id: 17834039
+  name: Pewter Diremite
+- id: 17834040
+  name: Pewter Diremite
+- id: 17834041
+  name: Pewter Diremite
+- id: 17834042
+  name: Pewter Diremite
+- id: 17834043
+  name: Pewter Diremite
+- id: 17834044
+  name: Chalybeous Slime
+- id: 17834045
+  name: Flavescent Slime
+- id: 17834046
+  name: Depthswalker Crab
+- id: 17834047
+  name: Depthswalker Crab
+- id: 17834048
+  name: Barnacle Crab
+- id: 17834049
+  name: Depthswalker Crab
+- id: 17834050
+  name: Depthswalker Crab
+- id: 17834051
+  name: Barnacle Crab
+- id: 17834052
+  name: Depthswalker Crab
+- id: 17834053
+  name: Depthswalker Crab
+- id: 17834054
+  name: Barnacle Crab
+- id: 17834055
+  name: Depthswalker Crab
+- id: 17834056
+  name: Depthswalker Crab
+- id: 17834057
+  name: Barnacle Crab
+- id: 17834058
+  name: Weatherworn Leech
+- id: 17834059
+  name: Duskjaw Obdella
+- id: 17834060
+  name: Skittering Spider
+- id: 17834061
+  name: Skittering Spider
+- id: 17834062
+  name: Weatherworn Leech
+- id: 17834063
+  name: Duskjaw Obdella
+- id: 17834064
+  name: Skittering Spider
+- id: 17834065
+  name: Skittering Spider
+- id: 17834066
+  name: Skittering Spider
+- id: 17834067
+  name: Skittering Spider
+- id: 17834068
+  name: New Moon Bats
+- id: 17834069
+  name: New Moon Bats
+- id: 17834070
+  name: Duskbringer Bat
+- id: 17834071
+  name: Duskbringer Bat
+- id: 17834072
+  name: New Moon Bats
+- id: 17834073
+  name: Duskbringer Bat
+- id: 17834074
+  name: Duskbringer Bat
+- id: 17834075
+  name: New Moon Bats
+- id: 17834076
+  name: Duskbringer Bat
+- id: 17834077
+  name: Duskbringer Bat
+- id: 17834078
+  name: New Moon Bats
+- id: 17834079
+  name: Skittering Spider
+- id: 17834080
+  name: Skittering Spider
+- id: 17834081
+  name: Skittering Spider
+- id: 17834082
+  name: Skittering Spider
+- id: 17834083
+  name: Skittering Spider
+- id: 17834084
+  name: Skittering Spider
+- id: 17834085
+  name: Weatherworn Leech
+- id: 17834086
+  name: Duskjaw Obdella
+- id: 17834087
+  name: Duskbringer Bat
+- id: 17834088
+  name: New Moon Bats
+- id: 17834089
+  name: New Moon Bats
+- id: 17834090
+  name: Plantpassage Slug
+- id: 17834091
+  name: Plantpassage Slug
+- id: 17834092
+  name: Duskjaw Obdella
+- id: 17834093
+  name: Duskjaw Obdella
+- id: 17834094
+  name: Duskjaw Obdella
+- id: 17834095
+  name: Plantpassage Slug
+- id: 17834096
+  name: Plantpassage Slug
+- id: 17834097
+  name: Duskjaw Obdella
+- id: 17834098
+  name: Duskjaw Obdella
+- id: 17834099
+  name: Duskjaw Obdella
+- id: 17834100
+  name: Plantpassage Slug
+- id: 17834101
+  name: Plantpassage Slug
+- id: 17834102
+  name: Duskjaw Obdella
+- id: 17834103
+  name: Duskjaw Obdella
+- id: 17834104
+  name: Weatherworn Leech
+- id: 17834105
+  name: Weatherworn Leech
+- id: 17834106
+  name: Plantpassage Slug
+- id: 17834107
+  name: Plantpassage Slug
+- id: 17834108
+  name: Waterway Pugil
+- id: 17834109
+  name: Waterway Pugil
+- id: 17834110
+  name: Waterway Pugil
+- id: 17834111
+  name: New Moon Bats
+- id: 17834112
+  name: New Moon Bats
+- id: 17834113
+  name: Waterway Pugil
+- id: 17834114
+  name: Waterway Pugil
+- id: 17834115
+  name: Waterway Pugil
+- id: 17834116
+  name: Unrelenting Eft
+- id: 17834117
+  name: Unrelenting Eft
+- id: 17834118
+  name: Baleful Tarichuk
+- id: 17834119
+  name: Pewter Diremite
+- id: 17834120
+  name: Pewter Diremite
+- id: 17834121
+  name: Pewter Diremite
+- id: 17834122
+  name: Pewter Diremite
+- id: 17834123
+  name: Chalybeous Slime
+- id: 17834124
+  name: Depthswalker Crab
+- id: 17834125
+  name: Depthswalker Crab
+- id: 17834126
+  name: Weatherworn Leech
+- id: 17834127
+  name: New Moon Bats
+- id: 17834128
+  name: Duskbringer Bat
+- id: 17834129
+  name: Duskbringer Bat
+- id: 17834130
+  name: New Moon Bats
+- id: 17834131
+  name: New Moon Bats
+- id: 17834132
+  name: Skittering Spider
+- id: 17834133
+  name: Skittering Spider
+- id: 17834134
+  name: Depthswalker Crab
+- id: 17834135
+  name: Duskbringer Bat
+- id: 17834136
+  name: Plantpassage Slug
+- id: 17834152
+  name: JGL_BUILD_MASTER_0
+- id: 17834153
+  name: JGL_BUILD_MASTER_1
+- id: 17834154
+  name: JGL_BUILD_MASTER_2
+- id: 17834155
+  name: JGL_BUILD_MASTER_3
+- id: 17834156
+  name: JGL_BUILD_MASTER_4
+- id: 17834157
+  name: JGL_BUILD_MASTER_5
+- id: 17834186
+  name: Soul Pyre
+- id: 17834187
+  name: Soul Pyre
+- id: 17834188
+  name: Soul Pyre
+- id: 17834189
+  name: Soul Pyre
+- id: 17834190
+  name: Soul Pyre
+- id: 17834191
+  name: Soul Pyre
+- id: 17834193
+  name: Achieve Master
+- id: 17834194
+  name: Unity Master
+- id: 17834265
+  name: dmat
+- id: 17834266
+  name: Adrienaure
+- id: 17834267
+  name: Alluring Plant
+- id: 17834268
+  name: Alluring Plant
+- id: 17834269
+  name: Alluring Plant
+- id: 17834270
+  name: Erisa
+- id: 17834271
+  name: Kyff
+- id: 17834272
+  name: Dworvigg
+- id: 17834273
+  name: ''
+- id: 17834274
+  name: Aristide
+- id: 17834275
+  name: ''
+- id: 17834276
+  name: Ilney
+- id: 17834277
+  name: Flaviria
+- id: 17834278
+  name: Pagnelle
+- id: 17834279
+  name: Zenngar
+- id: 17834280
+  name: ''
+- id: 17834281
+  name: ''
+- id: 17834283
+  name: Moogle
+- id: 17834284
+  name: Moogle
+- id: 17834285
+  name: Moogle
+- id: 17834286
+  name: Moogle
+- id: 17834287
+  name: Moogle
+- id: 17834288
+  name: Moogle
+- id: 17834289
+  name: Moogle
+- id: 17834290
+  name: Moogle
+- id: 17834291
+  name: ''
+- id: 17834292
+  name: Augural Conveyor
+- id: 17834293
+  name: ''
+- id: 17834294
+  name: 'Entrance: Coliseum'
+- id: 17834295
+  name: Antiquated Sluice Gate
+- id: 17834296
+  name: ''
+- id: 17834297
+  name: Mathais
+- id: 17834298
+  name: Lohvi Rashiibo
+- id: 17834299
+  name: Risto-Fristo
+- id: 17834300
+  name: Bezetep
+- id: 17834301
+  name: Chalvava
+- id: 17834302
+  name: Faomahd
+- id: 17834303
+  name: Trentain
+- id: 17834304
+  name: Sivalda
+- id: 17834305
+  name: Kyairah Mochaafa
+- id: 17834306
+  name: Obolt
+- id: 17834307
+  name: Jaroney-Baroney
+- id: 17834308
+  name: Relentless Storm
+- id: 17834309
+  name: Soltargan
+- id: 17834310
+  name: Yeggha Dolashi
+- id: 17834311
+  name: Sainene
+- id: 17834312
+  name: Stout Weir
+- id: 17834313
+  name: Waterways Overlook
+- id: 17834314
+  name: ???
+- id: 17834315
+  name: Sluice Gate
+- id: 17834316
+  name: Sluice Gate
+- id: 17834317
+  name: Sluice Gate
+- id: 17834318
+  name: Sluice Gate
+- id: 17834319
+  name: Sluice Gate
+- id: 17834320
+  name: Saldinor
+- id: 17834321
+  name: ''
+- id: 17834322
+  name: Tomato Vantage Point
+- id: 17834323
+  name: ''
+- id: 17834324
+  name: ''
+- id: 17834325
+  name: ''
+- id: 17834326
+  name: ???
+- id: 17834327
+  name: ''
+- id: 17834328
+  name: Margret
+- id: 17834329
+  name: Mufeh Hajrrha
+- id: 17834330
+  name: The Keeper
+- id: 17834331
+  name: The Briars
+- id: 17834332
+  name: Reginald
+- id: 17834333
+  name: Tuffle-Buffle
+- id: 17834334
+  name: Musto-Rusto
+- id: 17834335
+  name: Pupadi Dollmohr
+- id: 17834336
+  name: Celestin
+- id: 17834337
+  name: Fabioso
+- id: 17834338
+  name: ''
+- id: 17834339
+  name: ''
+- id: 17834340
+  name: ???
+- id: 17834341
+  name: ''
+- id: 17834342
+  name: ''
+- id: 17834343
+  name: Sluice Gate
+- id: 17834344
+  name: Sluice Gate
+- id: 17834345
+  name: Storage Container
+- id: 17834346
+  name: Arciela
+- id: 17834347
+  name: Arciela
+- id: 17834348
+  name: Melvien
+- id: 17834349
+  name: Hildebert
+- id: 17834350
+  name: Svenja
+- id: 17834351
+  name: Gratzigg
+- id: 17834352
+  name: ''
+- id: 17834353
+  name: ''
+- id: 17834354
+  name: ''
+- id: 17834355
+  name: ''
+- id: 17834356
+  name: ''
+- id: 17834357
+  name: ''
+- id: 17834358
+  name: ''
+- id: 17834359
+  name: ''
+- id: 17834360
+  name: ''
+- id: 17834361
+  name: ''
+- id: 17834362
+  name: ''
+- id: 17834363
+  name: ''
+- id: 17834364
+  name: ''
+- id: 17834365
+  name: ''
+- id: 17834366
+  name: ''
+- id: 17834367
+  name: ''
+- id: 17834368
+  name: Royal Sepulcher
+- id: 17834369
+  name: ''
+- id: 17834370
+  name: ''
+- id: 17834371
+  name: ''
+- id: 17834372
+  name: ''
+- id: 17834373
+  name: ???
+- id: 17834374
+  name: Inconspicuous Barrel

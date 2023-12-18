@@ -1,0 +1,955 @@
+names:
+- id: 17371137
+  name: Pugil
+- id: 17371138
+  name: Pugil
+- id: 17371139
+  name: Pug Pugil
+- id: 17371140
+  name: Puffer Pugil
+- id: 17371141
+  name: Land Pugil
+- id: 17371142
+  name: Eyy Mon the Ironbreaker
+- id: 17371143
+  name: Zhuu Buxu the Silent
+- id: 17371144
+  name: Yagudo Initiate
+- id: 17371145
+  name: Yagudo Initiate
+- id: 17371146
+  name: Yagudo Acolyte
+- id: 17371147
+  name: Yagudo Scribe
+- id: 17371148
+  name: Giddeus Bee
+- id: 17371149
+  name: Giddeus Pugil
+- id: 17371150
+  name: Giddeus Pugil
+- id: 17371151
+  name: Giddeus Pugil
+- id: 17371152
+  name: Yagudo Initiate
+- id: 17371153
+  name: Yagudo Initiate
+- id: 17371154
+  name: Yagudo Acolyte
+- id: 17371155
+  name: Yagudo Scribe
+- id: 17371156
+  name: Giddeus Bee
+- id: 17371157
+  name: Giddeus Bee
+- id: 17371158
+  name: Giddeus Bee
+- id: 17371159
+  name: Yagudo Initiate
+- id: 17371160
+  name: Yagudo Acolyte
+- id: 17371161
+  name: Yagudo Scribe
+- id: 17371162
+  name: Giddeus Bee
+- id: 17371163
+  name: Giddeus Bee
+- id: 17371164
+  name: Giddeus Bee
+- id: 17371165
+  name: Yagudo Initiate
+- id: 17371166
+  name: Yagudo Acolyte
+- id: 17371167
+  name: Yagudo Scribe
+- id: 17371168
+  name: Giddeus Bee
+- id: 17371169
+  name: Giddeus Bee
+- id: 17371170
+  name: Yagudo Initiate
+- id: 17371171
+  name: Yagudo Acolyte
+- id: 17371172
+  name: Yagudo Scribe
+- id: 17371173
+  name: Giddeus Bee
+- id: 17371174
+  name: Giddeus Bee
+- id: 17371175
+  name: Yagudo Initiate
+- id: 17371176
+  name: Yagudo Acolyte
+- id: 17371177
+  name: Yagudo Scribe
+- id: 17371178
+  name: Yagudo Initiate
+- id: 17371179
+  name: Yagudo Acolyte
+- id: 17371180
+  name: Yagudo Scribe
+- id: 17371181
+  name: Giddeus Bee
+- id: 17371182
+  name: Giddeus Bee
+- id: 17371183
+  name: Yagudo Initiate
+- id: 17371184
+  name: Yagudo Acolyte
+- id: 17371185
+  name: Yagudo Scribe
+- id: 17371186
+  name: Yagudo Initiate
+- id: 17371187
+  name: Yagudo Acolyte
+- id: 17371188
+  name: Yagudo Scribe
+- id: 17371189
+  name: Giddeus Bee
+- id: 17371190
+  name: Giddeus Bee
+- id: 17371191
+  name: Giddeus Pugil
+- id: 17371192
+  name: Giddeus Pugil
+- id: 17371193
+  name: Giddeus Pugil
+- id: 17371194
+  name: Yagudo Initiate
+- id: 17371195
+  name: Yagudo Acolyte
+- id: 17371196
+  name: Yagudo Scribe
+- id: 17371197
+  name: Yagudo Initiate
+- id: 17371198
+  name: Yagudo Acolyte
+- id: 17371199
+  name: Yagudo Scribe
+- id: 17371200
+  name: Giddeus Bee
+- id: 17371201
+  name: Giddeus Bee
+- id: 17371202
+  name: Yagudo Initiate
+- id: 17371203
+  name: Yagudo Acolyte
+- id: 17371204
+  name: Yagudo Scribe
+- id: 17371205
+  name: Yagudo Initiate
+- id: 17371206
+  name: Yagudo Acolyte
+- id: 17371207
+  name: Yagudo Scribe
+- id: 17371208
+  name: Giddeus Bee
+- id: 17371209
+  name: Giddeus Bee
+- id: 17371210
+  name: Giddeus Pugil
+- id: 17371211
+  name: Giddeus Pugil
+- id: 17371212
+  name: Giddeus Pugil
+- id: 17371213
+  name: Yagudo Initiate
+- id: 17371214
+  name: Yagudo Acolyte
+- id: 17371215
+  name: Yagudo Scribe
+- id: 17371216
+  name: Dirt Eater
+- id: 17371217
+  name: Dirt Eater
+- id: 17371218
+  name: Dirt Eater
+- id: 17371219
+  name: Yagudo Initiate
+- id: 17371220
+  name: Yagudo Acolyte
+- id: 17371221
+  name: Yagudo Scribe
+- id: 17371222
+  name: Dirt Eater
+- id: 17371223
+  name: Dirt Eater
+- id: 17371224
+  name: Yagudo Initiate
+- id: 17371225
+  name: Yagudo Acolyte
+- id: 17371226
+  name: Yagudo Scribe
+- id: 17371227
+  name: Dirt Eater
+- id: 17371228
+  name: Dirt Eater
+- id: 17371229
+  name: Yagudo Initiate
+- id: 17371230
+  name: Yagudo Acolyte
+- id: 17371231
+  name: Yagudo Scribe
+- id: 17371232
+  name: Dirt Eater
+- id: 17371233
+  name: Yagudo Initiate
+- id: 17371234
+  name: Yagudo Acolyte
+- id: 17371235
+  name: Yagudo Scribe
+- id: 17371236
+  name: Yagudo Initiate
+- id: 17371237
+  name: Yagudo Acolyte
+- id: 17371238
+  name: Yagudo Scribe
+- id: 17371239
+  name: Dirt Eater
+- id: 17371240
+  name: Dirt Eater
+- id: 17371241
+  name: Dirt Eater
+- id: 17371242
+  name: Yagudo Initiate
+- id: 17371243
+  name: Yagudo Acolyte
+- id: 17371244
+  name: Yagudo Scribe
+- id: 17371245
+  name: Dirt Eater
+- id: 17371246
+  name: Dirt Eater
+- id: 17371247
+  name: Dirt Eater
+- id: 17371248
+  name: Yagudo Initiate
+- id: 17371249
+  name: Yagudo Acolyte
+- id: 17371250
+  name: Yagudo Scribe
+- id: 17371251
+  name: Dirt Eater
+- id: 17371252
+  name: Dirt Eater
+- id: 17371253
+  name: Yagudo Initiate
+- id: 17371254
+  name: Yagudo Acolyte
+- id: 17371255
+  name: Yagudo Scribe
+- id: 17371256
+  name: Dirt Eater
+- id: 17371257
+  name: Yagudo Initiate
+- id: 17371258
+  name: Yagudo Acolyte
+- id: 17371259
+  name: Yagudo Scribe
+- id: 17371260
+  name: Yagudo Initiate
+- id: 17371261
+  name: Yagudo Acolyte
+- id: 17371262
+  name: Yagudo Scribe
+- id: 17371263
+  name: Dirt Eater
+- id: 17371264
+  name: Dirt Eater
+- id: 17371265
+  name: Yagudo Initiate
+- id: 17371266
+  name: Yagudo Acolyte
+- id: 17371267
+  name: Yagudo Scribe
+- id: 17371268
+  name: Yagudo Initiate
+- id: 17371269
+  name: Yagudo Acolyte
+- id: 17371270
+  name: Yagudo Scribe
+- id: 17371271
+  name: Yagudo Initiate
+- id: 17371272
+  name: Yagudo Acolyte
+- id: 17371273
+  name: Yagudo Scribe
+- id: 17371274
+  name: Yagudo Initiate
+- id: 17371275
+  name: Yagudo Acolyte
+- id: 17371276
+  name: Yagudo Scribe
+- id: 17371277
+  name: Yagudo Mendicant
+- id: 17371278
+  name: Yagudo's Elemental
+- id: 17371279
+  name: Yagudo Piper
+- id: 17371280
+  name: Yagudo Persecutor
+- id: 17371281
+  name: Digger Wasp
+- id: 17371282
+  name: Digger Wasp
+- id: 17371283
+  name: Digger Wasp
+- id: 17371284
+  name: Yagudo Mendicant
+- id: 17371285
+  name: Yagudo's Elemental
+- id: 17371286
+  name: Yagudo Piper
+- id: 17371287
+  name: Yagudo Persecutor
+- id: 17371288
+  name: Yagudo Mendicant
+- id: 17371289
+  name: Yagudo's Elemental
+- id: 17371290
+  name: Yagudo Piper
+- id: 17371291
+  name: Yagudo Persecutor
+- id: 17371292
+  name: Digger Wasp
+- id: 17371293
+  name: Yagudo Mendicant
+- id: 17371294
+  name: Yagudo's Elemental
+- id: 17371295
+  name: Yagudo Piper
+- id: 17371296
+  name: Yagudo Persecutor
+- id: 17371297
+  name: Yagudo Piper
+- id: 17371298
+  name: Yagudo Persecutor
+- id: 17371299
+  name: Digger Wasp
+- id: 17371300
+  name: Juu Duzu the Whirlwind
+- id: 17371301
+  name: Digger Wasp
+- id: 17371302
+  name: Yagudo Mendicant
+- id: 17371303
+  name: Yagudo's Elemental
+- id: 17371304
+  name: Yagudo Piper
+- id: 17371305
+  name: Yagudo Persecutor
+- id: 17371306
+  name: Yagudo Mendicant
+- id: 17371307
+  name: Yagudo's Elemental
+- id: 17371308
+  name: Yagudo Piper
+- id: 17371309
+  name: Yagudo Persecutor
+- id: 17371310
+  name: Digger Wasp
+- id: 17371311
+  name: Yagudo Mendicant
+- id: 17371312
+  name: Yagudo's Elemental
+- id: 17371313
+  name: Yagudo Piper
+- id: 17371314
+  name: Yagudo Persecutor
+- id: 17371315
+  name: Yagudo Mendicant
+- id: 17371316
+  name: Yagudo's Elemental
+- id: 17371317
+  name: Yagudo Piper
+- id: 17371318
+  name: Yagudo Persecutor
+- id: 17371319
+  name: Digger Wasp
+- id: 17371320
+  name: Digger Wasp
+- id: 17371321
+  name: Digger Wasp
+- id: 17371322
+  name: Digger Wasp
+- id: 17371323
+  name: Yagudo Mendicant
+- id: 17371324
+  name: Yagudo's Elemental
+- id: 17371325
+  name: Yagudo Piper
+- id: 17371326
+  name: Yagudo Persecutor
+- id: 17371327
+  name: Yagudo Initiate
+- id: 17371328
+  name: Yagudo Acolyte
+- id: 17371329
+  name: Yagudo Scribe
+- id: 17371330
+  name: Yagudo Initiate
+- id: 17371331
+  name: Yagudo Acolyte
+- id: 17371332
+  name: Yagudo Scribe
+- id: 17371333
+  name: Yagudo Mendicant
+- id: 17371334
+  name: Yagudo's Elemental
+- id: 17371335
+  name: Yagudo Piper
+- id: 17371336
+  name: Yagudo Persecutor
+- id: 17371337
+  name: Yagudo Mendicant
+- id: 17371338
+  name: Yagudo's Elemental
+- id: 17371339
+  name: Yagudo Piper
+- id: 17371340
+  name: Yagudo Persecutor
+- id: 17371341
+  name: Giant Pugil
+- id: 17371342
+  name: Giant Pugil
+- id: 17371343
+  name: Giant Pugil
+- id: 17371344
+  name: Yagudo Initiate
+- id: 17371345
+  name: Yagudo Acolyte
+- id: 17371346
+  name: Yagudo Scribe
+- id: 17371347
+  name: Yagudo Initiate
+- id: 17371348
+  name: Yagudo Acolyte
+- id: 17371349
+  name: Yagudo Scribe
+- id: 17371350
+  name: Yagudo Mendicant
+- id: 17371351
+  name: Yagudo's Elemental
+- id: 17371352
+  name: Yagudo Piper
+- id: 17371353
+  name: Yagudo Persecutor
+- id: 17371354
+  name: Yagudo Initiate
+- id: 17371355
+  name: Yagudo Acolyte
+- id: 17371356
+  name: Yagudo Scribe
+- id: 17371357
+  name: Yagudo Initiate
+- id: 17371358
+  name: Yagudo Acolyte
+- id: 17371359
+  name: Yagudo Scribe
+- id: 17371360
+  name: Yagudo Mendicant
+- id: 17371361
+  name: Yagudo's Elemental
+- id: 17371362
+  name: Yagudo Piper
+- id: 17371363
+  name: Yagudo Persecutor
+- id: 17371364
+  name: Yagudo Mendicant
+- id: 17371365
+  name: Yagudo's Elemental
+- id: 17371366
+  name: Yagudo Piper
+- id: 17371367
+  name: Yagudo Persecutor
+- id: 17371368
+  name: Digger Wasp
+- id: 17371369
+  name: Digger Wasp
+- id: 17371370
+  name: Yagudo Mendicant
+- id: 17371371
+  name: Yagudo's Elemental
+- id: 17371372
+  name: Yagudo Piper
+- id: 17371373
+  name: Yagudo Persecutor
+- id: 17371374
+  name: Yagudo Mendicant
+- id: 17371375
+  name: Yagudo's Elemental
+- id: 17371376
+  name: Yagudo Piper
+- id: 17371377
+  name: Yagudo Persecutor
+- id: 17371378
+  name: Digger Wasp
+- id: 17371379
+  name: Digger Wasp
+- id: 17371380
+  name: Yagudo Mendicant
+- id: 17371381
+  name: Yagudo's Elemental
+- id: 17371382
+  name: Yagudo Piper
+- id: 17371383
+  name: Yagudo Persecutor
+- id: 17371384
+  name: Yagudo Mendicant
+- id: 17371385
+  name: Yagudo's Elemental
+- id: 17371386
+  name: Yagudo Piper
+- id: 17371387
+  name: Yagudo Persecutor
+- id: 17371388
+  name: Digger Wasp
+- id: 17371389
+  name: Digger Wasp
+- id: 17371390
+  name: Yagudo Mendicant
+- id: 17371391
+  name: Yagudo's Elemental
+- id: 17371392
+  name: Yagudo Piper
+- id: 17371393
+  name: Yagudo Persecutor
+- id: 17371394
+  name: Yagudo Mendicant
+- id: 17371395
+  name: Yagudo's Elemental
+- id: 17371396
+  name: Yagudo Piper
+- id: 17371397
+  name: Yagudo Persecutor
+- id: 17371398
+  name: Digger Wasp
+- id: 17371399
+  name: Quu Xijo the Illusory
+- id: 17371400
+  name: Yagudo Mendicant
+- id: 17371401
+  name: Yagudo's Elemental
+- id: 17371402
+  name: Yagudo Piper
+- id: 17371403
+  name: Yagudo Persecutor
+- id: 17371404
+  name: Yagudo Mendicant
+- id: 17371405
+  name: Yagudo's Elemental
+- id: 17371406
+  name: Yagudo Piper
+- id: 17371407
+  name: Yagudo Persecutor
+- id: 17371408
+  name: Digger Wasp
+- id: 17371409
+  name: Yagudo Mendicant
+- id: 17371410
+  name: Yagudo's Elemental
+- id: 17371411
+  name: Yagudo Piper
+- id: 17371412
+  name: Yagudo Persecutor
+- id: 17371413
+  name: Digger Wasp
+- id: 17371414
+  name: Digger Wasp
+- id: 17371415
+  name: Yagudo Votary
+- id: 17371416
+  name: Yagudo Mendicant
+- id: 17371417
+  name: Yagudo's Elemental
+- id: 17371418
+  name: Yagudo Piper
+- id: 17371419
+  name: Yagudo Persecutor
+- id: 17371420
+  name: Yagudo Mendicant
+- id: 17371421
+  name: Yagudo's Elemental
+- id: 17371422
+  name: Yagudo Piper
+- id: 17371423
+  name: Yagudo Persecutor
+- id: 17371424
+  name: Yagudo Mendicant
+- id: 17371425
+  name: Yagudo's Elemental
+- id: 17371426
+  name: Yagudo Piper
+- id: 17371427
+  name: Yagudo Persecutor
+- id: 17371428
+  name: Earth Eater
+- id: 17371429
+  name: Earth Eater
+- id: 17371430
+  name: Yagudo Mendicant
+- id: 17371431
+  name: Yagudo's Elemental
+- id: 17371432
+  name: Yagudo Piper
+- id: 17371433
+  name: Yagudo Persecutor
+- id: 17371434
+  name: Yagudo Mendicant
+- id: 17371435
+  name: Yagudo's Elemental
+- id: 17371436
+  name: Yagudo Piper
+- id: 17371437
+  name: Yagudo Persecutor
+- id: 17371438
+  name: Earth Eater
+- id: 17371439
+  name: Earth Eater
+- id: 17371440
+  name: Yagudo Mendicant
+- id: 17371441
+  name: Yagudo's Elemental
+- id: 17371442
+  name: Yagudo Piper
+- id: 17371443
+  name: Yagudo Persecutor
+- id: 17371444
+  name: Earth Eater
+- id: 17371445
+  name: Earth Eater
+- id: 17371446
+  name: Earth Eater
+- id: 17371447
+  name: Yagudo Mendicant
+- id: 17371448
+  name: Yagudo's Elemental
+- id: 17371449
+  name: Yagudo Piper
+- id: 17371450
+  name: Yagudo Persecutor
+- id: 17371451
+  name: Earth Eater
+- id: 17371452
+  name: Earth Eater
+- id: 17371453
+  name: Yagudo Mendicant
+- id: 17371454
+  name: Yagudo's Elemental
+- id: 17371455
+  name: Yagudo Piper
+- id: 17371456
+  name: Yagudo Persecutor
+- id: 17371457
+  name: Yagudo Mendicant
+- id: 17371458
+  name: Yagudo's Elemental
+- id: 17371459
+  name: Yagudo Piper
+- id: 17371460
+  name: Yagudo Persecutor
+- id: 17371461
+  name: Yagudo Mendicant
+- id: 17371462
+  name: Yagudo's Elemental
+- id: 17371463
+  name: Yagudo Piper
+- id: 17371464
+  name: Yagudo Persecutor
+- id: 17371465
+  name: Yagudo Mendicant
+- id: 17371466
+  name: Yagudo's Elemental
+- id: 17371467
+  name: Yagudo Piper
+- id: 17371468
+  name: Yagudo Persecutor
+- id: 17371469
+  name: Yagudo Mendicant
+- id: 17371470
+  name: Yagudo's Elemental
+- id: 17371471
+  name: Yagudo Piper
+- id: 17371472
+  name: Yagudo Persecutor
+- id: 17371473
+  name: Earth Eater
+- id: 17371474
+  name: Earth Eater
+- id: 17371475
+  name: Yagudo Mendicant
+- id: 17371476
+  name: Yagudo's Elemental
+- id: 17371477
+  name: Yagudo Piper
+- id: 17371478
+  name: Yagudo Persecutor
+- id: 17371479
+  name: Earth Eater
+- id: 17371480
+  name: Earth Eater
+- id: 17371481
+  name: Earth Eater
+- id: 17371482
+  name: Yagudo Mendicant
+- id: 17371483
+  name: Yagudo's Elemental
+- id: 17371484
+  name: Yagudo Piper
+- id: 17371485
+  name: Yagudo Persecutor
+- id: 17371486
+  name: Yagudo Mendicant
+- id: 17371487
+  name: Yagudo's Elemental
+- id: 17371488
+  name: Yagudo Piper
+- id: 17371489
+  name: Yagudo Persecutor
+- id: 17371490
+  name: Yagudo Mendicant
+- id: 17371491
+  name: Yagudo's Elemental
+- id: 17371492
+  name: Yagudo Piper
+- id: 17371493
+  name: Yagudo Persecutor
+- id: 17371494
+  name: Yagudo Piper
+- id: 17371495
+  name: Yagudo Persecutor
+- id: 17371496
+  name: Digger Wasp
+- id: 17371497
+  name: Digger Wasp
+- id: 17371498
+  name: Yagudo Mendicant
+- id: 17371499
+  name: Yagudo's Elemental
+- id: 17371500
+  name: Yagudo Piper
+- id: 17371501
+  name: Yagudo Persecutor
+- id: 17371502
+  name: Yagudo Persecutor
+- id: 17371503
+  name: Digger Wasp
+- id: 17371504
+  name: Yagudo Mendicant
+- id: 17371505
+  name: Yagudo's Elemental
+- id: 17371506
+  name: Yagudo Piper
+- id: 17371507
+  name: Yagudo Persecutor
+- id: 17371508
+  name: Yagudo Mendicant
+- id: 17371509
+  name: Yagudo's Elemental
+- id: 17371510
+  name: Yagudo Piper
+- id: 17371511
+  name: Digger Wasp
+- id: 17371512
+  name: Digger Wasp
+- id: 17371513
+  name: Yagudo Mendicant
+- id: 17371514
+  name: Yagudo's Elemental
+- id: 17371515
+  name: Hoo Mjuu the Torrent
+- id: 17371516
+  name: Yagudo Mendicant
+- id: 17371517
+  name: Yagudo's Elemental
+- id: 17371518
+  name: Yagudo Piper
+- id: 17371519
+  name: Yagudo Persecutor
+- id: 17371520
+  name: Digger Wasp
+- id: 17371521
+  name: Digger Wasp
+- id: 17371522
+  name: Yagudo Mendicant
+- id: 17371523
+  name: Yagudo's Elemental
+- id: 17371524
+  name: Yagudo Piper
+- id: 17371525
+  name: Yagudo Persecutor
+- id: 17371526
+  name: Yagudo Mendicant
+- id: 17371527
+  name: Yagudo's Elemental
+- id: 17371528
+  name: Yagudo Piper
+- id: 17371529
+  name: Yagudo Persecutor
+- id: 17371530
+  name: Yagudo Mendicant
+- id: 17371531
+  name: Yagudo's Elemental
+- id: 17371532
+  name: Yagudo Piper
+- id: 17371533
+  name: Yagudo Persecutor
+- id: 17371534
+  name: Yagudo Piper
+- id: 17371535
+  name: Yagudo Theologist
+- id: 17371536
+  name: Yagudo Priest
+- id: 17371537
+  name: Yagudo Votary
+- id: 17371538
+  name: Yagudo Votary
+- id: 17371539
+  name: Yagudo Theologist
+- id: 17371540
+  name: Yagudo Priest
+- id: 17371541
+  name: Digger Wasp
+- id: 17371542
+  name: Digger Wasp
+- id: 17371543
+  name: Yagudo Votary
+- id: 17371544
+  name: Yagudo Theologist
+- id: 17371545
+  name: Yagudo Priest
+- id: 17371546
+  name: Digger Wasp
+- id: 17371547
+  name: Digger Wasp
+- id: 17371548
+  name: Digger Wasp
+- id: 17371549
+  name: Yagudo Votary
+- id: 17371550
+  name: Yagudo Theologist
+- id: 17371551
+  name: Yagudo Priest
+- id: 17371552
+  name: Yagudo Votary
+- id: 17371553
+  name: Yagudo Theologist
+- id: 17371554
+  name: Yagudo Priest
+- id: 17371555
+  name: Digger Wasp
+- id: 17371556
+  name: Yagudo Votary
+- id: 17371557
+  name: Yagudo Theologist
+- id: 17371558
+  name: Yagudo Priest
+- id: 17371559
+  name: Yagudo Votary
+- id: 17371560
+  name: Yagudo Theologist
+- id: 17371561
+  name: Yagudo Priest
+- id: 17371562
+  name: Digger Wasp
+- id: 17371563
+  name: Yagudo Votary
+- id: 17371564
+  name: Yagudo Theologist
+- id: 17371565
+  name: Yagudo Priest
+- id: 17371566
+  name: Yagudo Votary
+- id: 17371567
+  name: Yagudo Theologist
+- id: 17371568
+  name: Yagudo Priest
+- id: 17371569
+  name: Digger Wasp
+- id: 17371570
+  name: Yagudo Votary
+- id: 17371571
+  name: Yagudo Theologist
+- id: 17371572
+  name: Yagudo Priest
+- id: 17371573
+  name: Yagudo Votary
+- id: 17371574
+  name: Yagudo Theologist
+- id: 17371575
+  name: Yagudo Priest
+- id: 17371576
+  name: Digger Wasp
+- id: 17371577
+  name: Yagudo Piper
+- id: 17371578
+  name: Vuu Puqu the Beguiler
+- id: 17371579
+  name: Vaa Huja the Erudite
+- id: 17371582
+  name: Achieve Master
+- id: 17371583
+  name: Unity Master
+- id: 17371588
+  name: Wistaria Doors
+- id: 17371589
+  name: Laa Mozi
+- id: 17371590
+  name: Ghoo Pakya
+- id: 17371591
+  name: Uu Zhoumo
+- id: 17371592
+  name: Quu Bokye
+- id: 17371593
+  name: Altar of Offerings
+- id: 17371594
+  name: Giddeus Spring
+- id: 17371595
+  name: Giddeus Spring
+- id: 17371597
+  name: Moogle
+- id: 17371598
+  name: Moogle
+- id: 17371599
+  name: Moogle
+- id: 17371600
+  name: Moogle
+- id: 17371601
+  name: Moogle
+- id: 17371602
+  name: Moogle
+- id: 17371603
+  name: Moogle
+- id: 17371604
+  name: Moogle
+- id: 17371605
+  name: ???
+- id: 17371606
+  name: DEBUG BOSS BREAKER
+- id: 17371607
+  name: ''
+- id: 17371608
+  name: Treasure Chest
+- id: 17371609
+  name: Harvesting Point
+- id: 17371610
+  name: Harvesting Point
+- id: 17371611
+  name: Harvesting Point
+- id: 17371612
+  name: Harvesting Point
+- id: 17371613
+  name: Harvesting Point
+- id: 17371614
+  name: Harvesting Point
+- id: 17371615
+  name: Huge Crystal
+- id: 17371616
+  name: 'Home Point #1'
+- id: 17371617
+  name: 'Home Point #2'
+- id: 17371618
+  name: 'Home Point #3'
+- id: 17371619
+  name: 'Home Point #4'
+- id: 17371620
+  name: 'Home Point #5'

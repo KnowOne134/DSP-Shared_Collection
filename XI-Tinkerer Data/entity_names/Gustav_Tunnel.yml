@@ -1,0 +1,683 @@
+names:
+- id: 17645569
+  name: Greater Gaylas
+- id: 17645570
+  name: Greater Gaylas
+- id: 17645571
+  name: Goblin Poacher
+- id: 17645572
+  name: Greater Gaylas
+- id: 17645573
+  name: Goblin Robber
+- id: 17645574
+  name: Labyrinth Lizard
+- id: 17645575
+  name: Labyrinth Lizard
+- id: 17645576
+  name: Labyrinth Leech
+- id: 17645577
+  name: Labyrinth Leech
+- id: 17645578
+  name: Bune
+- id: 17645579
+  name: Goblin Poacher
+- id: 17645580
+  name: Labyrinth Lizard
+- id: 17645581
+  name: Labyrinth Lizard
+- id: 17645582
+  name: Labyrinth Leech
+- id: 17645583
+  name: Labyrinth Leech
+- id: 17645584
+  name: Goblin Robber
+- id: 17645585
+  name: Labyrinth Lizard
+- id: 17645586
+  name: Labyrinth Lizard
+- id: 17645587
+  name: Labyrinth Leech
+- id: 17645588
+  name: Labyrinth Lizard
+- id: 17645589
+  name: Labyrinth Lizard
+- id: 17645590
+  name: Hell Bat
+- id: 17645591
+  name: Greater Gaylas
+- id: 17645592
+  name: Goblin Reaper
+- id: 17645593
+  name: Hawker
+- id: 17645594
+  name: Goblin Poacher
+- id: 17645595
+  name: Goblin Poacher
+- id: 17645596
+  name: Hawker
+- id: 17645597
+  name: Hawker
+- id: 17645598
+  name: Labyrinth Leech
+- id: 17645599
+  name: Goblin Robber
+- id: 17645600
+  name: Goblin Robber
+- id: 17645601
+  name: Hawker
+- id: 17645602
+  name: Hawker
+- id: 17645603
+  name: Labyrinth Leech
+- id: 17645604
+  name: Goblin Reaper
+- id: 17645605
+  name: Goblin Reaper
+- id: 17645606
+  name: Hawker
+- id: 17645607
+  name: Hawker
+- id: 17645608
+  name: Labyrinth Leech
+- id: 17645609
+  name: Goblinsavior Heronox
+- id: 17645610
+  name: Goblin Robber
+- id: 17645611
+  name: Hawker
+- id: 17645612
+  name: Goblin Reaper
+- id: 17645613
+  name: Hawker
+- id: 17645614
+  name: Hawker
+- id: 17645615
+  name: Goblin Poacher
+- id: 17645616
+  name: Hawker
+- id: 17645617
+  name: Hell Bat
+- id: 17645618
+  name: Hell Bat
+- id: 17645619
+  name: Hell Bat
+- id: 17645620
+  name: Makara
+- id: 17645621
+  name: Makara
+- id: 17645622
+  name: Makara
+- id: 17645623
+  name: Makara
+- id: 17645624
+  name: Makara
+- id: 17645625
+  name: Makara
+- id: 17645626
+  name: Makara
+- id: 17645627
+  name: Makara
+- id: 17645628
+  name: Labyrinth Lizard
+- id: 17645629
+  name: Greater Gaylas
+- id: 17645630
+  name: Greater Gaylas
+- id: 17645631
+  name: Robber Crab
+- id: 17645632
+  name: Robber Crab
+- id: 17645633
+  name: Goblin Mercenary
+- id: 17645634
+  name: Goblin Mercenary
+- id: 17645635
+  name: Goblin Alchemist
+- id: 17645636
+  name: Goblin Shepherd
+- id: 17645637
+  name: Goblin's Leech
+- id: 17645638
+  name: Goblin Shepherd
+- id: 17645639
+  name: Goblin's Leech
+- id: 17645640
+  name: Wyvernpoacher Drachlox
+- id: 17645641
+  name: Robber Crab
+- id: 17645642
+  name: Robber Crab
+- id: 17645643
+  name: Goblin Mercenary
+- id: 17645644
+  name: Goblin Mercenary
+- id: 17645645
+  name: Goblin Alchemist
+- id: 17645646
+  name: Goblin Shepherd
+- id: 17645647
+  name: Goblin's Leech
+- id: 17645648
+  name: Goblin Shepherd
+- id: 17645649
+  name: Goblin's Leech
+- id: 17645650
+  name: Robber Crab
+- id: 17645651
+  name: Goblin Shepherd
+- id: 17645652
+  name: Goblin's Leech
+- id: 17645653
+  name: Goblin Alchemist
+- id: 17645654
+  name: Robber Crab
+- id: 17645655
+  name: Robber Crab
+- id: 17645656
+  name: Doom Soldier
+- id: 17645657
+  name: Doom Soldier
+- id: 17645658
+  name: Doom Mage
+- id: 17645659
+  name: Doom Mage
+- id: 17645660
+  name: Robber Crab
+- id: 17645661
+  name: Robber Crab
+- id: 17645662
+  name: Doom Soldier
+- id: 17645663
+  name: Doom Soldier
+- id: 17645664
+  name: Doom Mage
+- id: 17645665
+  name: Doom Mage
+- id: 17645666
+  name: Robber Crab
+- id: 17645667
+  name: Robber Crab
+- id: 17645668
+  name: Doom Soldier
+- id: 17645669
+  name: Robber Crab
+- id: 17645670
+  name: Robber Crab
+- id: 17645671
+  name: Doom Soldier
+- id: 17645672
+  name: Doom Soldier
+- id: 17645673
+  name: Boulder Eater
+- id: 17645674
+  name: Boulder Eater
+- id: 17645675
+  name: Boulder Eater
+- id: 17645676
+  name: Pygmytoise
+- id: 17645677
+  name: Boulder Eater
+- id: 17645678
+  name: Boulder Eater
+- id: 17645679
+  name: Pygmytoise
+- id: 17645680
+  name: Pygmytoise
+- id: 17645681
+  name: Pygmytoise
+- id: 17645682
+  name: Boulder Eater
+- id: 17645683
+  name: Boulder Eater
+- id: 17645684
+  name: Boulder Eater
+- id: 17645685
+  name: Boulder Eater
+- id: 17645686
+  name: Boulder Eater
+- id: 17645687
+  name: Earth Elemental
+- id: 17645688
+  name: Pygmytoise
+- id: 17645689
+  name: Pygmytoise
+- id: 17645690
+  name: Pygmytoise
+- id: 17645691
+  name: Boulder Eater
+- id: 17645692
+  name: Boulder Eater
+- id: 17645693
+  name: Boulder Eater
+- id: 17645694
+  name: Boulder Eater
+- id: 17645695
+  name: Boulder Eater
+- id: 17645696
+  name: Boulder Eater
+- id: 17645697
+  name: Earth Elemental
+- id: 17645698
+  name: Robber Crab
+- id: 17645699
+  name: Robber Crab
+- id: 17645700
+  name: Doom Guard
+- id: 17645701
+  name: Doom Guard
+- id: 17645702
+  name: Doom Warlock
+- id: 17645703
+  name: Doom Warlock
+- id: 17645704
+  name: Doom Guard
+- id: 17645705
+  name: Doom Warlock
+- id: 17645706
+  name: Doom Warlock
+- id: 17645707
+  name: Doom Guard
+- id: 17645708
+  name: Fire Elemental
+- id: 17645709
+  name: Doom Warlock
+- id: 17645710
+  name: Doom Warlock
+- id: 17645711
+  name: Doom Guard
+- id: 17645712
+  name: Doom Guard
+- id: 17645713
+  name: Typhoon Wyvern
+- id: 17645714
+  name: Demonic Pugil
+- id: 17645715
+  name: Doom Warlock
+- id: 17645716
+  name: Typhoon Wyvern
+- id: 17645717
+  name: Erlik
+- id: 17645718
+  name: Erlik
+- id: 17645719
+  name: Baobhan Sith
+- id: 17645720
+  name: Doom Warlock
+- id: 17645721
+  name: Doom Guard
+- id: 17645722
+  name: Doom Guard
+- id: 17645723
+  name: Typhoon Wyvern
+- id: 17645724
+  name: Demonic Pugil
+- id: 17645725
+  name: Doom Warlock
+- id: 17645726
+  name: Doom Warlock
+- id: 17645727
+  name: Doom Guard
+- id: 17645728
+  name: Demonic Pugil
+- id: 17645729
+  name: Demonic Pugil
+- id: 17645730
+  name: Demonic Pugil
+- id: 17645731
+  name: Doom Warlock
+- id: 17645732
+  name: Doom Guard
+- id: 17645733
+  name: Doom Guard
+- id: 17645734
+  name: Doom Warlock
+- id: 17645735
+  name: Doom Guard
+- id: 17645736
+  name: Demonic Pugil
+- id: 17645737
+  name: Antares
+- id: 17645738
+  name: Doom Warlock
+- id: 17645739
+  name: Doom Warlock
+- id: 17645740
+  name: Demonic Pugil
+- id: 17645741
+  name: Erlik
+- id: 17645742
+  name: Taxim
+- id: 17645743
+  name: Doom Guard
+- id: 17645744
+  name: Doom Warlock
+- id: 17645745
+  name: Demonic Pugil
+- id: 17645746
+  name: Demonic Pugil
+- id: 17645747
+  name: Doom Guard
+- id: 17645748
+  name: Doom Warlock
+- id: 17645749
+  name: Doom Warlock
+- id: 17645750
+  name: Demonic Pugil
+- id: 17645751
+  name: Doom Guard
+- id: 17645752
+  name: Demonic Pugil
+- id: 17645753
+  name: Erlik
+- id: 17645754
+  name: Typhoon Wyvern
+- id: 17645755
+  name: Ungur
+- id: 17645756
+  name: Doom Guard
+- id: 17645757
+  name: Demonic Pugil
+- id: 17645758
+  name: Typhoon Wyvern
+- id: 17645759
+  name: Demonic Pugil
+- id: 17645760
+  name: Demonic Pugil
+- id: 17645761
+  name: Demonic Pugil
+- id: 17645762
+  name: Doom Guard
+- id: 17645763
+  name: Antares
+- id: 17645764
+  name: Typhoon Wyvern
+- id: 17645765
+  name: Doom Warlock
+- id: 17645766
+  name: Demonic Pugil
+- id: 17645767
+  name: Antares
+- id: 17645768
+  name: Antares
+- id: 17645769
+  name: Earth Elemental
+- id: 17645770
+  name: Doom Guard
+- id: 17645771
+  name: Demonic Pugil
+- id: 17645772
+  name: Antares
+- id: 17645773
+  name: Fire Elemental
+- id: 17645774
+  name: Amikiri
+- id: 17645775
+  name: Demonic Pugil
+- id: 17645776
+  name: Demonic Pugil
+- id: 17645777
+  name: Doom Guard
+- id: 17645778
+  name: Doom Warlock
+- id: 17645779
+  name: Doom Warlock
+- id: 17645780
+  name: Demonic Pugil
+- id: 17645781
+  name: Doom Warlock
+- id: 17645782
+  name: Doom Warlock
+- id: 17645783
+  name: Demonic Pugil
+- id: 17645784
+  name: Typhoon Wyvern
+- id: 17645785
+  name: Doom Guard
+- id: 17645786
+  name: Doom Guard
+- id: 17645787
+  name: Demonic Pugil
+- id: 17645788
+  name: Erlik
+- id: 17645789
+  name: Doom Guard
+- id: 17645790
+  name: Doom Warlock
+- id: 17645791
+  name: Erlik
+- id: 17645792
+  name: Typhoon Wyvern
+- id: 17645793
+  name: Demonic Pugil
+- id: 17645794
+  name: Gigaplasm
+- id: 17645795
+  name: Macroplasm
+- id: 17645796
+  name: Macroplasm
+- id: 17645797
+  name: Microplasm
+- id: 17645798
+  name: Microplasm
+- id: 17645799
+  name: Microplasm
+- id: 17645800
+  name: Microplasm
+- id: 17645801
+  name: Nanoplasm
+- id: 17645802
+  name: Nanoplasm
+- id: 17645803
+  name: Nanoplasm
+- id: 17645804
+  name: Nanoplasm
+- id: 17645805
+  name: Nanoplasm
+- id: 17645806
+  name: Nanoplasm
+- id: 17645807
+  name: Nanoplasm
+- id: 17645808
+  name: Nanoplasm
+- id: 17645809
+  name: Baronial Bat
+- id: 17645810
+  name: Renfred
+- id: 17645811
+  name: Renfred
+- id: 17645812
+  name: Renfred
+- id: 17645813
+  name: Renfred
+- id: 17645814
+  name: Gorattz
+- id: 17645815
+  name: Gorattz
+- id: 17645816
+  name: Gorattz
+- id: 17645817
+  name: Gorattz
+- id: 17645818
+  name: Bompupu
+- id: 17645819
+  name: Bompupu
+- id: 17645820
+  name: Bompupu
+- id: 17645821
+  name: Bompupu
+- id: 17645822
+  name: Wyvernhunter Bambrox
+- id: 17645823
+  name: Goblin Mine
+- id: 17645824
+  name: Goblin Mine
+- id: 17645825
+  name: Goblin Mine
+- id: 17645826
+  name: Goblin Mine
+- id: 17645827
+  name: Goblin Mine
+- id: 17645828
+  name: Goblin Mine
+- id: 17645829
+  name: Goblin Mine
+- id: 17645830
+  name: Goblin Mine
+- id: 17645831
+  name: Wyvernhunter Bambrox
+- id: 17645832
+  name: Goblin Mine
+- id: 17645833
+  name: Goblin Mine
+- id: 17645834
+  name: Goblin Mine
+- id: 17645835
+  name: Goblin Mine
+- id: 17645836
+  name: Goblin Mine
+- id: 17645837
+  name: Goblin Mine
+- id: 17645838
+  name: Goblin Mine
+- id: 17645839
+  name: Goblin Mine
+- id: 17645840
+  name: Wyvernhunter Bambrox
+- id: 17645841
+  name: Goblin Mine
+- id: 17645842
+  name: Goblin Mine
+- id: 17645843
+  name: Goblin Mine
+- id: 17645844
+  name: Goblin Mine
+- id: 17645845
+  name: Goblin Mine
+- id: 17645846
+  name: Goblin Mine
+- id: 17645847
+  name: Goblin Mine
+- id: 17645848
+  name: Goblin Mine
+- id: 17645850
+  name: ???
+- id: 17645851
+  name: Treasure Casket
+- id: 17645852
+  name: Treasure Casket
+- id: 17645853
+  name: Treasure Casket
+- id: 17645854
+  name: Treasure Casket
+- id: 17645855
+  name: Treasure Casket
+- id: 17645856
+  name: Treasure Casket
+- id: 17645857
+  name: Treasure Casket
+- id: 17645858
+  name: Treasure Casket
+- id: 17645859
+  name: Treasure Casket
+- id: 17645860
+  name: Treasure Casket
+- id: 17645861
+  name: Treasure Casket
+- id: 17645862
+  name: Treasure Casket
+- id: 17645863
+  name: Treasure Casket
+- id: 17645864
+  name: Treasure Casket
+- id: 17645865
+  name: Treasure Casket
+- id: 17645866
+  name: Treasure Casket
+- id: 17645867
+  name: Achieve Master
+- id: 17645868
+  name: Unity Master
+- id: 17645873
+  name: ''
+- id: 17645874
+  name: ''
+- id: 17645876
+  name: Moogle
+- id: 17645877
+  name: Moogle
+- id: 17645878
+  name: Moogle
+- id: 17645879
+  name: Moogle
+- id: 17645880
+  name: Moogle
+- id: 17645881
+  name: Moogle
+- id: 17645882
+  name: Moogle
+- id: 17645883
+  name: Moogle
+- id: 17645884
+  name: ???
+- id: 17645885
+  name: GoalPoint
+- id: 17645886
+  name: GoalPoint
+- id: 17645887
+  name: GoalPoint
+- id: 17645888
+  name: GoalPoint
+- id: 17645889
+  name: GoalPoint
+- id: 17645890
+  name: GoalPoint
+- id: 17645891
+  name: Moogle
+- id: 17645892
+  name: Moogle
+- id: 17645893
+  name: Moogle
+- id: 17645894
+  name: Moogle
+- id: 17645895
+  name: Moogle
+- id: 17645896
+  name: Moogle
+- id: 17645897
+  name: Ramblix
+- id: 17645898
+  name: Goblin Footprint
+- id: 17645899
+  name: ''
+- id: 17645900
+  name: ???
+- id: 17645901
+  name: ''
+- id: 17645902
+  name: Aldo
+- id: 17645903
+  name: Renfred
+- id: 17645904
+  name: Gorattz
+- id: 17645905
+  name: Bompupu
+- id: 17645906
+  name: Outcropping
+- id: 17645907
+  name: Ethereal Junction
+- id: 17645908
+  name: Ethereal Junction
+- id: 17645909
+  name: Ethereal Junction
+- id: 17645910
+  name: Grounds Tome
+- id: 17645911
+  name: Grounds Tome
+- id: 17645912
+  name: Grounds Tome
+- id: 17645913
+  name: Grounds Tome
+- id: 17645914
+  name: Geomagnetic Fount
+- id: 17645915
+  name: Survival Guide

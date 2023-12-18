@@ -1,0 +1,777 @@
+names:
+- id: 17420289
+  name: Mold Bats
+- id: 17420290
+  name: Mold Bats
+- id: 17420291
+  name: Mold Bats
+- id: 17420292
+  name: Stirge
+- id: 17420293
+  name: Stirge
+- id: 17420294
+  name: Goblin Pathfinder
+- id: 17420295
+  name: Goblin's Bat
+- id: 17420296
+  name: Goblin Furrier
+- id: 17420297
+  name: Goblin Smithy
+- id: 17420298
+  name: Goblin Shaman
+- id: 17420299
+  name: Goblin Pathfinder
+- id: 17420300
+  name: Goblin's Bat
+- id: 17420301
+  name: Goblin Furrier
+- id: 17420302
+  name: Goblin Smithy
+- id: 17420303
+  name: Goblin Shaman
+- id: 17420304
+  name: Goblin Pathfinder
+- id: 17420305
+  name: Goblin's Bat
+- id: 17420306
+  name: Goblin Furrier
+- id: 17420307
+  name: Goblin Smithy
+- id: 17420308
+  name: Goblin Shaman
+- id: 17420309
+  name: Goblin Pathfinder
+- id: 17420310
+  name: Goblin's Bat
+- id: 17420311
+  name: Goblin Furrier
+- id: 17420312
+  name: Goblin Smithy
+- id: 17420313
+  name: Goblin Shaman
+- id: 17420314
+  name: Giant Gatekeeper
+- id: 17420315
+  name: Giant Guard
+- id: 17420316
+  name: Giant Sentry
+- id: 17420317
+  name: Gigas's Bat
+- id: 17420318
+  name: Giant Lobber
+- id: 17420319
+  name: Giant Gatekeeper
+- id: 17420320
+  name: Giant Guard
+- id: 17420321
+  name: Giant Sentry
+- id: 17420322
+  name: Gigas's Bat
+- id: 17420323
+  name: Giant Lobber
+- id: 17420324
+  name: Eurytos
+- id: 17420325
+  name: Giant Gatekeeper
+- id: 17420326
+  name: Giant Guard
+- id: 17420327
+  name: Giant Sentry
+- id: 17420328
+  name: Gigas's Bat
+- id: 17420329
+  name: Giant Lobber
+- id: 17420330
+  name: Goblin Pathfinder
+- id: 17420331
+  name: Goblin's Bat
+- id: 17420332
+  name: Goblin Furrier
+- id: 17420333
+  name: Goblin Smithy
+- id: 17420334
+  name: Goblin Shaman
+- id: 17420335
+  name: Goblin Pathfinder
+- id: 17420336
+  name: Goblin's Bat
+- id: 17420337
+  name: Goblin Furrier
+- id: 17420338
+  name: Goblin Smithy
+- id: 17420339
+  name: Goblin Shaman
+- id: 17420340
+  name: Magic Pot
+- id: 17420341
+  name: Panzer Doll
+- id: 17420342
+  name: Panzer Doll
+- id: 17420343
+  name: Mold Bats
+- id: 17420344
+  name: Mold Bats
+- id: 17420345
+  name: Stirge
+- id: 17420346
+  name: Magic Pot
+- id: 17420347
+  name: Magic Pot
+- id: 17420348
+  name: Mold Bats
+- id: 17420349
+  name: Stirge
+- id: 17420350
+  name: Stirge
+- id: 17420351
+  name: Banshee
+- id: 17420352
+  name: Stirge
+- id: 17420353
+  name: Stirge
+- id: 17420354
+  name: Banshee
+- id: 17420355
+  name: Goblin Pathfinder
+- id: 17420356
+  name: Goblin's Bat
+- id: 17420357
+  name: Goblin Furrier
+- id: 17420358
+  name: Goblin Smithy
+- id: 17420359
+  name: Goblin Shaman
+- id: 17420360
+  name: Goblin Pathfinder
+- id: 17420361
+  name: Goblin's Bat
+- id: 17420362
+  name: Goblin Furrier
+- id: 17420363
+  name: Goblin Smithy
+- id: 17420364
+  name: Goblin Shaman
+- id: 17420365
+  name: Banshee
+- id: 17420366
+  name: Evil Spirit
+- id: 17420367
+  name: Goblin Pathfinder
+- id: 17420368
+  name: Goblin's Bat
+- id: 17420369
+  name: Goblin Furrier
+- id: 17420370
+  name: Goblin Smithy
+- id: 17420371
+  name: Goblin Shaman
+- id: 17420372
+  name: Goblin Pathfinder
+- id: 17420373
+  name: Goblin's Bat
+- id: 17420374
+  name: Goblin Furrier
+- id: 17420375
+  name: Goblin Smithy
+- id: 17420376
+  name: Goblin Shaman
+- id: 17420377
+  name: Giant Gatekeeper
+- id: 17420378
+  name: Giant Guard
+- id: 17420379
+  name: Giant Sentry
+- id: 17420380
+  name: Gigas's Bat
+- id: 17420381
+  name: Giant Lobber
+- id: 17420382
+  name: Polybotes
+- id: 17420383
+  name: Giant Gatekeeper
+- id: 17420384
+  name: Giant Guard
+- id: 17420385
+  name: Giant Sentry
+- id: 17420386
+  name: Gigas's Bat
+- id: 17420387
+  name: Giant Lobber
+- id: 17420388
+  name: Giant Gatekeeper
+- id: 17420389
+  name: Giant Guard
+- id: 17420390
+  name: Giant Sentry
+- id: 17420391
+  name: Gigas's Bat
+- id: 17420392
+  name: Giant Lobber
+- id: 17420393
+  name: Giant Gatekeeper
+- id: 17420394
+  name: Giant Guard
+- id: 17420395
+  name: Giant Sentry
+- id: 17420396
+  name: Gigas's Bat
+- id: 17420397
+  name: Giant Lobber
+- id: 17420398
+  name: Giant Gatekeeper
+- id: 17420399
+  name: Giant Guard
+- id: 17420400
+  name: Giant Sentry
+- id: 17420401
+  name: Gigas's Bat
+- id: 17420402
+  name: Giant Lobber
+- id: 17420403
+  name: Giant Gatekeeper
+- id: 17420404
+  name: Giant Guard
+- id: 17420405
+  name: Giant Sentry
+- id: 17420406
+  name: Gigas's Bat
+- id: 17420407
+  name: Giant Lobber
+- id: 17420408
+  name: Giant Gatekeeper
+- id: 17420409
+  name: Giant Guard
+- id: 17420410
+  name: Giant Sentry
+- id: 17420411
+  name: Gigas's Bat
+- id: 17420412
+  name: Giant Lobber
+- id: 17420413
+  name: Panzer Doll
+- id: 17420414
+  name: Panzer Doll
+- id: 17420415
+  name: Magic Pot
+- id: 17420416
+  name: Magic Pot
+- id: 17420417
+  name: Rhoitos
+- id: 17420418
+  name: Giant Gatekeeper
+- id: 17420419
+  name: Giant Guard
+- id: 17420420
+  name: Giant Sentry
+- id: 17420421
+  name: Gigas's Bat
+- id: 17420422
+  name: Giant Lobber
+- id: 17420423
+  name: Goblin Pathfinder
+- id: 17420424
+  name: Goblin's Bat
+- id: 17420425
+  name: Goblin Furrier
+- id: 17420426
+  name: Goblin Smithy
+- id: 17420427
+  name: Goblin Shaman
+- id: 17420428
+  name: Goblin Pathfinder
+- id: 17420429
+  name: Goblin's Bat
+- id: 17420430
+  name: Goblin Furrier
+- id: 17420431
+  name: Goblin Smithy
+- id: 17420432
+  name: Goblin Shaman
+- id: 17420433
+  name: Goblin Pathfinder
+- id: 17420434
+  name: Goblin's Bat
+- id: 17420435
+  name: Goblin Furrier
+- id: 17420436
+  name: Goblin Smithy
+- id: 17420437
+  name: Goblin Shaman
+- id: 17420438
+  name: Thunder Elemental
+- id: 17420439
+  name: Light Elemental
+- id: 17420440
+  name: Goblin Pathfinder
+- id: 17420441
+  name: Goblin's Bat
+- id: 17420442
+  name: Goblin Furrier
+- id: 17420443
+  name: Goblin Smithy
+- id: 17420444
+  name: Goblin Shaman
+- id: 17420445
+  name: Goblin Pathfinder
+- id: 17420446
+  name: Goblin's Bat
+- id: 17420447
+  name: Goblin Furrier
+- id: 17420448
+  name: Goblin Smithy
+- id: 17420449
+  name: Goblin Shaman
+- id: 17420450
+  name: Goblin Pathfinder
+- id: 17420451
+  name: Goblin's Bat
+- id: 17420452
+  name: Goblin Furrier
+- id: 17420453
+  name: Goblin Smithy
+- id: 17420454
+  name: Goblin Shaman
+- id: 17420455
+  name: Goblin Pathfinder
+- id: 17420456
+  name: Goblin's Bat
+- id: 17420457
+  name: Goblin Furrier
+- id: 17420458
+  name: Goblin Smithy
+- id: 17420459
+  name: Goblin Shaman
+- id: 17420460
+  name: Goblin Pathfinder
+- id: 17420461
+  name: Goblin's Bat
+- id: 17420462
+  name: Goblin Furrier
+- id: 17420463
+  name: Goblin Smithy
+- id: 17420464
+  name: Goblin Shaman
+- id: 17420465
+  name: Goblin Pathfinder
+- id: 17420466
+  name: Goblin's Bat
+- id: 17420467
+  name: Goblin Furrier
+- id: 17420468
+  name: Goblin Smithy
+- id: 17420469
+  name: Goblin Shaman
+- id: 17420470
+  name: Tower Bats
+- id: 17420471
+  name: Tower Bats
+- id: 17420472
+  name: Goblin Pathfinder
+- id: 17420473
+  name: Goblin's Bat
+- id: 17420474
+  name: Goblin Furrier
+- id: 17420475
+  name: Goblin Smithy
+- id: 17420476
+  name: Goblin Shaman
+- id: 17420477
+  name: Goblin Pathfinder
+- id: 17420478
+  name: Goblin's Bat
+- id: 17420479
+  name: Goblin Furrier
+- id: 17420480
+  name: Goblin Smithy
+- id: 17420481
+  name: Goblin Shaman
+- id: 17420482
+  name: Big Bat
+- id: 17420483
+  name: Big Bat
+- id: 17420484
+  name: Magic Jar
+- id: 17420485
+  name: Thunder Elemental
+- id: 17420486
+  name: Light Elemental
+- id: 17420487
+  name: Goblin Pathfinder
+- id: 17420488
+  name: Goblin's Bat
+- id: 17420489
+  name: Goblin Furrier
+- id: 17420490
+  name: Goblin Smithy
+- id: 17420491
+  name: Goblin Shaman
+- id: 17420492
+  name: Goblin Pathfinder
+- id: 17420493
+  name: Goblin's Bat
+- id: 17420494
+  name: Goblin Furrier
+- id: 17420495
+  name: Goblin Smithy
+- id: 17420496
+  name: Goblin Shaman
+- id: 17420497
+  name: Tower Bats
+- id: 17420498
+  name: Tower Bats
+- id: 17420499
+  name: Goblin Pathfinder
+- id: 17420500
+  name: Goblin's Bat
+- id: 17420501
+  name: Goblin Furrier
+- id: 17420502
+  name: Goblin Smithy
+- id: 17420503
+  name: Goblin Shaman
+- id: 17420504
+  name: Goblin Pathfinder
+- id: 17420505
+  name: Goblin's Bat
+- id: 17420506
+  name: Goblin Furrier
+- id: 17420507
+  name: Goblin Smithy
+- id: 17420508
+  name: Goblin Shaman
+- id: 17420509
+  name: Big Bat
+- id: 17420510
+  name: Big Bat
+- id: 17420511
+  name: Gigas Wallwatcher
+- id: 17420512
+  name: Gigas Jailer
+- id: 17420513
+  name: Gigas Kettlemaster
+- id: 17420514
+  name: Gigas's Bats
+- id: 17420515
+  name: Gigas Quarrier
+- id: 17420516
+  name: Gigas Wallwatcher
+- id: 17420517
+  name: Gigas Jailer
+- id: 17420518
+  name: Gigas Kettlemaster
+- id: 17420519
+  name: Gigas's Bats
+- id: 17420520
+  name: Gigas Quarrier
+- id: 17420521
+  name: Tower Bats
+- id: 17420522
+  name: Tower Bats
+- id: 17420523
+  name: Tower Bats
+- id: 17420524
+  name: Big Bat
+- id: 17420525
+  name: Big Bat
+- id: 17420526
+  name: Big Bat
+- id: 17420527
+  name: Gigas Kettlemaster
+- id: 17420528
+  name: Gigas's Bats
+- id: 17420529
+  name: Ophion
+- id: 17420530
+  name: Gigas's Bats
+- id: 17420531
+  name: Evil Spirit
+- id: 17420532
+  name: Evil Spirit
+- id: 17420533
+  name: Thunder Elemental
+- id: 17420534
+  name: Light Elemental
+- id: 17420535
+  name: Goblin Pathfinder
+- id: 17420536
+  name: Goblin's Bat
+- id: 17420537
+  name: Goblin Furrier
+- id: 17420538
+  name: Goblin Smithy
+- id: 17420539
+  name: Goblin Shaman
+- id: 17420540
+  name: Goblin Pathfinder
+- id: 17420541
+  name: Goblin's Bat
+- id: 17420542
+  name: Goblin Furrier
+- id: 17420543
+  name: Goblin Smithy
+- id: 17420544
+  name: Goblin Shaman
+- id: 17420545
+  name: Gigas Wallwatcher
+- id: 17420546
+  name: Gigas Jailer
+- id: 17420547
+  name: Gigas Kettlemaster
+- id: 17420548
+  name: Gigas's Bats
+- id: 17420549
+  name: Gigas Quarrier
+- id: 17420550
+  name: Gigas Wallwatcher
+- id: 17420551
+  name: Gigas Jailer
+- id: 17420552
+  name: Gigas Kettlemaster
+- id: 17420553
+  name: Gigas's Bats
+- id: 17420554
+  name: Gigas Quarrier
+- id: 17420555
+  name: Rhoikos
+- id: 17420556
+  name: Gigas Quarrier
+- id: 17420557
+  name: Gigas Wallwatcher
+- id: 17420558
+  name: Gigas Jailer
+- id: 17420559
+  name: Gigas Kettlemaster
+- id: 17420560
+  name: Gigas's Bats
+- id: 17420561
+  name: Gigas Quarrier
+- id: 17420562
+  name: Gigas Wallwatcher
+- id: 17420563
+  name: Gigas Jailer
+- id: 17420564
+  name: Gigas Kettlemaster
+- id: 17420565
+  name: Gigas's Bats
+- id: 17420566
+  name: Gigas Quarrier
+- id: 17420567
+  name: Tower Bats
+- id: 17420568
+  name: Tower Bats
+- id: 17420569
+  name: Tower Bats
+- id: 17420570
+  name: Big Bat
+- id: 17420571
+  name: Big Bat
+- id: 17420572
+  name: Jagd Doll
+- id: 17420573
+  name: Jagd Doll
+- id: 17420574
+  name: Thunder Elemental
+- id: 17420575
+  name: Light Elemental
+- id: 17420576
+  name: Tower Bats
+- id: 17420577
+  name: Big Bat
+- id: 17420578
+  name: Big Bat
+- id: 17420579
+  name: Tower Bats
+- id: 17420580
+  name: Tower Bats
+- id: 17420581
+  name: Big Bat
+- id: 17420582
+  name: Evil Spirit
+- id: 17420583
+  name: Big Bat
+- id: 17420584
+  name: Big Bat
+- id: 17420585
+  name: Big Bat
+- id: 17420586
+  name: Big Bat
+- id: 17420587
+  name: Big Bat
+- id: 17420588
+  name: Big Bat
+- id: 17420589
+  name: Magic Jar
+- id: 17420590
+  name: Thunder Elemental
+- id: 17420591
+  name: Light Elemental
+- id: 17420592
+  name: Ogygos
+- id: 17420593
+  name: Gigas Wallwatcher
+- id: 17420594
+  name: Gigas Jailer
+- id: 17420595
+  name: Gigas Wallwatcher
+- id: 17420596
+  name: Gigas Jailer
+- id: 17420597
+  name: Gigas Kettlemaster
+- id: 17420598
+  name: Gigas's Bats
+- id: 17420599
+  name: Gigas Quarrier
+- id: 17420600
+  name: Gigas Wallwatcher
+- id: 17420601
+  name: Gigas Jailer
+- id: 17420602
+  name: Gigas Kettlemaster
+- id: 17420603
+  name: Gigas's Bats
+- id: 17420604
+  name: Gigas Quarrier
+- id: 17420605
+  name: Gigas Wallwatcher
+- id: 17420606
+  name: Gigas Jailer
+- id: 17420607
+  name: Gigas Kettlemaster
+- id: 17420608
+  name: Gigas's Bats
+- id: 17420609
+  name: Gigas Quarrier
+- id: 17420610
+  name: Gigas Wallwatcher
+- id: 17420611
+  name: Gigas Jailer
+- id: 17420612
+  name: Gigas Kettlemaster
+- id: 17420613
+  name: Gigas's Bats
+- id: 17420614
+  name: Gigas Quarrier
+- id: 17420615
+  name: Goblin Pathfinder
+- id: 17420616
+  name: Goblin's Bat
+- id: 17420617
+  name: Goblin Furrier
+- id: 17420618
+  name: Goblin Smithy
+- id: 17420619
+  name: Goblin Shaman
+- id: 17420620
+  name: Goblin Pathfinder
+- id: 17420621
+  name: Goblin's Bat
+- id: 17420622
+  name: Goblin Furrier
+- id: 17420623
+  name: Goblin Smithy
+- id: 17420624
+  name: Goblin Shaman
+- id: 17420625
+  name: Magic Jar
+- id: 17420626
+  name: Jagd Doll
+- id: 17420627
+  name: Thunder Elemental
+- id: 17420628
+  name: Light Elemental
+- id: 17420629
+  name: Gerwitz's Scythe
+- id: 17420630
+  name: Scythe Victim
+- id: 17420631
+  name: Scythe Victim
+- id: 17420633
+  name: Seed Fragment
+- id: 17420634
+  name: Seed Afterglow
+- id: 17420635
+  name: Seed Afterglow
+- id: 17420636
+  name: Seed Afterglow
+- id: 17420637
+  name: Seed Afterglow
+- id: 17420638
+  name: Seed Afterglow
+- id: 17420639
+  name: Seed Afterglow
+- id: 17420640
+  name: Treasure Casket
+- id: 17420641
+  name: Treasure Casket
+- id: 17420642
+  name: Treasure Casket
+- id: 17420643
+  name: Treasure Casket
+- id: 17420644
+  name: Treasure Casket
+- id: 17420645
+  name: Treasure Casket
+- id: 17420646
+  name: Treasure Casket
+- id: 17420647
+  name: Treasure Casket
+- id: 17420648
+  name: Treasure Casket
+- id: 17420649
+  name: Treasure Casket
+- id: 17420650
+  name: Treasure Casket
+- id: 17420651
+  name: Treasure Casket
+- id: 17420652
+  name: Treasure Casket
+- id: 17420653
+  name: Treasure Casket
+- id: 17420654
+  name: Treasure Casket
+- id: 17420655
+  name: Treasure Casket
+- id: 17420656
+  name: Achieve Master
+- id: 17420657
+  name: Unity Master
+- id: 17420662
+  name: DEBUG FLAG
+- id: 17420663
+  name: ???
+- id: 17420664
+  name: Zeid
+- id: 17420665
+  name: ''
+- id: 17420667
+  name: Moogle
+- id: 17420668
+  name: Moogle
+- id: 17420669
+  name: Moogle
+- id: 17420670
+  name: Moogle
+- id: 17420671
+  name: Moogle
+- id: 17420672
+  name: Moogle
+- id: 17420673
+  name: Moogle
+- id: 17420674
+  name: Moogle
+- id: 17420675
+  name: ''
+- id: 17420676
+  name: Treasure Chest
+- id: 17420677
+  name: Ramblix
+- id: 17420678
+  name: Goblin Footprint
+- id: 17420679
+  name: Grounds Tome
+- id: 17420680
+  name: Grounds Tome
+- id: 17420681
+  name: Grounds Tome
+- id: 17420682
+  name: Grounds Tome

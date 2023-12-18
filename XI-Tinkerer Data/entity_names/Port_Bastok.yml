@@ -1,0 +1,679 @@
+names:
+- id: 17743873
+  name: Argus
+- id: 17743874
+  name: OpeningTest
+- id: 17743875
+  name: Nicadio
+- id: 17743876
+  name: Cornelia
+- id: 17743877
+  name: Flying Axe, I.M.
+- id: 17743878
+  name: Tiger Tooth
+- id: 17743879
+  name: Kagetora
+- id: 17743880
+  name: Talib
+- id: 17743881
+  name: Paujean
+- id: 17743882
+  name: Jabbar
+- id: 17743883
+  name: Silver Owl
+- id: 17743884
+  name: Carmelo
+- id: 17743885
+  name: Otto
+- id: 17743886
+  name: Powhatan
+- id: 17743887
+  name: Sawyer
+- id: 17743888
+  name: Melloa
+- id: 17743889
+  name: Trilok
+- id: 17743890
+  name: Mustafa
+- id: 17743891
+  name: Bartolomeo
+- id: 17743892
+  name: Carey
+- id: 17743893
+  name: Klaus
+- id: 17743894
+  name: Evrain
+- id: 17743895
+  name: Bodaway
+- id: 17743896
+  name: Bruno
+- id: 17743897
+  name: Latifah
+- id: 17743898
+  name: Evelyn
+- id: 17743899
+  name: Rex
+- id: 17743900
+  name: Ihsan
+- id: 17743901
+  name: Johanna
+- id: 17743902
+  name: Agapito
+- id: 17743903
+  name: Evi
+- id: 17743904
+  name: Rafaela
+- id: 17743905
+  name: Kurando
+- id: 17743906
+  name: Galvin
+- id: 17743907
+  name: Numa
+- id: 17743908
+  name: Belka
+- id: 17743909
+  name: Ensetsu
+- id: 17743910
+  name: Kaede
+- id: 17743911
+  name: Kaede
+- id: 17743912
+  name: Steel Bones
+- id: 17743913
+  name: Domien
+- id: 17743914
+  name: Zeldaff
+- id: 17743915
+  name: Gudav
+- id: 17743916
+  name: Qiji
+- id: 17743917
+  name: Romilda
+- id: 17743918
+  name: Tete
+- id: 17743919
+  name: Rin
+- id: 17743920
+  name: Ronan
+- id: 17743921
+  name: Corann
+- id: 17743922
+  name: Lone Horn
+- id: 17743923
+  name: Vattian
+- id: 17743924
+  name: Eburacon
+- id: 17743925
+  name: Blayne
+- id: 17743926
+  name: Mine Konte
+- id: 17743927
+  name: Panana
+- id: 17743928
+  name: Dehlner
+- id: 17743929
+  name: Wurteh
+- id: 17743930
+  name: Benita
+- id: 17743931
+  name: Mathurin
+- id: 17743932
+  name: Tilian
+- id: 17743933
+  name: Rosswald
+- id: 17743934
+  name: Kachada
+- id: 17743935
+  name: Ehrhard
+- id: 17743936
+  name: Hilda
+- id: 17743937
+  name: Rajesh
+- id: 17743938
+  name: Varden
+- id: 17743939
+  name: Aishah
+- id: 17743940
+  name: Raibaht
+- id: 17743941
+  name: Fo Mocorho
+- id: 17743942
+  name: Valah Molkot
+- id: 17743943
+  name: Dulsie
+- id: 17743944
+  name: 'Home Point #1'
+- id: 17743945
+  name: 'Home Point #2'
+- id: 17743946
+  name: 'Home Point #3'
+- id: 17743947
+  name: 'Home Point #4'
+- id: 17743948
+  name: 'Home Point #5'
+- id: 17743949
+  name: Door:"Steaming Sheep"
+- id: 17743950
+  name: Door:Galvin's Gear
+- id: 17743951
+  name: Door:Warehouse 2
+- id: 17743952
+  name: Door:Warehouse 2
+- id: 17743953
+  name: Door:Warehouse 1
+- id: 17743954
+  name: Door:Warehouse 1
+- id: 17743955
+  name: Door:Departures Entrance
+- id: 17743956
+  name: Door:Arrivals Exit
+- id: 17743957
+  name: Door:Departures Exit
+- id: 17743958
+  name: Door:Arrivals Entrance
+- id: 17743959
+  name: Door:House
+- id: 17743960
+  name: Door:House
+- id: 17743961
+  name: Door:House
+- id: 17743962
+  name: ''
+- id: 17743963
+  name: ''
+- id: 17743964
+  name: ''
+- id: 17743965
+  name: ''
+- id: 17743966
+  name: Valeriano
+- id: 17743967
+  name: Dahjal
+- id: 17743968
+  name: Mokop-Sankop
+- id: 17743969
+  name: Cheh Raihah
+- id: 17743970
+  name: Nalta
+- id: 17743971
+  name: ''
+- id: 17743972
+  name: ''
+- id: 17743973
+  name: ''
+- id: 17743974
+  name: Ilita
+- id: 17743975
+  name: Denvihr
+- id: 17743976
+  name: Sugandhi
+- id: 17743977
+  name: Yazan
+- id: 17743978
+  name: Moogle
+- id: 17743979
+  name: ''
+- id: 17743980
+  name: ???
+- id: 17743981
+  name: ''
+- id: 17743982
+  name: Moogle
+- id: 17743983
+  name: Symphonic Curator
+- id: 17743985
+  name: Moogle
+- id: 17743986
+  name: Moogle
+- id: 17743987
+  name: Moogle
+- id: 17743988
+  name: Moogle
+- id: 17743989
+  name: Moogle
+- id: 17743990
+  name: Moogle
+- id: 17743991
+  name: Moogle
+- id: 17743992
+  name: Moogle
+- id: 17743993
+  name: ''
+- id: 17743994
+  name: Styi Palneh
+- id: 17743995
+  name: Flaco
+- id: 17743996
+  name: World Shifter
+- id: 17743997
+  name: Oggbi
+- id: 17743998
+  name: Cornelia
+- id: 17743999
+  name: Michea
+- id: 17744000
+  name: Raogrimm
+- id: 17744001
+  name: Yasin
+- id: 17744002
+  name: Cid
+- id: 17744003
+  name: Ayame
+- id: 17744004
+  name: Kupalu-Harupalu
+- id: 17744005
+  name: Zoby Quhyo
+- id: 17744006
+  name: Dhen Tevryukoh
+- id: 17744007
+  name: Blabbivix
+- id: 17744008
+  name: Juroro
+- id: 17744009
+  name: Ferrol
+- id: 17744010
+  name: ???
+- id: 17744011
+  name: Talking Doll
+- id: 17744012
+  name: Carbuncle
+- id: 17744013
+  name: Ildy-Goldy
+- id: 17744014
+  name: ''
+- id: 17744015
+  name: Ravorara
+- id: 17744016
+  name: Dalba
+- id: 17744017
+  name: Yomi
+- id: 17744018
+  name: Pelinvarde
+- id: 17744019
+  name: Gueravrel
+- id: 17744020
+  name: Raifa
+- id: 17744021
+  name: Nokkhi Jinjahl
+- id: 17744022
+  name: Ominous Cloud
+- id: 17744023
+  name: Grin
+- id: 17744024
+  name: ''
+- id: 17744025
+  name: Viresefilant
+- id: 17744026
+  name: ' '
+- id: 17744027
+  name: Pursuivant
+- id: 17744028
+  name: Ulmia
+- id: 17744029
+  name: Prishe
+- id: 17744030
+  name: Louverance
+- id: 17744031
+  name: Tenzen
+- id: 17744032
+  name: Bagnobrok
+- id: 17744033
+  name: Patient Wheel
+- id: 17744034
+  name: ''
+- id: 17744035
+  name: Brita
+- id: 17744036
+  name: Rendezvous Point
+- id: 17744037
+  name: ''
+- id: 17744038
+  name: Gallagher
+- id: 17744039
+  name: Alib-Mufalib
+- id: 17744040
+  name: Festive Moogle
+- id: 17744041
+  name: Gwinar
+- id: 17744042
+  name: Game Table
+- id: 17744043
+  name: Game Table
+- id: 17744044
+  name: Festive Moogle
+- id: 17744045
+  name: Bonanza Moogle
+- id: 17744046
+  name: Dealer Moogle
+- id: 17744047
+  name: Synergy Engineer
+- id: 17744048
+  name: Synergy Engineer
+- id: 17744049
+  name: Synergy Furnace
+- id: 17744050
+  name: Synergy Furnace
+- id: 17744051
+  name: Synergy Furnace
+- id: 17744052
+  name: Synergy Furnace
+- id: 17744053
+  name: Synergy Enthusiast
+- id: 17744054
+  name: Erich
+- id: 17744055
+  name: Ernst
+- id: 17744056
+  name: Voidwatch Purveyor
+- id: 17744057
+  name: Moogle
+- id: 17744058
+  name: Ake
+- id: 17744059
+  name: Ome
+- id: 17744060
+  name: ''
+- id: 17744061
+  name: ''
+- id: 17744062
+  name: ''
+- id: 17744063
+  name: ''
+- id: 17744064
+  name: ''
+- id: 17744065
+  name: ''
+- id: 17744066
+  name: ''
+- id: 17744067
+  name: ''
+- id: 17744068
+  name: ''
+- id: 17744069
+  name: ''
+- id: 17744070
+  name: ''
+- id: 17744071
+  name: ''
+- id: 17744072
+  name: ''
+- id: 17744073
+  name: ''
+- id: 17744074
+  name: ''
+- id: 17744075
+  name: ''
+- id: 17744076
+  name: ''
+- id: 17744077
+  name: ''
+- id: 17744078
+  name: ''
+- id: 17744079
+  name: ''
+- id: 17744080
+  name: ''
+- id: 17744081
+  name: ''
+- id: 17744082
+  name: ''
+- id: 17744083
+  name: ''
+- id: 17744084
+  name: ''
+- id: 17744085
+  name: ''
+- id: 17744086
+  name: ''
+- id: 17744087
+  name: ''
+- id: 17744088
+  name: ''
+- id: 17744089
+  name: ''
+- id: 17744090
+  name: ''
+- id: 17744091
+  name: ''
+- id: 17744092
+  name: ''
+- id: 17744093
+  name: ''
+- id: 17744094
+  name: ''
+- id: 17744095
+  name: ''
+- id: 17744096
+  name: ''
+- id: 17744097
+  name: ''
+- id: 17744098
+  name: ''
+- id: 17744099
+  name: ''
+- id: 17744100
+  name: ''
+- id: 17744101
+  name: ''
+- id: 17744102
+  name: ''
+- id: 17744103
+  name: ''
+- id: 17744104
+  name: ''
+- id: 17744105
+  name: ''
+- id: 17744106
+  name: ''
+- id: 17744107
+  name: ''
+- id: 17744108
+  name: ''
+- id: 17744109
+  name: Klaas
+- id: 17744110
+  name: ''
+- id: 17744111
+  name: ''
+- id: 17744112
+  name: ''
+- id: 17744113
+  name: ''
+- id: 17744114
+  name: ''
+- id: 17744115
+  name: ''
+- id: 17744116
+  name: ''
+- id: 17744117
+  name: ''
+- id: 17744118
+  name: ''
+- id: 17744119
+  name: ''
+- id: 17744120
+  name: ''
+- id: 17744121
+  name: ''
+- id: 17744122
+  name: ''
+- id: 17744123
+  name: ''
+- id: 17744124
+  name: Moogle
+- id: 17744125
+  name: ''
+- id: 17744126
+  name: ''
+- id: 17744127
+  name: ''
+- id: 17744128
+  name: ''
+- id: 17744129
+  name: ''
+- id: 17744130
+  name: ''
+- id: 17744131
+  name: ''
+- id: 17744132
+  name: ''
+- id: 17744133
+  name: ''
+- id: 17744134
+  name: ''
+- id: 17744135
+  name: ''
+- id: 17744136
+  name: ''
+- id: 17744137
+  name: ''
+- id: 17744138
+  name: ''
+- id: 17744139
+  name: ''
+- id: 17744140
+  name: ''
+- id: 17744141
+  name: ''
+- id: 17744142
+  name: ''
+- id: 17744143
+  name: ''
+- id: 17744144
+  name: ''
+- id: 17744145
+  name: ''
+- id: 17744146
+  name: ''
+- id: 17744147
+  name: ''
+- id: 17744148
+  name: ''
+- id: 17744149
+  name: ''
+- id: 17744150
+  name: ''
+- id: 17744151
+  name: ''
+- id: 17744152
+  name: ''
+- id: 17744153
+  name: ''
+- id: 17744154
+  name: Klaas
+- id: 17744155
+  name: ''
+- id: 17744156
+  name: ''
+- id: 17744157
+  name: ''
+- id: 17744158
+  name: ''
+- id: 17744159
+  name: ''
+- id: 17744160
+  name: ''
+- id: 17744161
+  name: ''
+- id: 17744162
+  name: ''
+- id: 17744163
+  name: ''
+- id: 17744164
+  name: ''
+- id: 17744165
+  name: ''
+- id: 17744166
+  name: ''
+- id: 17744167
+  name: ''
+- id: 17744168
+  name: ''
+- id: 17744169
+  name: ''
+- id: 17744170
+  name: ''
+- id: 17744171
+  name: ''
+- id: 17744172
+  name: ''
+- id: 17744173
+  name: ''
+- id: 17744174
+  name: ''
+- id: 17744175
+  name: Moogle
+- id: 17744176
+  name: Spriggan Sifter
+- id: 17744177
+  name: Spriggan Crier
+- id: 17744178
+  name: Spriggan Graverobber
+- id: 17744179
+  name: ''
+- id: 17744180
+  name: ''
+- id: 17744181
+  name: Suspicious Galka
+- id: 17744182
+  name: Odyssean Passage
+- id: 17744183
+  name: Raving Opossum
+- id: 17744184
+  name: Greeter Moogle
+- id: 17744185
+  name: Mog Dinghy
+- id: 17744186
+  name: Skipper Moogle
+- id: 17744187
+  name: Clarion Star
+- id: 17744188
+  name: Achieve Master
+- id: 17744189
+  name: Unity Master
+- id: 17744190
+  name: ''
+- id: 17744191
+  name: Iroha
+- id: 17744192
+  name: Lion
+- id: 17744193
+  name: Zeid
+- id: 17744194
+  name: ''
+- id: 17744195
+  name: Selh'teus
+- id: 17744196
+  name: Selh'teus
+- id: 17744197
+  name: Selh'teus
+- id: 17744198
+  name: Balamor
+- id: 17744199
+  name: ???
+- id: 17744200
+  name: ''
+- id: 17744201
+  name: ''
+- id: 17744202
+  name: Disjoined One
+- id: 17744203
+  name: Disjoined One
+- id: 17744204
+  name: Disjoined One
+- id: 17744205
+  name: Disjoined One
+- id: 17744206
+  name: Disjoined One
+- id: 17744207
+  name: Disjoined One
+- id: 17744208
+  name: Disjoined One
+- id: 17744209
+  name: Disjoined One
+- id: 17744210
+  name: ''
+- id: 17744211
+  name: ''
+- id: 17744212
+  name: Curio Vendor Moogle

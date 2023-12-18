@@ -1,0 +1,767 @@
+names:
+- id: 16875521
+  name: Clipper
+- id: 16875522
+  name: Grindylow
+- id: 16875523
+  name: Greater Pugil
+- id: 16875524
+  name: Greater Pugil
+- id: 16875525
+  name: Apsaras
+- id: 16875526
+  name: Asrai
+- id: 16875527
+  name: Abhac
+- id: 16875528
+  name: Vu-Murt
+- id: 16875529
+  name: Petrocrab
+- id: 16875530
+  name: Cetic Parasite
+- id: 16875531
+  name: Ferrocrab
+- id: 16875532
+  name: Nakki
+- id: 16875533
+  name: Miner Bee
+- id: 16875534
+  name: Miner Bee
+- id: 16875535
+  name: Miner Bee
+- id: 16875536
+  name: Tavnazian Sheep
+- id: 16875537
+  name: Miner Bee
+- id: 16875538
+  name: Miner Bee
+- id: 16875539
+  name: Miner Bee
+- id: 16875540
+  name: Bugard
+- id: 16875541
+  name: Tavnazian Sheep
+- id: 16875542
+  name: Cluster
+- id: 16875543
+  name: Bugard
+- id: 16875544
+  name: Bugard
+- id: 16875545
+  name: Orcish Brawler
+- id: 16875546
+  name: Orcish Beastrider
+- id: 16875547
+  name: Orcish Nightraider
+- id: 16875548
+  name: Orcish Impaler
+- id: 16875549
+  name: Tavnazian Sheep
+- id: 16875550
+  name: Tavnazian Sheep
+- id: 16875551
+  name: Tavnazian Sheep
+- id: 16875552
+  name: Padfoot
+- id: 16875553
+  name: Tavnazian Sheep
+- id: 16875554
+  name: Bugard
+- id: 16875555
+  name: Tavnazian Sheep
+- id: 16875556
+  name: Orcish Brawler
+- id: 16875557
+  name: Bugard
+- id: 16875558
+  name: Bugard
+- id: 16875559
+  name: Orcish Stonelauncher
+- id: 16875560
+  name: Tavnazian Sheep
+- id: 16875561
+  name: Tavnazian Sheep
+- id: 16875562
+  name: Air Elemental
+- id: 16875563
+  name: Crimson Knight Crab
+- id: 16875564
+  name: Crimson Knight Crab
+- id: 16875565
+  name: Crimson Knight Crab
+- id: 16875566
+  name: Miner Bee
+- id: 16875567
+  name: Miner Bee
+- id: 16875568
+  name: Tavnazian Sheep
+- id: 16875569
+  name: Bugard
+- id: 16875570
+  name: Bugard
+- id: 16875571
+  name: Orcish Brawler
+- id: 16875572
+  name: Orcish Beastrider
+- id: 16875573
+  name: Orcish Nightraider
+- id: 16875574
+  name: Orcish Impaler
+- id: 16875575
+  name: Tavnazian Sheep
+- id: 16875576
+  name: Tavnazian Sheep
+- id: 16875577
+  name: Tavnazian Sheep
+- id: 16875578
+  name: Padfoot
+- id: 16875579
+  name: Orcish Beastrider
+- id: 16875580
+  name: Orcish Nightraider
+- id: 16875581
+  name: Orcish Impaler
+- id: 16875582
+  name: Bugard
+- id: 16875583
+  name: Orcish Brawler
+- id: 16875584
+  name: Orcish Beastrider
+- id: 16875585
+  name: Orcish Nightraider
+- id: 16875586
+  name: Orcish Impaler
+- id: 16875587
+  name: Tavnazian Sheep
+- id: 16875588
+  name: Acrophies
+- id: 16875589
+  name: Acrophies
+- id: 16875590
+  name: Acrophies
+- id: 16875591
+  name: Acrophies
+- id: 16875592
+  name: Thunder Elemental
+- id: 16875593
+  name: Cluster
+- id: 16875594
+  name: Bugard
+- id: 16875595
+  name: Bugard
+- id: 16875596
+  name: Gigas Fighter
+- id: 16875597
+  name: Gigas Wrestler
+- id: 16875598
+  name: Gigas Slinger
+- id: 16875599
+  name: Tavnazian Sheep
+- id: 16875600
+  name: Yal-un Eke
+- id: 16875601
+  name: Miner Bee
+- id: 16875602
+  name: Miner Bee
+- id: 16875603
+  name: Bugard
+- id: 16875604
+  name: Cluster
+- id: 16875605
+  name: Bugard
+- id: 16875606
+  name: Bugard
+- id: 16875607
+  name: Bugard
+- id: 16875608
+  name: Gigas Fighter
+- id: 16875609
+  name: Gigas Wrestler
+- id: 16875610
+  name: Gigas Slinger
+- id: 16875611
+  name: Tavnazian Sheep
+- id: 16875612
+  name: Tavnazian Sheep
+- id: 16875613
+  name: Tavnazian Sheep
+- id: 16875614
+  name: Tavnazian Sheep
+- id: 16875615
+  name: Padfoot
+- id: 16875616
+  name: Bugard
+- id: 16875617
+  name: Bugard
+- id: 16875618
+  name: Gigas Wrestler
+- id: 16875619
+  name: Gigas Slinger
+- id: 16875620
+  name: Tavnazian Sheep
+- id: 16875621
+  name: Tavnazian Sheep
+- id: 16875622
+  name: Air Elemental
+- id: 16875623
+  name: Bugard
+- id: 16875624
+  name: Tavnazian Sheep
+- id: 16875625
+  name: Tavnazian Sheep
+- id: 16875626
+  name: Vampire Bat
+- id: 16875627
+  name: Vampire Bat
+- id: 16875628
+  name: Wingrats
+- id: 16875629
+  name: Wingrats
+- id: 16875630
+  name: Abraxas
+- id: 16875631
+  name: Abraxas
+- id: 16875632
+  name: Abraxas
+- id: 16875633
+  name: Abraxas
+- id: 16875634
+  name: Abraxas
+- id: 16875635
+  name: Abraxas
+- id: 16875636
+  name: Abraxas
+- id: 16875637
+  name: Abraxas
+- id: 16875638
+  name: Flockbock
+- id: 16875639
+  name: Abraxas
+- id: 16875640
+  name: Abraxas
+- id: 16875641
+  name: Abraxas
+- id: 16875642
+  name: Abraxas
+- id: 16875643
+  name: Abraxas
+- id: 16875644
+  name: Abraxas
+- id: 16875645
+  name: Abraxas
+- id: 16875646
+  name: Abraxas
+- id: 16875647
+  name: Abraxas
+- id: 16875648
+  name: Abraxas
+- id: 16875649
+  name: Abraxas
+- id: 16875650
+  name: Fomor Ninja
+- id: 16875651
+  name: Fomor Monk
+- id: 16875652
+  name: Air Elemental
+- id: 16875653
+  name: Tavnazian Ram
+- id: 16875654
+  name: Tavnazian Ram
+- id: 16875655
+  name: Abraxas
+- id: 16875656
+  name: Abraxas
+- id: 16875657
+  name: Fomor Bard
+- id: 16875658
+  name: Fomor Red Mage
+- id: 16875659
+  name: Fomor Samurai
+- id: 16875660
+  name: Fomor Red Mage
+- id: 16875661
+  name: Fomor Warrior
+- id: 16875662
+  name: Fomor Red Mage
+- id: 16875663
+  name: Air Elemental
+- id: 16875664
+  name: Dark Elemental
+- id: 16875665
+  name: Fomor Paladin
+- id: 16875666
+  name: Fomor Dragoon
+- id: 16875667
+  name: Fomor's Wyvern
+- id: 16875668
+  name: Fomor Dark Knight
+- id: 16875669
+  name: Fomor Black Mage
+- id: 16875670
+  name: Fomor Bard
+- id: 16875671
+  name: Fomor Ranger
+- id: 16875672
+  name: Fomor Dark Knight
+- id: 16875673
+  name: Fomor Summoner
+- id: 16875674
+  name: Fomor's Elemental
+- id: 16875675
+  name: Fomor Beastmaster
+- id: 16875676
+  name: Fomor's Bat
+- id: 16875677
+  name: Fomor Samurai
+- id: 16875678
+  name: Fomor Dark Knight
+- id: 16875679
+  name: Fomor Monk
+- id: 16875680
+  name: Death Jacket
+- id: 16875681
+  name: Death Jacket
+- id: 16875682
+  name: Death Jacket
+- id: 16875683
+  name: Death Jacket
+- id: 16875684
+  name: Death Jacket
+- id: 16875685
+  name: Death Jacket
+- id: 16875686
+  name: Gigantobugard
+- id: 16875687
+  name: Gigantobugard
+- id: 16875688
+  name: Gigantobugard
+- id: 16875689
+  name: Air Elemental
+- id: 16875690
+  name: Sengann
+- id: 16875691
+  name: Thunder Elemental
+- id: 16875692
+  name: Gigantobugard
+- id: 16875693
+  name: Atomic Cluster
+- id: 16875694
+  name: Gigantobugard
+- id: 16875695
+  name: Gigantobugard
+- id: 16875696
+  name: Gigas Braver
+- id: 16875697
+  name: Gigas Martialist
+- id: 16875698
+  name: Gigas Catapulter
+- id: 16875699
+  name: Orcish Bowshooter
+- id: 16875700
+  name: Orcish Footsoldier
+- id: 16875701
+  name: Orcish Gladiator
+- id: 16875702
+  name: Orcish Trooper
+- id: 16875703
+  name: Padfoot
+- id: 16875704
+  name: Fomor Thief
+- id: 16875705
+  name: Fomor Ranger
+- id: 16875706
+  name: Fomor Ranger
+- id: 16875707
+  name: Gigantobugard
+- id: 16875708
+  name: Leshachikha
+- id: 16875709
+  name: Gigantobugard
+- id: 16875710
+  name: Gigantobugard
+- id: 16875711
+  name: Gigantobugard
+- id: 16875712
+  name: Gigas Warwolf
+- id: 16875713
+  name: Gigas Catapulter
+- id: 16875714
+  name: Orcish Footsoldier
+- id: 16875715
+  name: Orcish Gladiator
+- id: 16875716
+  name: Gigas's Sheep
+- id: 16875717
+  name: Gigantobugard
+- id: 16875718
+  name: Gigantobugard
+- id: 16875719
+  name: Gigantobugard
+- id: 16875720
+  name: Gigantobugard
+- id: 16875721
+  name: Gigas Braver
+- id: 16875722
+  name: Gigas Martialist
+- id: 16875723
+  name: Orcish Trooper
+- id: 16875724
+  name: Orcish Bowshooter
+- id: 16875725
+  name: Gigantobugard
+- id: 16875726
+  name: Gigantobugard
+- id: 16875727
+  name: Gigas Warwolf
+- id: 16875728
+  name: Gigas Catapulter
+- id: 16875729
+  name: Orcish Footsoldier
+- id: 16875730
+  name: Orcish Gladiator
+- id: 16875731
+  name: Gigas's Sheep
+- id: 16875732
+  name: Fomor Warrior
+- id: 16875733
+  name: Fomor Summoner
+- id: 16875734
+  name: Fomor's Elemental
+- id: 16875735
+  name: Fomor Beastmaster
+- id: 16875736
+  name: Fomor's Bat
+- id: 16875737
+  name: Atomic Cluster
+- id: 16875738
+  name: Gigantobugard
+- id: 16875739
+  name: Gigantobugard
+- id: 16875740
+  name: Gigantobugard
+- id: 16875741
+  name: Megalobugard
+- id: 16875742
+  name: Gigas Braver
+- id: 16875743
+  name: Orcish Bowshooter
+- id: 16875744
+  name: Gigantobugard
+- id: 16875745
+  name: Gigantobugard
+- id: 16875746
+  name: Gigas Martialist
+- id: 16875747
+  name: Orcish Trooper
+- id: 16875748
+  name: Padfoot
+- id: 16875749
+  name: Gigas Braver
+- id: 16875750
+  name: Orcish Footsoldier
+- id: 16875751
+  name: Gigas Slinger
+- id: 16875752
+  name: Orcish Nightraider
+- id: 16875753
+  name: Leshachikha
+- id: 16875754
+  name: Leshy
+- id: 16875755
+  name: Leshy
+- id: 16875756
+  name: Leshy
+- id: 16875757
+  name: Leshy
+- id: 16875758
+  name: Leshy
+- id: 16875759
+  name: Leshy
+- id: 16875760
+  name: Leshy
+- id: 16875761
+  name: Leshy
+- id: 16875762
+  name: Colorful Leshy
+- id: 16875763
+  name: Defoliate Leshy
+- id: 16875764
+  name: Fomor Samurai
+- id: 16875765
+  name: Fomor Thief
+- id: 16875766
+  name: Fomor Monk
+- id: 16875767
+  name: Fomor Ninja
+- id: 16875768
+  name: Thunder Elemental
+- id: 16875769
+  name: Leshachikha
+- id: 16875770
+  name: Leshachikha
+- id: 16875771
+  name: Leshachikha
+- id: 16875772
+  name: Leshachikha
+- id: 16875773
+  name: Leshachikha
+- id: 16875774
+  name: Splinterspine Grukjuk
+- id: 16875775
+  name: Blackbone Frazdiz
+- id: 16875776
+  name: Rainbringer Yjatvot
+- id: 16875777
+  name: Baumesel
+- id: 16875778
+  name: Kurrea
+- id: 16875779
+  name: Amaltheia
+- id: 16875780
+  name: Abununnu
+- id: 16875781
+  name: Gloam Servitor
+- id: 16875782
+  name: Gloam Servitor
+- id: 16875783
+  name: Abununnu
+- id: 16875784
+  name: Gloam Servitor
+- id: 16875785
+  name: Gloam Servitor
+- id: 16875786
+  name: Abununnu
+- id: 16875787
+  name: Gloam Servitor
+- id: 16875788
+  name: Gloam Servitor
+- id: 16875789
+  name: Immanibugard
+- id: 16875790
+  name: Immanibugard
+- id: 16875791
+  name: Immanibugard
+- id: 16875792
+  name: Vermillion Fishfly
+- id: 16875793
+  name: Vermillion Fishfly
+- id: 16875794
+  name: Vermillion Fishfly
+- id: 16875795
+  name: Vermillion Fishfly
+- id: 16875796
+  name: Vermillion Fishfly
+- id: 16875797
+  name: Vermillion Fishfly
+- id: 16875798
+  name: Vermillion Fishfly
+- id: 16875799
+  name: Vermillion Fishfly
+- id: 16875800
+  name: Vermillion Fishfly
+- id: 16875801
+  name: Vermillion Fishfly
+- id: 16875802
+  name: Vermillion Fishfly
+- id: 16875803
+  name: Vermillion Fishfly
+- id: 16875804
+  name: Vermillion Fishfly
+- id: 16875805
+  name: Vermillion Fishfly
+- id: 16875806
+  name: Vermillion Fishfly
+- id: 16875807
+  name: Vermillion Fishfly
+- id: 16875808
+  name: Vermillion Fishfly
+- id: 16875809
+  name: Vermillion Fishfly
+- id: 16875810
+  name: Vermillion Fishfly
+- id: 16875811
+  name: Vermillion Fishfly
+- id: 16875812
+  name: Vermillion Fishfly
+- id: 16875813
+  name: Vermillion Fishfly
+- id: 16875814
+  name: Vermillion Fishfly
+- id: 16875815
+  name: Vermillion Fishfly
+- id: 16875816
+  name: Vermillion Fishfly
+- id: 16875817
+  name: Vermillion Fishfly
+- id: 16875818
+  name: Vermillion Fishfly
+- id: 16875819
+  name: Vermillion Fishfly
+- id: 16875820
+  name: Vermillion Fishfly
+- id: 16875821
+  name: Vermillion Fishfly
+- id: 16875824
+  name: ???
+- id: 16875825
+  name: ???
+- id: 16875834
+  name: Achieve Master
+- id: 16875835
+  name: Unity Master
+- id: 16875841
+  name: Swirling Vortex
+- id: 16875842
+  name: Swirling Vortex
+- id: 16875843
+  name: ''
+- id: 16875844
+  name: Storage Compartment
+- id: 16875845
+  name: Storage Compartment
+- id: 16875846
+  name: ''
+- id: 16875847
+  name: ???
+- id: 16875848
+  name: Nag'molada
+- id: 16875849
+  name: Makki-Chebukki
+- id: 16875850
+  name: Kukki-Chebukki
+- id: 16875851
+  name: Cherukiki
+- id: 16875852
+  name: ???
+- id: 16875853
+  name: ???
+- id: 16875854
+  name: Sanctia
+- id: 16875855
+  name: Novice Moogle
+- id: 16875857
+  name: Moogle
+- id: 16875858
+  name: Moogle
+- id: 16875859
+  name: Moogle
+- id: 16875860
+  name: Moogle
+- id: 16875861
+  name: Moogle
+- id: 16875862
+  name: Moogle
+- id: 16875863
+  name: Moogle
+- id: 16875864
+  name: Moogle
+- id: 16875865
+  name: Jemmoquel, R.K.
+- id: 16875866
+  name: Yoram, I.M.
+- id: 16875867
+  name: Teldo-Moroldo, W.W.
+- id: 16875868
+  name: ''
+- id: 16875869
+  name: ''
+- id: 16875870
+  name: ''
+- id: 16875871
+  name: ''
+- id: 16875872
+  name: Chilaumme, R.K.
+- id: 16875873
+  name: Ghost Talker, I.M.
+- id: 16875874
+  name: Cotete, W.W.
+- id: 16875875
+  name: Jersey
+- id: 16875876
+  name: ''
+- id: 16875877
+  name: ''
+- id: 16875878
+  name: ''
+- id: 16875879
+  name: ''
+- id: 16875880
+  name: Ramblix
+- id: 16875881
+  name: Goblin Footprint
+- id: 16875882
+  name: Travonce
+- id: 16875883
+  name: Logging Point
+- id: 16875884
+  name: Logging Point
+- id: 16875885
+  name: Logging Point
+- id: 16875886
+  name: Logging Point
+- id: 16875887
+  name: Logging Point
+- id: 16875888
+  name: Logging Point
+- id: 16875889
+  name: ???
+- id: 16875890
+  name: ???
+- id: 16875891
+  name: Chemioue
+- id: 16875892
+  name: ''
+- id: 16875893
+  name: ''
+- id: 16875894
+  name: ???
+- id: 16875895
+  name: Prishe
+- id: 16875896
+  name: Ulmia
+- id: 16875897
+  name: Makki-Chebukki
+- id: 16875898
+  name: Kukki-Chebukki
+- id: 16875899
+  name: Cherukiki
+- id: 16875900
+  name: Vukki-Chebukki
+- id: 16875901
+  name: Luck Rune
+- id: 16875902
+  name: Tenzen
+- id: 16875903
+  name: Jabbos
+- id: 16875904
+  name: Shikaree Z
+- id: 16875905
+  name: Louverance
+- id: 16875906
+  name: Louverance
+- id: 16875907
+  name: ''
+- id: 16875908
+  name: ''
+- id: 16875909
+  name: Mildaurion
+- id: 16875910
+  name: Planar Rift
+- id: 16875911
+  name: Planar Rift
+- id: 16875912
+  name: Planar Rift
+- id: 16875913
+  name: Riftworn Pyxis
+- id: 16875914
+  name: Riftworn Pyxis
+- id: 16875915
+  name: Riftworn Pyxis
+- id: 16875916
+  name: Survival Guide
+- id: 16875917
+  name: Ethereal Junction
+- id: 16875918
+  name: Ethereal Junction
+- id: 16875919
+  name: Ethereal Junction

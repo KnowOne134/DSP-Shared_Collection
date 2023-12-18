@@ -1,0 +1,459 @@
+names:
+- id: 17457153
+  name: Wind Bats
+- id: 17457154
+  name: Wind Bats
+- id: 17457155
+  name: Blade Bat
+- id: 17457156
+  name: Blade Bat
+- id: 17457157
+  name: Oil Slick
+- id: 17457158
+  name: Oil Slick
+- id: 17457159
+  name: Goblin Thug
+- id: 17457160
+  name: Goblin Weaver
+- id: 17457161
+  name: Wind Bats
+- id: 17457162
+  name: Wind Bats
+- id: 17457163
+  name: Wind Bats
+- id: 17457164
+  name: Blade Bat
+- id: 17457165
+  name: Blade Bat
+- id: 17457166
+  name: Goblin Thug
+- id: 17457167
+  name: Goblin Weaver
+- id: 17457168
+  name: Goblin Weaver
+- id: 17457169
+  name: Blade Bat
+- id: 17457170
+  name: Blade Bat
+- id: 17457171
+  name: Goblin Mugger
+- id: 17457172
+  name: Goblin Leecher
+- id: 17457173
+  name: Goblin Gambler
+- id: 17457174
+  name: Goblin Mugger
+- id: 17457175
+  name: Goblin Leecher
+- id: 17457176
+  name: Goblin Gambler
+- id: 17457177
+  name: Seeker Bats
+- id: 17457178
+  name: Seeker Bats
+- id: 17457179
+  name: Seeker Bats
+- id: 17457180
+  name: Seeker Bats
+- id: 17457181
+  name: Seeker Bats
+- id: 17457182
+  name: Ooze
+- id: 17457183
+  name: Goblin Mugger
+- id: 17457184
+  name: Goblin Leecher
+- id: 17457185
+  name: Goblin Gambler
+- id: 17457186
+  name: Goblin Mugger
+- id: 17457187
+  name: Goblin Leecher
+- id: 17457188
+  name: Goblin Gambler
+- id: 17457189
+  name: Seeker Bats
+- id: 17457190
+  name: Seeker Bats
+- id: 17457191
+  name: Goblin Mugger
+- id: 17457192
+  name: Goblin Mugger
+- id: 17457193
+  name: Goblin Leecher
+- id: 17457194
+  name: Cave Scorpion
+- id: 17457195
+  name: Seeker Bats
+- id: 17457196
+  name: Seeker Bats
+- id: 17457197
+  name: Seeker Bats
+- id: 17457198
+  name: Seeker Bats
+- id: 17457199
+  name: Seeker Bats
+- id: 17457200
+  name: Seeker Bats
+- id: 17457201
+  name: Seeker Bats
+- id: 17457202
+  name: Seeker Bats
+- id: 17457203
+  name: Stirge
+- id: 17457204
+  name: Gloom Eye
+- id: 17457205
+  name: Ooze
+- id: 17457206
+  name: Ooze
+- id: 17457207
+  name: Cave Scorpion
+- id: 17457208
+  name: Seeker Bats
+- id: 17457209
+  name: Seeker Bats
+- id: 17457210
+  name: Stirge
+- id: 17457211
+  name: Stirge
+- id: 17457212
+  name: Stirge
+- id: 17457213
+  name: Taisai
+- id: 17457214
+  name: Taisai
+- id: 17457215
+  name: Taisai
+- id: 17457216
+  name: Taisaijin
+- id: 17457217
+  name: Goblin Mugger
+- id: 17457218
+  name: Goblin Leecher
+- id: 17457219
+  name: Goblin Gambler
+- id: 17457220
+  name: Goblin Mugger
+- id: 17457221
+  name: Goblin Leecher
+- id: 17457222
+  name: Goblin Gambler
+- id: 17457223
+  name: Stirge
+- id: 17457224
+  name: Stirge
+- id: 17457225
+  name: Giant Scorpion
+- id: 17457226
+  name: Bat Eye
+- id: 17457227
+  name: Seeker Bats
+- id: 17457228
+  name: Seeker Bats
+- id: 17457229
+  name: Hecteyes
+- id: 17457230
+  name: Hecteyes
+- id: 17457231
+  name: Hecteyes
+- id: 17457232
+  name: Hecteyes
+- id: 17457233
+  name: Hecteyes
+- id: 17457234
+  name: Stirge
+- id: 17457235
+  name: Stirge
+- id: 17457236
+  name: Hyakume
+- id: 17457237
+  name: Seeker Bats
+- id: 17457238
+  name: Seeker Bats
+- id: 17457239
+  name: Seeker Bats
+- id: 17457240
+  name: Seeker Bats
+- id: 17457241
+  name: Stirge
+- id: 17457242
+  name: Stirge
+- id: 17457243
+  name: Ooze
+- id: 17457244
+  name: Ooze
+- id: 17457245
+  name: Mucoid Mass
+- id: 17457246
+  name: Seeker Bats
+- id: 17457247
+  name: Seeker Bats
+- id: 17457248
+  name: Hovering Oculus
+- id: 17457249
+  name: Bilesucker
+- id: 17457250
+  name: Bilesucker
+- id: 17457251
+  name: Bilesucker
+- id: 17457252
+  name: Bilesucker
+- id: 17457253
+  name: Bilesucker
+- id: 17457254
+  name: Goblin Hoodoo
+- id: 17457255
+  name: Goblin Artificer
+- id: 17457256
+  name: Goblin Tanner
+- id: 17457257
+  name: Goblin Chaser
+- id: 17457258
+  name: Goblin's Bats
+- id: 17457259
+  name: Bilesucker
+- id: 17457260
+  name: Bilesucker
+- id: 17457261
+  name: Bilesucker
+- id: 17457262
+  name: Goblin Hoodoo
+- id: 17457263
+  name: Goblin Artificer
+- id: 17457264
+  name: Goblin Tanner
+- id: 17457265
+  name: Goblin Chaser
+- id: 17457266
+  name: Goblin's Bats
+- id: 17457267
+  name: Bilesucker
+- id: 17457268
+  name: Bilesucker
+- id: 17457269
+  name: Bilesucker
+- id: 17457270
+  name: Bilesucker
+- id: 17457271
+  name: Bilesucker
+- id: 17457272
+  name: Bilesucker
+- id: 17457273
+  name: Evil Weapon
+- id: 17457274
+  name: Evil Weapon
+- id: 17457275
+  name: Evil Weapon
+- id: 17457276
+  name: Bilesucker
+- id: 17457277
+  name: Bilesucker
+- id: 17457278
+  name: Bilesucker
+- id: 17457279
+  name: Hovering Oculus
+- id: 17457280
+  name: Hovering Oculus
+- id: 17457281
+  name: Bilesucker
+- id: 17457282
+  name: Bilesucker
+- id: 17457283
+  name: Bilesucker
+- id: 17457284
+  name: Hovering Oculus
+- id: 17457285
+  name: Bilesucker
+- id: 17457286
+  name: Bilesucker
+- id: 17457287
+  name: Goblin Hoodoo
+- id: 17457288
+  name: Goblin Artificer
+- id: 17457289
+  name: Goblin Tanner
+- id: 17457290
+  name: Goblin Chaser
+- id: 17457291
+  name: Goblin's Bats
+- id: 17457292
+  name: Bilesucker
+- id: 17457293
+  name: Bilesucker
+- id: 17457294
+  name: Bilesucker
+- id: 17457295
+  name: Hovering Oculus
+- id: 17457296
+  name: Hovering Oculus
+- id: 17457297
+  name: Bilesucker
+- id: 17457298
+  name: Bilesucker
+- id: 17457299
+  name: Bilesucker
+- id: 17457300
+  name: Bilesucker
+- id: 17457301
+  name: Bilesucker
+- id: 17457302
+  name: Hovering Oculus
+- id: 17457303
+  name: Hovering Oculus
+- id: 17457304
+  name: Bilesucker
+- id: 17457305
+  name: Bilesucker
+- id: 17457306
+  name: Bilesucker
+- id: 17457307
+  name: Bilesucker
+- id: 17457308
+  name: Bilesucker
+- id: 17457309
+  name: Tros
+- id: 17457310
+  name: Metallic Slime
+- id: 17457311
+  name: Arcus Blades
+- id: 17457314
+  name: Treasure Casket
+- id: 17457315
+  name: Treasure Casket
+- id: 17457316
+  name: Treasure Casket
+- id: 17457317
+  name: Treasure Casket
+- id: 17457318
+  name: Treasure Casket
+- id: 17457319
+  name: Treasure Casket
+- id: 17457320
+  name: Treasure Casket
+- id: 17457321
+  name: Treasure Casket
+- id: 17457322
+  name: Treasure Casket
+- id: 17457323
+  name: Treasure Casket
+- id: 17457324
+  name: Treasure Casket
+- id: 17457325
+  name: Treasure Casket
+- id: 17457326
+  name: Treasure Casket
+- id: 17457327
+  name: Treasure Casket
+- id: 17457328
+  name: Treasure Casket
+- id: 17457329
+  name: Treasure Casket
+- id: 17457330
+  name: Achieve Master
+- id: 17457331
+  name: Unity Master
+- id: 17457336
+  name: Myffore
+- id: 17457337
+  name: Granite Door
+- id: 17457338
+  name: Granite Door
+- id: 17457339
+  name: Stone Plat
+- id: 17457340
+  name: ''
+- id: 17457341
+  name: ''
+- id: 17457342
+  name: ''
+- id: 17457343
+  name: ''
+- id: 17457344
+  name: Cermet Door
+- id: 17457345
+  name: Waters of Oblivion
+- id: 17457346
+  name: Mertaire
+- id: 17457348
+  name: Moogle
+- id: 17457349
+  name: Moogle
+- id: 17457350
+  name: Moogle
+- id: 17457351
+  name: Moogle
+- id: 17457352
+  name: Moogle
+- id: 17457353
+  name: Moogle
+- id: 17457354
+  name: Moogle
+- id: 17457355
+  name: Moogle
+- id: 17457356
+  name: ''
+- id: 17457357
+  name: Perchond
+- id: 17457358
+  name: ''
+- id: 17457359
+  name: ''
+- id: 17457360
+  name: ''
+- id: 17457361
+  name: Perchond
+- id: 17457362
+  name: Ramblix
+- id: 17457363
+  name: Goblin Footprint
+- id: 17457364
+  name: GoalPoint
+- id: 17457365
+  name: GoalPoint
+- id: 17457366
+  name: GoalPoint
+- id: 17457367
+  name: GoalPoint
+- id: 17457368
+  name: GoalPoint
+- id: 17457369
+  name: GoalPoint
+- id: 17457370
+  name: Moogle
+- id: 17457371
+  name: Moogle
+- id: 17457372
+  name: Moogle
+- id: 17457373
+  name: Moogle
+- id: 17457374
+  name: Moogle
+- id: 17457375
+  name: Moogle
+- id: 17457376
+  name: ???
+- id: 17457377
+  name: ''
+- id: 17457378
+  name: ''
+- id: 17457379
+  name: Grounds Tome
+- id: 17457380
+  name: Grounds Tome
+- id: 17457381
+  name: Grounds Tome
+- id: 17457382
+  name: Geomagnetic Fount
+- id: 17457383
+  name: ''
+- id: 17457384
+  name: ''
+- id: 17457385
+  name: ''
+- id: 17457386
+  name: ''
+- id: 17457387
+  name: Hazy Rune
+- id: 17457388
+  name: Survival Guide

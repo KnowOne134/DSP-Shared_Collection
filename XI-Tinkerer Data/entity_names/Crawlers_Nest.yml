@@ -1,0 +1,751 @@
+names:
+- id: 17584129
+  name: Guardian Crawler
+- id: 17584130
+  name: Guardian Crawler
+- id: 17584131
+  name: Drone Crawler
+- id: 17584132
+  name: Drone Crawler
+- id: 17584133
+  name: Queen Crawler
+- id: 17584134
+  name: Matron Crawler
+- id: 17584135
+  name: Awd Goggie
+- id: 17584136
+  name: Worker Crawler
+- id: 17584137
+  name: Worker Crawler
+- id: 17584138
+  name: Worker Crawler
+- id: 17584139
+  name: Death Jacket
+- id: 17584140
+  name: Death Jacket
+- id: 17584141
+  name: Death Jacket
+- id: 17584142
+  name: Death Jacket
+- id: 17584143
+  name: Death Jacket
+- id: 17584144
+  name: Death Jacket
+- id: 17584145
+  name: Death Jacket
+- id: 17584146
+  name: Death Jacket
+- id: 17584147
+  name: Death Jacket
+- id: 17584148
+  name: Death Jacket
+- id: 17584149
+  name: Death Jacket
+- id: 17584150
+  name: Death Jacket
+- id: 17584151
+  name: Worker Crawler
+- id: 17584152
+  name: Worker Crawler
+- id: 17584153
+  name: Worker Crawler
+- id: 17584154
+  name: Maze Lizard
+- id: 17584155
+  name: Maze Lizard
+- id: 17584156
+  name: Maze Lizard
+- id: 17584157
+  name: Maze Lizard
+- id: 17584158
+  name: Maze Lizard
+- id: 17584159
+  name: Maze Lizard
+- id: 17584160
+  name: Worker Crawler
+- id: 17584161
+  name: Worker Crawler
+- id: 17584162
+  name: Killer Mushroom
+- id: 17584163
+  name: Killer Mushroom
+- id: 17584164
+  name: Killer Mushroom
+- id: 17584165
+  name: Killer Mushroom
+- id: 17584166
+  name: Killer Mushroom
+- id: 17584167
+  name: Killer Mushroom
+- id: 17584168
+  name: Worker Crawler
+- id: 17584169
+  name: Worker Crawler
+- id: 17584170
+  name: Doom Scorpion
+- id: 17584171
+  name: Doom Scorpion
+- id: 17584172
+  name: Doom Scorpion
+- id: 17584173
+  name: Doom Scorpion
+- id: 17584174
+  name: Worker Crawler
+- id: 17584175
+  name: Worker Crawler
+- id: 17584176
+  name: Worker Crawler
+- id: 17584177
+  name: Worker Crawler
+- id: 17584178
+  name: Caveberry
+- id: 17584179
+  name: Caveberry
+- id: 17584180
+  name: Caveberry
+- id: 17584181
+  name: Caveberry
+- id: 17584182
+  name: Caveberry
+- id: 17584183
+  name: Caveberry
+- id: 17584184
+  name: Caveberry
+- id: 17584185
+  name: Caveberry
+- id: 17584186
+  name: Caveberry
+- id: 17584187
+  name: Caveberry
+- id: 17584188
+  name: Nest Beetle
+- id: 17584189
+  name: Nest Beetle
+- id: 17584190
+  name: Nest Beetle
+- id: 17584191
+  name: Nest Beetle
+- id: 17584192
+  name: Nest Beetle
+- id: 17584193
+  name: Nest Beetle
+- id: 17584194
+  name: Nest Beetle
+- id: 17584195
+  name: Doom Scorpion
+- id: 17584196
+  name: Soldier Crawler
+- id: 17584197
+  name: Soldier Crawler
+- id: 17584198
+  name: Soldier Crawler
+- id: 17584199
+  name: Hornfly
+- id: 17584200
+  name: Hornfly
+- id: 17584201
+  name: Hornfly
+- id: 17584202
+  name: Hornfly
+- id: 17584203
+  name: Hornfly
+- id: 17584204
+  name: Exoray
+- id: 17584205
+  name: Hornfly
+- id: 17584206
+  name: Hornfly
+- id: 17584207
+  name: Exoray
+- id: 17584208
+  name: Hornfly
+- id: 17584209
+  name: Exoray
+- id: 17584210
+  name: Exoray
+- id: 17584211
+  name: Exoray
+- id: 17584212
+  name: Exoray
+- id: 17584213
+  name: Exoray
+- id: 17584214
+  name: King Crawler
+- id: 17584215
+  name: King Crawler
+- id: 17584216
+  name: King Crawler
+- id: 17584217
+  name: King Crawler
+- id: 17584218
+  name: King Crawler
+- id: 17584219
+  name: Vespo
+- id: 17584220
+  name: Vespo
+- id: 17584221
+  name: Dancing Jewel
+- id: 17584222
+  name: Dancing Jewel
+- id: 17584223
+  name: Dancing Jewel
+- id: 17584224
+  name: King Crawler
+- id: 17584225
+  name: King Crawler
+- id: 17584226
+  name: King Crawler
+- id: 17584227
+  name: King Crawler
+- id: 17584228
+  name: King Crawler
+- id: 17584229
+  name: Vespo
+- id: 17584230
+  name: Vespo
+- id: 17584231
+  name: Vespo
+- id: 17584232
+  name: Dancing Jewel
+- id: 17584233
+  name: Dancing Jewel
+- id: 17584234
+  name: King Crawler
+- id: 17584235
+  name: King Crawler
+- id: 17584236
+  name: King Crawler
+- id: 17584237
+  name: Vespo
+- id: 17584238
+  name: Vespo
+- id: 17584239
+  name: Vespo
+- id: 17584240
+  name: Vespo
+- id: 17584241
+  name: Vespo
+- id: 17584242
+  name: Olid Funguar
+- id: 17584243
+  name: Olid Funguar
+- id: 17584244
+  name: King Crawler
+- id: 17584245
+  name: King Crawler
+- id: 17584246
+  name: Vespo
+- id: 17584247
+  name: Vespo
+- id: 17584248
+  name: Vespo
+- id: 17584249
+  name: Vespo
+- id: 17584250
+  name: Vespo
+- id: 17584251
+  name: Olid Funguar
+- id: 17584252
+  name: Olid Funguar
+- id: 17584253
+  name: Olid Funguar
+- id: 17584254
+  name: King Crawler
+- id: 17584255
+  name: King Crawler
+- id: 17584256
+  name: King Crawler
+- id: 17584257
+  name: Dancing Jewel
+- id: 17584258
+  name: Dancing Jewel
+- id: 17584259
+  name: Dancing Jewel
+- id: 17584260
+  name: Dancing Jewel
+- id: 17584261
+  name: Dancing Jewel
+- id: 17584262
+  name: Olid Funguar
+- id: 17584263
+  name: Olid Funguar
+- id: 17584264
+  name: King Crawler
+- id: 17584265
+  name: King Crawler
+- id: 17584266
+  name: Dancing Jewel
+- id: 17584267
+  name: Dancing Jewel
+- id: 17584268
+  name: Dancing Jewel
+- id: 17584269
+  name: Dancing Jewel
+- id: 17584270
+  name: Dancing Jewel
+- id: 17584271
+  name: Olid Funguar
+- id: 17584272
+  name: Olid Funguar
+- id: 17584273
+  name: Olid Funguar
+- id: 17584274
+  name: Vespo
+- id: 17584275
+  name: Vespo
+- id: 17584276
+  name: Vespo
+- id: 17584277
+  name: Dancing Jewel
+- id: 17584278
+  name: Dancing Jewel
+- id: 17584279
+  name: Olid Funguar
+- id: 17584280
+  name: Olid Funguar
+- id: 17584281
+  name: Olid Funguar
+- id: 17584282
+  name: Olid Funguar
+- id: 17584283
+  name: Olid Funguar
+- id: 17584284
+  name: Vespo
+- id: 17584285
+  name: Vespo
+- id: 17584286
+  name: Dancing Jewel
+- id: 17584287
+  name: Dancing Jewel
+- id: 17584288
+  name: Dancing Jewel
+- id: 17584289
+  name: Olid Funguar
+- id: 17584290
+  name: Olid Funguar
+- id: 17584291
+  name: Olid Funguar
+- id: 17584292
+  name: Olid Funguar
+- id: 17584293
+  name: Olid Funguar
+- id: 17584294
+  name: Fire Elemental
+- id: 17584295
+  name: Water Elemental
+- id: 17584296
+  name: Fire Elemental
+- id: 17584297
+  name: Water Elemental
+- id: 17584298
+  name: Blazer Beetle
+- id: 17584299
+  name: Blazer Beetle
+- id: 17584300
+  name: Blazer Beetle
+- id: 17584301
+  name: Fire Elemental
+- id: 17584302
+  name: Water Elemental
+- id: 17584303
+  name: Blazer Beetle
+- id: 17584304
+  name: Blazer Beetle
+- id: 17584305
+  name: Fire Elemental
+- id: 17584306
+  name: Water Elemental
+- id: 17584307
+  name: Blazer Beetle
+- id: 17584308
+  name: Blazer Beetle
+- id: 17584309
+  name: Blazer Beetle
+- id: 17584310
+  name: Blazer Beetle
+- id: 17584311
+  name: Blazer Beetle
+- id: 17584312
+  name: Dynast Beetle
+- id: 17584313
+  name: Fire Elemental
+- id: 17584314
+  name: Water Elemental
+- id: 17584315
+  name: Helm Beetle
+- id: 17584316
+  name: Helm Beetle
+- id: 17584317
+  name: Helm Beetle
+- id: 17584318
+  name: Helm Beetle
+- id: 17584319
+  name: Helm Beetle
+- id: 17584320
+  name: Helm Beetle
+- id: 17584321
+  name: Knight Crawler
+- id: 17584322
+  name: Knight Crawler
+- id: 17584323
+  name: Knight Crawler
+- id: 17584324
+  name: Worker Crawler
+- id: 17584325
+  name: Worker Crawler
+- id: 17584326
+  name: Worker Crawler
+- id: 17584327
+  name: Worker Crawler
+- id: 17584328
+  name: Worker Crawler
+- id: 17584329
+  name: Worker Crawler
+- id: 17584330
+  name: Worker Crawler
+- id: 17584331
+  name: Puroboros
+- id: 17584332
+  name: Puroboros
+- id: 17584333
+  name: Doom Scorpion
+- id: 17584334
+  name: Soldier Crawler
+- id: 17584335
+  name: Soldier Crawler
+- id: 17584336
+  name: Soldier Crawler
+- id: 17584337
+  name: Soldier Crawler
+- id: 17584338
+  name: Soldier Crawler
+- id: 17584339
+  name: Soldier Crawler
+- id: 17584340
+  name: Soldier Crawler
+- id: 17584341
+  name: Labyrinth Lizard
+- id: 17584342
+  name: Labyrinth Lizard
+- id: 17584343
+  name: Labyrinth Lizard
+- id: 17584344
+  name: Labyrinth Lizard
+- id: 17584345
+  name: Labyrinth Lizard
+- id: 17584346
+  name: Labyrinth Lizard
+- id: 17584347
+  name: Witch Hazel
+- id: 17584348
+  name: Witch Hazel
+- id: 17584349
+  name: Witch Hazel
+- id: 17584350
+  name: Witch Hazel
+- id: 17584351
+  name: Witch Hazel
+- id: 17584352
+  name: Witch Hazel
+- id: 17584353
+  name: Exoray
+- id: 17584354
+  name: Exoray
+- id: 17584355
+  name: Exoray
+- id: 17584356
+  name: Exoray
+- id: 17584357
+  name: Exoray
+- id: 17584358
+  name: Witch Hazel
+- id: 17584359
+  name: Witch Hazel
+- id: 17584360
+  name: Labyrinth Lizard
+- id: 17584361
+  name: Labyrinth Lizard
+- id: 17584362
+  name: Labyrinth Lizard
+- id: 17584363
+  name: Labyrinth Lizard
+- id: 17584364
+  name: Labyrinth Lizard
+- id: 17584365
+  name: Labyrinth Lizard
+- id: 17584366
+  name: Soul Stinger
+- id: 17584367
+  name: Soul Stinger
+- id: 17584368
+  name: Soul Stinger
+- id: 17584369
+  name: Soul Stinger
+- id: 17584370
+  name: Soul Stinger
+- id: 17584371
+  name: Soul Stinger
+- id: 17584372
+  name: Soul Stinger
+- id: 17584373
+  name: Soul Stinger
+- id: 17584374
+  name: Exoray
+- id: 17584375
+  name: Exoray
+- id: 17584376
+  name: Exoray
+- id: 17584377
+  name: Mushussu
+- id: 17584378
+  name: Mushussu
+- id: 17584379
+  name: Mushussu
+- id: 17584380
+  name: Mushussu
+- id: 17584381
+  name: Witch Hazel
+- id: 17584382
+  name: Witch Hazel
+- id: 17584383
+  name: Witch Hazel
+- id: 17584384
+  name: Witch Hazel
+- id: 17584385
+  name: Rumble Crawler
+- id: 17584386
+  name: Rumble Crawler
+- id: 17584387
+  name: Rumble Crawler
+- id: 17584388
+  name: Rumble Crawler
+- id: 17584389
+  name: Rumble Crawler
+- id: 17584390
+  name: Rumble Crawler
+- id: 17584391
+  name: Wespe
+- id: 17584392
+  name: Wespe
+- id: 17584393
+  name: Wespe
+- id: 17584394
+  name: Wespe
+- id: 17584395
+  name: Wespe
+- id: 17584396
+  name: Wespe
+- id: 17584397
+  name: Wespe
+- id: 17584398
+  name: Demonic Tiphia
+- id: 17584399
+  name: Dragonfly
+- id: 17584400
+  name: Dragonfly
+- id: 17584401
+  name: Dragonfly
+- id: 17584402
+  name: Dragonfly
+- id: 17584403
+  name: Dragonfly
+- id: 17584404
+  name: Dragonfly
+- id: 17584405
+  name: Fire Elemental
+- id: 17584406
+  name: Water Elemental
+- id: 17584407
+  name: Crawler Hunter
+- id: 17584408
+  name: Crawler Hunter
+- id: 17584409
+  name: Crawler Hunter
+- id: 17584410
+  name: Knight Crawler
+- id: 17584411
+  name: Knight Crawler
+- id: 17584412
+  name: Knight Crawler
+- id: 17584413
+  name: Knight Crawler
+- id: 17584414
+  name: Fire Elemental
+- id: 17584415
+  name: Water Elemental
+- id: 17584416
+  name: Aqrabuamelu
+- id: 17584417
+  name: Crawler Hunter
+- id: 17584418
+  name: Crawler Hunter
+- id: 17584419
+  name: Knight Crawler
+- id: 17584420
+  name: Knight Crawler
+- id: 17584421
+  name: Knight Crawler
+- id: 17584422
+  name: Knight Crawler
+- id: 17584423
+  name: Fire Elemental
+- id: 17584424
+  name: Water Elemental
+- id: 17584425
+  name: Dreadbug
+- id: 17584426
+  name: Mimic
+- id: 17584427
+  name: Water Elemental
+- id: 17584428
+  name: Mellonia
+- id: 17584429
+  name: Mellonia
+- id: 17584430
+  name: Mellonia
+- id: 17584433
+  name: Treasure Casket
+- id: 17584434
+  name: Treasure Casket
+- id: 17584435
+  name: Treasure Casket
+- id: 17584436
+  name: Treasure Casket
+- id: 17584437
+  name: Treasure Casket
+- id: 17584438
+  name: Treasure Casket
+- id: 17584439
+  name: Treasure Casket
+- id: 17584440
+  name: Treasure Casket
+- id: 17584441
+  name: Treasure Casket
+- id: 17584442
+  name: Treasure Casket
+- id: 17584443
+  name: Treasure Casket
+- id: 17584444
+  name: Treasure Casket
+- id: 17584445
+  name: Treasure Casket
+- id: 17584446
+  name: Treasure Casket
+- id: 17584447
+  name: Treasure Casket
+- id: 17584448
+  name: Treasure Casket
+- id: 17584449
+  name: Achieve Master
+- id: 17584450
+  name: Unity Master
+- id: 17584455
+  name: ???
+- id: 17584456
+  name: ???
+- id: 17584457
+  name: ???
+- id: 17584458
+  name: ???
+- id: 17584459
+  name: ???
+- id: 17584460
+  name: ???
+- id: 17584461
+  name: ???
+- id: 17584462
+  name: Cermet Door
+- id: 17584463
+  name: Strange Apparatus
+- id: 17584464
+  name: ???
+- id: 17584465
+  name: ???
+- id: 17584467
+  name: Moogle
+- id: 17584468
+  name: Moogle
+- id: 17584469
+  name: Moogle
+- id: 17584470
+  name: Moogle
+- id: 17584471
+  name: Moogle
+- id: 17584472
+  name: Moogle
+- id: 17584473
+  name: Moogle
+- id: 17584474
+  name: Moogle
+- id: 17584475
+  name: Treasure Chest
+- id: 17584476
+  name: Treasure Coffer
+- id: 17584478
+  name: Olavia
+- id: 17584479
+  name: Ramblix
+- id: 17584480
+  name: Goblin Footprint
+- id: 17584481
+  name: ???
+- id: 17584482
+  name: ???
+- id: 17584483
+  name: ???
+- id: 17584484
+  name: GoalPoint
+- id: 17584485
+  name: GoalPoint
+- id: 17584486
+  name: GoalPoint
+- id: 17584487
+  name: GoalPoint
+- id: 17584488
+  name: GoalPoint
+- id: 17584489
+  name: GoalPoint
+- id: 17584490
+  name: Moogle
+- id: 17584491
+  name: Moogle
+- id: 17584492
+  name: Moogle
+- id: 17584493
+  name: Moogle
+- id: 17584494
+  name: Moogle
+- id: 17584495
+  name: Moogle
+- id: 17584496
+  name: Grounds Tome
+- id: 17584497
+  name: Grounds Tome
+- id: 17584498
+  name: Planar Rift
+- id: 17584499
+  name: Planar Rift
+- id: 17584500
+  name: Planar Rift
+- id: 17584501
+  name: Riftworn Pyxis
+- id: 17584502
+  name: Riftworn Pyxis
+- id: 17584503
+  name: Riftworn Pyxis
+- id: 17584504
+  name: Geomagnetic Fount
+- id: 17584505
+  name: Geomantic Reservoir
+- id: 17584508
+  name: ''
+- id: 17584509
+  name: ''
+- id: 17584510
+  name: ''
+- id: 17584511
+  name: ''
+- id: 17584512
+  name: Hazy Rune
+- id: 17584513
+  name: Survival Guide

@@ -1,0 +1,451 @@
+names:
+- id: 17747969
+  name: Vicious Eye
+- id: 17747970
+  name: Amulya
+- id: 17747971
+  name: Ghemp
+- id: 17747972
+  name: Wise Owl
+- id: 17747973
+  name: Hugues
+- id: 17747974
+  name: Romero
+- id: 17747975
+  name: Dark Clouds
+- id: 17747976
+  name: Olaf
+- id: 17747977
+  name: Nogga
+- id: 17747978
+  name: Veit
+- id: 17747979
+  name: Striking Snake
+- id: 17747980
+  name: Savae E Paleade
+- id: 17747981
+  name: Riault
+- id: 17747982
+  name: Lutia
+- id: 17747983
+  name: Chantain
+- id: 17747984
+  name: Patt-Pott
+- id: 17747985
+  name: Topuru-Kuperu
+- id: 17747986
+  name: Moyoyo
+- id: 17747987
+  name: Mih Ketto
+- id: 17747988
+  name: Zenobia
+- id: 17747989
+  name: Dietrich
+- id: 17747990
+  name: Hadelind
+- id: 17747991
+  name: Cerberus
+- id: 17747992
+  name: Lucius
+- id: 17747993
+  name: Hans
+- id: 17747994
+  name: Pius
+- id: 17747995
+  name: Kachina
+- id: 17747996
+  name: Mythily
+- id: 17747997
+  name: Alois
+- id: 17747998
+  name: Mukunda
+- id: 17747999
+  name: Salim
+- id: 17748000
+  name: Manilam
+- id: 17748001
+  name: Remus
+- id: 17748002
+  name: Helmut
+- id: 17748003
+  name: Folzen
+- id: 17748004
+  name: Franziska
+- id: 17748005
+  name: Tomasa
+- id: 17748006
+  name: Ferghus
+- id: 17748007
+  name: Hungry Wolf
+- id: 17748008
+  name: Grohm
+- id: 17748009
+  name: Galina
+- id: 17748010
+  name: Karst
+- id: 17748011
+  name: Cid
+- id: 17748012
+  name: Raibaht
+- id: 17748013
+  name: Naji
+- id: 17748014
+  name: Volker
+- id: 17748015
+  name: Ayame
+- id: 17748016
+  name: Iron Eater
+- id: 17748017
+  name: Malduc
+- id: 17748018
+  name: Cornelia
+- id: 17748019
+  name: Hani
+- id: 17748020
+  name: Dalzakk
+- id: 17748021
+  name: Lion
+- id: 17748022
+  name: Romualdo
+- id: 17748023
+  name: Elayne
+- id: 17748024
+  name: Baldric
+- id: 17748025
+  name: Abbudin
+- id: 17748026
+  name: Mighty Fist
+- id: 17748027
+  name: Unlucky Rat
+- id: 17748028
+  name: Krieger
+- id: 17748029
+  name: Darha
+- id: 17748030
+  name: High Bear
+- id: 17748031
+  name: Patricius
+- id: 17748032
+  name: Indiran
+- id: 17748033
+  name: Fariel
+- id: 17748034
+  name: Kaela
+- id: 17748035
+  name: ''
+- id: 17748036
+  name: ''
+- id: 17748037
+  name: ''
+- id: 17748038
+  name: ''
+- id: 17748039
+  name: ''
+- id: 17748040
+  name: ''
+- id: 17748041
+  name: Door:Blacksmiths' Guild
+- id: 17748042
+  name: Door:Blacksmiths' Guild
+- id: 17748043
+  name: Door:Darksteel Forge
+- id: 17748044
+  name: Door:Cermet Refinery
+- id: 17748045
+  name: Door:Craftsmen's Eatery
+- id: 17748046
+  name: Door:Cid's Lab
+- id: 17748047
+  name: Door:Gunpowder Room
+- id: 17748048
+  name: Door:San d'Orian Consul
+- id: 17748049
+  name: Door:Windurstian Consul
+- id: 17748050
+  name: Door:Aide's Office
+- id: 17748051
+  name: Door:Jeunoan Consul
+- id: 17748052
+  name: Door:Dept. of Industry
+- id: 17748053
+  name: Door:Conference Room
+- id: 17748054
+  name: Door:President's Office
+- id: 17748055
+  name: Door:Presidential Suite
+- id: 17748056
+  name: Door:President's Office
+- id: 17748057
+  name: Door:Cornelia's Room
+- id: 17748058
+  name: Door:Cannonry
+- id: 17748059
+  name: Door:Cannonry
+- id: 17748060
+  name: ''
+- id: 17748061
+  name: ''
+- id: 17748062
+  name: Quasim
+- id: 17748063
+  name: Izabele
+- id: 17748064
+  name: Glarociquet, T.K.
+- id: 17748065
+  name: Lexun-Marixun, W.W.
+- id: 17748067
+  name: Moogle
+- id: 17748068
+  name: Moogle
+- id: 17748069
+  name: Moogle
+- id: 17748070
+  name: Moogle
+- id: 17748071
+  name: Moogle
+- id: 17748072
+  name: Moogle
+- id: 17748073
+  name: Moogle
+- id: 17748074
+  name: Moogle
+- id: 17748075
+  name: ''
+- id: 17748076
+  name: Oggbi
+- id: 17748077
+  name: Cornelia
+- id: 17748078
+  name: Raogrimm
+- id: 17748079
+  name: Pagdako
+- id: 17748080
+  name: Yasin
+- id: 17748081
+  name: Gumbah
+- id: 17748082
+  name: Taulluque
+- id: 17748083
+  name: Cornelia
+- id: 17748084
+  name: Ulrich
+- id: 17748085
+  name: Deidogg
+- id: 17748086
+  name: Pavvke
+- id: 17748087
+  name: Michea
+- id: 17748088
+  name: Salimah
+- id: 17748089
+  name: Werei
+- id: 17748090
+  name: Lorena
+- id: 17748091
+  name: Viresefilant
+- id: 17748092
+  name: Matabe
+- id: 17748093
+  name: Invincible Shield
+- id: 17748094
+  name: Udine A.M.A.N.
+- id: 17748095
+  name: ''
+- id: 17748096
+  name: Capacucu
+- id: 17748097
+  name: Putori-Tutori
+- id: 17748098
+  name: Kilhwch
+- id: 17748099
+  name: Mieuseloir
+- id: 17748100
+  name: Lhu Mhakaracca
+- id: 17748101
+  name: Xonia
+- id: 17748102
+  name: Fonove
+- id: 17748103
+  name: Dzhau Yaam
+- id: 17748104
+  name: Kupalu-Harupalu
+- id: 17748105
+  name: Noillurie
+- id: 17748106
+  name: Umon-Paumon
+- id: 17748107
+  name: Ghebben
+- id: 17748108
+  name: Elrica
+- id: 17748109
+  name: Terounalivet
+- id: 17748110
+  name: ???
+- id: 17748111
+  name: Wolfgang
+- id: 17748112
+  name: Arenuel
+- id: 17748113
+  name: Falreze
+- id: 17748114
+  name: Trion
+- id: 17748115
+  name: Rahal
+- id: 17748116
+  name: Shantotto
+- id: 17748117
+  name: Ajido-Marujido
+- id: 17748118
+  name: Shikaree Z
+- id: 17748119
+  name: Shikaree Y
+- id: 17748120
+  name: Shikaree X
+- id: 17748121
+  name: Prishe
+- id: 17748122
+  name: Tenzen
+- id: 17748123
+  name: Louverance
+- id: 17748124
+  name: Ulmia
+- id: 17748125
+  name: Jabbos
+- id: 17748126
+  name: Door:Audience Chamber
+- id: 17748127
+  name: Kam'lanaut
+- id: 17748128
+  name: Mawl'gofaur
+- id: 17748129
+  name: Kareh'ayollio
+- id: 17748130
+  name: DIRECTOR
+- id: 17748131
+  name: Vladinek
+- id: 17748132
+  name: Sanctia
+- id: 17748133
+  name: Novice Moogle
+- id: 17748134
+  name: Naji
+- id: 17748135
+  name: Volker
+- id: 17748136
+  name: ''
+- id: 17748137
+  name: Iron Eater
+- id: 17748138
+  name: Takiyah
+- id: 17748139
+  name: ???
+- id: 17748140
+  name: ''
+- id: 17748141
+  name: ''
+- id: 17748142
+  name: Luto Mewrilah
+- id: 17748143
+  name: Miledo-Shiraddo
+- id: 17748144
+  name: Nabima-Hyonbima
+- id: 17748145
+  name: Gentle Tiger
+- id: 17748146
+  name: Militant Gale
+- id: 17748147
+  name: ???
+- id: 17748148
+  name: Pensive Beast
+- id: 17748149
+  name: Bumimi
+- id: 17748150
+  name: Groudinguet
+- id: 17748151
+  name: Groudinguet
+- id: 17748152
+  name: ''
+- id: 17748153
+  name: ''
+- id: 17748154
+  name: ''
+- id: 17748155
+  name: ''
+- id: 17748156
+  name: ''
+- id: 17748157
+  name: Dannion
+- id: 17748158
+  name: ???
+- id: 17748159
+  name: Small Switch
+- id: 17748160
+  name: Medium Switch
+- id: 17748161
+  name: Large Switch
+- id: 17748162
+  name: ''
+- id: 17748163
+  name: ''
+- id: 17748164
+  name: Helga
+- id: 17748165
+  name: Leonhardt
+- id: 17748166
+  name: Aileen
+- id: 17748167
+  name: Anneliese
+- id: 17748168
+  name: Hildolf
+- id: 17748169
+  name: Cloud Walker
+- id: 17748170
+  name: Matrimonial Coffer
+- id: 17748171
+  name: Celebratory Chest
+- id: 17748172
+  name: Synergy Furnace
+- id: 17748173
+  name: ''
+- id: 17748174
+  name: ''
+- id: 17748175
+  name: Prien
+- id: 17748176
+  name: Klara
+- id: 17748177
+  name: Nicolaus
+- id: 17748178
+  name: Five Moons
+- id: 17748179
+  name: Zeid
+- id: 17748180
+  name: Volker
+- id: 17748181
+  name: 'Home Point #1'
+- id: 17748182
+  name: 'Home Point #2'
+- id: 17748183
+  name: 'Home Point #3'
+- id: 17748184
+  name: 'Home Point #4'
+- id: 17748185
+  name: 'Home Point #5'
+- id: 17748186
+  name: Achieve Master
+- id: 17748187
+  name: ''
+- id: 17748188
+  name: ???
+- id: 17748189
+  name: ''
+- id: 17748190
+  name: ''
+- id: 17748191
+  name: Unity Master
+- id: 17748192
+  name: ???
+- id: 17748193
+  name: ''
+- id: 17748194
+  name: Esvin

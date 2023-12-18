@@ -1,0 +1,549 @@
+names:
+- id: 17563649
+  name: Battue Bats
+- id: 17563650
+  name: Battue Bats
+- id: 17563651
+  name: Battue Bats
+- id: 17563652
+  name: Battue Bats
+- id: 17563653
+  name: Goblin Thug
+- id: 17563654
+  name: Goblin Thug
+- id: 17563655
+  name: Goblin Thug
+- id: 17563656
+  name: Goblin Thug
+- id: 17563657
+  name: Goblin Thug
+- id: 17563658
+  name: Battue Bats
+- id: 17563659
+  name: Battue Bats
+- id: 17563660
+  name: Goblin Thug
+- id: 17563661
+  name: Goblin Thug
+- id: 17563662
+  name: Goblin Thug
+- id: 17563663
+  name: Goblin Thug
+- id: 17563664
+  name: Battue Bats
+- id: 17563665
+  name: Battue Bats
+- id: 17563666
+  name: Blade Bat
+- id: 17563667
+  name: Blade Bat
+- id: 17563668
+  name: Goblin Thug
+- id: 17563669
+  name: Goblin Weaver
+- id: 17563670
+  name: Magicked Bones
+- id: 17563671
+  name: Magicked Bones
+- id: 17563672
+  name: Goblin Weaver
+- id: 17563673
+  name: Goblin Thug
+- id: 17563674
+  name: Goblin Weaver
+- id: 17563675
+  name: Goblin Thug
+- id: 17563676
+  name: Goblin Weaver
+- id: 17563677
+  name: Goblin Thug
+- id: 17563678
+  name: Goblin Weaver
+- id: 17563679
+  name: Goblin Thug
+- id: 17563680
+  name: Troika Bats
+- id: 17563681
+  name: Troika Bats
+- id: 17563682
+  name: Deathwatch Beetle
+- id: 17563683
+  name: Deathwatch Beetle
+- id: 17563684
+  name: Goblin Flesher
+- id: 17563685
+  name: Goblin Metallurgist
+- id: 17563686
+  name: Goblin Lurcher
+- id: 17563687
+  name: Goblin Lurcher
+- id: 17563688
+  name: Skinnymalinks
+- id: 17563689
+  name: Skinnymalinks
+- id: 17563690
+  name: Skinnymajinx
+- id: 17563691
+  name: Troika Bats
+- id: 17563692
+  name: Troika Bats
+- id: 17563693
+  name: Troika Bats
+- id: 17563694
+  name: Troika Bats
+- id: 17563695
+  name: Deathwatch Beetle
+- id: 17563696
+  name: Deathwatch Beetle
+- id: 17563697
+  name: Deathwatch Beetle
+- id: 17563698
+  name: Troika Bats
+- id: 17563699
+  name: Troika Bats
+- id: 17563700
+  name: Troika Bats
+- id: 17563701
+  name: Troika Bats
+- id: 17563702
+  name: Troika Bats
+- id: 17563703
+  name: Troika Bats
+- id: 17563704
+  name: Deathwatch Beetle
+- id: 17563705
+  name: Deathwatch Beetle
+- id: 17563706
+  name: Deathwatch Beetle
+- id: 17563707
+  name: Deathwatch Beetle
+- id: 17563708
+  name: Covin Bat
+- id: 17563709
+  name: Goblin Metallurgist
+- id: 17563710
+  name: Goblin Trailblazer
+- id: 17563711
+  name: Goblin Lurcher
+- id: 17563712
+  name: Skinnymalinks
+- id: 17563713
+  name: Skinnymalinks
+- id: 17563714
+  name: Skinnymajinx
+- id: 17563715
+  name: Skinnymajinx
+- id: 17563716
+  name: Deathwatch Beetle
+- id: 17563717
+  name: Deathwatch Beetle
+- id: 17563718
+  name: Deathwatch Beetle
+- id: 17563719
+  name: Covin Bat
+- id: 17563720
+  name: Covin Bat
+- id: 17563721
+  name: Covin Bat
+- id: 17563722
+  name: Covin Bat
+- id: 17563723
+  name: Covin Bat
+- id: 17563724
+  name: Deathwatch Beetle
+- id: 17563725
+  name: Deathwatch Beetle
+- id: 17563726
+  name: Deathwatch Beetle
+- id: 17563727
+  name: Goblin Metallurgist
+- id: 17563728
+  name: Goblin Trailblazer
+- id: 17563729
+  name: Goblin Flesher
+- id: 17563730
+  name: Goblin Lurcher
+- id: 17563731
+  name: Goblin Lurcher
+- id: 17563732
+  name: Covin Bat
+- id: 17563733
+  name: Covin Bat
+- id: 17563734
+  name: Covin Bat
+- id: 17563735
+  name: Covin Bat
+- id: 17563736
+  name: Deathwatch Beetle
+- id: 17563737
+  name: Deathwatch Beetle
+- id: 17563738
+  name: Deathwatch Beetle
+- id: 17563739
+  name: Goblin Metallurgist
+- id: 17563740
+  name: Goblin Trailblazer
+- id: 17563741
+  name: Goblin Flesher
+- id: 17563742
+  name: Goblin Lurcher
+- id: 17563743
+  name: Goblin Lurcher
+- id: 17563744
+  name: Goblin Lurcher
+- id: 17563745
+  name: Covin Bat
+- id: 17563746
+  name: Covin Bat
+- id: 17563747
+  name: Blob
+- id: 17563748
+  name: Blob
+- id: 17563749
+  name: Maltha
+- id: 17563750
+  name: Balloon
+- id: 17563751
+  name: Balloon
+- id: 17563752
+  name: Goblin Mugger
+- id: 17563753
+  name: Goblin Leecher
+- id: 17563754
+  name: Goblin Gambler
+- id: 17563755
+  name: Battle Bat
+- id: 17563756
+  name: Battle Bat
+- id: 17563757
+  name: Goblin Mugger
+- id: 17563758
+  name: Goblin Leecher
+- id: 17563759
+  name: Goblin Gambler
+- id: 17563760
+  name: Battle Bat
+- id: 17563761
+  name: Battle Bat
+- id: 17563762
+  name: Goblin Mugger
+- id: 17563763
+  name: Goblin Leecher
+- id: 17563764
+  name: Goblin Gambler
+- id: 17563765
+  name: Goblin Mugger
+- id: 17563766
+  name: Goblin Leecher
+- id: 17563767
+  name: Goblin Gambler
+- id: 17563768
+  name: Battle Bat
+- id: 17563769
+  name: Battle Bat
+- id: 17563770
+  name: Goblin Mugger
+- id: 17563771
+  name: Goblin Leecher
+- id: 17563772
+  name: Goblin Gambler
+- id: 17563773
+  name: Goblin Mugger
+- id: 17563774
+  name: Goblin Leecher
+- id: 17563775
+  name: Goblin Gambler
+- id: 17563776
+  name: Goblin Mugger
+- id: 17563777
+  name: Goblin Leecher
+- id: 17563778
+  name: Goblin Gambler
+- id: 17563779
+  name: Goblin Mugger
+- id: 17563780
+  name: Goblin Leecher
+- id: 17563781
+  name: Goblin Gambler
+- id: 17563782
+  name: Goblin Mugger
+- id: 17563783
+  name: Goblin Leecher
+- id: 17563784
+  name: Goblin Gambler
+- id: 17563785
+  name: Slendlix Spindlethumb
+- id: 17563786
+  name: Battle Bat
+- id: 17563787
+  name: Battle Bat
+- id: 17563788
+  name: Battle Bat
+- id: 17563789
+  name: Will-o'-the-Wisp
+- id: 17563790
+  name: Boggart
+- id: 17563791
+  name: Boggart
+- id: 17563792
+  name: Will-o'-the-Wisp
+- id: 17563793
+  name: Boggart
+- id: 17563794
+  name: Boggart
+- id: 17563795
+  name: Boggart
+- id: 17563796
+  name: Boggart
+- id: 17563797
+  name: Boggart
+- id: 17563798
+  name: Boggart
+- id: 17563799
+  name: Boggart
+- id: 17563800
+  name: Boggart
+- id: 17563801
+  name: Nocuous Weapon
+- id: 17563802
+  name: Will-o'-the-Wisp
+- id: 17563803
+  name: Battue Bats
+- id: 17563804
+  name: Battue Bats
+- id: 17563805
+  name: Will-o'-the-Wisp
+- id: 17563806
+  name: Will-o'-the-Wisp
+- id: 17563807
+  name: Boggart
+- id: 17563808
+  name: Boggart
+- id: 17563809
+  name: Wendigo
+- id: 17563810
+  name: Wendigo
+- id: 17563811
+  name: Wendigo
+- id: 17563812
+  name: Battle Bat
+- id: 17563813
+  name: Battle Bat
+- id: 17563814
+  name: Wendigo
+- id: 17563815
+  name: Wendigo
+- id: 17563816
+  name: Wendigo
+- id: 17563817
+  name: Battle Bat
+- id: 17563818
+  name: Battle Bat
+- id: 17563819
+  name: Wendigo
+- id: 17563820
+  name: Wendigo
+- id: 17563821
+  name: Wendigo
+- id: 17563822
+  name: Battle Bat
+- id: 17563823
+  name: Battle Bat
+- id: 17563824
+  name: Wendigo
+- id: 17563825
+  name: Wendigo
+- id: 17563826
+  name: Wendigo
+- id: 17563827
+  name: Battle Bat
+- id: 17563828
+  name: Battle Bat
+- id: 17563829
+  name: Wendigo
+- id: 17563830
+  name: Wendigo
+- id: 17563831
+  name: Wendigo
+- id: 17563832
+  name: Wendigo
+- id: 17563833
+  name: Wendigo
+- id: 17563834
+  name: Wendigo
+- id: 17563835
+  name: Wendigo
+- id: 17563836
+  name: Wendigo
+- id: 17563837
+  name: Wendigo
+- id: 17563838
+  name: Treasure Casket
+- id: 17563839
+  name: Treasure Casket
+- id: 17563840
+  name: Treasure Casket
+- id: 17563841
+  name: Treasure Casket
+- id: 17563842
+  name: Treasure Casket
+- id: 17563843
+  name: Treasure Casket
+- id: 17563844
+  name: Treasure Casket
+- id: 17563845
+  name: Treasure Casket
+- id: 17563846
+  name: Treasure Casket
+- id: 17563847
+  name: Treasure Casket
+- id: 17563848
+  name: Treasure Casket
+- id: 17563849
+  name: Treasure Casket
+- id: 17563850
+  name: Treasure Casket
+- id: 17563851
+  name: Treasure Casket
+- id: 17563852
+  name: Treasure Casket
+- id: 17563853
+  name: Treasure Casket
+- id: 17563854
+  name: Achieve Master
+- id: 17563855
+  name: Unity Master
+- id: 17563860
+  name: PIKAPIKA
+- id: 17563861
+  name: Red Circle
+- id: 17563862
+  name: White Circle
+- id: 17563863
+  name: Black Circle
+- id: 17563864
+  name: Center Circle
+- id: 17563865
+  name: Sealed Portal
+- id: 17563866
+  name: DIRECTOR
+- id: 17563867
+  name: Ancient Magical Gizmo
+- id: 17563868
+  name: Ancient Magical Gizmo
+- id: 17563869
+  name: Ancient Magical Gizmo
+- id: 17563870
+  name: Ancient Magical Gizmo
+- id: 17563871
+  name: Ancient Magical Gizmo
+- id: 17563872
+  name: Ancient Magical Gizmo
+- id: 17563873
+  name: Ajido-Marujido
+- id: 17563874
+  name: Apururu
+- id: 17563875
+  name: 'Gate: Magical Gizmo'
+- id: 17563876
+  name: Mahogany Door
+- id: 17563877
+  name: Nanaa Mihgo
+- id: 17563878
+  name: Bopa Greso
+- id: 17563879
+  name: Cha Lebagta
+- id: 17563880
+  name: Ace of Cups
+- id: 17563881
+  name: Ace of Wands
+- id: 17563882
+  name: Ace of Swords
+- id: 17563883
+  name: Gate of Light
+- id: 17563884
+  name: gohu
+- id: 17563885
+  name: King of Wands
+- id: 17563886
+  name: King of Batons
+- id: 17563887
+  name: Cracked Wall
+- id: 17563888
+  name: Cracked Wall
+- id: 17563889
+  name: Cracked Wall
+- id: 17563890
+  name: Cracked Wall
+- id: 17563891
+  name: Cracked Wall
+- id: 17563892
+  name: Switch
+- id: 17563893
+  name: 'Gate: Magical Gizmo'
+- id: 17563894
+  name: Magic Gate of Horutoto
+- id: 17563895
+  name: Toraimarai Canal
+- id: 17563896
+  name: Gate of Darkness
+- id: 17563897
+  name: Gate of Ice
+- id: 17563898
+  name: Gate of Water
+- id: 17563899
+  name: Gate of Earth
+- id: 17563900
+  name: Gate of Wind
+- id: 17563901
+  name: Gate of Fire
+- id: 17563902
+  name: Gate of Thunder
+- id: 17563903
+  name: Switch
+- id: 17563904
+  name: Tenmado
+- id: 17563906
+  name: Moogle
+- id: 17563907
+  name: Moogle
+- id: 17563908
+  name: Moogle
+- id: 17563909
+  name: Moogle
+- id: 17563910
+  name: Moogle
+- id: 17563911
+  name: Moogle
+- id: 17563912
+  name: Moogle
+- id: 17563913
+  name: Moogle
+- id: 17563914
+  name: Treasure Chest
+- id: 17563915
+  name: Koru-Moru
+- id: 17563916
+  name: Shantotto
+- id: 17563917
+  name: Yoran-Oran
+- id: 17563918
+  name: Talking Doll
+- id: 17563919
+  name: Ramblix
+- id: 17563920
+  name: Goblin Footprint
+- id: 17563921
+  name: ???
+- id: 17563922
+  name: ''
+- id: 17563923
+  name: Grounds Tome
+- id: 17563924
+  name: Grounds Tome
+- id: 17563925
+  name: Grounds Tome
+- id: 17563926
+  name: Geomagnetic Fount
+- id: 17563927
+  name: Survival Guide

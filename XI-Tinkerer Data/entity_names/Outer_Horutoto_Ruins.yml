@@ -1,0 +1,945 @@
+names:
+- id: 17571841
+  name: Goblin Ambusher
+- id: 17571842
+  name: Goblin Tinkerer
+- id: 17571843
+  name: Goblin Butcher
+- id: 17571844
+  name: Stink Bats
+- id: 17571845
+  name: Goblin Ambusher
+- id: 17571846
+  name: Goblin Ambusher
+- id: 17571847
+  name: Goblin Tinkerer
+- id: 17571848
+  name: Goblin Tinkerer
+- id: 17571849
+  name: Goblin Butcher
+- id: 17571850
+  name: Goblin Butcher
+- id: 17571851
+  name: Stink Bats
+- id: 17571852
+  name: Stink Bats
+- id: 17571853
+  name: Goblin Ambusher
+- id: 17571854
+  name: Goblin Ambusher
+- id: 17571855
+  name: Goblin Tinkerer
+- id: 17571856
+  name: Goblin Tinkerer
+- id: 17571857
+  name: Goblin Butcher
+- id: 17571858
+  name: Goblin Butcher
+- id: 17571859
+  name: Stink Bats
+- id: 17571860
+  name: Stink Bats
+- id: 17571861
+  name: Goblin Ambusher
+- id: 17571862
+  name: Goblin Tinkerer
+- id: 17571863
+  name: Goblin Butcher
+- id: 17571864
+  name: Stink Bats
+- id: 17571865
+  name: Goblin Ambusher
+- id: 17571866
+  name: Goblin Tinkerer
+- id: 17571867
+  name: Goblin Butcher
+- id: 17571868
+  name: Stink Bats
+- id: 17571869
+  name: Stink Bats
+- id: 17571870
+  name: Desmodont
+- id: 17571871
+  name: Rotten Jam
+- id: 17571872
+  name: Rotten Jam
+- id: 17571873
+  name: Legalox Heftyhind
+- id: 17571874
+  name: Fetor Bats
+- id: 17571875
+  name: Fetor Bats
+- id: 17571876
+  name: Fetor Bats
+- id: 17571877
+  name: Fetor Bats
+- id: 17571878
+  name: Fetor Bats
+- id: 17571879
+  name: Fetor Bats
+- id: 17571880
+  name: Fetor Bats
+- id: 17571881
+  name: Fetor Bats
+- id: 17571882
+  name: Fetor Bats
+- id: 17571883
+  name: Fuligo
+- id: 17571884
+  name: Fuligo
+- id: 17571885
+  name: Fuligo
+- id: 17571886
+  name: Fetor Bats
+- id: 17571887
+  name: Fetor Bats
+- id: 17571888
+  name: Fetor Bats
+- id: 17571889
+  name: Fetor Bats
+- id: 17571890
+  name: Fetor Bats
+- id: 17571891
+  name: Black Slime
+- id: 17571892
+  name: Black Slime
+- id: 17571893
+  name: Ghoul
+- id: 17571894
+  name: Ghoul
+- id: 17571895
+  name: Ghoul
+- id: 17571896
+  name: Ghoul
+- id: 17571897
+  name: Ghoul
+- id: 17571898
+  name: Ghoul
+- id: 17571899
+  name: Ghoul
+- id: 17571900
+  name: Ghoul
+- id: 17571901
+  name: Combat
+- id: 17571902
+  name: Combat
+- id: 17571903
+  name: Ah Puch
+- id: 17571904
+  name: Thorn Bat
+- id: 17571905
+  name: Thorn Bat
+- id: 17571906
+  name: Thorn Bat
+- id: 17571907
+  name: Thorn Bat
+- id: 17571908
+  name: Thorn Bat
+- id: 17571909
+  name: Thorn Bat
+- id: 17571910
+  name: Thorn Bat
+- id: 17571911
+  name: Thorn Bat
+- id: 17571912
+  name: Thorn Bat
+- id: 17571913
+  name: Thorn Bat
+- id: 17571914
+  name: Thorn Bat
+- id: 17571915
+  name: Thorn Bat
+- id: 17571916
+  name: Fetor Bats
+- id: 17571917
+  name: Fetor Bats
+- id: 17571918
+  name: Fetor Bats
+- id: 17571919
+  name: Fetor Bats
+- id: 17571920
+  name: Fetor Bats
+- id: 17571921
+  name: Fuligo
+- id: 17571922
+  name: Fuligo
+- id: 17571923
+  name: Fuligo
+- id: 17571924
+  name: Fuligo
+- id: 17571925
+  name: Fuligo
+- id: 17571926
+  name: Fuligo
+- id: 17571927
+  name: Fuligo
+- id: 17571928
+  name: Fuligo
+- id: 17571929
+  name: Two of Cups
+- id: 17571930
+  name: Two of Batons
+- id: 17571931
+  name: Two of Swords
+- id: 17571932
+  name: Two of Coins
+- id: 17571933
+  name: Two of Cups
+- id: 17571934
+  name: Two of Batons
+- id: 17571935
+  name: Two of Swords
+- id: 17571936
+  name: Two of Coins
+- id: 17571937
+  name: Two of Cups
+- id: 17571938
+  name: Two of Batons
+- id: 17571939
+  name: Two of Swords
+- id: 17571940
+  name: Two of Coins
+- id: 17571941
+  name: Three of Cups
+- id: 17571942
+  name: Three of Batons
+- id: 17571943
+  name: Three of Swords
+- id: 17571944
+  name: Three of Coins
+- id: 17571945
+  name: Three of Cups
+- id: 17571946
+  name: Three of Batons
+- id: 17571947
+  name: Three of Swords
+- id: 17571948
+  name: Three of Coins
+- id: 17571949
+  name: Three of Cups
+- id: 17571950
+  name: Three of Batons
+- id: 17571951
+  name: Three of Swords
+- id: 17571952
+  name: Three of Coins
+- id: 17571953
+  name: Four of Cups
+- id: 17571954
+  name: Four of Batons
+- id: 17571955
+  name: Four of Swords
+- id: 17571956
+  name: Four of Coins
+- id: 17571957
+  name: Four of Cups
+- id: 17571958
+  name: Four of Batons
+- id: 17571959
+  name: Four of Swords
+- id: 17571960
+  name: Four of Coins
+- id: 17571961
+  name: Five of Cups
+- id: 17571962
+  name: Five of Batons
+- id: 17571963
+  name: Five of Swords
+- id: 17571964
+  name: Five of Coins
+- id: 17571965
+  name: Five of Cups
+- id: 17571966
+  name: Five of Batons
+- id: 17571967
+  name: Five of Swords
+- id: 17571968
+  name: Five of Coins
+- id: 17571969
+  name: Five of Cups
+- id: 17571970
+  name: Five of Batons
+- id: 17571971
+  name: Five of Swords
+- id: 17571972
+  name: Five of Coins
+- id: 17571973
+  name: Six of Cups
+- id: 17571974
+  name: Six of Batons
+- id: 17571975
+  name: Six of Swords
+- id: 17571976
+  name: Six of Coins
+- id: 17571977
+  name: Six of Cups
+- id: 17571978
+  name: Six of Batons
+- id: 17571979
+  name: Six of Swords
+- id: 17571980
+  name: Six of Coins
+- id: 17571981
+  name: Six of Cups
+- id: 17571982
+  name: Six of Batons
+- id: 17571983
+  name: Six of Swords
+- id: 17571984
+  name: Six of Coins
+- id: 17571985
+  name: Eight of Cups
+- id: 17571986
+  name: Eight of Batons
+- id: 17571987
+  name: Eight of Swords
+- id: 17571988
+  name: Eight of Coins
+- id: 17571989
+  name: Eight of Cups
+- id: 17571990
+  name: Eight of Batons
+- id: 17571991
+  name: Eight of Swords
+- id: 17571992
+  name: Eight of Coins
+- id: 17571993
+  name: Eight of Cups
+- id: 17571994
+  name: Eight of Batons
+- id: 17571995
+  name: Eight of Swords
+- id: 17571996
+  name: Eight of Coins
+- id: 17571997
+  name: Eight of Cups
+- id: 17571998
+  name: Eight of Batons
+- id: 17571999
+  name: Eight of Swords
+- id: 17572000
+  name: Eight of Coins
+- id: 17572001
+  name: Dancing Weapon
+- id: 17572002
+  name: Dancing Weapon
+- id: 17572003
+  name: Dancing Weapon
+- id: 17572004
+  name: Dancing Weapon
+- id: 17572005
+  name: Seven of Cups
+- id: 17572006
+  name: Seven of Batons
+- id: 17572007
+  name: Seven of Swords
+- id: 17572008
+  name: Seven of Coins
+- id: 17572009
+  name: Seven of Cups
+- id: 17572010
+  name: Seven of Batons
+- id: 17572011
+  name: Seven of Swords
+- id: 17572012
+  name: Seven of Coins
+- id: 17572013
+  name: Seven of Cups
+- id: 17572014
+  name: Seven of Batons
+- id: 17572015
+  name: Seven of Swords
+- id: 17572016
+  name: Seven of Coins
+- id: 17572017
+  name: Seven of Cups
+- id: 17572018
+  name: Seven of Batons
+- id: 17572019
+  name: Seven of Swords
+- id: 17572020
+  name: Seven of Coins
+- id: 17572021
+  name: Dancing Weapon
+- id: 17572022
+  name: Dancing Weapon
+- id: 17572023
+  name: Dancing Weapon
+- id: 17572024
+  name: Dancing Weapon
+- id: 17572025
+  name: Nine of Batons
+- id: 17572026
+  name: Nine of Cups
+- id: 17572027
+  name: Nine of Swords
+- id: 17572028
+  name: Nine of Coins
+- id: 17572029
+  name: Nine of Batons
+- id: 17572030
+  name: Nine of Cups
+- id: 17572031
+  name: Nine of Swords
+- id: 17572032
+  name: Nine of Coins
+- id: 17572033
+  name: Nine of Batons
+- id: 17572034
+  name: Nine of Cups
+- id: 17572035
+  name: Nine of Swords
+- id: 17572036
+  name: Nine of Coins
+- id: 17572037
+  name: Nine of Batons
+- id: 17572038
+  name: Nine of Cups
+- id: 17572039
+  name: Nine of Swords
+- id: 17572040
+  name: Nine of Coins
+- id: 17572041
+  name: Dancing Weapon
+- id: 17572042
+  name: Dancing Weapon
+- id: 17572043
+  name: Dancing Weapon
+- id: 17572044
+  name: Dancing Weapon
+- id: 17572045
+  name: Ten of Cups
+- id: 17572046
+  name: Ten of Batons
+- id: 17572047
+  name: Ten of Swords
+- id: 17572048
+  name: Ten of Coins
+- id: 17572049
+  name: Ten of Cups
+- id: 17572050
+  name: Ten of Batons
+- id: 17572051
+  name: Ten of Swords
+- id: 17572052
+  name: Ten of Coins
+- id: 17572053
+  name: Two of Cups
+- id: 17572054
+  name: Two of Batons
+- id: 17572055
+  name: Two of Swords
+- id: 17572056
+  name: Two of Coins
+- id: 17572057
+  name: Two of Cups
+- id: 17572058
+  name: Two of Batons
+- id: 17572059
+  name: Two of Swords
+- id: 17572060
+  name: Two of Coins
+- id: 17572061
+  name: Two of Cups
+- id: 17572062
+  name: Two of Batons
+- id: 17572063
+  name: Two of Swords
+- id: 17572064
+  name: Two of Coins
+- id: 17572065
+  name: Two of Cups
+- id: 17572066
+  name: Two of Batons
+- id: 17572067
+  name: Two of Swords
+- id: 17572068
+  name: Two of Coins
+- id: 17572069
+  name: Two of Cups
+- id: 17572070
+  name: Two of Batons
+- id: 17572071
+  name: Two of Swords
+- id: 17572072
+  name: Two of Coins
+- id: 17572073
+  name: Two of Cups
+- id: 17572074
+  name: Two of Batons
+- id: 17572075
+  name: Two of Swords
+- id: 17572076
+  name: Two of Coins
+- id: 17572077
+  name: Three of Cups
+- id: 17572078
+  name: Three of Batons
+- id: 17572079
+  name: Three of Swords
+- id: 17572080
+  name: Three of Coins
+- id: 17572081
+  name: Three of Cups
+- id: 17572082
+  name: Three of Batons
+- id: 17572083
+  name: Three of Swords
+- id: 17572084
+  name: Three of Coins
+- id: 17572085
+  name: Three of Cups
+- id: 17572086
+  name: Three of Batons
+- id: 17572087
+  name: Three of Swords
+- id: 17572088
+  name: Three of Coins
+- id: 17572089
+  name: Three of Cups
+- id: 17572090
+  name: Three of Batons
+- id: 17572091
+  name: Three of Swords
+- id: 17572092
+  name: Three of Coins
+- id: 17572093
+  name: Balloon
+- id: 17572094
+  name: Bomb King
+- id: 17572095
+  name: Doppelganger Gog
+- id: 17572096
+  name: Doppelganger Dio
+- id: 17572097
+  name: Three of Cups
+- id: 17572098
+  name: Three of Batons
+- id: 17572099
+  name: Three of Swords
+- id: 17572100
+  name: Three of Coins
+- id: 17572101
+  name: Three of Cups
+- id: 17572102
+  name: Three of Batons
+- id: 17572103
+  name: Three of Swords
+- id: 17572104
+  name: Three of Coins
+- id: 17572105
+  name: Two of Cups
+- id: 17572106
+  name: Two of Batons
+- id: 17572107
+  name: Two of Swords
+- id: 17572108
+  name: Two of Coins
+- id: 17572109
+  name: Two of Cups
+- id: 17572110
+  name: Two of Batons
+- id: 17572111
+  name: Two of Swords
+- id: 17572112
+  name: Two of Coins
+- id: 17572113
+  name: Two of Cups
+- id: 17572114
+  name: Two of Batons
+- id: 17572115
+  name: Two of Swords
+- id: 17572116
+  name: Two of Coins
+- id: 17572117
+  name: Two of Cups
+- id: 17572118
+  name: Two of Batons
+- id: 17572119
+  name: Two of Swords
+- id: 17572120
+  name: Two of Coins
+- id: 17572121
+  name: Two of Cups
+- id: 17572122
+  name: Two of Batons
+- id: 17572123
+  name: Two of Swords
+- id: 17572124
+  name: Two of Coins
+- id: 17572125
+  name: Two of Cups
+- id: 17572126
+  name: Two of Batons
+- id: 17572127
+  name: Two of Swords
+- id: 17572128
+  name: Two of Coins
+- id: 17572129
+  name: Three of Cups
+- id: 17572130
+  name: Three of Batons
+- id: 17572131
+  name: Three of Swords
+- id: 17572132
+  name: Three of Coins
+- id: 17572133
+  name: Three of Cups
+- id: 17572134
+  name: Three of Batons
+- id: 17572135
+  name: Three of Swords
+- id: 17572136
+  name: Three of Coins
+- id: 17572137
+  name: Three of Cups
+- id: 17572138
+  name: Three of Batons
+- id: 17572139
+  name: Three of Swords
+- id: 17572140
+  name: Three of Coins
+- id: 17572141
+  name: Balloon
+- id: 17572142
+  name: Bomb King
+- id: 17572143
+  name: Doppelganger Gog
+- id: 17572144
+  name: Doppelganger Dio
+- id: 17572145
+  name: Balloon
+- id: 17572146
+  name: Bomb King
+- id: 17572147
+  name: Doppelganger Gog
+- id: 17572148
+  name: Doppelganger Dio
+- id: 17572149
+  name: Three of Cups
+- id: 17572150
+  name: Three of Batons
+- id: 17572151
+  name: Three of Swords
+- id: 17572152
+  name: Three of Coins
+- id: 17572153
+  name: Three of Cups
+- id: 17572154
+  name: Three of Batons
+- id: 17572155
+  name: Three of Swords
+- id: 17572156
+  name: Three of Coins
+- id: 17572157
+  name: Three of Cups
+- id: 17572158
+  name: Three of Batons
+- id: 17572159
+  name: Three of Swords
+- id: 17572160
+  name: Three of Coins
+- id: 17572161
+  name: Battue Bats
+- id: 17572162
+  name: Battue Bats
+- id: 17572163
+  name: Battue Bats
+- id: 17572164
+  name: Goblin Thug
+- id: 17572165
+  name: Goblin Thug
+- id: 17572166
+  name: Goblin Weaver
+- id: 17572167
+  name: Goblin Thug
+- id: 17572168
+  name: Goblin Thug
+- id: 17572169
+  name: Goblin Weaver
+- id: 17572170
+  name: Goblin Thug
+- id: 17572171
+  name: Goblin Thug
+- id: 17572172
+  name: Goblin Weaver
+- id: 17572173
+  name: Goblin Thug
+- id: 17572174
+  name: Goblin Weaver
+- id: 17572175
+  name: Battue Bats
+- id: 17572176
+  name: Battue Bats
+- id: 17572177
+  name: Goblin Thug
+- id: 17572178
+  name: Goblin Weaver
+- id: 17572179
+  name: Battue Bats
+- id: 17572180
+  name: Battue Bats
+- id: 17572181
+  name: Goblin Thug
+- id: 17572182
+  name: Goblin Weaver
+- id: 17572183
+  name: Blade Bat
+- id: 17572184
+  name: Blade Bat
+- id: 17572185
+  name: Blade Bat
+- id: 17572186
+  name: Goblin Thug
+- id: 17572187
+  name: Goblin Weaver
+- id: 17572188
+  name: Blade Bat
+- id: 17572189
+  name: Blade Bat
+- id: 17572190
+  name: Blade Bat
+- id: 17572191
+  name: Balloon
+- id: 17572192
+  name: Goblin Weaver
+- id: 17572193
+  name: Balloon
+- id: 17572194
+  name: Goblin Weaver
+- id: 17572195
+  name: Balloon
+- id: 17572196
+  name: Goblin Weaver
+- id: 17572197
+  name: Jack of Cups
+- id: 17572198
+  name: Jack of Batons
+- id: 17572199
+  name: Jack of Swords
+- id: 17572200
+  name: Jack of Coins
+- id: 17572201
+  name: Queen of Swords
+- id: 17572202
+  name: Queen of Coins
+- id: 17572203
+  name: Thunder Elemental
+- id: 17572204
+  name: Custom Cardian
+- id: 17572205
+  name: Custom Cardian
+- id: 17572206
+  name: Custom Cardian
+- id: 17572207
+  name: Custom Cardian
+- id: 17572208
+  name: Custom Cardian
+- id: 17572209
+  name: Custom Cardian
+- id: 17572210
+  name: Custom Cardian
+- id: 17572211
+  name: Custom Cardian
+- id: 17572212
+  name: Custom Cardian
+- id: 17572213
+  name: Custom Cardian
+- id: 17572214
+  name: Custom Cardian
+- id: 17572215
+  name: Custom Cardian
+- id: 17572216
+  name: Custom Cardian
+- id: 17572217
+  name: Custom Cardian
+- id: 17572218
+  name: Custom Cardian
+- id: 17572219
+  name: Voidwrought
+- id: 17572220
+  name: Voidwrought
+- id: 17572221
+  name: Voidwrought
+- id: 17572223
+  name: Treasure Casket
+- id: 17572224
+  name: Treasure Casket
+- id: 17572225
+  name: Treasure Casket
+- id: 17572226
+  name: Treasure Casket
+- id: 17572227
+  name: Treasure Casket
+- id: 17572228
+  name: Treasure Casket
+- id: 17572229
+  name: Treasure Casket
+- id: 17572230
+  name: Treasure Casket
+- id: 17572231
+  name: Treasure Casket
+- id: 17572232
+  name: Treasure Casket
+- id: 17572233
+  name: Treasure Casket
+- id: 17572234
+  name: Treasure Casket
+- id: 17572235
+  name: Treasure Casket
+- id: 17572236
+  name: Treasure Casket
+- id: 17572237
+  name: Treasure Casket
+- id: 17572238
+  name: Treasure Casket
+- id: 17572239
+  name: Achieve Master
+- id: 17572240
+  name: Unity Master
+- id: 17572245
+  name: Cermet Door
+- id: 17572246
+  name: Strange Apparatus
+- id: 17572247
+  name: DIRECTOR
+- id: 17572248
+  name: 'Gate: Magical Gizmo'
+- id: 17572249
+  name: Ancient Magical Gizmo
+- id: 17572250
+  name: Ancient Magical Gizmo
+- id: 17572251
+  name: Ancient Magical Gizmo
+- id: 17572252
+  name: Ancient Magical Gizmo
+- id: 17572253
+  name: Ancient Magical Gizmo
+- id: 17572254
+  name: Ancient Magical Gizmo
+- id: 17572255
+  name: Cracked Wall
+- id: 17572256
+  name: Cracked Wall
+- id: 17572257
+  name: Cracked Wall
+- id: 17572258
+  name: Cracked Wall
+- id: 17572259
+  name: Cracked Wall
+- id: 17572260
+  name: Cracked Wall
+- id: 17572261
+  name: Cracked Wall
+- id: 17572262
+  name: Cracked Wall
+- id: 17572263
+  name: Switch
+- id: 17572264
+  name: 'Gate: Magical Gizmo'
+- id: 17572265
+  name: 'Gate: Magical Gizmo'
+- id: 17572266
+  name: 'Gate: Magical Gizmo'
+- id: 17572267
+  name: Stone Door
+- id: 17572268
+  name: Stone Door
+- id: 17572269
+  name: Stone Door
+- id: 17572270
+  name: Stone Door
+- id: 17572271
+  name: Stone Door
+- id: 17572272
+  name: Stone Door
+- id: 17572273
+  name: Stone Door
+- id: 17572274
+  name: Stone Door
+- id: 17572275
+  name: Stone Door
+- id: 17572276
+  name: Stone Door
+- id: 17572277
+  name: Stone Door
+- id: 17572278
+  name: Stone Door
+- id: 17572279
+  name: Stone Door
+- id: 17572280
+  name: Stone Door
+- id: 17572282
+  name: Moogle
+- id: 17572283
+  name: Moogle
+- id: 17572284
+  name: Moogle
+- id: 17572285
+  name: Moogle
+- id: 17572286
+  name: Moogle
+- id: 17572287
+  name: Moogle
+- id: 17572288
+  name: Moogle
+- id: 17572289
+  name: Moogle
+- id: 17572290
+  name: Treasure Chest
+- id: 17572291
+  name: THE TOWER
+- id: 17572292
+  name: Ajido-Marujido
+- id: 17572293
+  name: Semih Lafihna
+- id: 17572294
+  name: Ace of Wands
+- id: 17572295
+  name: Ace of Swords
+- id: 17572296
+  name: Joker
+- id: 17572297
+  name: Queen of Wands
+- id: 17572298
+  name: Queen of Swords
+- id: 17572299
+  name: Queen of Cups
+- id: 17572300
+  name: Ramblix
+- id: 17572301
+  name: Goblin Footprint
+- id: 17572302
+  name: ???
+- id: 17572303
+  name: Planar Rift
+- id: 17572304
+  name: Planar Rift
+- id: 17572305
+  name: Planar Rift
+- id: 17572306
+  name: Riftworn Pyxis
+- id: 17572307
+  name: Riftworn Pyxis
+- id: 17572308
+  name: Riftworn Pyxis
+- id: 17572309
+  name: Grounds Tome
+- id: 17572310
+  name: Grounds Tome
+- id: 17572311
+  name: Grounds Tome
+- id: 17572312
+  name: Grounds Tome
+- id: 17572313
+  name: Geomagnetic Fount
+- id: 17572314
+  name: ''
+- id: 17572315
+  name: ''
+- id: 17572316
+  name: ''
+- id: 17572317
+  name: ''
+- id: 17572318
+  name: Hazy Rune

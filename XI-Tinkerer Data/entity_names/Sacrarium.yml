@@ -1,0 +1,549 @@
+names:
+- id: 16891905
+  name: Gazer
+- id: 16891906
+  name: Gazer
+- id: 16891907
+  name: Greater Gaylas
+- id: 16891908
+  name: Stegotaur
+- id: 16891909
+  name: Gazer
+- id: 16891910
+  name: Stegotaur
+- id: 16891911
+  name: Stegotaur
+- id: 16891912
+  name: Greater Gaylas
+- id: 16891913
+  name: Mummy
+- id: 16891914
+  name: Mummy
+- id: 16891915
+  name: Lich
+- id: 16891916
+  name: Mummy
+- id: 16891917
+  name: Lich
+- id: 16891918
+  name: Mummy
+- id: 16891919
+  name: Lich
+- id: 16891920
+  name: Mummy
+- id: 16891921
+  name: Lich
+- id: 16891922
+  name: Lich
+- id: 16891923
+  name: Mummy
+- id: 16891924
+  name: Lich
+- id: 16891925
+  name: Blubber Eyes
+- id: 16891926
+  name: Mummy
+- id: 16891927
+  name: Blubber Eyes
+- id: 16891928
+  name: Mummy
+- id: 16891929
+  name: Lich
+- id: 16891930
+  name: Blubber Eyes
+- id: 16891931
+  name: Mummy
+- id: 16891932
+  name: Lich
+- id: 16891933
+  name: Blubber Eyes
+- id: 16891934
+  name: Mummy
+- id: 16891935
+  name: Lich
+- id: 16891936
+  name: Mummy
+- id: 16891937
+  name: Mummy
+- id: 16891938
+  name: Lich
+- id: 16891939
+  name: Lich
+- id: 16891940
+  name: Mummy
+- id: 16891941
+  name: Lich
+- id: 16891942
+  name: Utukku
+- id: 16891943
+  name: Utukku
+- id: 16891944
+  name: Utukku
+- id: 16891945
+  name: Utukku
+- id: 16891946
+  name: Utukku
+- id: 16891947
+  name: Utukku
+- id: 16891948
+  name: Elel
+- id: 16891949
+  name: Stegotaur
+- id: 16891950
+  name: Stegotaur
+- id: 16891951
+  name: Fomor Ranger
+- id: 16891952
+  name: Fomor Ninja
+- id: 16891953
+  name: Fomor Bard
+- id: 16891954
+  name: Fomor Dragoon
+- id: 16891955
+  name: Fomor's Wyvern
+- id: 16891956
+  name: Fomor Ranger
+- id: 16891957
+  name: Fomor Black Mage
+- id: 16891958
+  name: Fomor Bard
+- id: 16891959
+  name: Fomor Beastmaster
+- id: 16891960
+  name: Fomor's Bats
+- id: 16891961
+  name: Fomor Monk
+- id: 16891962
+  name: Fomor Red Mage
+- id: 16891963
+  name: Fomor Samurai
+- id: 16891964
+  name: Fomor Dark Knight
+- id: 16891965
+  name: Fomor Summoner
+- id: 16891966
+  name: Fomor's Elemental
+- id: 16891967
+  name: Fomor Warrior
+- id: 16891968
+  name: Fomor Thief
+- id: 16891969
+  name: Fomor Paladin
+- id: 16891970
+  name: Old Professor Mariselle
+- id: 16891971
+  name: Mariselle's Pupil
+- id: 16891972
+  name: Mariselle's Pupil
+- id: 16891973
+  name: Fomor Ranger
+- id: 16891974
+  name: Fomor Samurai
+- id: 16891975
+  name: Fomor Dragoon
+- id: 16891976
+  name: Fomor's Wyvern
+- id: 16891977
+  name: Fomor Ranger
+- id: 16891978
+  name: Fomor Samurai
+- id: 16891979
+  name: Fomor Dragoon
+- id: 16891980
+  name: Fomor's Wyvern
+- id: 16891981
+  name: Greater Gaylas
+- id: 16891982
+  name: Fomor Warrior
+- id: 16891983
+  name: Fomor Thief
+- id: 16891984
+  name: Fomor Ranger
+- id: 16891985
+  name: Fomor Warrior
+- id: 16891986
+  name: Fomor Thief
+- id: 16891987
+  name: Fomor Ranger
+- id: 16891988
+  name: Greater Gaylas
+- id: 16891989
+  name: Fomor Monk
+- id: 16891990
+  name: Fomor Black Mage
+- id: 16891991
+  name: Fomor Summoner
+- id: 16891992
+  name: Fomor's Elemental
+- id: 16891993
+  name: Fomor Monk
+- id: 16891994
+  name: Fomor Black Mage
+- id: 16891995
+  name: Fomor Summoner
+- id: 16891996
+  name: Fomor's Elemental
+- id: 16891997
+  name: Greater Gaylas
+- id: 16891998
+  name: Fomor Red Mage
+- id: 16891999
+  name: Fomor Dark Knight
+- id: 16892000
+  name: Fomor Ninja
+- id: 16892001
+  name: Fomor Red Mage
+- id: 16892002
+  name: Fomor Dark Knight
+- id: 16892003
+  name: Fomor Ninja
+- id: 16892004
+  name: Greater Gaylas
+- id: 16892005
+  name: Fomor Paladin
+- id: 16892006
+  name: Fomor Beastmaster
+- id: 16892007
+  name: Fomor's Bats
+- id: 16892008
+  name: Fomor Bard
+- id: 16892009
+  name: Fomor Paladin
+- id: 16892010
+  name: Fomor Beastmaster
+- id: 16892011
+  name: Fomor's Bats
+- id: 16892012
+  name: Fomor Bard
+- id: 16892013
+  name: Greater Gaylas
+- id: 16892014
+  name: Fomor Bard
+- id: 16892015
+  name: Fomor Monk
+- id: 16892016
+  name: Fomor Samurai
+- id: 16892017
+  name: Fomor Ninja
+- id: 16892018
+  name: Fomor Black Mage
+- id: 16892019
+  name: Fomor Ranger
+- id: 16892020
+  name: Fomor Red Mage
+- id: 16892021
+  name: Greater Gaylas
+- id: 16892022
+  name: Fomor Thief
+- id: 16892023
+  name: Fomor Samurai
+- id: 16892024
+  name: Blubber Eyes
+- id: 16892025
+  name: Fomor Summoner
+- id: 16892026
+  name: Fomor's Elemental
+- id: 16892027
+  name: Fomor Monk
+- id: 16892028
+  name: Fomor Warrior
+- id: 16892029
+  name: Teratotaur
+- id: 16892030
+  name: Teratotaur
+- id: 16892031
+  name: Teratotaur
+- id: 16892032
+  name: Teratotaur
+- id: 16892033
+  name: Teratotaur
+- id: 16892034
+  name: Fomor Warrior
+- id: 16892035
+  name: Fomor Dragoon
+- id: 16892036
+  name: Fomor's Wyvern
+- id: 16892037
+  name: Fomor Bard
+- id: 16892038
+  name: Fomor Dark Knight
+- id: 16892039
+  name: Fomor Black Mage
+- id: 16892040
+  name: Blubber Eyes
+- id: 16892041
+  name: Blubber Eyes
+- id: 16892042
+  name: Teratotaur
+- id: 16892043
+  name: Teratotaur
+- id: 16892044
+  name: Teratotaur
+- id: 16892045
+  name: Greater Gaylas
+- id: 16892046
+  name: Greater Gaylas
+- id: 16892047
+  name: Greater Gaylas
+- id: 16892048
+  name: Greater Gaylas
+- id: 16892049
+  name: Keremet
+- id: 16892050
+  name: Azren Kuguza
+- id: 16892051
+  name: Azren Kuba
+- id: 16892052
+  name: Azren Kuguza
+- id: 16892053
+  name: Azren Kuba
+- id: 16892054
+  name: Azren Kuguza
+- id: 16892055
+  name: Azren Kuba
+- id: 16892056
+  name: Azren Kuguza
+- id: 16892057
+  name: Azren Kuba
+- id: 16892058
+  name: Azren Kuguza
+- id: 16892059
+  name: Azren Kuba
+- id: 16892060
+  name: Azren Kuguza
+- id: 16892061
+  name: Azren Kuba
+- id: 16892062
+  name: Air Elemental
+- id: 16892063
+  name: Thunder Elemental
+- id: 16892064
+  name: Dark Elemental
+- id: 16892065
+  name: Air Elemental
+- id: 16892066
+  name: Thunder Elemental
+- id: 16892067
+  name: Dark Elemental
+- id: 16892068
+  name: Balor
+- id: 16892069
+  name: Luaith
+- id: 16892070
+  name: Lobais
+- id: 16892071
+  name: Fomor's Elemental
+- id: 16892072
+  name: Fomor's Avatar
+- id: 16892073
+  name: Caithleann
+- id: 16892074
+  name: Indich
+- id: 16892075
+  name: Aqueduct Spider
+- id: 16892076
+  name: Aqueduct Spider
+- id: 16892077
+  name: Aqueduct Spider
+- id: 16892078
+  name: Aqueduct Spider
+- id: 16892079
+  name: Aqueduct Spider
+- id: 16892080
+  name: Aqueduct Spider
+- id: 16892081
+  name: Aqueduct Spider
+- id: 16892082
+  name: Aqueduct Spider
+- id: 16892083
+  name: Aqueduct Spider
+- id: 16892084
+  name: Aqueduct Spider
+- id: 16892085
+  name: Aqueduct Spider
+- id: 16892086
+  name: Aqueduct Spider
+- id: 16892087
+  name: Aqueduct Spider
+- id: 16892088
+  name: Aqueduct Spider
+- id: 16892089
+  name: Aqueduct Spider
+- id: 16892090
+  name: Aqueduct Spider
+- id: 16892091
+  name: Aqueduct Spider
+- id: 16892092
+  name: Aqueduct Spider
+- id: 16892093
+  name: Aqueduct Spider
+- id: 16892094
+  name: Aqueduct Spider
+- id: 16892095
+  name: Aqueduct Spider
+- id: 16892097
+  name: Stale Draft
+- id: 16892098
+  name: Stale Draft
+- id: 16892099
+  name: Stale Draft
+- id: 16892100
+  name: Stale Draft
+- id: 16892101
+  name: Stale Draft
+- id: 16892102
+  name: Achieve Master
+- id: 16892103
+  name: Unity Master
+- id: 16892109
+  name: WALLMASTER
+- id: 16892110
+  name: Door_0sb
+- id: 16892111
+  name: Door_0sf
+- id: 16892112
+  name: Door_0sh
+- id: 16892113
+  name: Door_0sm
+- id: 16892114
+  name: Door_0sp
+- id: 16892115
+  name: Door_0ss
+- id: 16892116
+  name: Door_0sc
+- id: 16892117
+  name: Door_0sg
+- id: 16892118
+  name: Door_0sj
+- id: 16892119
+  name: Door_0sk
+- id: 16892120
+  name: Door_0so
+- id: 16892121
+  name: Door_0sr
+- id: 16892122
+  name: Door_0sd
+- id: 16892123
+  name: Door_0se
+- id: 16892124
+  name: Door_0si
+- id: 16892125
+  name: Door_0sl
+- id: 16892126
+  name: Door_0sn
+- id: 16892127
+  name: Door_0sq
+- id: 16892128
+  name: Iron Gate
+- id: 16892129
+  name: Wooden Gate
+- id: 16892130
+  name: Wooden Gate
+- id: 16892131
+  name: Wooden Gate
+- id: 16892132
+  name: Wooden Gate
+- id: 16892133
+  name: Wooden Gate
+- id: 16892134
+  name: Wooden Gate
+- id: 16892135
+  name: Wooden Gate
+- id: 16892136
+  name: Wooden Gate
+- id: 16892137
+  name: Wooden Gate
+- id: 16892138
+  name: Wooden Gate
+- id: 16892139
+  name: Switch
+- id: 16892140
+  name: Door_0su
+- id: 16892141
+  name: Large Keyhole
+- id: 16892142
+  name: Small Keyhole
+- id: 16892143
+  name: Switch
+- id: 16892144
+  name: Reliquiarium Gate
+- id: 16892145
+  name: Prishe
+- id: 16892146
+  name: Tenzen
+- id: 16892147
+  name: ???
+- id: 16892148
+  name: Ulmia
+- id: 16892149
+  name: Justinius
+- id: 16892150
+  name: Tressia
+- id: 16892151
+  name: Chemioue
+- id: 16892152
+  name: Mengrenaux
+- id: 16892153
+  name: Parelbriaux
+- id: 16892154
+  name: Ondieulix
+- id: 16892155
+  name: ???
+- id: 16892156
+  name: ???
+- id: 16892157
+  name: ???
+- id: 16892158
+  name: ???
+- id: 16892159
+  name: ???
+- id: 16892160
+  name: ???
+- id: 16892161
+  name: Muchavatte
+- id: 16892162
+  name: Chasalvige
+- id: 16892163
+  name: Halaviabeau
+- id: 16892164
+  name: Olbergieut
+- id: 16892165
+  name: Mildaurion
+- id: 16892166
+  name: Door:Papal Chambers
+- id: 16892167
+  name: Diabolos
+- id: 16892168
+  name: Diabolos
+- id: 16892169
+  name: Diabolos
+- id: 16892170
+  name: ???
+- id: 16892171
+  name: Yve'noile
+- id: 16892173
+  name: Moogle
+- id: 16892174
+  name: Moogle
+- id: 16892175
+  name: Moogle
+- id: 16892176
+  name: Moogle
+- id: 16892177
+  name: Moogle
+- id: 16892178
+  name: Moogle
+- id: 16892179
+  name: Moogle
+- id: 16892180
+  name: Moogle
+- id: 16892181
+  name: Ramblix
+- id: 16892182
+  name: Goblin Footprint
+- id: 16892183
+  name: Treasure Chest
+- id: 16892184
+  name: ???
+- id: 16892185
+  name: Survival Guide
