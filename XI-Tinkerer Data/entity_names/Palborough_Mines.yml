@@ -1,0 +1,875 @@
+names:
+- id: 17362945
+  name: Mine Crab
+- id: 17362946
+  name: Mine Crab
+- id: 17362947
+  name: Coral Crab
+- id: 17362948
+  name: Stag Crab
+- id: 17362949
+  name: Snipper
+- id: 17362950
+  name: Young Quadav
+- id: 17362951
+  name: Young Quadav
+- id: 17362952
+  name: Amethyst Quadav
+- id: 17362953
+  name: Amber Quadav
+- id: 17362954
+  name: Pit Hare
+- id: 17362955
+  name: Young Quadav
+- id: 17362956
+  name: Young Quadav
+- id: 17362957
+  name: Amethyst Quadav
+- id: 17362958
+  name: Amber Quadav
+- id: 17362959
+  name: Pit Hare
+- id: 17362960
+  name: Young Quadav
+- id: 17362961
+  name: Pit Hare
+- id: 17362962
+  name: Pit Hare
+- id: 17362963
+  name: Young Quadav
+- id: 17362964
+  name: Amethyst Quadav
+- id: 17362965
+  name: Amber Quadav
+- id: 17362966
+  name: Young Quadav
+- id: 17362967
+  name: Amethyst Quadav
+- id: 17362968
+  name: Amber Quadav
+- id: 17362969
+  name: Pit Hare
+- id: 17362970
+  name: Young Quadav
+- id: 17362971
+  name: Amethyst Quadav
+- id: 17362972
+  name: Amber Quadav
+- id: 17362973
+  name: Pit Hare
+- id: 17362974
+  name: Pit Hare
+- id: 17362975
+  name: Young Quadav
+- id: 17362976
+  name: Amethyst Quadav
+- id: 17362977
+  name: Amber Quadav
+- id: 17362978
+  name: Pit Hare
+- id: 17362979
+  name: Young Quadav
+- id: 17362980
+  name: Amethyst Quadav
+- id: 17362981
+  name: Amber Quadav
+- id: 17362982
+  name: Young Quadav
+- id: 17362983
+  name: Amethyst Quadav
+- id: 17362984
+  name: Amber Quadav
+- id: 17362985
+  name: Pit Hare
+- id: 17362986
+  name: Young Quadav
+- id: 17362987
+  name: Amethyst Quadav
+- id: 17362988
+  name: Amber Quadav
+- id: 17362989
+  name: Young Quadav
+- id: 17362990
+  name: Amethyst Quadav
+- id: 17362991
+  name: Amber Quadav
+- id: 17362992
+  name: Pit Hare
+- id: 17362993
+  name: Young Quadav
+- id: 17362994
+  name: Amethyst Quadav
+- id: 17362995
+  name: Amber Quadav
+- id: 17362996
+  name: Pit Hare
+- id: 17362997
+  name: Pit Hare
+- id: 17362998
+  name: Young Quadav
+- id: 17362999
+  name: Amethyst Quadav
+- id: 17363000
+  name: Amber Quadav
+- id: 17363001
+  name: Pit Hare
+- id: 17363002
+  name: Pit Hare
+- id: 17363003
+  name: Pit Hare
+- id: 17363004
+  name: Pit Hare
+- id: 17363005
+  name: Pit Hare
+- id: 17363006
+  name: Pit Hare
+- id: 17363007
+  name: Young Quadav
+- id: 17363008
+  name: Amethyst Quadav
+- id: 17363009
+  name: Amber Quadav
+- id: 17363010
+  name: Pit Hare
+- id: 17363011
+  name: Pit Hare
+- id: 17363012
+  name: Young Quadav
+- id: 17363013
+  name: Amethyst Quadav
+- id: 17363014
+  name: Amber Quadav
+- id: 17363015
+  name: Young Quadav
+- id: 17363016
+  name: Amethyst Quadav
+- id: 17363017
+  name: Amber Quadav
+- id: 17363018
+  name: Young Quadav
+- id: 17363019
+  name: Amethyst Quadav
+- id: 17363020
+  name: Amber Quadav
+- id: 17363021
+  name: Pit Hare
+- id: 17363022
+  name: Pit Hare
+- id: 17363023
+  name: Pit Hare
+- id: 17363024
+  name: Pit Hare
+- id: 17363025
+  name: Pit Hare
+- id: 17363026
+  name: Pit Hare
+- id: 17363027
+  name: Young Quadav
+- id: 17363028
+  name: Amethyst Quadav
+- id: 17363029
+  name: Amber Quadav
+- id: 17363030
+  name: Pit Hare
+- id: 17363031
+  name: Pit Hare
+- id: 17363032
+  name: Cave Funguar
+- id: 17363033
+  name: Cave Funguar
+- id: 17363034
+  name: Cave Funguar
+- id: 17363035
+  name: Cave Funguar
+- id: 17363036
+  name: Young Quadav
+- id: 17363037
+  name: Amethyst Quadav
+- id: 17363038
+  name: Amber Quadav
+- id: 17363039
+  name: Pit Hare
+- id: 17363040
+  name: Young Quadav
+- id: 17363041
+  name: Amethyst Quadav
+- id: 17363042
+  name: Amber Quadav
+- id: 17363043
+  name: Young Quadav
+- id: 17363044
+  name: Amethyst Quadav
+- id: 17363045
+  name: Amber Quadav
+- id: 17363046
+  name: Pit Hare
+- id: 17363047
+  name: Pit Hare
+- id: 17363048
+  name: Young Quadav
+- id: 17363049
+  name: Amethyst Quadav
+- id: 17363050
+  name: Amber Quadav
+- id: 17363051
+  name: Pit Hare
+- id: 17363052
+  name: Young Quadav
+- id: 17363053
+  name: Amethyst Quadav
+- id: 17363054
+  name: Amber Quadav
+- id: 17363055
+  name: Young Quadav
+- id: 17363056
+  name: Young Quadav
+- id: 17363057
+  name: Amethyst Quadav
+- id: 17363058
+  name: Amber Quadav
+- id: 17363059
+  name: Young Quadav
+- id: 17363060
+  name: Amethyst Quadav
+- id: 17363061
+  name: Amber Quadav
+- id: 17363062
+  name: Young Quadav
+- id: 17363063
+  name: Young Quadav
+- id: 17363064
+  name: Amethyst Quadav
+- id: 17363065
+  name: Amber Quadav
+- id: 17363066
+  name: Young Quadav
+- id: 17363067
+  name: Young Quadav
+- id: 17363068
+  name: Amethyst Quadav
+- id: 17363069
+  name: Amber Quadav
+- id: 17363070
+  name: Pit Hare
+- id: 17363071
+  name: Young Quadav
+- id: 17363072
+  name: Amethyst Quadav
+- id: 17363073
+  name: Amber Quadav
+- id: 17363074
+  name: Young Quadav
+- id: 17363075
+  name: Amethyst Quadav
+- id: 17363076
+  name: Amber Quadav
+- id: 17363077
+  name: Pit Hare
+- id: 17363078
+  name: Pit Hare
+- id: 17363079
+  name: Pit Hare
+- id: 17363080
+  name: Qu'Vho Deathhurler
+- id: 17363081
+  name: Young Quadav
+- id: 17363082
+  name: Amethyst Quadav
+- id: 17363083
+  name: Amber Quadav
+- id: 17363084
+  name: Young Quadav
+- id: 17363085
+  name: Amethyst Quadav
+- id: 17363086
+  name: Amber Quadav
+- id: 17363087
+  name: Young Quadav
+- id: 17363088
+  name: Amethyst Quadav
+- id: 17363089
+  name: Amber Quadav
+- id: 17363090
+  name: Pit Hare
+- id: 17363091
+  name: Young Quadav
+- id: 17363092
+  name: Amethyst Quadav
+- id: 17363093
+  name: Amber Quadav
+- id: 17363094
+  name: Young Quadav
+- id: 17363095
+  name: Amethyst Quadav
+- id: 17363096
+  name: Amber Quadav
+- id: 17363097
+  name: Young Quadav
+- id: 17363098
+  name: Young Quadav
+- id: 17363099
+  name: Amethyst Quadav
+- id: 17363100
+  name: Amber Quadav
+- id: 17363101
+  name: Pit Hare
+- id: 17363102
+  name: Pit Hare
+- id: 17363103
+  name: Pit Hare
+- id: 17363104
+  name: Young Quadav
+- id: 17363105
+  name: Young Quadav
+- id: 17363106
+  name: Amethyst Quadav
+- id: 17363107
+  name: Amber Quadav
+- id: 17363108
+  name: Young Quadav
+- id: 17363109
+  name: Amethyst Quadav
+- id: 17363110
+  name: Amber Quadav
+- id: 17363111
+  name: Veteran Quadav
+- id: 17363112
+  name: Greater Quadav
+- id: 17363113
+  name: Onyx Quadav
+- id: 17363114
+  name: Copper Beetle
+- id: 17363115
+  name: Copper Beetle
+- id: 17363116
+  name: Veteran Quadav
+- id: 17363117
+  name: Greater Quadav
+- id: 17363118
+  name: Onyx Quadav
+- id: 17363119
+  name: Copper Beetle
+- id: 17363120
+  name: Copper Beetle
+- id: 17363121
+  name: Veteran Quadav
+- id: 17363122
+  name: Greater Quadav
+- id: 17363123
+  name: Onyx Quadav
+- id: 17363124
+  name: Veteran Quadav
+- id: 17363125
+  name: Greater Quadav
+- id: 17363126
+  name: Onyx Quadav
+- id: 17363127
+  name: Copper Beetle
+- id: 17363128
+  name: Copper Beetle
+- id: 17363129
+  name: Veteran Quadav
+- id: 17363130
+  name: Greater Quadav
+- id: 17363131
+  name: Onyx Quadav
+- id: 17363132
+  name: Veteran Quadav
+- id: 17363133
+  name: Greater Quadav
+- id: 17363134
+  name: Onyx Quadav
+- id: 17363135
+  name: Veteran Quadav
+- id: 17363136
+  name: Greater Quadav
+- id: 17363137
+  name: Onyx Quadav
+- id: 17363138
+  name: Veteran Quadav
+- id: 17363139
+  name: Greater Quadav
+- id: 17363140
+  name: Onyx Quadav
+- id: 17363141
+  name: Veteran Quadav
+- id: 17363142
+  name: Greater Quadav
+- id: 17363143
+  name: Onyx Quadav
+- id: 17363144
+  name: Veteran Quadav
+- id: 17363145
+  name: Greater Quadav
+- id: 17363146
+  name: Onyx Quadav
+- id: 17363147
+  name: Young Quadav
+- id: 17363148
+  name: Young Quadav
+- id: 17363149
+  name: Amethyst Quadav
+- id: 17363150
+  name: Amber Quadav
+- id: 17363151
+  name: Pit Hare
+- id: 17363152
+  name: Pit Hare
+- id: 17363153
+  name: Cave Funguar
+- id: 17363154
+  name: Cave Funguar
+- id: 17363155
+  name: Cave Funguar
+- id: 17363156
+  name: Cave Funguar
+- id: 17363157
+  name: Cave Funguar
+- id: 17363158
+  name: Cave Funguar
+- id: 17363159
+  name: Cave Funguar
+- id: 17363160
+  name: Mine Scorpion
+- id: 17363161
+  name: Young Quadav
+- id: 17363162
+  name: Young Quadav
+- id: 17363163
+  name: Amethyst Quadav
+- id: 17363164
+  name: Amber Quadav
+- id: 17363165
+  name: Veteran Quadav
+- id: 17363166
+  name: Greater Quadav
+- id: 17363167
+  name: Onyx Quadav
+- id: 17363168
+  name: Veteran Quadav
+- id: 17363169
+  name: Greater Quadav
+- id: 17363170
+  name: Onyx Quadav
+- id: 17363171
+  name: Copper Beetle
+- id: 17363172
+  name: Veteran Quadav
+- id: 17363173
+  name: Greater Quadav
+- id: 17363174
+  name: Onyx Quadav
+- id: 17363175
+  name: Copper Beetle
+- id: 17363176
+  name: Copper Beetle
+- id: 17363177
+  name: Copper Beetle
+- id: 17363178
+  name: Copper Beetle
+- id: 17363179
+  name: Copper Beetle
+- id: 17363180
+  name: Copper Beetle
+- id: 17363181
+  name: Bu'Ghi Howlblade
+- id: 17363182
+  name: Veteran Quadav
+- id: 17363183
+  name: Greater Quadav
+- id: 17363184
+  name: Onyx Quadav
+- id: 17363185
+  name: Copper Beetle
+- id: 17363186
+  name: Veteran Quadav
+- id: 17363187
+  name: Greater Quadav
+- id: 17363188
+  name: Onyx Quadav
+- id: 17363189
+  name: Copper Beetle
+- id: 17363190
+  name: Veteran Quadav
+- id: 17363191
+  name: Greater Quadav
+- id: 17363192
+  name: Onyx Quadav
+- id: 17363193
+  name: Veteran Quadav
+- id: 17363194
+  name: Greater Quadav
+- id: 17363195
+  name: Onyx Quadav
+- id: 17363196
+  name: Veteran Quadav
+- id: 17363197
+  name: Greater Quadav
+- id: 17363198
+  name: Onyx Quadav
+- id: 17363199
+  name: Veteran Quadav
+- id: 17363200
+  name: Greater Quadav
+- id: 17363201
+  name: Onyx Quadav
+- id: 17363202
+  name: Veteran Quadav
+- id: 17363203
+  name: Greater Quadav
+- id: 17363204
+  name: Onyx Quadav
+- id: 17363205
+  name: Veteran Quadav
+- id: 17363206
+  name: Greater Quadav
+- id: 17363207
+  name: Onyx Quadav
+- id: 17363208
+  name: Zi'Ghi Boneeater
+- id: 17363209
+  name: Veteran Quadav
+- id: 17363210
+  name: Greater Quadav
+- id: 17363211
+  name: Onyx Quadav
+- id: 17363212
+  name: Veteran Quadav
+- id: 17363213
+  name: Greater Quadav
+- id: 17363214
+  name: Onyx Quadav
+- id: 17363215
+  name: Veteran Quadav
+- id: 17363216
+  name: Greater Quadav
+- id: 17363217
+  name: Onyx Quadav
+- id: 17363218
+  name: Rabid Rat
+- id: 17363219
+  name: Rabid Rat
+- id: 17363220
+  name: Rabid Rat
+- id: 17363221
+  name: Rabid Rat
+- id: 17363222
+  name: Rabid Rat
+- id: 17363223
+  name: Veteran Quadav
+- id: 17363224
+  name: Greater Quadav
+- id: 17363225
+  name: Onyx Quadav
+- id: 17363226
+  name: Rabid Rat
+- id: 17363227
+  name: Rabid Rat
+- id: 17363228
+  name: Rabid Rat
+- id: 17363229
+  name: Veteran Quadav
+- id: 17363230
+  name: Greater Quadav
+- id: 17363231
+  name: Onyx Quadav
+- id: 17363232
+  name: Veteran Quadav
+- id: 17363233
+  name: Greater Quadav
+- id: 17363234
+  name: Onyx Quadav
+- id: 17363235
+  name: Veteran Quadav
+- id: 17363236
+  name: Greater Quadav
+- id: 17363237
+  name: Onyx Quadav
+- id: 17363238
+  name: Rabid Rat
+- id: 17363239
+  name: Rabid Rat
+- id: 17363240
+  name: Mine Scorpion
+- id: 17363241
+  name: Scimitar Scorpion
+- id: 17363242
+  name: Veteran Quadav
+- id: 17363243
+  name: Greater Quadav
+- id: 17363244
+  name: Onyx Quadav
+- id: 17363245
+  name: Veteran Quadav
+- id: 17363246
+  name: Greater Quadav
+- id: 17363247
+  name: Onyx Quadav
+- id: 17363248
+  name: Veteran Quadav
+- id: 17363249
+  name: Greater Quadav
+- id: 17363250
+  name: Onyx Quadav
+- id: 17363251
+  name: Old Quadav
+- id: 17363252
+  name: Copper Quadav
+- id: 17363253
+  name: Veteran Quadav
+- id: 17363254
+  name: Greater Quadav
+- id: 17363255
+  name: Onyx Quadav
+- id: 17363256
+  name: Old Quadav
+- id: 17363257
+  name: Copper Quadav
+- id: 17363258
+  name: Be'Hya Hundredwall
+- id: 17363259
+  name: Old Quadav
+- id: 17363260
+  name: Copper Quadav
+- id: 17363261
+  name: Veteran Quadav
+- id: 17363262
+  name: Greater Quadav
+- id: 17363263
+  name: Onyx Quadav
+- id: 17363264
+  name: Old Quadav
+- id: 17363265
+  name: Copper Quadav
+- id: 17363266
+  name: Veteran Quadav
+- id: 17363267
+  name: Greater Quadav
+- id: 17363268
+  name: Onyx Quadav
+- id: 17363269
+  name: Rabid Rat
+- id: 17363270
+  name: Rabid Rat
+- id: 17363271
+  name: Veteran Quadav
+- id: 17363272
+  name: Greater Quadav
+- id: 17363273
+  name: Onyx Quadav
+- id: 17363274
+  name: Veteran Quadav
+- id: 17363275
+  name: Greater Quadav
+- id: 17363276
+  name: Onyx Quadav
+- id: 17363277
+  name: Veteran Quadav
+- id: 17363278
+  name: Greater Quadav
+- id: 17363279
+  name: Onyx Quadav
+- id: 17363280
+  name: Veteran Quadav
+- id: 17363281
+  name: Greater Quadav
+- id: 17363282
+  name: Onyx Quadav
+- id: 17363283
+  name: Mine Scorpion
+- id: 17363284
+  name: Scimitar Scorpion
+- id: 17363285
+  name: Veteran Quadav
+- id: 17363286
+  name: Greater Quadav
+- id: 17363287
+  name: Onyx Quadav
+- id: 17363288
+  name: Old Quadav
+- id: 17363289
+  name: Copper Quadav
+- id: 17363290
+  name: Brass Quadav
+- id: 17363291
+  name: Old Quadav
+- id: 17363292
+  name: Copper Quadav
+- id: 17363293
+  name: Brass Quadav
+- id: 17363294
+  name: Old Quadav
+- id: 17363295
+  name: Copper Quadav
+- id: 17363296
+  name: Brass Quadav
+- id: 17363297
+  name: Old Quadav
+- id: 17363298
+  name: Copper Quadav
+- id: 17363299
+  name: Brass Quadav
+- id: 17363300
+  name: Old Quadav
+- id: 17363301
+  name: Copper Quadav
+- id: 17363302
+  name: Brass Quadav
+- id: 17363303
+  name: Old Quadav
+- id: 17363304
+  name: Old Quadav
+- id: 17363305
+  name: No'Mho Crimsonarmor
+- id: 17363306
+  name: Old Quadav
+- id: 17363307
+  name: Copper Quadav
+- id: 17363308
+  name: Brass Quadav
+- id: 17363309
+  name: Old Quadav
+- id: 17363310
+  name: Copper Quadav
+- id: 17363311
+  name: Brass Quadav
+- id: 17363312
+  name: Old Quadav
+- id: 17363313
+  name: Copper Quadav
+- id: 17363314
+  name: Brass Quadav
+- id: 17363315
+  name: Old Quadav
+- id: 17363316
+  name: Copper Quadav
+- id: 17363317
+  name: Brass Quadav
+- id: 17363318
+  name: Ni'Ghu Nestfender
+- id: 17363319
+  name: Incensed Pineapple
+- id: 17363322
+  name: Achieve Master
+- id: 17363323
+  name: Unity Master
+- id: 17363328
+  name: Teleporter
+- id: 17363329
+  name: Teleporter2
+- id: 17363330
+  name: ''
+- id: 17363331
+  name: ''
+- id: 17363332
+  name: Dock Lever
+- id: 17363333
+  name: Dock Lever
+- id: 17363334
+  name: ''
+- id: 17363335
+  name: ''
+- id: 17363336
+  name: ''
+- id: 17363337
+  name: ''
+- id: 17363338
+  name: Elevator Lever
+- id: 17363339
+  name: Elevator Lever
+- id: 17363340
+  name: ''
+- id: 17363341
+  name: ''
+- id: 17363342
+  name: ''
+- id: 17363343
+  name: ''
+- id: 17363344
+  name: Mythril Seam
+- id: 17363345
+  name: Mythril Seam
+- id: 17363346
+  name: Mythril Seam
+- id: 17363347
+  name: Mythril Seam
+- id: 17363348
+  name: Mythril Seam
+- id: 17363349
+  name: Mythril Seam
+- id: 17363350
+  name: Mythril Seam
+- id: 17363351
+  name: Refiner Lever
+- id: 17363352
+  name: Refiner Lever
+- id: 17363353
+  name: Refiner Lid
+- id: 17363354
+  name: Old Toolbox
+- id: 17363356
+  name: Moogle
+- id: 17363357
+  name: Moogle
+- id: 17363358
+  name: Moogle
+- id: 17363359
+  name: Moogle
+- id: 17363360
+  name: Moogle
+- id: 17363361
+  name: Moogle
+- id: 17363362
+  name: Moogle
+- id: 17363363
+  name: Moogle
+- id: 17363364
+  name: ''
+- id: 17363365
+  name: Mining Point
+- id: 17363366
+  name: Mining Point
+- id: 17363367
+  name: Mining Point
+- id: 17363368
+  name: Mining Point
+- id: 17363369
+  name: Mining Point
+- id: 17363370
+  name: Mining Point
+- id: 17363371
+  name: Treasure Chest
+- id: 17363372
+  name: ???
+- id: 17363373
+  name: Ramblix
+- id: 17363374
+  name: Goblin Footprint
+- id: 17363375
+  name: Huge Crystal
+- id: 17363376
+  name: Geomagnetic Fount
+- id: 17363377
+  name: 'Home Point #1'
+- id: 17363378
+  name: 'Home Point #2'
+- id: 17363379
+  name: 'Home Point #3'
+- id: 17363380
+  name: 'Home Point #4'
+- id: 17363381
+  name: 'Home Point #5'
+- id: 17363382
+  name: ''
+- id: 17363383
+  name: Peculiar Fissure
+- id: 17363384
+  name: Sirius
+- id: 17363385
+  name: Almid
+- id: 17363386
+  name: Incensed Pineapple
+- id: 17363387
+  name: ''
+- id: 17363388
+  name: ''

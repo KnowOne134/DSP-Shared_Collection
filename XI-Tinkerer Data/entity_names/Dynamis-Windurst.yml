@@ -1,0 +1,639 @@
+names:
+- id: 17543169
+  name: Tzee Xicu Idol
+- id: 17543170
+  name: Maa Febi the Steadfast
+- id: 17543171
+  name: Muu Febi the Steadfast
+- id: 17543172
+  name: Vanguard Skirmisher
+- id: 17543173
+  name: Vanguard Priest
+- id: 17543174
+  name: Vanguard Prelate
+- id: 17543175
+  name: Vanguard Chanter
+- id: 17543176
+  name: Vanguard Sentinel
+- id: 17543177
+  name: Vanguard Priest
+- id: 17543178
+  name: Vanguard Visionary
+- id: 17543179
+  name: Vanguard Chanter
+- id: 17543180
+  name: Vanguard Liberator
+- id: 17543181
+  name: Vanguard Sentinel
+- id: 17543182
+  name: Vanguard Inciter
+- id: 17543183
+  name: Vanguard Exemplar
+- id: 17543184
+  name: Vanguard Salvager
+- id: 17543185
+  name: Vanguard Inciter
+- id: 17543186
+  name: Vanguard Ogresoother
+- id: 17543187
+  name: Vanguard's Crow
+- id: 17543188
+  name: Vanguard Persecutor
+- id: 17543189
+  name: Vanguard Assassin
+- id: 17543190
+  name: Vanguard Persecutor
+- id: 17543191
+  name: Vanguard Assassin
+- id: 17543192
+  name: Vanguard Partisan
+- id: 17543193
+  name: Vanguard's Wyvern
+- id: 17543194
+  name: Vanguard Chanter
+- id: 17543195
+  name: Vanguard Salvager
+- id: 17543196
+  name: Vanguard Oracle
+- id: 17543197
+  name: Vanguard's Avatar
+- id: 17543198
+  name: Vanguard Skirmisher
+- id: 17543199
+  name: Vanguard Priest
+- id: 17543200
+  name: Vanguard Prelate
+- id: 17543201
+  name: Vanguard Visionary
+- id: 17543202
+  name: Vanguard Liberator
+- id: 17543203
+  name: Vanguard Ogresoother
+- id: 17543204
+  name: Vanguard's Crow
+- id: 17543205
+  name: Vanguard Chanter
+- id: 17543206
+  name: Vanguard Sentinel
+- id: 17543207
+  name: Vanguard Persecutor
+- id: 17543208
+  name: Vanguard Assassin
+- id: 17543209
+  name: Vanguard Salvager
+- id: 17543210
+  name: Vanguard Skirmisher
+- id: 17543211
+  name: Vanguard Exemplar
+- id: 17543212
+  name: Vanguard Skirmisher
+- id: 17543213
+  name: Vanguard Salvager
+- id: 17543214
+  name: Vanguard Salvager
+- id: 17543215
+  name: Vanguard Prelate
+- id: 17543216
+  name: Vanguard Oracle
+- id: 17543217
+  name: Vanguard's Avatar
+- id: 17543218
+  name: Vanguard Skirmisher
+- id: 17543219
+  name: Vanguard Priest
+- id: 17543220
+  name: Vanguard Salvager
+- id: 17543221
+  name: Vanguard Assassin
+- id: 17543222
+  name: Vanguard Prelate
+- id: 17543223
+  name: Vanguard Visionary
+- id: 17543224
+  name: Vanguard Liberator
+- id: 17543225
+  name: Vanguard Salvager
+- id: 17543226
+  name: Vanguard Liberator
+- id: 17543227
+  name: Vanguard Liberator
+- id: 17543228
+  name: Vanguard Sentinel
+- id: 17543229
+  name: Vanguard Partisan
+- id: 17543230
+  name: Vanguard's Wyvern
+- id: 17543231
+  name: Vanguard Exemplar
+- id: 17543232
+  name: Vanguard Inciter
+- id: 17543233
+  name: Vanguard Exemplar
+- id: 17543234
+  name: Vanguard Inciter
+- id: 17543235
+  name: Vanguard Ogresoother
+- id: 17543236
+  name: Vanguard's Crow
+- id: 17543237
+  name: Vanguard Partisan
+- id: 17543238
+  name: Vanguard's Wyvern
+- id: 17543239
+  name: Vanguard Ogresoother
+- id: 17543240
+  name: Vanguard's Crow
+- id: 17543241
+  name: Vanguard Partisan
+- id: 17543242
+  name: Vanguard's Wyvern
+- id: 17543243
+  name: Vanguard Salvager
+- id: 17543244
+  name: Vanguard Prelate
+- id: 17543245
+  name: Vanguard Assassin
+- id: 17543246
+  name: Vanguard Persecutor
+- id: 17543247
+  name: Vanguard Salvager
+- id: 17543248
+  name: Vanguard Prelate
+- id: 17543249
+  name: Vanguard Assassin
+- id: 17543250
+  name: Vanguard Persecutor
+- id: 17543251
+  name: Vanguard Skirmisher
+- id: 17543252
+  name: Vanguard Sentinel
+- id: 17543253
+  name: Vanguard Priest
+- id: 17543254
+  name: Vanguard Prelate
+- id: 17543255
+  name: Vanguard Chanter
+- id: 17543256
+  name: Vanguard Partisan
+- id: 17543257
+  name: Vanguard's Wyvern
+- id: 17543258
+  name: Avatar Idol
+- id: 17543259
+  name: Avatar Idol
+- id: 17543260
+  name: Vanguard Skirmisher
+- id: 17543261
+  name: Vanguard Sentinel
+- id: 17543262
+  name: Vanguard Priest
+- id: 17543263
+  name: Vanguard Prelate
+- id: 17543264
+  name: Vanguard Visionary
+- id: 17543265
+  name: Vanguard Liberator
+- id: 17543266
+  name: Vanguard Partisan
+- id: 17543267
+  name: Vanguard's Wyvern
+- id: 17543268
+  name: Avatar Icon
+- id: 17543269
+  name: Avatar Icon
+- id: 17543270
+  name: Vanguard Salvager
+- id: 17543271
+  name: Vanguard Persecutor
+- id: 17543272
+  name: Vanguard Oracle
+- id: 17543273
+  name: Vanguard's Avatar
+- id: 17543274
+  name: Vanguard Ogresoother
+- id: 17543275
+  name: Vanguard's Crow
+- id: 17543276
+  name: Vanguard Skirmisher
+- id: 17543277
+  name: Vanguard Chanter
+- id: 17543278
+  name: Vanguard Liberator
+- id: 17543279
+  name: Vanguard Assassin
+- id: 17543280
+  name: Vanguard Prelate
+- id: 17543281
+  name: Vanguard Exemplar
+- id: 17543282
+  name: Vanguard Exemplar
+- id: 17543283
+  name: Vanguard Inciter
+- id: 17543284
+  name: Vanguard Inciter
+- id: 17543285
+  name: Vanguard Prelate
+- id: 17543286
+  name: Vanguard Oracle
+- id: 17543287
+  name: Vanguard's Avatar
+- id: 17543288
+  name: Vanguard Inciter
+- id: 17543289
+  name: Vanguard Exemplar
+- id: 17543290
+  name: Vanguard Skirmisher
+- id: 17543291
+  name: Vanguard Sentinel
+- id: 17543292
+  name: Vanguard Visionary
+- id: 17543293
+  name: Vanguard Liberator
+- id: 17543294
+  name: Haa Pevi the Stentorian
+- id: 17543295
+  name: Vanguard's Avatar
+- id: 17543296
+  name: Vanguard Exemplar
+- id: 17543297
+  name: Vanguard Inciter
+- id: 17543298
+  name: Vanguard Prelate
+- id: 17543299
+  name: Vanguard Oracle
+- id: 17543300
+  name: Vanguard's Avatar
+- id: 17543301
+  name: Vanguard Salvager
+- id: 17543302
+  name: Vanguard Chanter
+- id: 17543303
+  name: Vanguard Assassin
+- id: 17543304
+  name: Vanguard Priest
+- id: 17543305
+  name: Avatar Icon
+- id: 17543306
+  name: Avatar Icon
+- id: 17543307
+  name: Vanguard Liberator
+- id: 17543308
+  name: Vanguard Exemplar
+- id: 17543309
+  name: Vanguard Assassin
+- id: 17543310
+  name: Vanguard Ogresoother
+- id: 17543311
+  name: Vanguard's Crow
+- id: 17543312
+  name: Vanguard Skirmisher
+- id: 17543313
+  name: Vanguard Skirmisher
+- id: 17543314
+  name: Vanguard Persecutor
+- id: 17543315
+  name: Vanguard Skirmisher
+- id: 17543316
+  name: Vanguard Priest
+- id: 17543317
+  name: Vanguard Visionary
+- id: 17543318
+  name: Vanguard Prelate
+- id: 17543319
+  name: Vanguard Sentinel
+- id: 17543320
+  name: Vanguard Liberator
+- id: 17543321
+  name: Vanguard Priest
+- id: 17543322
+  name: Vanguard Visionary
+- id: 17543323
+  name: Vanguard Prelate
+- id: 17543324
+  name: Vanguard Skirmisher
+- id: 17543325
+  name: Vanguard Sentinel
+- id: 17543326
+  name: Vanguard Sentinel
+- id: 17543327
+  name: Vanguard Liberator
+- id: 17543328
+  name: Vanguard Visionary
+- id: 17543329
+  name: Vanguard Exemplar
+- id: 17543330
+  name: Vanguard Inciter
+- id: 17543331
+  name: Vanguard Inciter
+- id: 17543332
+  name: Vanguard Ogresoother
+- id: 17543333
+  name: Vanguard's Crow
+- id: 17543334
+  name: Vanguard Assassin
+- id: 17543335
+  name: Vanguard Persecutor
+- id: 17543336
+  name: Vanguard Chanter
+- id: 17543337
+  name: Vanguard Oracle
+- id: 17543338
+  name: Vanguard's Avatar
+- id: 17543339
+  name: Vanguard Partisan
+- id: 17543340
+  name: Vanguard's Wyvern
+- id: 17543341
+  name: Vanguard Assassin
+- id: 17543342
+  name: Avatar Idol
+- id: 17543343
+  name: Vanguard Priest
+- id: 17543344
+  name: Vanguard Chanter
+- id: 17543345
+  name: Loo Hepe the Eyepiercer
+- id: 17543346
+  name: Vanguard Exemplar
+- id: 17543347
+  name: Vanguard Assassin
+- id: 17543348
+  name: Vanguard Persecutor
+- id: 17543349
+  name: Vanguard Skirmisher
+- id: 17543350
+  name: Vanguard Visionary
+- id: 17543351
+  name: Vanguard Oracle
+- id: 17543352
+  name: Vanguard's Avatar
+- id: 17543353
+  name: Avatar Icon
+- id: 17543354
+  name: Avatar Icon
+- id: 17543355
+  name: Vanguard Priest
+- id: 17543356
+  name: Vanguard Chanter
+- id: 17543357
+  name: Wuu Qoho the Razorclaw
+- id: 17543358
+  name: Vanguard Sentinel
+- id: 17543359
+  name: Vanguard Persecutor
+- id: 17543360
+  name: Vanguard Partisan
+- id: 17543361
+  name: Vanguard's Wyvern
+- id: 17543362
+  name: Avatar Icon
+- id: 17543363
+  name: Avatar Icon
+- id: 17543364
+  name: Vanguard Assassin
+- id: 17543365
+  name: Vanguard Liberator
+- id: 17543366
+  name: Vanguard Inciter
+- id: 17543367
+  name: Vanguard Ogresoother
+- id: 17543368
+  name: Vanguard's Crow
+- id: 17543369
+  name: Vanguard Visionary
+- id: 17543370
+  name: Vanguard Persecutor
+- id: 17543371
+  name: Vanguard Assassin
+- id: 17543372
+  name: Avatar Idol
+- id: 17543373
+  name: Vanguard Priest
+- id: 17543374
+  name: Vanguard Chanter
+- id: 17543375
+  name: Xoo Kaza the Solemn
+- id: 17543376
+  name: Vanguard Salvager
+- id: 17543377
+  name: Vanguard Skirmisher
+- id: 17543378
+  name: Vanguard Skirmisher
+- id: 17543379
+  name: Vanguard Priest
+- id: 17543380
+  name: Vanguard Prelate
+- id: 17543381
+  name: Vanguard Visionary
+- id: 17543382
+  name: Vanguard Sentinel
+- id: 17543383
+  name: Vanguard Sentinel
+- id: 17543384
+  name: Vanguard Exemplar
+- id: 17543385
+  name: Vanguard Ogresoother
+- id: 17543386
+  name: Vanguard's Crow
+- id: 17543387
+  name: Vanguard Inciter
+- id: 17543388
+  name: Vanguard Liberator
+- id: 17543389
+  name: Vanguard Priest
+- id: 17543390
+  name: Vanguard Salvager
+- id: 17543391
+  name: Vanguard Assassin
+- id: 17543392
+  name: Avatar Icon
+- id: 17543393
+  name: Avatar Icon
+- id: 17543394
+  name: Vanguard Salvager
+- id: 17543395
+  name: Vanguard Inciter
+- id: 17543396
+  name: Vanguard Skirmisher
+- id: 17543397
+  name: Vanguard Priest
+- id: 17543398
+  name: Vanguard Prelate
+- id: 17543399
+  name: Vanguard Prelate
+- id: 17543400
+  name: Vanguard Visionary
+- id: 17543401
+  name: Vanguard Visionary
+- id: 17543402
+  name: Vanguard Skirmisher
+- id: 17543403
+  name: Vanguard Sentinel
+- id: 17543404
+  name: Vanguard Liberator
+- id: 17543405
+  name: Vanguard Liberator
+- id: 17543406
+  name: Vanguard Ogresoother
+- id: 17543407
+  name: Vanguard's Crow
+- id: 17543408
+  name: Vanguard Assassin
+- id: 17543409
+  name: Avatar Icon
+- id: 17543410
+  name: Avatar Icon
+- id: 17543411
+  name: Vanguard Salvager
+- id: 17543412
+  name: Vanguard Inciter
+- id: 17543413
+  name: Vanguard Persecutor
+- id: 17543414
+  name: Vanguard Chanter
+- id: 17543415
+  name: Vanguard Partisan
+- id: 17543416
+  name: Vanguard's Wyvern
+- id: 17543417
+  name: Vanguard Chanter
+- id: 17543418
+  name: Vanguard Assassin
+- id: 17543419
+  name: Avatar Icon
+- id: 17543420
+  name: Avatar Icon
+- id: 17543421
+  name: Avatar Icon
+- id: 17543422
+  name: Vanguard Salvager
+- id: 17543423
+  name: Vanguard Inciter
+- id: 17543424
+  name: Vanguard Oracle
+- id: 17543425
+  name: Vanguard's Avatar
+- id: 17543426
+  name: Vanguard Chanter
+- id: 17543427
+  name: Vanguard Persecutor
+- id: 17543428
+  name: Vanguard Assassin
+- id: 17543429
+  name: Vanguard Salvager
+- id: 17543430
+  name: Vanguard Salvager
+- id: 17543431
+  name: Vanguard Partisan
+- id: 17543432
+  name: Vanguard's Wyvern
+- id: 17543433
+  name: Vanguard Chanter
+- id: 17543434
+  name: Vanguard Chanter
+- id: 17543435
+  name: Vanguard Persecutor
+- id: 17543436
+  name: Vanguard Persecutor
+- id: 17543437
+  name: Vanguard Assassin
+- id: 17543438
+  name: Vanguard Assassin
+- id: 17543439
+  name: Vanguard Assassin
+- id: 17543440
+  name: Vanguard Chanter
+- id: 17543441
+  name: Vanguard Persecutor
+- id: 17543442
+  name: Vanguard Oracle
+- id: 17543443
+  name: Vanguard's Avatar
+- id: 17543444
+  name: Vanguard Oracle
+- id: 17543445
+  name: Vanguard's Avatar
+- id: 17543446
+  name: Avatar Idol
+- id: 17543447
+  name: Vanguard Skirmisher
+- id: 17543448
+  name: Vanguard Sentinel
+- id: 17543449
+  name: Vanguard Priest
+- id: 17543450
+  name: Vanguard Prelate
+- id: 17543451
+  name: Vanguard Visionary
+- id: 17543452
+  name: Vanguard Liberator
+- id: 17543453
+  name: Vanguard Exemplar
+- id: 17543454
+  name: Vanguard Inciter
+- id: 17543455
+  name: Vanguard Chanter
+- id: 17543456
+  name: Vanguard Salvager
+- id: 17543457
+  name: Vanguard Persecutor
+- id: 17543458
+  name: Vanguard Assassin
+- id: 17543459
+  name: Vanguard Oracle
+- id: 17543460
+  name: Vanguard's Avatar
+- id: 17543461
+  name: Avatar Icon
+- id: 17543462
+  name: Avatar Icon
+- id: 17543463
+  name: Avatar Icon
+- id: 17543464
+  name: Xuu Bhoqa the Enigma
+- id: 17543465
+  name: Xuu Bhoqa's Avatar
+- id: 17543466
+  name: Fuu Tzapo the Blessed
+- id: 17543467
+  name: Naa Yixo the Stillrage
+- id: 17543468
+  name: Tee Zaksa the Ceaseless
+- id: 17543469
+  name: Arch Tzee Xicu Idol
+- id: 17543471
+  name: Achieve Master
+- id: 17543472
+  name: Unity Master
+- id: 17543477
+  name: ''
+- id: 17543478
+  name: Somnial Threshold
+- id: 17543479
+  name: ???
+- id: 17543480
+  name: ???
+- id: 17543481
+  name: ???
+- id: 17543482
+  name: ???
+- id: 17543483
+  name: ???
+- id: 17543484
+  name: ''
+- id: 17543486
+  name: Moogle
+- id: 17543487
+  name: Moogle
+- id: 17543488
+  name: Moogle
+- id: 17543489
+  name: Moogle
+- id: 17543490
+  name: Moogle
+- id: 17543491
+  name: Moogle
+- id: 17543492
+  name: Moogle
+- id: 17543493
+  name: Moogle

@@ -1,0 +1,613 @@
+names:
+- id: 17825808
+  name: JGL_BUILD_MASTER_0
+- id: 17825809
+  name: JGL_BUILD_MASTER_1
+- id: 17825810
+  name: JGL_BUILD_MASTER_2
+- id: 17825811
+  name: JGL_BUILD_MASTER_3
+- id: 17825812
+  name: JGL_BUILD_MASTER_4
+- id: 17825813
+  name: JGL_BUILD_MASTER_5
+- id: 17825842
+  name: Soul Pyre
+- id: 17825843
+  name: Soul Pyre
+- id: 17825844
+  name: Soul Pyre
+- id: 17825845
+  name: Soul Pyre
+- id: 17825846
+  name: Soul Pyre
+- id: 17825847
+  name: Soul Pyre
+- id: 17825848
+  name: Task Delegator
+- id: 17825849
+  name: Task Delegator
+- id: 17825850
+  name: Task Delegator
+- id: 17825851
+  name: Task Delegator
+- id: 17825852
+  name: Civil Registrar
+- id: 17825853
+  name: Civil Registrar
+- id: 17825854
+  name: Civil Registrar
+- id: 17825855
+  name: Civil Registrar
+- id: 17825856
+  name: GLD_BUILD_MASTER
+- id: 17825857
+  name: Achieve Master
+- id: 17825858
+  name: Unity Master
+- id: 17825896
+  name: Gehlvik
+- id: 17825897
+  name: Ivoh Haalameb
+- id: 17825899
+  name: Moogle
+- id: 17825900
+  name: Moogle
+- id: 17825901
+  name: Moogle
+- id: 17825902
+  name: Moogle
+- id: 17825903
+  name: Moogle
+- id: 17825904
+  name: Moogle
+- id: 17825905
+  name: Moogle
+- id: 17825906
+  name: Moogle
+- id: 17825907
+  name: 'Home Point #1'
+- id: 17825908
+  name: 'Home Point #2'
+- id: 17825909
+  name: 'Home Point #3'
+- id: 17825910
+  name: 'Home Point #4'
+- id: 17825911
+  name: 'Home Point #5'
+- id: 17825912
+  name: Debadle-Levadle
+- id: 17825913
+  name: Auction Counter
+- id: 17825914
+  name: Auction Counter
+- id: 17825915
+  name: Auction Counter
+- id: 17825916
+  name: Auction Counter
+- id: 17825917
+  name: Auction Counter
+- id: 17825918
+  name: Auction Counter
+- id: 17825919
+  name: Gemmerick
+- id: 17825920
+  name: Moogle
+- id: 17825921
+  name: ''
+- id: 17825922
+  name: ???
+- id: 17825923
+  name: ''
+- id: 17825924
+  name: Moogle
+- id: 17825925
+  name: Symphonic Curator
+- id: 17825926
+  name: ''
+- id: 17825927
+  name: ???
+- id: 17825928
+  name: ''
+- id: 17825929
+  name: Sylvie
+- id: 17825930
+  name: ''
+- id: 17825931
+  name: ''
+- id: 17825932
+  name: ''
+- id: 17825933
+  name: ''
+- id: 17825934
+  name: ''
+- id: 17825935
+  name: Brenton
+- id: 17825936
+  name: Levil
+- id: 17825937
+  name: Tiana
+- id: 17825938
+  name: Brenna
+- id: 17825939
+  name: Lhe Lhangavo
+- id: 17825940
+  name: Flaviria
+- id: 17825941
+  name: Teodor
+- id: 17825942
+  name: ''
+- id: 17825943
+  name: ''
+- id: 17825944
+  name: ''
+- id: 17825945
+  name: ''
+- id: 17825946
+  name: Ikhi Askamot
+- id: 17825947
+  name: Ingrid
+- id: 17825948
+  name: Vortimere
+- id: 17825949
+  name: HEISHI_A
+- id: 17825950
+  name: HEISHI_B
+- id: 17825951
+  name: ''
+- id: 17825952
+  name: ''
+- id: 17825953
+  name: ''
+- id: 17825954
+  name: ''
+- id: 17825955
+  name: ''
+- id: 17825956
+  name: ''
+- id: 17825957
+  name: ''
+- id: 17825958
+  name: Arciela
+- id: 17825959
+  name: Arciela
+- id: 17825960
+  name: Fontis Xanira
+- id: 17825961
+  name: Sunrise Beacon
+- id: 17825962
+  name: Svenja
+- id: 17825963
+  name: Gratzigg
+- id: 17825964
+  name: Port Storage
+- id: 17825965
+  name: Margret
+- id: 17825966
+  name: ''
+- id: 17825967
+  name: ''
+- id: 17825968
+  name: ''
+- id: 17825969
+  name: ''
+- id: 17825970
+  name: ''
+- id: 17825971
+  name: Alienor
+- id: 17825972
+  name: Waypoint
+- id: 17825973
+  name: Waypoint
+- id: 17825974
+  name: Waypoint
+- id: 17825975
+  name: Waypoint
+- id: 17825976
+  name: Waypoint
+- id: 17825977
+  name: Waypoint
+- id: 17825978
+  name: Waypoint
+- id: 17825979
+  name: Waypoint
+- id: 17825980
+  name: Waypoint
+- id: 17825981
+  name: Dewalt
+- id: 17825982
+  name: Barenngo
+- id: 17825983
+  name: Ari-Barali
+- id: 17825984
+  name: Alianne
+- id: 17825985
+  name: Othellius
+- id: 17825986
+  name: Door:Svenja's Manor
+- id: 17825987
+  name: Door:Hospital
+- id: 17825988
+  name: Logan
+- id: 17825989
+  name: ''
+- id: 17825990
+  name: Bilp
+- id: 17825991
+  name: Eamonn
+- id: 17825992
+  name: Pagnelle
+- id: 17825993
+  name: Wesley
+- id: 17825994
+  name: Aristide
+- id: 17825995
+  name: ''
+- id: 17825996
+  name: Ilney
+- id: 17825997
+  name: Distrova
+- id: 17825998
+  name: Gontrain
+- id: 17825999
+  name: ''
+- id: 17826000
+  name: ''
+- id: 17826001
+  name: ''
+- id: 17826002
+  name: ''
+- id: 17826003
+  name: ''
+- id: 17826004
+  name: Nashu
+- id: 17826005
+  name: Araustoix
+- id: 17826006
+  name: Cilmad
+- id: 17826007
+  name: Peladi Shalmohr
+- id: 17826008
+  name: Mischief Marker
+- id: 17826009
+  name: Tuffle-Buffle
+- id: 17826010
+  name: Musto-Rusto
+- id: 17826011
+  name: Minnifi Delqabba
+- id: 17826012
+  name: Patrillaut
+- id: 17826013
+  name: ''
+- id: 17826014
+  name: ''
+- id: 17826015
+  name: ''
+- id: 17826016
+  name: ''
+- id: 17826017
+  name: ''
+- id: 17826018
+  name: ''
+- id: 17826019
+  name: ''
+- id: 17826020
+  name: ''
+- id: 17826021
+  name: ''
+- id: 17826022
+  name: 'Door: Depository'
+- id: 17826023
+  name: Sauce Barrel
+- id: 17826024
+  name: ''
+- id: 17826025
+  name: Celestin
+- id: 17826026
+  name: Fabioso
+- id: 17826027
+  name: Amchuchu's Laboratory
+- id: 17826028
+  name: Amchuchu
+- id: 17826029
+  name: Midras
+- id: 17826030
+  name: Hektor
+- id: 17826031
+  name: Contemplation Site
+- id: 17826032
+  name: ''
+- id: 17826033
+  name: ''
+- id: 17826034
+  name: ''
+- id: 17826035
+  name: ''
+- id: 17826036
+  name: ''
+- id: 17826037
+  name: ''
+- id: 17826038
+  name: ''
+- id: 17826039
+  name: ''
+- id: 17826040
+  name: ''
+- id: 17826041
+  name: Volgoi
+- id: 17826042
+  name: Rising Solstice
+- id: 17826043
+  name: Ruth
+- id: 17826044
+  name: Berstrogus
+- id: 17826045
+  name: Zaoso
+- id: 17826046
+  name: Nikkhail
+- id: 17826047
+  name: Oka Qhantari
+- id: 17826048
+  name: Orenna
+- id: 17826049
+  name: Mosil-Nosil
+- id: 17826050
+  name: Behff Oibbah
+- id: 17826051
+  name: Flapano
+- id: 17826052
+  name: Lollano
+- id: 17826053
+  name: Fervent Horizon
+- id: 17826054
+  name: Ribbolian
+- id: 17826055
+  name: Clemmar
+- id: 17826056
+  name: Vaulois
+- id: 17826057
+  name: Orfbis
+- id: 17826058
+  name: Mastan
+- id: 17826059
+  name: Shipilolo
+- id: 17826060
+  name: Chanteillie
+- id: 17826061
+  name: Terwok
+- id: 17826062
+  name: Nylene
+- id: 17826063
+  name: Quam Jitahr
+- id: 17826064
+  name: Charutata
+- id: 17826065
+  name: Phileem
+- id: 17826066
+  name: Marjoirelle
+- id: 17826067
+  name: Virsaint
+- id: 17826068
+  name: Grevan
+- id: 17826069
+  name: Gorad
+- id: 17826070
+  name: Merleg
+- id: 17826071
+  name: Noan
+- id: 17826072
+  name: Clautaire
+- id: 17826073
+  name: Dangueubert
+- id: 17826074
+  name: Defliaa
+- id: 17826075
+  name: Ansegusele
+- id: 17826076
+  name: Tevigogo
+- id: 17826077
+  name: Safrick
+- id: 17826078
+  name: Andrival
+- id: 17826079
+  name: Westerly Breeze
+- id: 17826080
+  name: Coltrone
+- id: 17826081
+  name: Neivaig
+- id: 17826082
+  name: Nargoht
+- id: 17826083
+  name: Kongramm
+- id: 17826084
+  name: Katya
+- id: 17826085
+  name: Jorin
+- id: 17826086
+  name: Ledericus
+- id: 17826087
+  name: Ishvad
+- id: 17826088
+  name: Eukalline
+- id: 17826089
+  name: Delionna
+- id: 17826090
+  name: Preterig
+- id: 17826091
+  name: Hujette
+- id: 17826092
+  name: Kanil
+- id: 17826093
+  name: Theophylacte
+- id: 17826094
+  name: Illi-Milli
+- id: 17826095
+  name: Aindemont
+- id: 17826096
+  name: Kipligg
+- id: 17826097
+  name: Herchambaut
+- id: 17826098
+  name: Brenna
+- id: 17826099
+  name: DIRECTOR by yaeko
+- id: 17826100
+  name: Lhaiso Neftereh
+- id: 17826101
+  name: Berghent
+- id: 17826102
+  name: Wescolina
+- id: 17826103
+  name: Eternal Flame
+- id: 17826104
+  name: ???
+- id: 17826105
+  name: Duberasson
+- id: 17826106
+  name: Waypoint
+- id: 17826107
+  name: ''
+- id: 17826108
+  name: ''
+- id: 17826109
+  name: ''
+- id: 17826110
+  name: Octavernost
+- id: 17826111
+  name: Runic Overflow
+- id: 17826112
+  name: Gaddiux
+- id: 17826113
+  name: Inconspicuous Barrel
+- id: 17826114
+  name: ''
+- id: 17826115
+  name: ''
+- id: 17826116
+  name: ''
+- id: 17826117
+  name: ''
+- id: 17826118
+  name: ''
+- id: 17826119
+  name: ''
+- id: 17826120
+  name: ''
+- id: 17826121
+  name: Polished Pebble
+- id: 17826122
+  name: Louisareaux
+- id: 17826123
+  name: Palomel
+- id: 17826124
+  name: ''
+- id: 17826125
+  name: Zurko-Bazurko
+- id: 17826126
+  name: Mikolulu
+- id: 17826127
+  name: ''
+- id: 17826128
+  name: Floralie
+- id: 17826129
+  name: Sebohl Reccohta
+- id: 17826130
+  name: Zenicca
+- id: 17826131
+  name: Kithvalio
+- id: 17826132
+  name: Auscanard
+- id: 17826133
+  name: Jausephiane
+- id: 17826134
+  name: Farso-Dafarso
+- id: 17826135
+  name: Rispa-Merispa
+- id: 17826136
+  name: Micah
+- id: 17826137
+  name: Cefantia
+- id: 17826138
+  name: Ugtoor
+- id: 17826139
+  name: Wortherton
+- id: 17826140
+  name: Ceciliotte
+- id: 17826141
+  name: Rienne
+- id: 17826142
+  name: Heemo-Weemo
+- id: 17826143
+  name: Divainy-Gamainy
+- id: 17826144
+  name: Benjamien
+- id: 17826145
+  name: Ornery Dhole
+- id: 17826146
+  name: Forri-Porri
+- id: 17826147
+  name: Detrovio
+- id: 17826148
+  name: Masad
+- id: 17826149
+  name: Kerney
+- id: 17826150
+  name: Bastingart
+- id: 17826151
+  name: Iscandelle
+- id: 17826152
+  name: Etienne
+- id: 17826153
+  name: ''
+- id: 17826154
+  name: Lalla-Dalla
+- id: 17826155
+  name: Olivaine
+- id: 17826156
+  name: Ravoignac
+- id: 17826157
+  name: ''
+- id: 17826158
+  name: ''
+- id: 17826159
+  name: ''
+- id: 17826160
+  name: ''
+- id: 17826161
+  name: ''
+- id: 17826162
+  name: ''
+- id: 17826163
+  name: Fleuricette
+- id: 17826171
+  name: Porter Moogle
+- id: 17826173
+  name: Macera
+- id: 17826174
+  name: Delivery Specialist
+- id: 17826175
+  name: Prah Janimhar
+- id: 17826176
+  name: Rewardox
+- id: 17826177
+  name: Treasure Coffer
+- id: 17826178
+  name: Linkshell Concierge
+- id: 17826179
+  name: Linkshell Concierge
+- id: 17826180
+  name: Chat Manual
+- id: 17826181
+  name: Nunaarl Bthtrogg
+- id: 17826182
+  name: ???
+- id: 17826183
+  name: ???
+- id: 17826184
+  name: Invincible Shield
+- id: 17826185
+  name: Jakoh Wahcondalo
+- id: 17826186
+  name: ''
+- id: 17826187
+  name: ''

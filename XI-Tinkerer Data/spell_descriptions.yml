@@ -1,0 +1,2051 @@
+bytes_per_entry: 256
+flip_bytes: false
+lists:
+  0:
+  - string: nothing.
+  1:
+  - string: 'Restores target''s HP. Afflatus Solace: Grants the effect of "Stoneskin."'
+  2:
+  - string: 'Restores target''s HP. Afflatus Solace: Grants the effect of "Stoneskin."'
+  3:
+  - string: 'Restores target''s HP. Afflatus Solace: Grants the effect of "Stoneskin."'
+  4:
+  - string: 'Restores target''s HP. Afflatus Solace: Grants the effect of "Stoneskin."'
+  5:
+  - string: 'Restores target''s HP. Afflatus Solace: Grants the effect of "Stoneskin."'
+  6:
+  - string: 'Restores target''s HP. Afflatus Solace: Grants the effect of "Stoneskin."'
+  7:
+  - string: Restores HP of all party members within area of effect.
+  8:
+  - string: Restores HP of all party members within area of effect.
+  9:
+  - string: Restores HP of all party members within area of effect.
+  10:
+  - string: Restores HP of all party members within area of effect.
+  11:
+  - string: Restores HP of all party members within area of effect.
+  12:
+  - string: Revives target from KO.
+  13:
+  - string: Revives target from KO.
+  14:
+  - string: Removes poison from target.
+  15:
+  - string: Removes paralysis from target.
+  16:
+  - string: Removes blindness from target.
+  17:
+  - string: Removes silence and mute from target.
+  18:
+  - string: Removes petrification from target.
+  19:
+  - string: Removes disease and plague from target.
+  20:
+  - string: Removes curse and bane from target.
+  21:
+  - string: 'Deals light elemental damage to an enemy. Afflatus Solace: Increases spell potency based on the amount of HP you restore. Divine Emblem: Increases spell potency.'
+  22:
+  - string: 'Deals light elemental damage to an enemy. Afflatus Solace: Increases spell potency based on the amount of HP you restore.'
+  23:
+  - string: Lowers an enemy's defense and gradually deals light elemental damage.
+  24:
+  - string: Lowers an enemy's defense and gradually deals light elemental damage.
+  25:
+  - string: Lowers an enemy's defense and gradually deals light elemental damage.
+  26:
+  - string: Lowers an enemy's defense and gradually deals light elemental damage.
+  27:
+  - string: Lowers an enemy's defense and gradually deals light elemental damage.
+  28:
+  - string: 'Deals light elemental damage to an enemy. Afflatus Misery: Increases spell potency based on the most recent damage you sustain. Divine Emblem: Increases spell potency.'
+  29:
+  - string: 'Deals light elemental damage to an enemy. Afflatus Misery: Increases spell potency based on the most recent damage you sustain. Divine Emblem: Increases spell potency.'
+  30:
+  - string: 'Deals light elemental damage to an enemy. Afflatus Misery: Increases spell potency based on the most recent damage you sustain.'
+  31:
+  - string: 'Deals light elemental damage to an enemy. Afflatus Misery: Increases spell potency based on the most recent damage you sustain.'
+  32:
+  - string: 'Deals light elemental damage to an enemy. Afflatus Misery: Increases spell potency based on the most recent damage you sustain.'
+  33:
+  - string: Lowers defense of enemies within area of effect and gradually deals light elemental damage.
+  34:
+  - string: Lowers defense of enemies within area of effect and gradually deals light elemental damage.
+  35:
+  - string: Lowers defense of enemies within area of effect and gradually deals light elemental damage.
+  36:
+  - string: Lowers defense of enemies within area of effect and gradually deals light elemental damage.
+  37:
+  - string: Lowers defense of enemies within area of effect and gradually deals light elemental damage.
+  38:
+  - string: 'Deals light elemental damage to enemies within area of effect. Afflatus Misery: Increases spell potency based on the most recent damage you sustain. Divine Emblem: Increases spell potency.'
+  39:
+  - string: 'Deals light elemental damage to enemies within area of effect. Afflatus Misery: Increases spell potency based on the most recent damage you sustain. Divine Emblem: Increases spell potency.'
+  40:
+  - string: 'Deals light elemental damage to enemies within area of effect. Afflatus Misery: Increases spell potency based on the most recent damage you sustain.'
+  41:
+  - string: 'Deals light elemental damage to enemies within area of effect. Afflatus Misery: Increases spell potency based on the most recent damage you sustain.'
+  42:
+  - string: 'Deals light elemental damage to enemies within area of effect. Afflatus Misery: Increases spell potency based on the most recent damage you sustain.'
+  43:
+  - string: Enhances target's defense.
+  44:
+  - string: Enhances target's defense.
+  45:
+  - string: Enhances target's defense.
+  46:
+  - string: Enhances target's defense.
+  47:
+  - string: Enhances target's defense.
+  48:
+  - string: Enhances target's magic defense.
+  49:
+  - string: Enhances target's magic defense.
+  50:
+  - string: Enhances target's magic defense.
+  51:
+  - string: Enhances target's magic defense.
+  52:
+  - string: Enhances target's magic defense.
+  53:
+  - string: Creates shadow images that each absorb a single attack directed at you.
+  54:
+  - string: Absorbs a certain amount of damage from physical and magical attacks.
+  55:
+  - string: Reduces chance of having a spell interrupted.
+  56:
+  - string: Reduces an enemy's attack speed.
+  57:
+  - string: Increases target's attack speed.
+  58:
+  - string: Paralyzes an enemy.
+  59:
+  - string: Silences an enemy.
+  60:
+  - string: 'Increases your resistance against fire. Afflatus Solace: Grants a magic defense bonus against fire.'
+  61:
+  - string: 'Increases your resistance against ice. Afflatus Solace: Grants a magic defense bonus against ice.'
+  62:
+  - string: 'Increases your resistance against wind. Afflatus Solace: Grants a magic defense bonus against wind.'
+  63:
+  - string: 'Increases your resistance against earth. Afflatus Solace: Grants a magic defense bonus against earth.'
+  64:
+  - string: 'Increases your resistance against lightning. Afflatus Solace: Grants a magic defense bonus against lightning.'
+  65:
+  - string: 'Increases your resistance against water. Afflatus Solace: Grants a magic defense bonus against water.'
+  66:
+  - string: 'Increases resistance against fire for party members within area of effect. Afflatus Solace: Grants a magic defense bonus against fire.'
+  67:
+  - string: 'Increases resistance against ice for party members within area of effect. Afflatus Solace: Grants a magic defense bonus against ice.'
+  68:
+  - string: 'Increases resistance against wind for party members within area of effect. Afflatus Solace: Grants a magic defense bonus against wind.'
+  69:
+  - string: 'Increases resistance against earth for party members within area of effect. Afflatus Solace: Grants a magic defense bonus against earth.'
+  70:
+  - string: 'Increases resistance against lightning for party members within area of effect. Afflatus Solace: Grants a magic defense bonus against lightning.'
+  71:
+  - string: 'Increases resistance against water for party members within area of effect. Afflatus Solace: Grants a magic defense bonus against water.'
+  72:
+  - string: Enhances your resistance against sleep.
+  73:
+  - string: Enhances your resistance against poison.
+  74:
+  - string: Enhances your resistance against paralysis.
+  75:
+  - string: Enhances your resistance against blindness.
+  76:
+  - string: Enhances your resistance against silence.
+  77:
+  - string: Enhances your resistance against petrification.
+  78:
+  - string: Enhances your resistance against disease.
+  79:
+  - string: Reduces an enemy's attack speed.
+  80:
+  - string: Paralyzes an enemy.
+  81:
+  - string: Transports qualified party members within area of effect to Jugner Forest [S].
+  82:
+  - string: Transports qualified party members within area of effect to Pashhow Marshlands [S].
+  83:
+  - string: Transports qualified party members within area of effect to the Meriphataud Mountains [S].
+  84:
+  - string: Enhances your resistance against amnesia.
+  85:
+  - string: Enhances resistance against amnesia for party members within area of effect.
+  86:
+  - string: Enhances resistance against sleep for party members within area of effect.
+  87:
+  - string: Enhances resistance against poison for party members within area of effect.
+  88:
+  - string: Enhances resistance against paralysis for party members within area of effect.
+  89:
+  - string: Enhances resistance against blindness for party members within area of effect.
+  90:
+  - string: Enhances resistance against silence for party members within area of effect.
+  91:
+  - string: Enhances resistance against petrification for party members within area of effect.
+  92:
+  - string: Enhances resistance against disease for party members within area of effect.
+  93:
+  - string: 'Restores HP for party members within area of effect. Afflatus Misery: Increases healing potency.'
+  94:
+  - string: 'Transfers one enfeebling effect from target party member to yourself. Afflatus Solace: Increases effect removal potency.'
+  95:
+  - string: 'Removes one enfeebling effect you have from yourself and party members within area of effect. Afflatus Misery: Increases effect removal potency.'
+  96:
+  - string: 'Reduces TP dealt when striking an enemy for party members within area of effect. Afflatus Misery: Adds light damage to your initial attacks and bestows an accuracy bonus when target is missed.'
+  97:
+  - string: Increases chance of blocking with shield, and reflects portion of blocked damage back to attacker.
+  98:
+  - string: Puts an enemy to sleep.
+  99:
+  - string: Changes the weather around target party member to "dusty."
+  100:
+  - string: Adds fire damage to your attacks.
+  101:
+  - string: Adds ice damage to your attacks.
+  102:
+  - string: Adds wind damage to your attacks.
+  103:
+  - string: Adds earth damage to your attacks.
+  104:
+  - string: Adds lightning damage to your attacks.
+  105:
+  - string: Adds water damage to your attacks.
+  106:
+  - string: Gives you a certain amount of damage resistance.
+  107:
+  - string: Grants a party member a certain amount of damage resistance.
+  108:
+  - string: Gradually restores target's HP.
+  109:
+  - string: Gradually restores target's MP.
+  110:
+  - string: Gradually restores target's HP.
+  111:
+  - string: Gradually restores target's HP.
+  112:
+  - string: Temporarily blinds an enemy, greatly lowers its accuracy.
+  113:
+  - string: Changes the weather around target party member to "rainy."
+  114:
+  - string: Changes the weather around target party member to "windy."
+  115:
+  - string: Changes the weather around target party member to "hot."
+  116:
+  - string: Changes the weather around target party member to "snowy."
+  117:
+  - string: Changes the weather around target party member to "thundery."
+  118:
+  - string: Changes the weather around target party member to "gloomy."
+  119:
+  - string: Changes the weather around target party member to "auroras."
+  120:
+  - string: Transports qualified party members within area of effect to Yhoator.
+  121:
+  - string: Transports qualified party members within area of effect to Altepa.
+  122:
+  - string: Transports qualified party members within area of effect to Holla.
+  123:
+  - string: Transports qualified party members within area of effect to Dem.
+  124:
+  - string: Transports qualified party members within area of effect to Mea.
+  125:
+  - string: Enhances defense for party members within area of effect.
+  126:
+  - string: Enhances defense for party members within area of effect.
+  127:
+  - string: Enhances defense for party members within area of effect.
+  128:
+  - string: Enhances defense for party members within area of effect.
+  129:
+  - string: Enhances defense for party members within area of effect.
+  130:
+  - string: Enhances magic defense for party members within area of effect.
+  131:
+  - string: Enhances magic defense for party members within area of effect.
+  132:
+  - string: Enhances magic defense for party members within area of effect.
+  133:
+  - string: Enhances magic defense for party members within area of effect.
+  134:
+  - string: Enhances magic defense for party members within area of effect.
+  135:
+  - string: Grants you the effect of Raise when you are KO'd.
+  136:
+  - string: Lessens chance of being detected by sight.
+  137:
+  - string: Lessens chance of being detected by sound.
+  138:
+  - string: Lessens chance of being detected by smell.
+  139:
+  - string: Transports qualified party members within area of effect to Xarcabard.
+  140:
+  - string: Revives target from KO.
+  141:
+  - string: Grants you the effect of Raise II when you are KO'd.
+  142:
+  - string: Grants you the effect of Raise III when you are KO'd.
+  143:
+  - string: Removes one detrimental magic effect from target party member.
+  144:
+  - string: Deals fire damage to an enemy.
+  145:
+  - string: Deals fire damage to an enemy.
+  146:
+  - string: Deals fire damage to an enemy.
+  147:
+  - string: Deals fire damage to an enemy.
+  148:
+  - string: Deals fire damage to an enemy.
+  149:
+  - string: Deals ice damage to an enemy.
+  150:
+  - string: Deals ice damage to an enemy.
+  151:
+  - string: Deals ice damage to an enemy.
+  152:
+  - string: Deals ice damage to an enemy.
+  153:
+  - string: Deals ice damage to an enemy.
+  154:
+  - string: Deals wind damage to an enemy.
+  155:
+  - string: Deals wind damage to an enemy.
+  156:
+  - string: Deals wind damage to an enemy.
+  157:
+  - string: Deals wind damage to an enemy.
+  158:
+  - string: Deals wind damage to an enemy.
+  159:
+  - string: Deals earth damage to an enemy.
+  160:
+  - string: Deals earth damage to an enemy.
+  161:
+  - string: Deals earth damage to an enemy.
+  162:
+  - string: Deals earth damage to an enemy.
+  163:
+  - string: Deals earth damage to an enemy.
+  164:
+  - string: Deals lightning damage to an enemy.
+  165:
+  - string: Deals lightning damage to an enemy.
+  166:
+  - string: Deals lightning damage to an enemy.
+  167:
+  - string: Deals lightning damage to an enemy.
+  168:
+  - string: Deals lightning damage to an enemy.
+  169:
+  - string: Deals water damage to an enemy.
+  170:
+  - string: Deals water damage to an enemy.
+  171:
+  - string: Deals water damage to an enemy.
+  172:
+  - string: Deals water damage to an enemy.
+  173:
+  - string: Deals water damage to an enemy.
+  174:
+  - string: Deals fire damage to enemies within area of effect.
+  175:
+  - string: Deals fire damage to enemies within area of effect.
+  176:
+  - string: Deals fire damage to enemies within area of effect.
+  177:
+  - string: Deals fire damage to enemies within area of effect.
+  178:
+  - string: Deals fire damage to enemies within area of effect.
+  179:
+  - string: Deals ice damage to enemies within area of effect.
+  180:
+  - string: Deals ice damage to enemies within area of effect.
+  181:
+  - string: Deals ice damage to enemies within area of effect.
+  182:
+  - string: Deals ice damage to enemies within area of effect.
+  183:
+  - string: Deals ice damage to enemies within area of effect.
+  184:
+  - string: Deals wind damage to enemies within area of effect.
+  185:
+  - string: Deals wind damage to enemies within area of effect.
+  186:
+  - string: Deals wind damage to enemies within area of effect.
+  187:
+  - string: Deals wind damage to enemies within area of effect.
+  188:
+  - string: Deals wind damage to enemies within area of effect.
+  189:
+  - string: Deals earth damage to enemies within area of effect.
+  190:
+  - string: Deals earth damage to enemies within area of effect.
+  191:
+  - string: Deals earth damage to enemies within area of effect.
+  192:
+  - string: Deals earth damage to enemies within area of effect.
+  193:
+  - string: Deals earth damage to enemies within area of effect.
+  194:
+  - string: Deals lightning damage to enemies within area of effect.
+  195:
+  - string: Deals lightning damage to enemies within area of effect.
+  196:
+  - string: Deals lightning damage to enemies within area of effect.
+  197:
+  - string: Deals lightning damage to enemies within area of effect.
+  198:
+  - string: Deals lightning damage to enemies within area of effect.
+  199:
+  - string: Deals water damage to enemies within area of effect.
+  200:
+  - string: Deals water damage to enemies within area of effect.
+  201:
+  - string: Deals water damage to enemies within area of effect.
+  202:
+  - string: Deals water damage to enemies within area of effect.
+  203:
+  - string: Deals water damage to enemies within area of effect.
+  204:
+  - string: Deals fire damage to an enemy and lowers its resistance against water.
+  205:
+  - string: Deals fire damage to an enemy and lowers its resistance against water.
+  206:
+  - string: Deals ice damage to an enemy and lowers its resistance against fire.
+  207:
+  - string: Deals ice damage to an enemy and lowers its resistance against fire.
+  208:
+  - string: Deals wind damage to an enemy and lowers its resistance against ice.
+  209:
+  - string: Deals wind damage to an enemy and lowers its resistance against ice.
+  210:
+  - string: Deals earth damage to an enemy and lowers its resistance against wind.
+  211:
+  - string: Deals earth damage to an enemy and lowers its resistance against wind.
+  212:
+  - string: Deals lightning damage to an enemy and lowers its resistance against earth.
+  213:
+  - string: Deals lightning damage to an enemy and lowers its resistance against earth.
+  214:
+  - string: Deals water damage to an enemy and lowers its resistance against lightning.
+  215:
+  - string: Deals water damage to an enemy and lowers its resistance against lightning.
+  216:
+  - string: Weighs an enemy down and lowers its movement speed.
+  217:
+  - string: Weighs an enemy down and lowers its movement speed.
+  218:
+  - string: Summons a massive meteor from the heavens to smite your foes.
+  219:
+  - string: Deals dark damage to an enemy. Successive use enhances spell potency.
+  220:
+  - string: Poisons an enemy and gradually reduces its HP.
+  221:
+  - string: Poisons an enemy and gradually reduces its HP.
+  222:
+  - string: Poisons an enemy and gradually reduces its HP.
+  223:
+  - string: Poisons an enemy and gradually reduces its HP.
+  224:
+  - string: Poisons an enemy and gradually reduces its HP.
+  225:
+  - string: Poisons enemies within area of effect and gradually reduces their HP.
+  226:
+  - string: Poisons enemies within area of effect and gradually reduces their HP.
+  227:
+  - string: Poisons enemies within area of effect and gradually reduces their HP.
+  228:
+  - string: Poisons enemies within area of effect and gradually reduces their HP.
+  229:
+  - string: Poisons enemies within area of effect and gradually reduces their HP.
+  230:
+  - string: Deals dark damage that weakens an enemy's attacks and gradually reduces its HP.
+  231:
+  - string: Deals dark damage that weakens an enemy's attacks and gradually reduces its HP.
+  232:
+  - string: Deals dark damage that weakens an enemy's attacks and gradually reduces its HP.
+  233:
+  - string: Deals dark damage that weakens an enemy's attacks and gradually reduces its HP.
+  234:
+  - string: Deals dark damage that weakens an enemy's attacks and gradually reduces its HP.
+  235:
+  - string: Deals fire damage that lowers an enemy's Intelligence and gradually reduces its HP.
+  236:
+  - string: Deals ice damage that lowers an enemy's Agility and gradually reduces its HP.
+  237:
+  - string: Deals wind damage that lowers an enemy's Vitality and gradually reduces its HP.
+  238:
+  - string: Deals earth damage that lowers an enemy's Dexterity and gradually reduces its HP.
+  239:
+  - string: Deals lightning damage that lowers an enemy's Mind and gradually reduces its HP.
+  240:
+  - string: Deals water damage that lowers an enemy's Strength and gradually reduces its HP.
+  241:
+  - string: Transports qualified target party member to their nation of allegiance in the past.
+  242:
+  - string: Steals an enemy's accuracy.
+  243:
+  - string: Steals an enemy's beneficial status effects.
+  244:
+  - string: Magic Help Message.
+  245:
+  - string: Steals an enemy's HP. Ineffective against undead.
+  246:
+  - string: Steals an enemy's HP, potentially increasing maximum HP. Ineffective against undead.
+  247:
+  - string: Steals an enemy's MP. Ineffective against undead.
+  248:
+  - string: Steals an enemy's MP. Ineffective against undead.
+  249:
+  - string: Covers you with magical fire spikes. Enemies that hit you take fire damage.
+  250:
+  - string: Covers you with magical ice spikes. Enemies that hit you take ice damage.
+  251:
+  - string: Covers you with magical lightning spikes. Enemies that hit you take lightning damage.
+  252:
+  - string: Temporarily prevents an enemy from acting.
+  253:
+  - string: Puts an enemy to sleep.
+  254:
+  - string: Blinds an enemy, lowers its accuracy.
+  255:
+  - string: Petrifies an enemy, preventing it from acting.
+  256:
+  - string: Gives an enemy a disease that prevents it from recovering HP and MP.
+  257:
+  - string: Puts a curse on an enemy, reducing its maximum HP and MP.
+  258:
+  - string: Binds an enemy in place, immobilizing it.
+  259:
+  - string: Puts an enemy to sleep.
+  260:
+  - string: Removes one beneficial magic effect from an enemy.
+  261:
+  - string: Transports you to your home point.
+  262:
+  - string: Transports target party member to their home point.
+  263:
+  - string: Transports party members within area of effect out of a dungeon.
+  264:
+  - string: Drags a KO'd target toward you.
+  265:
+  - string: Drags a KO'd target toward you.
+  266:
+  - string: Steals an enemy's Strength.
+  267:
+  - string: Steals an enemy's Dexterity.
+  268:
+  - string: Steals an enemy's Vitality.
+  269:
+  - string: Steals an enemy's Agility.
+  270:
+  - string: Steals an enemy's Intelligence.
+  271:
+  - string: Steals an enemy's Mind.
+  272:
+  - string: Steals an enemy's Charisma.
+  273:
+  - string: Puts all enemies within area of effect to sleep.
+  274:
+  - string: Puts all enemies within area of effect to sleep.
+  275:
+  - string: Steals an enemy's TP.
+  276:
+  - string: Blinds an enemy, lowers its accuracy.
+  277:
+  - string: Covers you with magical darkness spikes. Steals HP from enemies that hit you. Ineffective against undead.
+  278:
+  - string: Deals earth damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  279:
+  - string: Deals water damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  280:
+  - string: Deals wind damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  281:
+  - string: Deals fire damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  282:
+  - string: Deals ice damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  283:
+  - string: Deals lightning damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  284:
+  - string: Deals darkness damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  285:
+  - string: Deals light damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  286:
+  - string: Decreases an enemy's magic accuracy and increases its spellcasting time.
+  287:
+  - string: Increases the magic accuracy for spells of the same element as the current weather.
+  288:
+  - string: Summons a Fire Spirit to fight by your side.
+  289:
+  - string: Summons an Ice Spirit to fight by your side.
+  290:
+  - string: Summons an Air Spirit to fight by your side.
+  291:
+  - string: Summons an Earth Spirit to fight by your side.
+  292:
+  - string: Summons a Thunder Spirit to fight by your side.
+  293:
+  - string: Summons a Water Spirit to fight by your side.
+  294:
+  - string: Summons a Light Spirit to fight by your side.
+  295:
+  - string: Summons a Dark Spirit to fight by your side.
+  296:
+  - string: Summons Carbuncle to fight by your side.
+  297:
+  - string: Summons Fenrir to fight by your side.
+  298:
+  - string: Summons Ifrit to fight by your side.
+  299:
+  - string: Summons Titan to fight by your side.
+  300:
+  - string: Summons Leviathan to fight by your side.
+  301:
+  - string: Summons Garuda to fight by your side.
+  302:
+  - string: Summons Shiva to fight by your side.
+  303:
+  - string: Summons Ramuh to fight by your side.
+  304:
+  - string: Summons Diabolos to fight by your side.
+  305:
+  - string: Summons Odin to fight by your side.
+  306:
+  - string: Summons Alexander to fight by your side.
+  307:
+  - string: Summons Cait Sith to fight by your side.
+  308:
+  - string: Facilitates enmity gain for target party member.
+  309:
+  - string: Suppresses enmity gain for target party member.
+  310:
+  - string: Adds light damage to your attacks.
+  311:
+  - string: Adds darkness damage to your attacks.
+  312:
+  - string: Adds fire damage to your initial attacks and reduces the target's resistance against water.
+  313:
+  - string: Adds ice damage to your initial attacks and reduces the target's resistance against fire.
+  314:
+  - string: Adds wind damage to your initial attacks and reduces the target's resistance against ice.
+  315:
+  - string: Adds earth damage to your initial attacks and reduces the target's resistance against wind.
+  316:
+  - string: Adds lightning damage to your initial attacks and reduces the target's resistance against earth.
+  317:
+  - string: Adds water damage to your initial attacks and reduces the target's resistance against lightning.
+  318:
+  - string: Uses the ninja tool "sanjaku-tenugui." Lessens chance of being detected by sound.
+  319:
+  - string: Uses the ninja tool "soshi." Weakens an enemy's attack.
+  320:
+  - string: Uses the ninja tool "uchitake." Deals fire damage to an enemy and lowers its resistance against water.
+  321:
+  - string: Uses the ninja tool "uchitake." Deals fire damage to an enemy and lowers its resistance against water.
+  322:
+  - string: Uses the ninja tool "uchitake." Deals fire damage to an enemy and lowers its resistance against water.
+  323:
+  - string: Uses the ninja tool "tsurara." Deals ice damage to an enemy and lowers its resistance against fire.
+  324:
+  - string: Uses the ninja tool "tsurara." Deals ice damage to an enemy and lowers its resistance against fire.
+  325:
+  - string: Uses the ninja tool "tsurara." Deals ice damage to an enemy and lowers its resistance against fire.
+  326:
+  - string: Uses the ninja tool "kawahori-ogi." Deals wind damage to an enemy and lowers its resistance against ice.
+  327:
+  - string: Uses the ninja tool "kawahori-ogi." Deals wind damage to an enemy and lowers its resistance against ice.
+  328:
+  - string: Uses the ninja tool "kawahori-ogi." Deals wind damage to an enemy and lowers its resistance against ice.
+  329:
+  - string: Uses the ninja tool "makibishi." Deals earth damage to an enemy and lowers its resistance against wind.
+  330:
+  - string: Uses the ninja tool "makibishi." Deals earth damage to an enemy and lowers its resistance against wind.
+  331:
+  - string: Uses the ninja tool "makibishi." Deals earth damage to an enemy and lowers its resistance against wind.
+  332:
+  - string: Uses the ninja tool "hiraishin." Deals lightning damage to an enemy and lowers its resistance against earth.
+  333:
+  - string: Uses the ninja tool "hiraishin." Deals lightning damage to an enemy and lowers its resistance against earth.
+  334:
+  - string: Uses the ninja tool "hiraishin." Deals lightning damage to an enemy and lowers its resistance against earth.
+  335:
+  - string: Uses the ninja tool "mizu-deppo." Deals water damage to an enemy and lowers its resistance against lightning.
+  336:
+  - string: Uses the ninja tool "mizu-deppo." Deals water damage to an enemy and lowers its resistance against lightning.
+  337:
+  - string: Uses the ninja tool "mizu-deppo." Deals water damage to an enemy and lowers its resistance against lightning.
+  338:
+  - string: Uses the ninja tool "shihei." Creates shadow images that each absorb a single attack directed at you.
+  339:
+  - string: Uses the ninja tool "shihei." Creates shadow images that each absorb a single attack directed at you.
+  340:
+  - string: Uses the ninja tool "shihei." Creates shadow images that each absorb a single attack directed at you.
+  341:
+  - string: Uses the ninja tool "jusatsu." Paralyzes an enemy.
+  342:
+  - string: Uses the ninja tool "jusatsu." Paralyzes an enemy.
+  343:
+  - string: Uses the ninja tool "jusatsu." Paralyzes an enemy.
+  344:
+  - string: Uses the ninja tool "kaginawa." Reduces an enemy's attack speed.
+  345:
+  - string: Uses the ninja tool "kaginawa." Reduces an enemy's attack speed.
+  346:
+  - string: Uses the ninja tool "kaginawa." Reduces an enemy's attack speed.
+  347:
+  - string: Uses the ninja tool "sairui-ran." Blinds an enemy.
+  348:
+  - string: Uses the ninja tool "sairui-ran." Blinds an enemy.
+  349:
+  - string: Uses the ninja tool "sairui-ran." Blinds an enemy.
+  350:
+  - string: Uses the ninja tool "kodoku." Poisons an enemy.
+  351:
+  - string: Uses the ninja tool "kodoku." Poisons an enemy.
+  352:
+  - string: Uses the ninja tool "kodoku." Poisons an enemy.
+  353:
+  - string: Uses the ninja tool "shinobi-tabi." Lessens chance of being detected by sight.
+  354:
+  - string: Uses the ninja tool "shinobi-tabi." Lessens chance of being detected by sight.
+  355:
+  - string: Uses the ninja tool "shinobi-tabi." Lessens chance of being detected by sight.
+  356:
+  - string: Magic Help Message.
+  357:
+  - string: Magic Help Message.
+  358:
+  - string: Magic Help Message.
+  359:
+  - string: Magic Help Message.
+  360:
+  - string: Magic Help Message.
+  361:
+  - string: Magic Help Message.
+  362:
+  - string: Magic Help Message.
+  363:
+  - string: Magic Help Message.
+  364:
+  - string: Magic Help Message.
+  365:
+  - string: Petrifies enemies within area of effect, preventing them from acting.
+  366:
+  - string: Magic Help Message.
+  367:
+  - string: Consumes all MP. Has a chance to knock out the target. If Death fails to knock out the target, it will instead deal darkness damage. Ineffective against undead.
+  368:
+  - string: Deals sonic damage to enemies.
+  369:
+  - string: Deals sonic damage to enemies.
+  370:
+  - string: Deals sonic damage to enemies.
+  371:
+  - string: Deals sonic damage to enemies.
+  372:
+  - string: Deals sonic damage to enemies.
+  373:
+  - string: Deals sonic damage to enemies.
+  374:
+  - string: Deals sonic damage to enemies.
+  375:
+  - string: Deals sonic damage to enemies.
+  376:
+  - string: Puts enemies within area of effect to sleep.
+  377:
+  - string: Puts enemies within area of effect to sleep.
+  378:
+  - string: Gradually restores HP for party members within area of effect.
+  379:
+  - string: Gradually restores HP for party members within area of effect.
+  380:
+  - string: Gradually restores HP for party members within area of effect.
+  381:
+  - string: Gradually restores HP for party members within area of effect.
+  382:
+  - string: Gradually restores HP for party members within area of effect.
+  383:
+  - string: Gradually restores HP for party members within area of effect.
+  384:
+  - string: Gradually restores HP for party members within area of effect.
+  385:
+  - string: Gradually restores HP for party members within area of effect.
+  386:
+  - string: Gradually restores MP for party members within area of effect.
+  387:
+  - string: Gradually restores MP for party members within area of effect.
+  388:
+  - string: Gradually restores MP for party members within area of effect.
+  389:
+  - string: Enhances defense for party members within area of effect.
+  390:
+  - string: Enhances defense for party members within area of effect.
+  391:
+  - string: Enhances defense for party members within area of effect.
+  392:
+  - string: Enhances defense for party members within area of effect.
+  393:
+  - string: Enhances defense for party members within area of effect.
+  394:
+  - string: Enhances attacks for party members within area of effect.
+  395:
+  - string: Enhances attacks for party members within area of effect.
+  396:
+  - string: Enhances attacks for party members within area of effect.
+  397:
+  - string: Enhances attacks for party members within area of effect.
+  398:
+  - string: Enhances attacks for party members within area of effect.
+  399:
+  - string: Enhances melee attack accuracy for party members within area of effect.
+  400:
+  - string: Enhances melee attack accuracy for party members within area of effect.
+  401:
+  - string: Enhances ranged attack accuracy for party members within area of effect.
+  402:
+  - string: Enhances ranged attack accuracy for party members within area of effect.
+  403:
+  - string: Enhances evasion for party members within area of effect.
+  404:
+  - string: Enhances evasion for party members within area of effect.
+  405:
+  - string: Enhances resistance against sleep for party members within area of effect.
+  406:
+  - string: Enhances resistance against poison for party members within area of effect.
+  407:
+  - string: Enhances resistance against paralysis for party members within area of effect.
+  408:
+  - string: Enhances resistance against blindness for party members within area of effect.
+  409:
+  - string: Enhances resistance against silence for party members within area of effect.
+  410:
+  - string: Enhances resistance against silence for party members within area of effect.
+  411:
+  - string: Enhances resistance against silence for party members within area of effect.
+  412:
+  - string: Enhances resistance against petrification for party members within area of effect.
+  413:
+  - string: Enhances resistance against disease for party members within area of effect.
+  414:
+  - string: Enhances resistance against curse for party members within area of effect.
+  415:
+  - string: Enhances resistance against bind for party members within area of effect.
+  416:
+  - string: Enhances resistance against weight for party members within area of effect.
+  417:
+  - string: Increases attack and accuracy for party members within area of effect. Also decreases attack delay.
+  418:
+  - string: Enhances resistance against charm for party members within area of effect.
+  419:
+  - string: Increases attack speed for party members within area of effect.
+  420:
+  - string: Increases attack speed for party members within area of effect.
+  421:
+  - string: Reduces an enemy's attack speed.
+  422:
+  - string: Reduces an enemy's attack speed.
+  423:
+  - string: Reduces an enemy's attack speed.
+  424:
+  - string: Enhances Strength for party members within area of effect.
+  425:
+  - string: Enhances Dexterity for party members within area of effect.
+  426:
+  - string: Enhances Vitality for party members within area of effect.
+  427:
+  - string: Enhances Agility for party members within area of effect.
+  428:
+  - string: Enhances Intelligence for party members within area of effect.
+  429:
+  - string: Enhances Mind for party members within area of effect.
+  430:
+  - string: Enhances Charisma for party members within area of effect.
+  431:
+  - string: Enhances Strength for party members within area of effect.
+  432:
+  - string: Enhances Dexterity for party members within area of effect.
+  433:
+  - string: Enhances Vitality for party members within area of effect.
+  434:
+  - string: Enhances Agility for party members within area of effect.
+  435:
+  - string: Enhances Intelligence for party members within area of effect.
+  436:
+  - string: Enhances Mind for party members within area of effect.
+  437:
+  - string: Enhances Charisma for party members within area of effect.
+  438:
+  - string: Increases resistance against fire for party members within area of effect.
+  439:
+  - string: Increases resistance against ice for party members within area of effect.
+  440:
+  - string: Increases resistance against wind for party members within area of effect.
+  441:
+  - string: Increases resistance against earth for party members within area of effect.
+  442:
+  - string: Increases resistance against lightning for party members within area of effect.
+  443:
+  - string: Increases resistance against water for party members within area of effect.
+  444:
+  - string: Increases resistance against light for party members within area of effect.
+  445:
+  - string: Increases resistance against darkness for party members within area of effect.
+  446:
+  - string: Increases resistance against fire and sometimes nullifies fire damage for party members within area of effect.
+  447:
+  - string: Increases resistance against ice and sometimes nullifies ice damage for party members within area of effect.
+  448:
+  - string: Increases resistance against wind and sometimes nullifies wind damage for party members within area of effect.
+  449:
+  - string: Increases resistance against earth and sometimes nullifies earth damage for party members within area of effect.
+  450:
+  - string: Increases resistance against lightning and sometimes nullifies lightning damage for party members within area of effect.
+  451:
+  - string: Increases resistance against water and sometimes nullifies water damage for party members within area of effect.
+  452:
+  - string: Increases resistance against light and sometimes nullifies light damage for party members within area of effect.
+  453:
+  - string: Increases resistance against darkness and sometimes nullifies darkness damage for party members within area of effect.
+  454:
+  - string: Reduces an enemy's resistance against fire.
+  455:
+  - string: Reduces an enemy's resistance against ice.
+  456:
+  - string: Reduces an enemy's resistance against wind.
+  457:
+  - string: Reduces an enemy's resistance against earth.
+  458:
+  - string: Reduces an enemy's resistance against lightning.
+  459:
+  - string: Reduces an enemy's resistance against water.
+  460:
+  - string: Reduces an enemy's resistance against light.
+  461:
+  - string: Reduces an enemy's resistance against darkness.
+  462:
+  - string: Removes one beneficial magic effect from an enemy.
+  463:
+  - string: Puts an enemy to sleep.
+  464:
+  - string: Grants Reraise to party members within area of effect.
+  465:
+  - string: Increases movement speed for party members within area of effect.
+  466:
+  - string: Charms an enemy.
+  467:
+  - string: Increases movement speed for party members within area of effect.
+  468:
+  - string: Reduces enmity loss for party members within area of effect.
+  469:
+  - string: Reduces enmity for party members within area of effect.
+  470:
+  - string: Mitigates the impact of severely damaging attacks for party members within area of effect.
+  471:
+  - string: Puts an enemy to sleep.
+  472:
+  - string: Decreases an enemy's magic accuracy and increases its spellcasting time.
+  473:
+  - string: Gradually restores target's MP.
+  474:
+  - string: 'Restores HP for party members within area of effect. Afflatus Misery: Increases healing potency.'
+  475:
+  - string: 'Restores HP for party members within area of effect. Afflatus Misery: Increases healing potency.'
+  476:
+  - string: Facilitates enmity gain.
+  477:
+  - string: Gradually restores target's HP.
+  478:
+  - string: Consumes 20% of your maximum MP. Gradually restores target's HP and MP and increases attack speed.
+  479:
+  - string: Enhances Strength for party members within area of effect.
+  480:
+  - string: Enhances Dexterity for party members within area of effect.
+  481:
+  - string: Enhances Vitality for party members within area of effect.
+  482:
+  - string: Enhances Agility for party members within area of effect.
+  483:
+  - string: Enhances Intelligence for party members within area of effect.
+  484:
+  - string: Enhances Mind for party members within area of effect.
+  485:
+  - string: Enhances Charisma for party members within area of effect.
+  486:
+  - string: Enhances Strength.
+  487:
+  - string: Enhances Dexterity.
+  488:
+  - string: Enhances Vitality.
+  489:
+  - string: Enhances Agility.
+  490:
+  - string: Enhances Intelligence.
+  491:
+  - string: Enhances Mind.
+  492:
+  - string: Enhances Charisma.
+  493:
+  - string: Grants the ability to occasionally attack twice.
+  494:
+  - string: Revives target from KO and bestows a Reraise effect.
+  495:
+  - string: Gradually increases target's TP.
+  496:
+  - string: Deals fire damage to enemies within area of effect. Successive use enhances spell potency.
+  497:
+  - string: Deals ice damage to enemies within area of effect. Successive use enhances spell potency.
+  498:
+  - string: Deals wind damage to enemies within area of effect. Successive use enhances spell potency.
+  499:
+  - string: Deals earth damage to enemies within area of effect. Successive use enhances spell potency.
+  500:
+  - string: Deals thunder damage to enemies within area of effect. Successive use enhances spell potency.
+  501:
+  - string: Deals water damage to enemies within area of effect. Successive use enhances spell potency.
+  502:
+  - string: Consumes 20% of your maximum MP. Relentless dark damage slowly devours an enemy.
+  503:
+  - string: Deals dark damage that lowers an enemy's Strength, Dexterity, Vitality, Agility, Intelligence, Mind, and Charisma.
+  504:
+  - string: Gradually restores target's HP.
+  505:
+  - string: Uses the ninja tool "ranka." Facilitates enmity gain.
+  506:
+  - string: Uses the ninja tool "furusumi." Suppresses enmity gain.
+  507:
+  - string: Uses the ninja tool "kabenro." Reduces TP dealt when striking an enemy.
+  508:
+  - string: Uses the ninja tool "jinko." Reduces an enemy's TP gain.
+  509:
+  - string: Uses the ninja tool "ryuno." Increases your TP gain.
+  510:
+  - string: Uses the ninja tool "mokujin." Makes you immune to severely damaging attacks.
+  511:
+  - string: Increases target's attack speed.
+  512:
+  - string: a line help text
+  513:
+  - string: Poisons enemies within range and gradually reduces their HP.
+  514:
+  - string: a line help text
+  515:
+  - string: 'Deals water damage to enemies within range. Additional effect: STR Down.'
+  516:
+  - string: a line help text
+  517:
+  - string: Absorbs a certain amount of damage from physical and magical attacks.
+  518:
+  - string: a line help text
+  519:
+  - string: Deals critical damage. Chance of critical hit varies with TP.
+  520:
+  - string: a line help text
+  521:
+  - string: Steals an enemy's MP. Ineffective against undead.
+  522:
+  - string: Deals dark damage to an enemy.
+  523:
+  - string: a line help text
+  524:
+  - string: 'Deals earth damage to enemies within range. Additional effect: Accuracy Down.'
+  525:
+  - string: a line help text
+  526:
+  - string: a line help text
+  527:
+  - string: Damage varies with TP.
+  528:
+  - string: a line help text
+  529:
+  - string: Delivers a threefold attack. Accuracy varies with TP.
+  530:
+  - string: Increases attack speed.
+  531:
+  - string: 'Deals ice damage to enemies within range. Additional effect: "Bind."'
+  532:
+  - string: 'Deals lightning damage to an enemy. Additional effect: "Stun."'
+  533:
+  - string: Sacrifices HP to damage enemies within range. Affects caster with Weakness.
+  534:
+  - string: 'Deals wind damage to enemies within range. Additional effect: Weight.'
+  535:
+  - string: Deals ice damage that lowers Agility and gradually reduces HP of enemies within range.
+  536:
+  - string: 'Deals water damage to enemies within a fan-shaped area originating from the caster. Additional effect: Poison.'
+  537:
+  - string: Lowers Vitality of enemies within range.
+  538:
+  - string: Enhances magic attack.
+  539:
+  - string: 'Additional effect: Weakens attacks. Accuracy varies with TP.'
+  540:
+  - string: Accuracy varies with TP.
+  541:
+  - string: Steals HP from enemies within range. Ineffective against undead.
+  542:
+  - string: Steals an enemy's HP. Ineffective against undead.
+  543:
+  - string: Damage varies with TP.
+  544:
+  - string: Deals water damage to enemies within area of effect.
+  545:
+  - string: Deals critical damage. Chance of critical hit varies with TP.
+  546:
+  - string: a line help text
+  547:
+  - string: Enhances defense.
+  548:
+  - string: Reduces the attack speed of enemies within a fan-shaped area originating from the caster.
+  549:
+  - string: Restores HP.
+  550:
+  - string: a line help text
+  551:
+  - string: Deals critical damage. Chance of critical hit varies with TP.
+  552:
+  - string: a line help text
+  553:
+  - string: a line help text
+  554:
+  - string: Damage varies with TP.
+  555:
+  - string: 'Deals earth damage to enemies within a fan-shaped area originating from the caster. Additional effect: Weight.'
+  556:
+  - string: a line help text
+  557:
+  - string: Deals dark damage to an enemy.
+  558:
+  - string: a line help text
+  559:
+  - string: a line help text
+  560:
+  - string: Delivers a threefold attack. Damage varies with TP.
+  561:
+  - string: Weakens defense of enemies within range.
+  562:
+  - string: a line help text
+  563:
+  - string: 'Deals wind damage to enemies within a fan-shaped area originating from the caster. Additional effect: Blindness.'
+  564:
+  - string: Delivers an area attack. Damage varies with TP.
+  565:
+  - string: 'Deals light damage to enemies within a fan-shaped area originating from the caster. Additional effect: Slow and Silence.'
+  566:
+  - string: a line help text
+  567:
+  - string: Damage varies with TP.
+  568:
+  - string: a line help text
+  569:
+  - string: Delivers a threefold attack. Accuracy varies with TP.
+  570:
+  - string: Steals an enemy's HP. Ineffective against undead.
+  571:
+  - string: a line help text
+  572:
+  - string: Lowers Intelligence of enemies within range.
+  573:
+  - string: Reduces an enemy's TP.
+  574:
+  - string: Enhances evasion.
+  575:
+  - string: Enemies within a fan-shaped area originating from the caster are frozen with fear.
+  576:
+  - string: Puts all enemies within range to sleep.
+  577:
+  - string: Deals critical damage. Chance of critical hit varies with TP.
+  578:
+  - string: Restores HP for the target party member.
+  579:
+  - string: Steals one beneficial effect from an enemy.
+  580:
+  - string: a line help text
+  581:
+  - string: Restores HP for party members within area of effect.
+  582:
+  - string: Silences an enemy.
+  583:
+  - string: a line help text
+  584:
+  - string: Puts all enemies within range to sleep.
+  585:
+  - string: Damage varies with TP.
+  586:
+  - string: a line help text
+  587:
+  - string: Damages enemies within area of effect with a twofold attack. Damage varies with TP.
+  588:
+  - string: Gives enemies within range a powerful disease that prevents recovery of HP and MP.
+  589:
+  - string: Damage varies with TP.
+  590:
+  - string: a line help text
+  591:
+  - string: Deals fire damage to enemies within a fan-shaped area originating from the caster.
+  592:
+  - string: Removes one beneficial magic effect from an enemy.
+  593:
+  - string: Restores HP for the target party member.
+  594:
+  - string: Damage varies with TP.
+  595:
+  - string: Shoots multiple needles at enemies within range.
+  596:
+  - string: 'Additional effect: Sleep. Duration of effect varies with TP.'
+  597:
+  - string: 'Additional effect: Slow. Duration of effect varies with TP.'
+  598:
+  - string: Puts all enemies within range to sleep.
+  599:
+  - string: 'Additional effect: Poison. Duration of effect varies with TP.'
+  600:
+  - string: a line help text
+  601:
+  - string: a line help text
+  602:
+  - string: a line help text
+  603:
+  - string: 'Additional effect: Vitality Down. Duration of effect varies with TP.'
+  604:
+  - string: Deals earth damage that inflicts multiple status ailments on enemies within a fan-shaped area originating from the caster.
+  605:
+  - string: Removes one beneficial magic effect from enemies within range.
+  606:
+  - string: Lowers Strength of enemies within a fan-shaped area originating from the caster.
+  607:
+  - string: a line help text
+  608:
+  - string: 'Deals ice damage to enemies within a fan-shaped area originating from the caster. Additional effect: Paralysis.'
+  609:
+  - string: a line help text
+  610:
+  - string: Lowers the evasion of enemies within a fan-shaped area originating from the caster.
+  611:
+  - string: 'Delivers a fivefold attack. Additional effect: Poison. Accuracy varies with TP.'
+  612:
+  - string: Greatly lowers the accuracy of enemies within range for a brief period of time.
+  613:
+  - string: Enhances defense and covers you with magical ice spikes. Enemies that hit you take ice damage.
+  614:
+  - string: Enhances magic defense.
+  615:
+  - string: Covers you with magical lightning spikes. Enemies that hit you take lightning damage.
+  616:
+  - string: Enemies within range are temporarily prevented from acting.
+  617:
+  - string: Damage varies with TP.
+  618:
+  - string: 'Deals fire damage to enemies within area of effect. Additional effect: "Bind."'
+  619:
+  - string: a line help text
+  620:
+  - string: 'Delivers an area attack. Additional effect: DEX Down. Duration of effect varies with TP.'
+  621:
+  - string: Blinds enemies within a fan-shaped area originating from the caster.
+  622:
+  - string: Delivers an area attack. Damage varies with TP.
+  623:
+  - string: 'Damage varies with TP. Additional effect: "Stun."'
+  624:
+  - string: a line help text
+  625:
+  - string: a line help text
+  626:
+  - string: Throws a bomb at an enemy.
+  627:
+  - string: a line help text
+  628:
+  - string: 'Delivers an area attack. Additional effect: "Stun." Accuracy varies with TP.'
+  629:
+  - string: Deals wind damage to enemies within range.
+  630:
+  - string: a line help text
+  631:
+  - string: 'Additional effect: Enmity Down. Chance of effect varies with TP.'
+  632:
+  - string: Gives party members within range the effect of "Stoneskin."
+  633:
+  - string: Lowers the defense and magical defense of enemies within range.
+  634:
+  - string: 'Reduces an enemy''s TP. Additional effect: Blindness and "Bind."'
+  635:
+  - string: a line help text
+  636:
+  - string: Enhances accuracy and evasion.
+  637:
+  - string: Deals fire damage to an enemy.
+  638:
+  - string: 'Additional effect: Poison. Chance of effect varies with TP.'
+  639:
+  - string: a line help text
+  640:
+  - string: 'Delivers an area attack. Additional effect: "Stun." Damage varies with TP.'
+  641:
+  - string: Delivers a fivefold attack. Damage varies with TP.
+  642:
+  - string: Enhances magic attack and magic defense.
+  643:
+  - string: Damage varies with TP.
+  644:
+  - string: 'Deals lightning damage to an enemy. Additional effect: Paralysis.'
+  645:
+  - string: Restores HP and removes one detrimental magic effect.
+  646:
+  - string: Steals an amount of enemy's MP equal to damage dealt. Ineffective against undead.
+  647:
+  - string: Creates shadow images that each absorb a single attack directed at you.
+  648:
+  - string: 'Deals water damage to an enemy. Additional effect: Bind.'
+  649:
+  - string: a line help text
+  650:
+  - string: 'Delivers a threefold attack. Additional effect: Weakens defense. Chance of effect varies with TP.'
+  651:
+  - string: 'Deals water damage to an enemy. Additional effect: Weakens attack and defense.'
+  652:
+  - string: 'Additional effect: Lowers accuracy. Chance of effect varies with TP.'
+  653:
+  - string: Delivers a sixfold attack. Accuracy varies with TP.
+  654:
+  - string: 'Delivers an area attack. Additional effect: Paralysis. Damage varies with TP.'
+  655:
+  - string: Enhances attack.
+  656:
+  - string: 'Deals water damage to enemies within a fan-shaped area originating from the caster. Additional effect: Lowers target''s magic defense.'
+  657:
+  - string: Deals fire damage to an enemy.
+  658:
+  - string: Restores target party member's HP and enhances attack and magic attack.
+  659:
+  - string: Weakens the attack of enemies within range.
+  660:
+  - string: Reduces the attack speed of enemies within range.
+  661:
+  - string: Increases attack speed.
+  662:
+  - string: Gradually restores MP.
+  663:
+  - string: Deals wind damage to enemies within range.
+  664:
+  - string: Gradually restores HP.
+  665:
+  - string: 'Deals damage proportional to HP. Reduces HP to 1 after use. Damage varies with TP. '
+  666:
+  - string: Delivers a threefold attack. Accuracy varies with TP.
+  667:
+  - string: Damage varies with TP.
+  668:
+  - string: Grants a Magic Shield effect.
+  669:
+  - string: Delivers an area attack that stuns enemies. Damage varies with TP.
+  670:
+  - string: Delivers an area attack that lowers enemies' defense and magic defense. Damage varies with TP.
+  671:
+  - string: Silences and blinds enemies within range.
+  672:
+  - string: Steals an enemy's HP and one beneficial status effect. Ineffective against undead.
+  673:
+  - string: Delivers a fourfold attack. Damage varies with TP.
+  674:
+  - string: Enhances attack and magic attack.
+  675:
+  - string: 'Deals fire damage to enemies within range. Additional effect: Blindness.'
+  676:
+  - string: a line help text
+  677:
+  - string: Delivers an area attack. Accuracy varies with TP.
+  678:
+  - string: Puts all enemies within range to sleep.
+  679:
+  - string: Creates shadow images that each absorb a single attack directed at you.
+  680:
+  - string: Deals lightning damage to enemies within range.
+  681:
+  - string: Removes one detrimental magic effect for party members within range.
+  682:
+  - string: 'Delivers a threefold attack. Additional effect: Plague. Effect duration varies with TP.'
+  683:
+  - string: Deals dark damage to an enemy.
+  684:
+  - string: Reduces TP for enemies within range.
+  685:
+  - string: Reduces the amount of damage you take.
+  686:
+  - string: Inflicts Doom upon an enemy.
+  687:
+  - string: 'Deals water damage to enemies within area of effect. Additional effect: Silence.'
+  688:
+  - string: Damage varies with TP.
+  689:
+  - string: Deals dark damage to an enemy.
+  690:
+  - string: Restores HP of all party members within range.
+  691:
+  - string: a line help text
+  692:
+  - string: 'Damage varies with TP. Additional effect: "Stun."'
+  693:
+  - string: Delivers a fourfold attack. Chance of critical hit varies with TP.
+  694:
+  - string: Deals water breath damage to enemies within a fan-shaped area originating from the caster.
+  695:
+  - string: Deals thunder breath damage to enemies within a fan-shaped area originating from the caster.
+  696:
+  - string: Increases the caster's chance of countering.
+  697:
+  - string: Delivers a fivefold attack. Damage varies with TP.
+  698:
+  - string: Deals wind breath damage to enemies within a fan-shaped area originating from the caster.
+  699:
+  - string: 'Damage varies with TP. Additional effect: Accuracy Down.'
+  700:
+  - string: Enhances attack.
+  701:
+  - string: Deals wind damage to enemies within range.
+  702:
+  - string: 'Deals water damage to enemies within range. Additional effect: Dispel.'
+  703:
+  - string: 'Deals earth damage to enemies within range. Additional effect: Slow.'
+  704:
+  - string: 'Delivers a threefold attack. Additional effect: Paralysis. Damage varies with TP.'
+  705:
+  - string: 'Deals water damage to enemies in a fan-shaped area originating from caster. Additional effect: Drown.'
+  706:
+  - string: Damage varies with TP.
+  707:
+  - string: 'Deals light damage to enemies in a fan-shaped area originating from caster. Additional effect: Flash.'
+  708:
+  - string: 'Deals wind damage to enemies within range. Additional effect: Weight.'
+  709:
+  - string: Delivers a fourfold attack. Damage varies with TP.
+  710:
+  - string: Increases attack speed.
+  711:
+  - string: Restores the caster's HP.
+  712:
+  - string: Deals light damage to an enemy.
+  713:
+  - string: Deals light damage to enemies within a fan-shaped area originating from the caster.
+  714:
+  - string: Delivers a fivefold attack. Damage varies with TP.
+  715:
+  - string: Deals wind elemental damage in a fan-shaped area originating from caster.
+  716:
+  - string: 'Deals water elemental damage to enemies within range. Additional effect: Poison.'
+  717:
+  - string: 'Delivers a twofold attack. Additional effect: Decreases defense Additional effect duration varies with TP.'
+  718:
+  - string: Steals HP from enemies within range. Ineffective against undead.
+  719:
+  - string: 'Deals fire damage to enemies within range. Additional effect: Burn.'
+  720:
+  - string: 'Deals ice damage to enemies within range. Additional effect: Terror.'
+  721:
+  - string: 'Deals lightning damage to enemies within range. Additional effect: Stun.'
+  722:
+  - string: 'Deals earth damage to enemies within range. Additional effect: Petrification.'
+  723:
+  - string: 'Damage varies with TP. Additional effect: Decreases attack.'
+  724:
+  - string: 'Deals darkness damage to enemies within range. Additional effect: Bio.'
+  725:
+  - string: 'Deals light damage to enemies within range. Additional effect: Flash.'
+  726:
+  - string: 'Deals water damage to enemies within range. Additional effect: Decreases attack.'
+  727:
+  - string: 'Deals wind damage to enemies within range. Additional effect: Silence.'
+  728:
+  - string: 'Deals darkness damage to enemies within range. Additional effect: Decreases defense.'
+  729:
+  - string: a line help text
+  730:
+  - string: a line help text
+  731:
+  - string: a line help text
+  732:
+  - string: a line help text
+  733:
+  - string: a line help text
+  734:
+  - string: a line help text
+  735:
+  - string: a line help text
+  736:
+  - string: 'Deals lightning damage to enemies within range. Additional effect: "Stun."'
+  737:
+  - string: Enhances defense.
+  738:
+  - string: Freezes target in fear.
+  739:
+  - string: 'Deals fire damage to enemies within range. Additional effect: "Burn."'
+  740:
+  - string: 'Delivers an area attack. Additional effect duration varies with TP. Additional effect: Weakens defense.'
+  741:
+  - string: Resists physical damage.
+  742:
+  - string: 'Delivers an area attack. Additional effect duration varies with TP. Additional effect: Lowers attack, defense, and accuracy.'
+  743:
+  - string: 'Delivers a threefold attack. Damage varies with TP. Additional effect: HP Drain.'
+  744:
+  - string: 'Deals wind damage to enemies within range. Additional effect: Dispel.'
+  745:
+  - string: Enhances attack and magic attack. Reduces spell interruption rate.
+  746:
+  - string: Enemies within range are frozen with fear.
+  747:
+  - string: Deals light damage to enemies within range. Also removes status ailments from caster.
+  748:
+  - string: Deals lightning damage to enemies within range.
+  749:
+  - string: 'Deals ice damage to enemies within range. Additional effect: Bind.'
+  750:
+  - string: Increases own defense, magic defenses, and attack speed, and gradually restores own HP.
+  751:
+  - string: Inflicts Doom upon enemies within range.
+  752:
+  - string: 'Deals water damage to enemies within range. Additional effect: Plague.'
+  753:
+  - string: 'Deals wind damage to enemies within range. Additional effect: Weakens magic defense.'
+  754:
+  - string: a line help text
+  755:
+  - string: a line help text
+  756:
+  - string: a line help text
+  757:
+  - string: a line help text
+  758:
+  - string: a line help text
+  759:
+  - string: a line help text
+  760:
+  - string: a line help text
+  761:
+  - string: a line help text
+  762:
+  - string: a line help text
+  763:
+  - string: a line help text
+  764:
+  - string: a line help text
+  765:
+  - string: a line help text
+  766:
+  - string: a line help text
+  767:
+  - string: a line help text
+  768:
+  - string: Gradually restores HP for party members within range.
+  769:
+  - string: Poisons enemies within range and gradually reduces their HP.
+  770:
+  - string: Gradually restores MP for party members within range.
+  771:
+  - string: Increases attack speed for party members within range.
+  772:
+  - string: Enhances Strength for party members within range.
+  773:
+  - string: Enhances Dexterity for party members within range.
+  774:
+  - string: Enhances Vitality for party members within range.
+  775:
+  - string: Enhances Agility for party members within range.
+  776:
+  - string: Enhances Intelligence for party members within range.
+  777:
+  - string: Enhances Mind for party members within range.
+  778:
+  - string: Enhances Charisma for party members within range.
+  779:
+  - string: Enhances attack for party members within range.
+  780:
+  - string: Enhances defense for party members within range.
+  781:
+  - string: Enhances magic attack for party members within range.
+  782:
+  - string: Enhances magic defense for party members within range.
+  783:
+  - string: Enhances accuracy for party members within range.
+  784:
+  - string: Enhances evasion for party members within range.
+  785:
+  - string: Enhances magic accuracy for party members within range.
+  786:
+  - string: Enhances magic evasion for party members within range.
+  787:
+  - string: Reduces attack for enemies within range.
+  788:
+  - string: Reduces defense for enemies within range.
+  789:
+  - string: Reduces magic attack for enemies within range.
+  790:
+  - string: Reduces magic defense for enemies within range.
+  791:
+  - string: Reduces accuracy for enemies within range.
+  792:
+  - string: Reduces evasion for enemies within range.
+  793:
+  - string: Reduces magic accuracy for enemies within range.
+  794:
+  - string: Reduces magic evasion for enemies within range.
+  795:
+  - string: Reduces attack speed for enemies within range.
+  796:
+  - string: Paralyzes enemies within range.
+  797:
+  - string: Weighs down enemies within range and lowers their movement speed.
+  798:
+  - string: Gradually restores HP for party members within area of effect.
+  799:
+  - string: Poisons enemies within area of effect and gradually reduces their HP.
+  800:
+  - string: Gradually restores MP for party members within area of effect.
+  801:
+  - string: Increases attack speed for party members within area of effect.
+  802:
+  - string: Enhances Strength for party members within area of effect.
+  803:
+  - string: Enhances Dexterity for party members within area of effect.
+  804:
+  - string: Enhances Vitality for party members within area of effect.
+  805:
+  - string: Enhances Agility for party members within area of effect.
+  806:
+  - string: Enhances Intelligence for party members within area of effect.
+  807:
+  - string: Enhances Mind for party members within area of effect.
+  808:
+  - string: Enhances Charisma for party members within area of effect.
+  809:
+  - string: Enhances attack for party members within area of effect.
+  810:
+  - string: Enhances defense for party members within area of effect.
+  811:
+  - string: Enhances magic attack for party members within area of effect.
+  812:
+  - string: Enhances magic defense for party members within area of effect.
+  813:
+  - string: Enhances accuracy for party members within area of effect.
+  814:
+  - string: Enhances evasion for party members within area of effect.
+  815:
+  - string: Enhances magic accuracy for party members within area of effect.
+  816:
+  - string: Enhances magic evasion for party members within area of effect.
+  817:
+  - string: Reduces attack for enemies within area of effect.
+  818:
+  - string: Reduces defense for enemies within area of effect.
+  819:
+  - string: Reduces magic attack for enemies within area of effect.
+  820:
+  - string: Reduces magic defense for enemies within area of effect.
+  821:
+  - string: Reduces accuracy for enemies within area of effect.
+  822:
+  - string: Reduces evasion for enemies within area of effect.
+  823:
+  - string: Reduces magic accuracy for enemies within area of effect.
+  824:
+  - string: Reduces magic evasion for enemies within area of effect.
+  825:
+  - string: Reduces attack speed for enemies within area of effect.
+  826:
+  - string: Paralyzes enemies within area of effect.
+  827:
+  - string: Weighs down enemies within area of effect and lowers their movement speed.
+  828:
+  - string: Deals fire damage to enemies within area of effect.
+  829:
+  - string: Deals fire damage to enemies within area of effect.
+  830:
+  - string: Deals ice damage to enemies within area of effect.
+  831:
+  - string: Deals ice damage to enemies within area of effect.
+  832:
+  - string: Deals wind damage to enemies within area of effect.
+  833:
+  - string: Deals wind damage to enemies within area of effect.
+  834:
+  - string: Deals earth damage to enemies within area of effect.
+  835:
+  - string: Deals earth damage to enemies within area of effect.
+  836:
+  - string: Deals lightning damage to enemies within area of effect.
+  837:
+  - string: Deals lightning damage to enemies within area of effect.
+  838:
+  - string: Deals water damage to enemies within area of effect.
+  839:
+  - string: Deals water damage to enemies within area of effect.
+  840:
+  - string: Enhances evasion against special attacks.
+  841:
+  - string: Reduces an enemy's physical evasion.
+  842:
+  - string: Reduces an enemy's physical evasion.
+  843:
+  - string: Reduces an enemy's magic evasion.
+  844:
+  - string: Reduces an enemy's magic evasion.
+  845:
+  - string: Increases target's ranged attack speed.
+  846:
+  - string: Increases target's ranged attack speed.
+  847:
+  - string: Summons Atomos to fight by your side.
+  848:
+  - string: 'Grants you the effect of Raise with a decreased weakness duration when you are KO''d. '
+  849:
+  - string: Deals fire damage to an enemy.
+  850:
+  - string: Deals ice damage to an enemy.
+  851:
+  - string: Deals wind damage to an enemy.
+  852:
+  - string: Deals earth damage to an enemy.
+  853:
+  - string: Deals lightning damage to an enemy.
+  854:
+  - string: Deals water damage to an enemy.
+  855:
+  - string: Adds light damage to your attacks.
+  856:
+  - string: Adds darkness damage to your attacks.
+  857:
+  - string: Changes the weather around target party member to "dusty."
+  858:
+  - string: Changes the weather around target party member to "rainy."
+  859:
+  - string: Changes the weather around target party member to "windy."
+  860:
+  - string: Changes the weather around target party member to "hot."
+  861:
+  - string: Changes the weather around target party member to "snowy."
+  862:
+  - string: Changes the weather around target party member to "thundery."
+  863:
+  - string: Changes the weather around target party member to "gloomy."
+  864:
+  - string: Changes the weather around target party member to "auroras."
+  865:
+  - string: Deals fire damage to enemies within area of effect.
+  866:
+  - string: Deals ice damage to enemies within area of effect.
+  867:
+  - string: Deals wind damage to enemies within area of effect.
+  868:
+  - string: Deals earth damage to enemies within area of effect.
+  869:
+  - string: Deals lightning damage to enemies within area of effect.
+  870:
+  - string: Deals water damage to enemies within area of effect.
+  871:
+  - string: Reduces an enemy's resistance against fire.
+  872:
+  - string: Reduces an enemy's resistance against ice.
+  873:
+  - string: Reduces an enemy's resistance against wind.
+  874:
+  - string: Reduces an enemy's resistance against earth.
+  875:
+  - string: Reduces an enemy's resistance against lightning.
+  876:
+  - string: Reduces an enemy's resistance against water.
+  877:
+  - string: Reduces an enemy's resistance against light.
+  878:
+  - string: Reduces an enemy's resistance against darkness.
+  879:
+  - string: Grants a bonus to skillchain damage based on the number of successful melee hits.
+  880:
+  - string: Steals an enemy's HP, potentially increasing maximum HP. Ineffective against undead.
+  881:
+  - string: Steals an enemy's MP. Ineffective against undead.
+  882:
+  - string: Reduces an enemy's physical evasion.
+  883:
+  - string: Reduces an enemy's magic evasion.
+  884:
+  - string: Decreases an enemy's magic accuracy and increases its spellcasting time.
+  885:
+  - string: Deals earth damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  886:
+  - string: Deals water damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  887:
+  - string: Deals wind damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  888:
+  - string: Deals fire damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  889:
+  - string: Deals ice damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  890:
+  - string: Deals lightning damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  891:
+  - string: Deals darkness damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  892:
+  - string: Deals light damage that gradually reduces a target's HP. Damage dealt is greatly affected by the weather.
+  893:
+  - string: 'Consumes all MP. Restores target''s HP and cures status ailments. Afflatus Solace: Grants the effect of "Stoneskin."'
+  894:
+  - string: Gradually restores target's MP.
+  895:
+  - string: Grants the ability to occasionally attack thrice.
+  896:
+  - string: Calls an alter ego of Shantotto.
+  897:
+  - string: Calls an alter ego of Naji.
+  898:
+  - string: Calls an alter ego of Kupipi.
+  899:
+  - string: Calls an alter ego of Excenmille.
+  900:
+  - string: Calls an alter ego of Ayame.
+  901:
+  - string: Calls an alter ego of Nanaa Mihgo.
+  902:
+  - string: Calls an alter ego of Curilla.
+  903:
+  - string: Calls an alter ego of Volker.
+  904:
+  - string: Calls an alter ego of Ajido-Marujido.
+  905:
+  - string: Calls an alter ego of Trion.
+  906:
+  - string: Calls an alter ego of Zeid.
+  907:
+  - string: Calls an alter ego of Lion.
+  908:
+  - string: Calls an alter ego of Tenzen.
+  909:
+  - string: Calls an alter ego of Mihli Aliapoh.
+  910:
+  - string: Calls an alter ego of Valaineral [S].
+  911:
+  - string: Calls an alter ego of Joachim.
+  912:
+  - string: Calls an alter ego of Naja Salaheem.
+  913:
+  - string: Calls an alter ego of Prishe.
+  914:
+  - string: Calls an alter ego of Ulmia.
+  915:
+  - string: Calls an alter ego of Shikaree Z.
+  916:
+  - string: Calls an alter ego of Cherukiki.
+  917:
+  - string: Calls an alter ego of Iron Eater.
+  918:
+  - string: Calls an alter ego of Gessho.
+  919:
+  - string: Calls an alter ego of Gadalar.
+  920:
+  - string: Calls an alter ego of Rainemard [S].
+  921:
+  - string: Calls an alter ego of Ingrid.
+  922:
+  - string: Calls an alter ego of Lehko Habhoka [S].
+  923:
+  - string: Calls an alter ego of Nashmeira.
+  924:
+  - string: Calls an alter ego of Zazarg.
+  925:
+  - string: Calls an alter ego of Ovjang.
+  926:
+  - string: Calls an alter ego of Mnejing.
+  927:
+  - string: Calls an alter ego of Sakura.
+  928:
+  - string: Calls an alter ego of Luzaf.
+  929:
+  - string: Calls an alter ego of Najelith.
+  930:
+  - string: Calls an alter ego of Aldo.
+  931:
+  - string: Calls an alter ego of a moogle.
+  932:
+  - string: Calls an alter ego of Fablinix.
+  933:
+  - string: Calls an alter ego of Maat.
+  934:
+  - string: Calls an alter ego of Domina Shantotto.
+  935:
+  - string: Calls an alter ego of the Star Sibyl.
+  936:
+  - string: Calls an alter ego of Karaha-Baruha [S].
+  937:
+  - string: Calls an alter ego of Cid.
+  938:
+  - string: Calls an alter ego of Gilgamesh.
+  939:
+  - string: Calls an alter ego of Areuhat.
+  940:
+  - string: Calls an alter ego of Semih Lafihna.
+  941:
+  - string: Calls an alter ego of Elivira [S].
+  942:
+  - string: Calls an alter ego of Noillurie [S].
+  943:
+  - string: Calls an alter ego of Lhu Mhakaracca [S].
+  944:
+  - string: Calls an alter ego of Ferreous Coffin [S].
+  945:
+  - string: Calls an alter ego of Lilisette.
+  946:
+  - string: Calls an alter ego of Mumor.
+  947:
+  - string: Calls an alter ego of Uka Totlihn.
+  948:
+  - string: Calls an alter ego of Klara [S].
+  949:
+  - string: Calls an alter ego of Romaa Mihgo [S].
+  950:
+  - string: Calls an alter ego of Kuyin Hathdenna.
+  951:
+  - string: Calls an alter ego of Rahal.
+  952:
+  - string: Calls an alter ego of Koru-Moru.
+  953:
+  - string: Calls an alter ego of Pieuje (UC).
+  954:
+  - string: Calls an alter ego of Invincible Shield (UC).
+  955:
+  - string: Calls an alter ego of Apururu (UC).
+  956:
+  - string: Calls an alter ego of Jakoh Wahcondalo (UC).
+  957:
+  - string: Calls an alter ego of Flaviria (UC).
+  958:
+  - string: Calls an alter ego of Babban Ny Mheillea.
+  959:
+  - string: Calls an alter ego of Abenzio.
+  960:
+  - string: Calls an alter ego of Rughadjeen.
+  961:
+  - string: Calls an alter ego of Kukki-Chebukki.
+  962:
+  - string: Calls an alter ego of Margret.
+  963:
+  - string: Calls an alter ego of Chacharoon.
+  964:
+  - string: Calls an alter ego of Lhe Lhangavo.
+  965:
+  - string: Calls an alter ego of Arciela.
+  966:
+  - string: Calls an alter ego of Mayakov.
+  967:
+  - string: Calls an alter ego of Qultada.
+  968:
+  - string: Calls an alter ego of Adelheid [S].
+  969:
+  - string: Calls an alter ego of Amchuchu.
+  970:
+  - string: Calls an alter ego of Brygid.
+  971:
+  - string: Calls an alter ego of Mildaurion.
+  972:
+  - string: Calls an alter ego of Halver.
+  973:
+  - string: Calls an alter ego of Rongelouts.
+  974:
+  - string: Calls an alter ego of Leonoyne.
+  975:
+  - string: Calls an alter ego of Maximilian.
+  976:
+  - string: Calls an alter ego of Kayeel-Payeel.
+  977:
+  - string: Calls an alter ego of Robel-Akbel.
+  978:
+  - string: Calls an alter ego of Kupofried.
+  979:
+  - string: Calls an alter ego of Selh'teus.
+  980:
+  - string: Calls an alter ego of Yoran-Oran (UC).
+  981:
+  - string: Calls an alter ego of Sylvie (UC).
+  982:
+  - string: Calls an alter ego of Abquhbah.
+  983:
+  - string: Calls an alter ego of Balamor.
+  984:
+  - string: Calls an alter ego of August.
+  985:
+  - string: Calls an alter ego of Rosulatia.
+  986:
+  - string: Calls an alter ego of Teodor.
+  987:
+  - string: Calls an alter ego of Ullegore.
+  988:
+  - string: Calls an alter ego of Makki-Chebukki.
+  989:
+  - string: Calls an alter ego of the King of Hearts.
+  990:
+  - string: Calls an alter ego of Morimar.
+  991:
+  - string: Calls an alter ego of Darrcuiln.
+  992:
+  - string: Calls an alter ego of Ark Angel HM.
+  993:
+  - string: Calls an alter ego of Ark Angel EV.
+  994:
+  - string: Calls an alter ego of Ark Angel MR.
+  995:
+  - string: Calls an alter ego of Ark Angel TT.
+  996:
+  - string: Calls an alter ego of Ark Angel GK.
+  997:
+  - string: Calls an alter ego of Iroha.
+  998:
+  - string: Calls an alter ego of Ygnas.
+  999:
+  - string: nothing.
+  1000:
+  - string: nothing.
+  1001:
+  - string: nothing.
+  1002:
+  - string: nothing.
+  1003:
+  - string: .
+  1004:
+  - string: Calls an alter ego of Excenmille [S].
+  1005:
+  - string: Calls an alter ego of Ayame (UC).
+  1006:
+  - string: Calls an alter ego of Maat (UC).
+  1007:
+  - string: Calls an alter ego of Aldo (UC).
+  1008:
+  - string: Calls an alter ego of Naja Salaheem (UC).
+  1009:
+  - string: Calls an alter ego of Lion [RoV].
+  1010:
+  - string: Calls an alter ego of Zeid [RoV].
+  1011:
+  - string: Calls an alter ego of Prishe [RoV].
+  1012:
+  - string: Calls an alter ego of Nashmeira [RoV].
+  1013:
+  - string: Calls an alter ego of Lilisette [RoV].
+  1014:
+  - string: Calls an alter ego of Tenzen [RoV].
+  1015:
+  - string: Calls an alter ego of Mumor II.
+  1016:
+  - string: Calls an alter ego of Ingrid II.
+  1017:
+  - string: Calls an alter ego of Arciela [RoV].
+  1018:
+  - string: Calls an alter ego of Iroha [RoV].
+  1019:
+  - string: Calls an alter ego of Shantotto II.
+  1020:
+  - string: nothing.
+  1021:
+  - string: nothing.
+  1022:
+  - string: nothing.
+  1023:
+  - string: nothing.

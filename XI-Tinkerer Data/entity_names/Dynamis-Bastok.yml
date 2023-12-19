@@ -1,0 +1,517 @@
+names:
+- id: 17539073
+  name: Gu'Dha Effigy
+- id: 17539074
+  name: Vanguard Vindicator
+- id: 17539075
+  name: Vanguard Militant
+- id: 17539076
+  name: Vanguard Beasttender
+- id: 17539077
+  name: Vanguard's Scorpion
+- id: 17539078
+  name: Vanguard Thaumaturge
+- id: 17539079
+  name: Vanguard Protector
+- id: 17539080
+  name: Vanguard Purloiner
+- id: 17539081
+  name: Vanguard Vigilante
+- id: 17539082
+  name: Vanguard Defender
+- id: 17539083
+  name: Vanguard Vindicator
+- id: 17539084
+  name: Vanguard Constable
+- id: 17539085
+  name: Vanguard Thaumaturge
+- id: 17539086
+  name: Vanguard Hatamoto
+- id: 17539087
+  name: Vanguard Kusa
+- id: 17539088
+  name: Vanguard Drakekeeper
+- id: 17539089
+  name: Vanguard's Wyvern
+- id: 17539090
+  name: Vanguard Vindicator
+- id: 17539091
+  name: Vanguard Militant
+- id: 17539092
+  name: Vanguard Vigilante
+- id: 17539093
+  name: Vanguard Vigilante
+- id: 17539094
+  name: Vanguard Minstrel
+- id: 17539095
+  name: Vanguard Mason
+- id: 17539096
+  name: Vanguard Hatamoto
+- id: 17539097
+  name: Vanguard Kusa
+- id: 17539098
+  name: Vanguard Undertaker
+- id: 17539099
+  name: Vanguard's Avatar
+- id: 17539100
+  name: Vanguard Protector
+- id: 17539101
+  name: Vanguard Constable
+- id: 17539102
+  name: Vanguard Thaumaturge
+- id: 17539103
+  name: Vanguard Defender
+- id: 17539104
+  name: Vanguard Defender
+- id: 17539105
+  name: Vanguard Drakekeeper
+- id: 17539106
+  name: Vanguard's Wyvern
+- id: 17539107
+  name: Vanguard Purloiner
+- id: 17539108
+  name: Vanguard Militant
+- id: 17539109
+  name: Vanguard Minstrel
+- id: 17539110
+  name: Vanguard Beasttender
+- id: 17539111
+  name: Vanguard's Scorpion
+- id: 17539112
+  name: Vanguard Drakekeeper
+- id: 17539113
+  name: Vanguard's Wyvern
+- id: 17539114
+  name: Vanguard Vindicator
+- id: 17539115
+  name: Vanguard Militant
+- id: 17539116
+  name: Vanguard Vigilante
+- id: 17539117
+  name: Vanguard Mason
+- id: 17539118
+  name: Adamantking Effigy
+- id: 17539119
+  name: Adamantking Effigy
+- id: 17539120
+  name: Adamantking Effigy
+- id: 17539121
+  name: Vanguard Defender
+- id: 17539122
+  name: Vanguard Minstrel
+- id: 17539123
+  name: Vanguard Thaumaturge
+- id: 17539124
+  name: Vanguard Protector
+- id: 17539125
+  name: Vanguard Constable
+- id: 17539126
+  name: Vanguard Vigilante
+- id: 17539127
+  name: Vanguard Defender
+- id: 17539128
+  name: Vanguard Minstrel
+- id: 17539129
+  name: Vanguard Vindicator
+- id: 17539130
+  name: Vanguard Militant
+- id: 17539131
+  name: Vanguard Purloiner
+- id: 17539132
+  name: Vanguard Mason
+- id: 17539133
+  name: Vanguard Vindicator
+- id: 17539134
+  name: Vanguard Purloiner
+- id: 17539135
+  name: Vanguard Militant
+- id: 17539136
+  name: Vanguard Vigilante
+- id: 17539137
+  name: Vanguard Thaumaturge
+- id: 17539138
+  name: Vanguard Vigilante
+- id: 17539139
+  name: Vanguard Thaumaturge
+- id: 17539140
+  name: Vanguard Vigilante
+- id: 17539141
+  name: Vanguard Thaumaturge
+- id: 17539142
+  name: Adamantking Image
+- id: 17539143
+  name: Gu'Nhi Noondozer
+- id: 17539144
+  name: Vanguard's Avatar
+- id: 17539145
+  name: Vanguard Purloiner
+- id: 17539146
+  name: Vanguard Purloiner
+- id: 17539147
+  name: Ze'Vho Fallsplitter
+- id: 17539148
+  name: Adamantking Image
+- id: 17539149
+  name: Adamantking Image
+- id: 17539150
+  name: Vanguard Hatamoto
+- id: 17539151
+  name: Vanguard Kusa
+- id: 17539152
+  name: Vanguard Hatamoto
+- id: 17539153
+  name: Vanguard Purloiner
+- id: 17539154
+  name: Vanguard Vindicator
+- id: 17539155
+  name: Vanguard Mason
+- id: 17539156
+  name: Vanguard Kusa
+- id: 17539157
+  name: Vanguard Purloiner
+- id: 17539158
+  name: Vanguard Vindicator
+- id: 17539159
+  name: Vanguard Militant
+- id: 17539160
+  name: Vanguard Mason
+- id: 17539161
+  name: Adamantking Effigy
+- id: 17539162
+  name: Adamantking Effigy
+- id: 17539163
+  name: Adamantking Effigy
+- id: 17539164
+  name: Vanguard Drakekeeper
+- id: 17539165
+  name: Vanguard's Wyvern
+- id: 17539166
+  name: Vanguard Undertaker
+- id: 17539167
+  name: Vanguard's Avatar
+- id: 17539168
+  name: Vanguard Thaumaturge
+- id: 17539169
+  name: Vanguard Vigilante
+- id: 17539170
+  name: Vanguard Mason
+- id: 17539171
+  name: Adamantking Effigy
+- id: 17539172
+  name: Adamantking Effigy
+- id: 17539173
+  name: Adamantking Effigy
+- id: 17539174
+  name: Vanguard Vigilante
+- id: 17539175
+  name: Vanguard Vigilante
+- id: 17539176
+  name: Vanguard Defender
+- id: 17539177
+  name: Vanguard Beasttender
+- id: 17539178
+  name: Vanguard's Scorpion
+- id: 17539179
+  name: Vanguard Thaumaturge
+- id: 17539180
+  name: Vanguard Protector
+- id: 17539181
+  name: Vanguard Protector
+- id: 17539182
+  name: Vanguard Constable
+- id: 17539183
+  name: Vanguard Vigilante
+- id: 17539184
+  name: Vanguard Defender
+- id: 17539185
+  name: Vanguard Thaumaturge
+- id: 17539186
+  name: Vanguard Protector
+- id: 17539187
+  name: Vanguard Constable
+- id: 17539188
+  name: Gi'Pha Manameister
+- id: 17539189
+  name: Vanguard Defender
+- id: 17539190
+  name: Ko'Dho Cannonball
+- id: 17539191
+  name: Vanguard Vindicator
+- id: 17539192
+  name: Vanguard Militant
+- id: 17539193
+  name: Vanguard Constable
+- id: 17539194
+  name: Vanguard Thaumaturge
+- id: 17539195
+  name: Vanguard Protector
+- id: 17539196
+  name: Vanguard Defender
+- id: 17539197
+  name: Vanguard Beasttender
+- id: 17539198
+  name: Vanguard's Scorpion
+- id: 17539199
+  name: Vanguard Drakekeeper
+- id: 17539200
+  name: Vanguard's Wyvern
+- id: 17539201
+  name: Vanguard Purloiner
+- id: 17539202
+  name: Vanguard Vigilante
+- id: 17539203
+  name: Vanguard Minstrel
+- id: 17539204
+  name: Vanguard Hatamoto
+- id: 17539205
+  name: Vanguard Minstrel
+- id: 17539206
+  name: Vanguard Mason
+- id: 17539207
+  name: Vanguard Hatamoto
+- id: 17539208
+  name: Vanguard Kusa
+- id: 17539209
+  name: Vanguard Undertaker
+- id: 17539210
+  name: Vanguard's Avatar
+- id: 17539211
+  name: Vanguard Undertaker
+- id: 17539212
+  name: Vanguard's Avatar
+- id: 17539213
+  name: Vanguard Beasttender
+- id: 17539214
+  name: Vanguard's Scorpion
+- id: 17539215
+  name: Vanguard Vindicator
+- id: 17539216
+  name: Vanguard Protector
+- id: 17539217
+  name: Vanguard Vigilante
+- id: 17539218
+  name: Vanguard Hatamoto
+- id: 17539219
+  name: Vanguard Hatamoto
+- id: 17539220
+  name: Vanguard Kusa
+- id: 17539221
+  name: Vanguard Kusa
+- id: 17539222
+  name: Vanguard Undertaker
+- id: 17539223
+  name: Vanguard's Avatar
+- id: 17539224
+  name: Vanguard Minstrel
+- id: 17539225
+  name: Vanguard Protector
+- id: 17539226
+  name: Vanguard Defender
+- id: 17539227
+  name: Adamantking Effigy
+- id: 17539228
+  name: Adamantking Effigy
+- id: 17539229
+  name: Adamantking Effigy
+- id: 17539230
+  name: Vanguard Hatamoto
+- id: 17539231
+  name: Vanguard Kusa
+- id: 17539232
+  name: Vanguard Protector
+- id: 17539233
+  name: Vanguard Defender
+- id: 17539234
+  name: Adamantking Effigy
+- id: 17539235
+  name: Adamantking Effigy
+- id: 17539236
+  name: Adamantking Effigy
+- id: 17539237
+  name: Vanguard Beasttender
+- id: 17539238
+  name: Vanguard's Scorpion
+- id: 17539239
+  name: Vanguard Drakekeeper
+- id: 17539240
+  name: Vanguard's Wyvern
+- id: 17539241
+  name: Vanguard Vindicator
+- id: 17539242
+  name: Vanguard Militant
+- id: 17539243
+  name: Vanguard Constable
+- id: 17539244
+  name: Vanguard Vindicator
+- id: 17539245
+  name: Vanguard Constable
+- id: 17539246
+  name: Vanguard Thaumaturge
+- id: 17539247
+  name: Vanguard Beasttender
+- id: 17539248
+  name: Vanguard's Scorpion
+- id: 17539249
+  name: Vanguard Drakekeeper
+- id: 17539250
+  name: Vanguard's Wyvern
+- id: 17539251
+  name: Vanguard Thaumaturge
+- id: 17539252
+  name: Vanguard Vigilante
+- id: 17539253
+  name: Adamantking Image
+- id: 17539254
+  name: Vanguard Vindicator
+- id: 17539255
+  name: Vanguard Vindicator
+- id: 17539256
+  name: Vanguard Defender
+- id: 17539257
+  name: Vanguard Purloiner
+- id: 17539258
+  name: Vanguard Vigilante
+- id: 17539259
+  name: Vanguard Militant
+- id: 17539260
+  name: Vanguard Protector
+- id: 17539261
+  name: Vanguard Militant
+- id: 17539262
+  name: Vanguard Militant
+- id: 17539263
+  name: Vanguard Vigilante
+- id: 17539264
+  name: Vanguard Vigilante
+- id: 17539265
+  name: Vanguard Protector
+- id: 17539266
+  name: Adamantking Effigy
+- id: 17539267
+  name: Adamantking Effigy
+- id: 17539268
+  name: Vanguard Constable
+- id: 17539269
+  name: Vanguard Constable
+- id: 17539270
+  name: Vanguard Thaumaturge
+- id: 17539271
+  name: Vanguard Thaumaturge
+- id: 17539272
+  name: Vanguard Undertaker
+- id: 17539273
+  name: Vanguard's Avatar
+- id: 17539274
+  name: Adamantking Effigy
+- id: 17539275
+  name: Adamantking Effigy
+- id: 17539276
+  name: Vanguard Purloiner
+- id: 17539277
+  name: Vanguard Purloiner
+- id: 17539278
+  name: Vanguard Defender
+- id: 17539279
+  name: Vanguard Vigilante
+- id: 17539280
+  name: Vanguard Thaumaturge
+- id: 17539281
+  name: Vanguard Hatamoto
+- id: 17539282
+  name: Vanguard Kusa
+- id: 17539283
+  name: Vanguard Minstrel
+- id: 17539284
+  name: Vanguard Beasttender
+- id: 17539285
+  name: Vanguard's Scorpion
+- id: 17539286
+  name: Adamantking Effigy
+- id: 17539287
+  name: Adamantking Effigy
+- id: 17539288
+  name: Vanguard Hatamoto
+- id: 17539289
+  name: Vanguard Kusa
+- id: 17539290
+  name: Vanguard Minstrel
+- id: 17539291
+  name: Vanguard Drakekeeper
+- id: 17539292
+  name: Vanguard's Wyvern
+- id: 17539293
+  name: Adamantking Effigy
+- id: 17539294
+  name: Adamantking Effigy
+- id: 17539295
+  name: Vanguard Hatamoto
+- id: 17539296
+  name: Vanguard Minstrel
+- id: 17539297
+  name: Vanguard Purloiner
+- id: 17539298
+  name: Vanguard Thaumaturge
+- id: 17539299
+  name: Vanguard Vigilante
+- id: 17539300
+  name: Vanguard Vindicator
+- id: 17539301
+  name: Vanguard Militant
+- id: 17539302
+  name: Vanguard Vigilante
+- id: 17539303
+  name: Vanguard Protector
+- id: 17539304
+  name: Vanguard Constable
+- id: 17539305
+  name: Vanguard Minstrel
+- id: 17539306
+  name: Adamantking Image
+- id: 17539307
+  name: Zo'Pha Forgesoul
+- id: 17539308
+  name: Ra'Gho Darkfount
+- id: 17539309
+  name: Ra'Gho's Avatar
+- id: 17539310
+  name: Va'Zhe Pummelsong
+- id: 17539311
+  name: Bu'Bho Truesteel
+- id: 17539312
+  name: Arch Gu'Dha Effigy
+- id: 17539314
+  name: Achieve Master
+- id: 17539315
+  name: Unity Master
+- id: 17539320
+  name: ''
+- id: 17539321
+  name: Somnial Threshold
+- id: 17539322
+  name: ???
+- id: 17539323
+  name: ???
+- id: 17539324
+  name: ???
+- id: 17539325
+  name: ???
+- id: 17539326
+  name: ???
+- id: 17539327
+  name: ''
+- id: 17539329
+  name: Moogle
+- id: 17539330
+  name: Moogle
+- id: 17539331
+  name: Moogle
+- id: 17539332
+  name: Moogle
+- id: 17539333
+  name: Moogle
+- id: 17539334
+  name: Moogle
+- id: 17539335
+  name: Moogle
+- id: 17539336
+  name: Moogle

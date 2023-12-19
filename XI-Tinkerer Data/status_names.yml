@@ -1,0 +1,3073 @@
+lists:
+  0:
+  - string: KO
+  - string: KO'd
+  1:
+  - string: weakness
+  - string: weakened
+  2:
+  - string: sleep
+  - string: asleep
+  3:
+  - string: poison
+  - string: poisoned
+  4:
+  - string: paralysis
+  - string: paralyzed
+  5:
+  - string: blindness
+  - string: blinded
+  6:
+  - string: silence
+  - string: silenced
+  7:
+  - string: petrification
+  - string: petrified
+  8:
+  - string: disease
+  - string: diseased
+  9:
+  - string: curse
+  - string: cursed
+  10:
+  - string: stun
+  - string: stunned
+  11:
+  - string: bind
+  - string: bound
+  12:
+  - string: weight
+  - string: weighed down
+  13:
+  - string: slow
+  - string: slowed
+  14:
+  - string: charm
+  - string: charmed
+  15:
+  - string: doom
+  - string: doomed
+  16:
+  - string: amnesia
+  - string: amnesic
+  17:
+  - string: charm
+  - string: charmed
+  18:
+  - string: gradual petrification
+  - string: gradually petrifying
+  19:
+  - string: sleep
+  - string: asleep
+  20:
+  - string: curse
+  - string: cursed
+  21:
+  - string: addle
+  - string: addled
+  22:
+  - string: intimidate
+  - string: intimidated
+  23:
+  - string: Kaustra
+  - string: afflicted with Kaustra
+  24:
+  - string: ST24
+  - string: ST24
+  25:
+  - string: ST25
+  - string: ST25
+  26:
+  - string: ST26
+  - string: ST26
+  27:
+  - string: ST27
+  - string: ST27
+  28:
+  - string: terror
+  - string: terrorized
+  29:
+  - string: mute
+  - string: muted
+  30:
+  - string: bane
+  - string: baned
+  31:
+  - string: plague
+  - string: plagued
+  32:
+  - string: Flee
+  - string: fleeing
+  33:
+  - string: Haste
+  - string: hastened
+  34:
+  - string: Blaze Spikes
+  - string: Blaze Spikes
+  35:
+  - string: Ice Spikes
+  - string: Ice Spikes
+  36:
+  - string: Blink
+  - string: Blink
+  37:
+  - string: Stoneskin
+  - string: Stoneskin
+  38:
+  - string: Shock Spikes
+  - string: Shock Spikes
+  39:
+  - string: Aquaveil
+  - string: Aquaveil
+  40:
+  - string: Protect
+  - string: Protect
+  41:
+  - string: Shell
+  - string: Shell
+  42:
+  - string: Regen
+  - string: regenerating
+  43:
+  - string: Refresh
+  - string: refreshing
+  44:
+  - string: Mighty Strikes
+  - string: Mighty Strikes
+  45:
+  - string: Boost
+  - string: Boost
+  46:
+  - string: Hundred Fists
+  - string: Hundred Fists
+  47:
+  - string: Manafont
+  - string: Manafont
+  48:
+  - string: Chainspell
+  - string: Chainspell
+  49:
+  - string: Perfect Dodge
+  - string: Perfect Dodge
+  50:
+  - string: Invincible
+  - string: Invincible
+  51:
+  - string: Blood Weapon
+  - string: Blood Weapon
+  52:
+  - string: Soul Voice
+  - string: Soul Voice
+  53:
+  - string: Eagle Eye Shot
+  - string: Eagle Eye Shot
+  54:
+  - string: Meikyo Shisui
+  - string: Meikyo Shisui
+  55:
+  - string: Astral Flow
+  - string: Astral Flow
+  56:
+  - string: Berserk
+  - string: Berserk
+  57:
+  - string: Defender
+  - string: Defender
+  58:
+  - string: Aggressor
+  - string: Aggressor
+  59:
+  - string: Focus
+  - string: Focus
+  60:
+  - string: Dodge
+  - string: Dodge
+  61:
+  - string: Counterstance
+  - string: Counterstance
+  62:
+  - string: Sentinel
+  - string: Sentinel
+  63:
+  - string: Souleater
+  - string: Souleater
+  64:
+  - string: Last Resort
+  - string: Last Resort
+  65:
+  - string: Sneak Attack
+  - string: Sneak Attack
+  66:
+  - string: Copy Image
+  - string: Copy Image
+  67:
+  - string: Third Eye
+  - string: Third Eye
+  68:
+  - string: Warcry
+  - string: Warcry
+  69:
+  - string: Invisible
+  - string: Invisible
+  70:
+  - string: Deodorize
+  - string: Deodorize
+  71:
+  - string: Sneak
+  - string: Sneak
+  72:
+  - string: Sharpshot
+  - string: Sharpshot
+  73:
+  - string: Barrage
+  - string: Barrage
+  74:
+  - string: Holy Circle
+  - string: Holy Circle
+  75:
+  - string: Arcane Circle
+  - string: Arcane Circle
+  76:
+  - string: Hide
+  - string: hiding
+  77:
+  - string: Camouflage
+  - string: camouflaged
+  78:
+  - string: Divine Seal
+  - string: Divine Seal
+  79:
+  - string: Elemental Seal
+  - string: Elemental Seal
+  80:
+  - string: STR Boost
+  - string: STR-boosted
+  81:
+  - string: DEX Boost
+  - string: DEX-boosted
+  82:
+  - string: VIT Boost
+  - string: VIT-boosted
+  83:
+  - string: AGI Boost
+  - string: AGI-boosted
+  84:
+  - string: INT Boost
+  - string: INT-boosted
+  85:
+  - string: MND Boost
+  - string: MND-boosted
+  86:
+  - string: CHR Boost
+  - string: CHR-boosted
+  87:
+  - string: Trick Attack
+  - string: Trick Attack
+  88:
+  - string: Max HP Boost
+  - string: Max HP-boosted
+  89:
+  - string: Max MP Boost
+  - string: Max MP-boosted
+  90:
+  - string: Accuracy Boost
+  - string: accuracy-boosted
+  91:
+  - string: Attack Boost
+  - string: attack-boosted
+  92:
+  - string: Evasion Boost
+  - string: evasion-boosted
+  93:
+  - string: Defense Boost
+  - string: defense-boosted
+  94:
+  - string: Enfire
+  - string: Enfire
+  95:
+  - string: Enblizzard
+  - string: Enblizzard
+  96:
+  - string: Enaero
+  - string: Enaero
+  97:
+  - string: Enstone
+  - string: Enstone
+  98:
+  - string: Enthunder
+  - string: Enthunder
+  99:
+  - string: Enwater
+  - string: Enwater
+  100:
+  - string: Barfire
+  - string: Barfire
+  101:
+  - string: Barblizzard
+  - string: Barblizzard
+  102:
+  - string: Baraero
+  - string: Baraero
+  103:
+  - string: Barstone
+  - string: Barstone
+  104:
+  - string: Barthunder
+  - string: Barthunder
+  105:
+  - string: Barwater
+  - string: Barwater
+  106:
+  - string: Barsleep
+  - string: Barsleep
+  107:
+  - string: Barpoison
+  - string: Barpoison
+  108:
+  - string: Barparalyze
+  - string: Barparalyze
+  109:
+  - string: Barblind
+  - string: Barblind
+  110:
+  - string: Barsilence
+  - string: Barsilence
+  111:
+  - string: Barpetrify
+  - string: Barpetrify
+  112:
+  - string: Barvirus
+  - string: Barvirus
+  113:
+  - string: Reraise
+  - string: Reraise
+  114:
+  - string: Cover
+  - string: Cover
+  115:
+  - string: Unlimited Shot
+  - string: Unlimited Shot
+  116:
+  - string: Phalanx
+  - string: Phalanx
+  117:
+  - string: Warding Circle
+  - string: Warding Circle
+  118:
+  - string: Ancient Circle
+  - string: Ancient Circle
+  119:
+  - string: STR Boost
+  - string: STR-boosted
+  120:
+  - string: DEX Boost
+  - string: DEX-boosted
+  121:
+  - string: VIT Boost
+  - string: VIT-boosted
+  122:
+  - string: AGI Boost
+  - string: AGI-boosted
+  123:
+  - string: INT Boost
+  - string: INT-boosted
+  124:
+  - string: MND Boost
+  - string: MND-boosted
+  125:
+  - string: CHR Boost
+  - string: CHR-boosted
+  126:
+  - string: Spirit Surge
+  - string: Spirit Surge
+  127:
+  - string: Costume
+  - string: Costume
+  128:
+  - string: Burn
+  - string: afflicted with Burn
+  129:
+  - string: Frost
+  - string: afflicted with Frost
+  130:
+  - string: Choke
+  - string: afflicted with Choke
+  131:
+  - string: Rasp
+  - string: afflicted with Rasp
+  132:
+  - string: Shock
+  - string: afflicted with Shock
+  133:
+  - string: Drown
+  - string: afflicted with Drown
+  134:
+  - string: Dia
+  - string: afflicted with Dia
+  135:
+  - string: Bio
+  - string: afflicted with Bio
+  136:
+  - string: STR Down
+  - string: afflicted with STR Down
+  137:
+  - string: DEX Down
+  - string: afflicted with DEX Down
+  138:
+  - string: VIT Down
+  - string: afflicted with VIT Down
+  139:
+  - string: AGI Down
+  - string: afflicted with AGI Down
+  140:
+  - string: INT Down
+  - string: afflicted with INT Down
+  141:
+  - string: MND Down
+  - string: afflicted with MND Down
+  142:
+  - string: CHR Down
+  - string: afflicted with CHR Down
+  143:
+  - string: Level Restriction
+  - string: level-restricted
+  144:
+  - string: Max HP Down
+  - string: afflicted with Max HP Down
+  145:
+  - string: Max MP Down
+  - string: afflicted with Max MP Down
+  146:
+  - string: Accuracy Down
+  - string: afflicted with Accuracy Down
+  147:
+  - string: Attack Down
+  - string: afflicted with Attack Down
+  148:
+  - string: Evasion Down
+  - string: afflicted with Evasion Down
+  149:
+  - string: Defense Down
+  - string: afflicted with Defense Down
+  150:
+  - string: Physical Shield
+  - string: Physical Shield
+  151:
+  - string: Arrow Shield
+  - string: Arrow Shield
+  152:
+  - string: Magic Shield
+  - string: Magic Shield
+  153:
+  - string: Damage Spikes
+  - string: Damage Spikes
+  154:
+  - string: Shining Ruby
+  - string: Shining Ruby
+  155:
+  - string: medicine
+  - string: medicated
+  156:
+  - string: Flash
+  - string: afflicted with Flash
+  157:
+  - string: SJ Restriction
+  - string: SJ Restriction
+  158:
+  - string: Provoke
+  - string: provoked
+  159:
+  - string: penalty
+  - string: penalized
+  160:
+  - string: preparations
+  - string: preparing for battle
+  161:
+  - string: Sprint
+  - string: Sprint
+  162:
+  - string: enchantment
+  - string: enchanted
+  163:
+  - string: Azure Lore
+  - string: Azure Lore
+  164:
+  - string: Chain Affinity
+  - string: Chain Affinity
+  165:
+  - string: Burst Affinity
+  - string: Burst Affinity
+  166:
+  - string: Overdrive
+  - string: Overdrive
+  167:
+  - string: Magic Def. Down
+  - string: Magic Def. Down
+  168:
+  - string: Inhibit TP
+  - string: TP-inhibited
+  169:
+  - string: Potency
+  - string: Potency
+  170:
+  - string: Regain
+  - string: Regain
+  171:
+  - string: Pax
+  - string: Pax
+  172:
+  - string: Intension
+  - string: Intension
+  173:
+  - string: Dread Spikes
+  - string: Dread Spikes
+  174:
+  - string: Magic Acc. Down
+  - string: Magic Acc. Down
+  175:
+  - string: Magic Atk. Down
+  - string: Magic Atk. Down
+  176:
+  - string: quickening
+  - string: quickened
+  177:
+  - string: encumbrance
+  - string: encumbered
+  178:
+  - string: Firestorm
+  - string: Firestorm
+  179:
+  - string: Hailstorm
+  - string: Hailstorm
+  180:
+  - string: Windstorm
+  - string: Windstorm
+  181:
+  - string: Sandstorm
+  - string: Sandstorm
+  182:
+  - string: Thunderstorm
+  - string: Thunderstorm
+  183:
+  - string: Rainstorm
+  - string: Rainstorm
+  184:
+  - string: Aurorastorm
+  - string: Aurorastorm
+  185:
+  - string: Voidstorm
+  - string: Voidstorm
+  186:
+  - string: Helix
+  - string: Helix
+  187:
+  - string: 'Sublimation: Activated'
+  - string: 'Sublimation: Activated'
+  188:
+  - string: 'Sublimation: Complete'
+  - string: 'Sublimation: Complete'
+  189:
+  - string: Max TP Down
+  - string: Max TP Down
+  190:
+  - string: Magic Atk. Boost
+  - string: Magic Atk. Boost
+  191:
+  - string: Magic Def. Boost
+  - string: Magic Def. Boost
+  192:
+  - string: Requiem
+  - string: Requiem
+  193:
+  - string: Lullaby
+  - string: Lullaby
+  194:
+  - string: Elegy
+  - string: Elegy
+  195:
+  - string: Paeon
+  - string: Paeon
+  196:
+  - string: Ballad
+  - string: Ballad
+  197:
+  - string: Minne
+  - string: Minne
+  198:
+  - string: Minuet
+  - string: Minuet
+  199:
+  - string: Madrigal
+  - string: Madrigal
+  200:
+  - string: Prelude
+  - string: Prelude
+  201:
+  - string: Mambo
+  - string: Mambo
+  202:
+  - string: Aubade
+  - string: Aubade
+  203:
+  - string: Pastoral
+  - string: Pastoral
+  204:
+  - string: Hum
+  - string: Hum
+  205:
+  - string: Fantasia
+  - string: Fantasia
+  206:
+  - string: Operetta
+  - string: Operetta
+  207:
+  - string: Capriccio
+  - string: Capriccio
+  208:
+  - string: Serenade
+  - string: Serenade
+  209:
+  - string: Round
+  - string: Round
+  210:
+  - string: Gavotte
+  - string: Gavotte
+  211:
+  - string: Fugue
+  - string: Fugue
+  212:
+  - string: Rhapsody
+  - string: Rhapsody
+  213:
+  - string: Aria
+  - string: Aria
+  214:
+  - string: March
+  - string: March
+  215:
+  - string: Etude
+  - string: Etude
+  216:
+  - string: Carol
+  - string: Carol
+  217:
+  - string: Threnody
+  - string: Threnody
+  218:
+  - string: Hymnus
+  - string: Hymnus
+  219:
+  - string: Mazurka
+  - string: Mazurka
+  220:
+  - string: Sirvente
+  - string: Sirvente
+  221:
+  - string: Dirge
+  - string: Dirge
+  222:
+  - string: Scherzo
+  - string: Scherzo
+  223:
+  - string: Nocturne
+  - string: Nocturne
+  224:
+  - string: ST224
+  - string: ST224
+  225:
+  - string: ST225
+  - string: ST225
+  226:
+  - string: ST226
+  - string: ST226
+  227:
+  - string: Store TP
+  - string: Store TP
+  228:
+  - string: Embrava
+  - string: Embrava
+  229:
+  - string: Manawell
+  - string: Manawell
+  230:
+  - string: Spontaneity
+  - string: Spontaneity
+  231:
+  - string: Marcato
+  - string: Marcato
+  232:
+  - string: (N/A)
+  - string: (N/A)
+  233:
+  - string: Auto-Regen
+  - string: Auto-Regen
+  234:
+  - string: Auto-Refresh
+  - string: Auto-Refresh
+  235:
+  - string: Fishing Imagery
+  - string: Fishing Imagery
+  236:
+  - string: Woodworking Imagery
+  - string: Woodworking Imagery
+  237:
+  - string: Smithing Imagery
+  - string: Smithing Imagery
+  238:
+  - string: Goldsmithing Imagery
+  - string: Goldsmithing Imagery
+  239:
+  - string: Clothcraft Imagery
+  - string: Clothcraft Imagery
+  240:
+  - string: Leathercraft Imagery
+  - string: Leathercraft Imagery
+  241:
+  - string: Bonecraft Imagery
+  - string: Bonecraft Imagery
+  242:
+  - string: Alchemy Imagery
+  - string: Alchemy Imagery
+  243:
+  - string: Cooking Imagery
+  - string: Cooking Imagery
+  244:
+  - string: (Imagery)
+  - string: (Imagery)
+  245:
+  - string: (Imagery)
+  - string: (Imagery)
+  246:
+  - string: (Imagery)
+  - string: (Imagery)
+  247:
+  - string: (Imagery)
+  - string: (Imagery)
+  248:
+  - string: (Imagery)
+  - string: (Imagery)
+  249:
+  - string: Dedication
+  - string: Dedication
+  250:
+  - string: EF Badge
+  - string: EF Badge
+  251:
+  - string: Food
+  - string: Food
+  252:
+  - string: Mounted
+  - string: Mounted
+  253:
+  - string: Signet
+  - string: Signet
+  254:
+  - string: Battlefield
+  - string: Battlefield
+  255:
+  - string: (None)
+  - string: (None)
+  256:
+  - string: Sanction
+  - string: Sanction
+  257:
+  - string: Besieged
+  - string: Besieged
+  258:
+  - string: Illusion
+  - string: Illusion
+  259:
+  - string: encumbrance
+  - string: encumbered
+  260:
+  - string: Obliviscence
+  - string: Obliviscence
+  261:
+  - string: impairment
+  - string: impaired
+  262:
+  - string: Omerta
+  - string: Omerta
+  263:
+  - string: debilitation
+  - string: debilitated
+  264:
+  - string: Pathos
+  - string: Pathos
+  265:
+  - string: Flurry
+  - string: Flurry
+  266:
+  - string: Concentration
+  - string: Concentration
+  267:
+  - string: Allied Tags
+  - string: Allied Tags
+  268:
+  - string: Sigil
+  - string: Sigil
+  269:
+  - string: Level Sync
+  - string: Level Sync
+  270:
+  - string: 'Aftermath: Lv.1'
+  - string: 'Aftermath: Lv.1'
+  271:
+  - string: 'Aftermath: Lv.2'
+  - string: 'Aftermath: Lv.2'
+  272:
+  - string: 'Aftermath: Lv.3'
+  - string: 'Aftermath: Lv.3'
+  273:
+  - string: Aftermath
+  - string: Aftermath
+  274:
+  - string: Enlight
+  - string: Enlight
+  275:
+  - string: Auspice
+  - string: Auspice
+  276:
+  - string: Confrontation
+  - string: Confrontation
+  277:
+  - string: Enfire II
+  - string: Enfire II
+  278:
+  - string: Enblizzard II
+  - string: Enblizzard II
+  279:
+  - string: Enaero II
+  - string: Enaero II
+  280:
+  - string: Enstone II
+  - string: Enstone II
+  281:
+  - string: Enthunder II
+  - string: Enthunder II
+  282:
+  - string: Enwater II
+  - string: Enwater II
+  283:
+  - string: Perfect Defense
+  - string: Perfect Defense
+  284:
+  - string: Egg
+  - string: Egg
+  285:
+  - string: Visitant
+  - string: Visitant
+  286:
+  - string: Baramnesia
+  - string: Baramnesia
+  287:
+  - string: Atma
+  - string: Atma
+  288:
+  - string: Endark
+  - string: Endark
+  289:
+  - string: Enmity Boost
+  - string: Enmity Boost
+  290:
+  - string: Subtle Blow Plus
+  - string: Subtle Blow Plus
+  291:
+  - string: Enmity Down
+  - string: Enmity Down
+  292:
+  - string: Pennant
+  - string: Pennant
+  293:
+  - string: Negate Petrify
+  - string: Negate Petrify
+  294:
+  - string: Negate Terror
+  - string: Negate Terror
+  295:
+  - string: Negate Amnesia
+  - string: Negate Amnesia
+  296:
+  - string: Negate Doom
+  - string: Negate Doom
+  297:
+  - string: Negate Poison
+  - string: Negate Poison
+  298:
+  - string: critical hit evasion down
+  - string: critical hit evasion down
+  299:
+  - string: Overload
+  - string: overloaded
+  300:
+  - string: Fire Maneuver
+  - string: Fire Maneuver
+  301:
+  - string: Ice Maneuver
+  - string: Ice Maneuver
+  302:
+  - string: Wind Maneuver
+  - string: Wind Maneuver
+  303:
+  - string: Earth Maneuver
+  - string: Earth Maneuver
+  304:
+  - string: Thunder Maneuver
+  - string: Thunder Maneuver
+  305:
+  - string: Water Maneuver
+  - string: Water Maneuver
+  306:
+  - string: Light Maneuver
+  - string: Light Maneuver
+  307:
+  - string: Dark Maneuver
+  - string: Dark Maneuver
+  308:
+  - string: Double-Up Chance
+  - string: Double-Up Chance
+  309:
+  - string: Bust
+  - string: Bust
+  310:
+  - string: Fighter's Roll
+  - string: Fighter's Roll
+  311:
+  - string: Monk's Roll
+  - string: Monk's Roll
+  312:
+  - string: Healer's Roll
+  - string: Healer's Roll
+  313:
+  - string: Wizard's Roll
+  - string: Wizard's Roll
+  314:
+  - string: Warlock's Roll
+  - string: Warlock's Roll
+  315:
+  - string: Rogue's Roll
+  - string: Rogue's Roll
+  316:
+  - string: Gallant's Roll
+  - string: Gallant's Roll
+  317:
+  - string: Chaos Roll
+  - string: Chaos Roll
+  318:
+  - string: Beast Roll
+  - string: Beast Roll
+  319:
+  - string: Choral Roll
+  - string: Choral Roll
+  320:
+  - string: Hunter's Roll
+  - string: Hunter's Roll
+  321:
+  - string: Samurai Roll
+  - string: Samurai Roll
+  322:
+  - string: Ninja Roll
+  - string: Ninja Roll
+  323:
+  - string: Drachen Roll
+  - string: Drachen Roll
+  324:
+  - string: Evoker's Roll
+  - string: Evoker's Roll
+  325:
+  - string: Magus's Roll
+  - string: Magus's Roll
+  326:
+  - string: Corsair's Roll
+  - string: Corsair's Roll
+  327:
+  - string: Puppet Roll
+  - string: Puppet Roll
+  328:
+  - string: Dancer's Roll
+  - string: Dancer's Roll
+  329:
+  - string: Scholar's Roll
+  - string: Scholar's Roll
+  330:
+  - string: Bolter's Roll
+  - string: Bolter's Roll
+  331:
+  - string: Caster's Roll
+  - string: Caster's Roll
+  332:
+  - string: Courser's Roll
+  - string: Courser's Roll
+  333:
+  - string: Blitzer's Roll
+  - string: Blitzer's Roll
+  334:
+  - string: Tactician's Roll
+  - string: Tactician's Roll
+  335:
+  - string: Allies' Roll
+  - string: Allies' Roll
+  336:
+  - string: Miser's Roll
+  - string: Miser's Roll
+  337:
+  - string: Companion's Roll
+  - string: Companion's Roll
+  338:
+  - string: Avenger's Roll
+  - string: Avenger's Roll
+  339:
+  - string: Naturalist's Roll
+  - string: Naturalist's Roll
+  340:
+  - string: Warrior's Charge
+  - string: Warrior's Charge
+  341:
+  - string: Formless Strikes
+  - string: Formless Strikes
+  342:
+  - string: Assassin's Charge
+  - string: Assassin's Charge
+  343:
+  - string: Feint
+  - string: Feint
+  344:
+  - string: Fealty
+  - string: Fealty
+  345:
+  - string: Dark Seal
+  - string: Dark Seal
+  346:
+  - string: Diabolic Eye
+  - string: Diabolic Eye
+  347:
+  - string: Nightingale
+  - string: Nightingale
+  348:
+  - string: Troubadour
+  - string: Troubadour
+  349:
+  - string: Killer Instinct
+  - string: Killer Instinct
+  350:
+  - string: Stealth Shot
+  - string: Stealth Shot
+  351:
+  - string: Flashy Shot
+  - string: Flashy Shot
+  352:
+  - string: Sange
+  - string: Sange
+  353:
+  - string: Hasso
+  - string: Hasso
+  354:
+  - string: Seigan
+  - string: Seigan
+  355:
+  - string: Convergence
+  - string: Convergence
+  356:
+  - string: Diffusion
+  - string: Diffusion
+  357:
+  - string: Snake Eye
+  - string: Snake Eye
+  358:
+  - string: Light Arts
+  - string: Light Arts
+  359:
+  - string: Dark Arts
+  - string: Dark Arts
+  360:
+  - string: Penury
+  - string: Penury
+  361:
+  - string: Parsimony
+  - string: Parsimony
+  362:
+  - string: Celerity
+  - string: Celerity
+  363:
+  - string: Alacrity
+  - string: Alacrity
+  364:
+  - string: Rapture
+  - string: Rapture
+  365:
+  - string: Ebullience
+  - string: Ebullience
+  366:
+  - string: Accession
+  - string: Accession
+  367:
+  - string: Manifestation
+  - string: Manifestation
+  368:
+  - string: Drain Samba
+  - string: Drain Samba
+  369:
+  - string: Aspir Samba
+  - string: Aspir Samba
+  370:
+  - string: Haste Samba
+  - string: Haste Samba
+  371:
+  - string: Velocity Shot
+  - string: Velocity Shot
+  372:
+  - string: .
+  - string: .
+  373:
+  - string: .
+  - string: .
+  374:
+  - string: .
+  - string: .
+  375:
+  - string: Building Flourish
+  - string: Building Flourish
+  376:
+  - string: Trance
+  - string: Trance
+  377:
+  - string: Tabula Rasa
+  - string: Tabula Rasa
+  378:
+  - string: Drain Daze
+  - string: Drain Daze
+  379:
+  - string: Aspir Daze
+  - string: Aspir Daze
+  380:
+  - string: Haste Daze
+  - string: Haste Daze
+  381:
+  - string: Finishing Move
+  - string: Finishing Move
+  382:
+  - string: Finishing Move (2)
+  - string: Finishing Move (2)
+  383:
+  - string: Finishing Move (3)
+  - string: Finishing Move (3)
+  384:
+  - string: Finishing Move (4)
+  - string: Finishing Move (4)
+  385:
+  - string: Finishing Move (5)
+  - string: Finishing Move (5)
+  386:
+  - string: Lethargic Daze
+  - string: Lethargic Daze
+  387:
+  - string: Lethargic Daze
+  - string: Lethargic Daze
+  388:
+  - string: Lethargic Daze
+  - string: Lethargic Daze
+  389:
+  - string: Lethargic Daze
+  - string: Lethargic Daze
+  390:
+  - string: Lethargic Daze
+  - string: Lethargic Daze
+  391:
+  - string: Sluggish Daze
+  - string: Sluggish Daze
+  392:
+  - string: Sluggish Daze
+  - string: Sluggish Daze
+  393:
+  - string: Sluggish Daze
+  - string: Sluggish Daze
+  394:
+  - string: Sluggish Daze
+  - string: Sluggish Daze
+  395:
+  - string: Sluggish Daze
+  - string: Sluggish Daze
+  396:
+  - string: Weakened Daze
+  - string: Weakened Daze
+  397:
+  - string: Weakened Daze
+  - string: Weakened Daze
+  398:
+  - string: Weakened Daze
+  - string: Weakened Daze
+  399:
+  - string: Weakened Daze
+  - string: Weakened Daze
+  400:
+  - string: Weakened Daze
+  - string: Weakened Daze
+  401:
+  - string: 'Addendum: White'
+  - string: 'Addendum: White'
+  402:
+  - string: 'Addendum: Black'
+  - string: 'Addendum: Black'
+  403:
+  - string: Reprisal
+  - string: Reprisal
+  404:
+  - string: Magic Evasion Down
+  - string: Magic Evasion Down
+  405:
+  - string: Retaliation
+  - string: Retaliation
+  406:
+  - string: Footwork
+  - string: Footwork
+  407:
+  - string: Klimaform
+  - string: Klimaform
+  408:
+  - string: Sekkanoki
+  - string: Sekkanoki
+  409:
+  - string: Pianissimo
+  - string: Pianissimo
+  410:
+  - string: Saber Dance
+  - string: Saber Dance
+  411:
+  - string: Fan Dance
+  - string: Fan Dance
+  412:
+  - string: Altruism
+  - string: Altruism
+  413:
+  - string: Focalization
+  - string: Focalization
+  414:
+  - string: Tranquility
+  - string: Tranquility
+  415:
+  - string: Equanimity
+  - string: Equanimity
+  416:
+  - string: Enlightenment
+  - string: Enlightenment
+  417:
+  - string: Afflatus Solace
+  - string: Afflatus Solace
+  418:
+  - string: Afflatus Misery
+  - string: Afflatus Misery
+  419:
+  - string: Composure
+  - string: Composure
+  420:
+  - string: Yonin
+  - string: Yonin
+  421:
+  - string: Innin
+  - string: Innin
+  422:
+  - string: Carbuncle's Favor
+  - string: Carbuncle's Favor
+  423:
+  - string: Ifrit's Favor
+  - string: Ifrit's Favor
+  424:
+  - string: Shiva's Favor
+  - string: Shiva's Favor
+  425:
+  - string: Garuda's Favor
+  - string: Garuda's Favor
+  426:
+  - string: Titan's Favor
+  - string: Titan's Favor
+  427:
+  - string: Ramuh's Favor
+  - string: Ramuh's Favor
+  428:
+  - string: Leviathan's Favor
+  - string: Leviathan's Favor
+  429:
+  - string: Fenrir's Favor
+  - string: Fenrir's Favor
+  430:
+  - string: Diabolos's Favor
+  - string: Diabolos's Favor
+  431:
+  - string: Avatar's Favor
+  - string: Avatar's Favor
+  432:
+  - string: Multi Strikes
+  - string: Multi Strikes
+  433:
+  - string: Double Shot
+  - string: Double Shot
+  434:
+  - string: Transcendency
+  - string: Transcendency
+  435:
+  - string: Restraint
+  - string: Restraint
+  436:
+  - string: Perfect Counter
+  - string: Perfect Counter
+  437:
+  - string: Mana Wall
+  - string: Mana Wall
+  438:
+  - string: Divine Emblem
+  - string: Divine Emblem
+  439:
+  - string: Nether Void
+  - string: Nether Void
+  440:
+  - string: Sengikori
+  - string: Sengikori
+  441:
+  - string: Futae
+  - string: Futae
+  442:
+  - string: Presto
+  - string: Presto
+  443:
+  - string: Climactic Flourish
+  - string: Climactic Flourish
+  444:
+  - string: Copy Image (2)
+  - string: Copy Image (2)
+  445:
+  - string: Copy Image (3)
+  - string: Copy Image (3)
+  446:
+  - string: Copy Image (4+)
+  - string: Copy Image (4+)
+  447:
+  - string: Multi Shots
+  - string: Multi Shots
+  448:
+  - string: Bewildered Daze
+  - string: Bewildered Daze
+  449:
+  - string: Bewildered Daze
+  - string: Bewildered Daze
+  450:
+  - string: Bewildered Daze
+  - string: Bewildered Daze
+  451:
+  - string: Bewildered Daze
+  - string: Bewildered Daze
+  452:
+  - string: Bewildered Daze
+  - string: Bewildered Daze
+  453:
+  - string: Divine Caress
+  - string: Divine Caress
+  454:
+  - string: Saboteur
+  - string: Saboteur
+  455:
+  - string: Tenuto
+  - string: Tenuto
+  456:
+  - string: Spur
+  - string: Spur
+  457:
+  - string: Efflux
+  - string: Efflux
+  458:
+  - string: Earthen Armor
+  - string: Earthen Armor
+  459:
+  - string: Divine Caress
+  - string: Divine Caress
+  460:
+  - string: Blood Rage
+  - string: Blood Rage
+  461:
+  - string: Impetus
+  - string: Impetus
+  462:
+  - string: Conspirator
+  - string: Conspirator
+  463:
+  - string: Sepulcher
+  - string: Sepulcher
+  464:
+  - string: Arcane Crest
+  - string: Arcane Crest
+  465:
+  - string: Hamanoha
+  - string: Hamanoha
+  466:
+  - string: Dragon Breaker
+  - string: Dragon Breaker
+  467:
+  - string: Triple Shot
+  - string: Triple Shot
+  468:
+  - string: Striking Flourish
+  - string: Striking Flourish
+  469:
+  - string: Perpetuance
+  - string: Perpetuance
+  470:
+  - string: Immanence
+  - string: Immanence
+  471:
+  - string: Migawari
+  - string: Migawari
+  472:
+  - string: Ternary Flourish
+  - string: Ternary Flourish
+  473:
+  - string: muddle
+  - string: muddled
+  474:
+  - string: Prowess
+  - string: Prowess
+  475:
+  - string: Voidwatcher
+  - string: Voidwatcher
+  476:
+  - string: Ensphere
+  - string: Ensphere
+  477:
+  - string: Sacrosanctity
+  - string: Sacrosanctity
+  478:
+  - string: Palisade
+  - string: Palisade
+  479:
+  - string: Scarlet Delirium
+  - string: Scarlet Delirium
+  480:
+  - string: Scarlet Delirium
+  - string: Scarlet Delirium
+  481:
+  - string: Abdhaljs Seal
+  - string: Abdhaljs Seal
+  482:
+  - string: Decoy Shot
+  - string: Decoy Shot
+  483:
+  - string: Hagakure
+  - string: Hagakure
+  484:
+  - string: Issekigan
+  - string: Issekigan
+  485:
+  - string: Unbridled Learning
+  - string: Unbridled Learning
+  486:
+  - string: Counter Boost
+  - string: Counter Boost
+  487:
+  - string: Endrain
+  - string: Endrain
+  488:
+  - string: Enaspir
+  - string: Enaspir
+  489:
+  - string: Afterglow
+  - string: Afterglow
+  490:
+  - string: Brazen Rush
+  - string: Brazen Rush
+  491:
+  - string: Inner Strength
+  - string: Inner Strength
+  492:
+  - string: Asylum
+  - string: Asylum
+  493:
+  - string: Subtle Sorcery
+  - string: Subtle Sorcery
+  494:
+  - string: Stymie
+  - string: Stymie
+  495:
+  - string: (None)
+  - string: (None)
+  496:
+  - string: Intervene
+  - string: Intervene
+  497:
+  - string: Soul Enslavement
+  - string: Soul Enslavement
+  498:
+  - string: Unleash
+  - string: Unleash
+  499:
+  - string: Clarion Call
+  - string: Clarion Call
+  500:
+  - string: Overkill
+  - string: Overkill
+  501:
+  - string: Yaegasumi
+  - string: Yaegasumi
+  502:
+  - string: Mikage
+  - string: Mikage
+  503:
+  - string: Fly High
+  - string: Fly High
+  504:
+  - string: Astral Conduit
+  - string: Astral Conduit
+  505:
+  - string: Unbridled Wisdom
+  - string: Unbridled Wisdom
+  506:
+  - string: (None)
+  - string: (None)
+  507:
+  - string: Grand Pas
+  - string: Grand Pas
+  508:
+  - string: Widened Compass
+  - string: Widened Compass
+  509:
+  - string: Odyllic Subterfuge
+  - string: Odyllic Subterfuge
+  510:
+  - string: Ergon Might
+  - string: Ergon Might
+  511:
+  - string: Reive Mark
+  - string: Reive Mark
+  512:
+  - string: Ionis
+  - string: Ionis
+  513:
+  - string: Bolster
+  - string: bolstered
+  514:
+  - string: (None)
+  - string: (None)
+  515:
+  - string: Lasting Emanation
+  - string: Lasting Emanation
+  516:
+  - string: Ecliptic Attrition
+  - string: Ecliptic Attrition
+  517:
+  - string: Collimated Fervor
+  - string: Collimated Fervor
+  518:
+  - string: Dematerialize
+  - string: Dematerialize
+  519:
+  - string: Theurgic Focus
+  - string: Theurgic Focus
+  520:
+  - string: (None)
+  - string: (None)
+  521:
+  - string: (None)
+  - string: (None)
+  522:
+  - string: Elemental Sforzo
+  - string: Elemental Sforzo
+  523:
+  - string: Ignis
+  - string: Ignis
+  524:
+  - string: Gelus
+  - string: Gelus
+  525:
+  - string: Flabra
+  - string: Flabra
+  526:
+  - string: Tellus
+  - string: Tellus
+  527:
+  - string: Sulpor
+  - string: Sulpor
+  528:
+  - string: Unda
+  - string: Unda
+  529:
+  - string: Lux
+  - string: Lux
+  530:
+  - string: Tenebrae
+  - string: Tenebrae
+  531:
+  - string: Vallation
+  - string: Vallation
+  532:
+  - string: Swordplay
+  - string: Swordplay
+  533:
+  - string: Pflug
+  - string: Pflug
+  534:
+  - string: Embolden
+  - string: emboldened
+  535:
+  - string: Valiance
+  - string: Valiance
+  536:
+  - string: Gambit
+  - string: Gambit
+  537:
+  - string: Liement
+  - string: Liement
+  538:
+  - string: One for All
+  - string: One for All
+  539:
+  - string: Regen
+  - string: regenerating
+  540:
+  - string: poison
+  - string: poisoned
+  541:
+  - string: Refresh
+  - string: refreshing
+  542:
+  - string: STR Boost
+  - string: STR-boosted
+  543:
+  - string: DEX Boost
+  - string: DEX-boosted
+  544:
+  - string: VIT Boost
+  - string: VIT-boosted
+  545:
+  - string: AGI Boost
+  - string: AGI-boosted
+  546:
+  - string: INT Boost
+  - string: INT-boosted
+  547:
+  - string: MND Boost
+  - string: MND-boosted
+  548:
+  - string: CHR Boost
+  - string: CHR-boosted
+  549:
+  - string: Attack Boost
+  - string: attack-boosted
+  550:
+  - string: Defense Boost
+  - string: defense-boosted
+  551:
+  - string: Magic Atk. Boost
+  - string: Magic Atk. Boost
+  552:
+  - string: Magic Def. Boost
+  - string: Magic Def. Boost
+  553:
+  - string: Accuracy Boost
+  - string: accuracy-boosted
+  554:
+  - string: Evasion Boost
+  - string: evasion-boosted
+  555:
+  - string: Magic Acc. Boost
+  - string: Magic Acc. Boost
+  556:
+  - string: Magic Evasion Boost
+  - string: Magic Evasion Boost
+  557:
+  - string: Attack Down
+  - string: afflicted with Attack Down
+  558:
+  - string: Defense Down
+  - string: afflicted with Defense Down
+  559:
+  - string: Magic Atk. Down
+  - string: afflicted with Magic Atk. Down
+  560:
+  - string: Magic Def. Down
+  - string: afflicted with Magic Adef. Down
+  561:
+  - string: Accuracy Down
+  - string: afflicted with Accuracy Down
+  562:
+  - string: Evasion Down
+  - string: afflicted with Evasion Down
+  563:
+  - string: Magic Acc. Down
+  - string: afflicted with Magic Acc. Down
+  564:
+  - string: Magic Evasion Down
+  - string: afflicted with Magic Evasion Down
+  565:
+  - string: slow
+  - string: slowed
+  566:
+  - string: paralysis
+  - string: paralyzed
+  567:
+  - string: weight
+  - string: weighed down
+  568:
+  - string: Foil
+  - string: Foil
+  569:
+  - string: Blaze of Glory
+  - string: Blaze of Glory
+  570:
+  - string: Battuta
+  - string: Battuta
+  571:
+  - string: Rayke
+  - string: Rayke
+  572:
+  - string: Avoidance Down
+  - string: afflicted with Avoidance Down
+  573:
+  - string: Deluge Spikes
+  - string: Deluge Spikes
+  574:
+  - string: Fast Cast
+  - string: Fast Cast
+  575:
+  - string: gestation
+  - string: gestating
+  576:
+  - string: Doubt
+  - string: afflicted with Doubt
+  577:
+  - string: Cait Sith's Favor
+  - string: Cait Sith's Favor
+  578:
+  - string: Fishy Intuition
+  - string: Fishy Intuition
+  579:
+  - string: Commitment
+  - string: Commitment
+  580:
+  - string: Haste
+  - string: hastened
+  581:
+  - string: Flurry
+  - string: Flurry
+  582:
+  - string: Contradance
+  - string: Contradance
+  583:
+  - string: Apogee
+  - string: Apogee
+  584:
+  - string: Entrust
+  - string: entrusting
+  585:
+  - string: Costume
+  - string: costumed
+  586:
+  - string: Curing Conduit
+  - string: Curing Conduit
+  587:
+  - string: TP Bonus
+  - string: TP Bonus
+  588:
+  - string: Finishing Move (6+)
+  - string: Finishing Move (6+)
+  589:
+  - string: Firestorm
+  - string: Firestorm
+  590:
+  - string: Hailstorm
+  - string: Hailstorm
+  591:
+  - string: Windstorm
+  - string: Windstorm
+  592:
+  - string: Sandstorm
+  - string: Sandstorm
+  593:
+  - string: Thunderstorm
+  - string: Thunderstorm
+  594:
+  - string: Rainstorm
+  - string: Rainstorm
+  595:
+  - string: Aurorastorm
+  - string: Aurorastorm
+  596:
+  - string: Voidstorm
+  - string: Voidstorm
+  597:
+  - string: Inundation
+  - string: innundated
+  598:
+  - string: Cascade
+  - string: Cascade
+  599:
+  - string: Consume Mana
+  - string: Consume Mana
+  600:
+  - string: Runeist's Roll
+  - string: Runeist's Roll
+  601:
+  - string: Crooked Cards
+  - string: Crooked Cards
+  602:
+  - string: Vorseal
+  - string: Vorseal
+  603:
+  - string: Elvorseal
+  - string: Elvorseal
+  604:
+  - string: Mighty Guard
+  - string: mightly guarded
+  605:
+  - string: Gale Spikes
+  - string: Gale Spikes
+  606:
+  - string: Clod Spikes
+  - string: Clod Spikes
+  607:
+  - string: Glint Spikes
+  - string: Glint Spikes
+  608:
+  - string: Negate Virus
+  - string: Negate Virus
+  609:
+  - string: Negate Curse
+  - string: Negate Curse
+  610:
+  - string: Negate Charm
+  - string: Negate Charm
+  611:
+  - string: Magic Evasion Boost
+  - string: Magic Evasion Boost
+  612:
+  - string: Colure Active
+  - string: Colure Active
+  613:
+  - string: Mumor's Radiance
+  - string: Mumor's Radiance
+  614:
+  - string: Ullegore's Gloom
+  - string: Ullegore's Gloom
+  615:
+  - string: Boost
+  - string: Boost
+  616:
+  - string: Artisanal Knowledge
+  - string: Artisanal Knowledge
+  617:
+  - string: (None)
+  - string: (None)
+  618:
+  - string: (None)
+  - string: (None)
+  619:
+  - string: (None)
+  - string: (None)
+  620:
+  - string: (None)
+  - string: (None)
+  621:
+  - string: (None)
+  - string: (None)
+  622:
+  - string: (None)
+  - string: (None)
+  623:
+  - string: (None)
+  - string: (None)
+  624:
+  - string: (None)
+  - string: (None)
+  625:
+  - string: (None)
+  - string: (None)
+  626:
+  - string: (None)
+  - string: (None)
+  627:
+  - string: (None)
+  - string: (None)
+  628:
+  - string: (None)
+  - string: (None)
+  629:
+  - string: (None)
+  - string: (None)
+  630:
+  - string: (None)
+  - string: (None)
+  631:
+  - string: (None)
+  - string: (None)
+  632:
+  - string: (None)
+  - string: (None)
+  633:
+  - string: (None)
+  - string: (None)
+  634:
+  - string: (None)
+  - string: (None)
+  635:
+  - string: (None)
+  - string: (None)
+  636:
+  - string: (None)
+  - string: (None)
+  637:
+  - string: (None)
+  - string: (None)
+  638:
+  - string: (None)
+  - string: (None)
+  639:
+  - string: (None)
+  - string: (None)
+  640:
+  - string: ''
+  - string: ''
+  641:
+  - string: ''
+  - string: ''
+  642:
+  - string: ''
+  - string: ''
+  643:
+  - string: ''
+  - string: ''
+  644:
+  - string: ''
+  - string: ''
+  645:
+  - string: ''
+  - string: ''
+  646:
+  - string: ''
+  - string: ''
+  647:
+  - string: ''
+  - string: ''
+  648:
+  - string: ''
+  - string: ''
+  649:
+  - string: ''
+  - string: ''
+  650:
+  - string: ''
+  - string: ''
+  651:
+  - string: ''
+  - string: ''
+  652:
+  - string: ''
+  - string: ''
+  653:
+  - string: ''
+  - string: ''
+  654:
+  - string: ''
+  - string: ''
+  655:
+  - string: ''
+  - string: ''
+  656:
+  - string: ''
+  - string: ''
+  657:
+  - string: ''
+  - string: ''
+  658:
+  - string: ''
+  - string: ''
+  659:
+  - string: ''
+  - string: ''
+  660:
+  - string: ''
+  - string: ''
+  661:
+  - string: ''
+  - string: ''
+  662:
+  - string: ''
+  - string: ''
+  663:
+  - string: ''
+  - string: ''
+  664:
+  - string: ''
+  - string: ''
+  665:
+  - string: ''
+  - string: ''
+  666:
+  - string: ''
+  - string: ''
+  667:
+  - string: ''
+  - string: ''
+  668:
+  - string: ''
+  - string: ''
+  669:
+  - string: ''
+  - string: ''
+  670:
+  - string: ''
+  - string: ''
+  671:
+  - string: ''
+  - string: ''
+  672:
+  - string: ''
+  - string: ''
+  673:
+  - string: ''
+  - string: ''
+  674:
+  - string: ''
+  - string: ''
+  675:
+  - string: ''
+  - string: ''
+  676:
+  - string: ''
+  - string: ''
+  677:
+  - string: ''
+  - string: ''
+  678:
+  - string: ''
+  - string: ''
+  679:
+  - string: ''
+  - string: ''
+  680:
+  - string: ''
+  - string: ''
+  681:
+  - string: ''
+  - string: ''
+  682:
+  - string: ''
+  - string: ''
+  683:
+  - string: ''
+  - string: ''
+  684:
+  - string: ''
+  - string: ''
+  685:
+  - string: ''
+  - string: ''
+  686:
+  - string: ''
+  - string: ''
+  687:
+  - string: ''
+  - string: ''
+  688:
+  - string: ''
+  - string: ''
+  689:
+  - string: ''
+  - string: ''
+  690:
+  - string: ''
+  - string: ''
+  691:
+  - string: ''
+  - string: ''
+  692:
+  - string: ''
+  - string: ''
+  693:
+  - string: ''
+  - string: ''
+  694:
+  - string: ''
+  - string: ''
+  695:
+  - string: ''
+  - string: ''
+  696:
+  - string: ''
+  - string: ''
+  697:
+  - string: ''
+  - string: ''
+  698:
+  - string: ''
+  - string: ''
+  699:
+  - string: ''
+  - string: ''
+  700:
+  - string: ''
+  - string: ''
+  701:
+  - string: ''
+  - string: ''
+  702:
+  - string: ''
+  - string: ''
+  703:
+  - string: ''
+  - string: ''
+  704:
+  - string: ''
+  - string: ''
+  705:
+  - string: ''
+  - string: ''
+  706:
+  - string: ''
+  - string: ''
+  707:
+  - string: ''
+  - string: ''
+  708:
+  - string: ''
+  - string: ''
+  709:
+  - string: ''
+  - string: ''
+  710:
+  - string: ''
+  - string: ''
+  711:
+  - string: ''
+  - string: ''
+  712:
+  - string: ''
+  - string: ''
+  713:
+  - string: ''
+  - string: ''
+  714:
+  - string: ''
+  - string: ''
+  715:
+  - string: ''
+  - string: ''
+  716:
+  - string: ''
+  - string: ''
+  717:
+  - string: ''
+  - string: ''
+  718:
+  - string: ''
+  - string: ''
+  719:
+  - string: ''
+  - string: ''
+  720:
+  - string: ''
+  - string: ''
+  721:
+  - string: ''
+  - string: ''
+  722:
+  - string: ''
+  - string: ''
+  723:
+  - string: ''
+  - string: ''
+  724:
+  - string: ''
+  - string: ''
+  725:
+  - string: ''
+  - string: ''
+  726:
+  - string: ''
+  - string: ''
+  727:
+  - string: ''
+  - string: ''
+  728:
+  - string: ''
+  - string: ''
+  729:
+  - string: ''
+  - string: ''
+  730:
+  - string: ''
+  - string: ''
+  731:
+  - string: ''
+  - string: ''
+  732:
+  - string: ''
+  - string: ''
+  733:
+  - string: ''
+  - string: ''
+  734:
+  - string: ''
+  - string: ''
+  735:
+  - string: ''
+  - string: ''
+  736:
+  - string: ''
+  - string: ''
+  737:
+  - string: ''
+  - string: ''
+  738:
+  - string: ''
+  - string: ''
+  739:
+  - string: ''
+  - string: ''
+  740:
+  - string: ''
+  - string: ''
+  741:
+  - string: ''
+  - string: ''
+  742:
+  - string: ''
+  - string: ''
+  743:
+  - string: ''
+  - string: ''
+  744:
+  - string: ''
+  - string: ''
+  745:
+  - string: ''
+  - string: ''
+  746:
+  - string: ''
+  - string: ''
+  747:
+  - string: ''
+  - string: ''
+  748:
+  - string: ''
+  - string: ''
+  749:
+  - string: ''
+  - string: ''
+  750:
+  - string: ''
+  - string: ''
+  751:
+  - string: ''
+  - string: ''
+  752:
+  - string: ''
+  - string: ''
+  753:
+  - string: ''
+  - string: ''
+  754:
+  - string: ''
+  - string: ''
+  755:
+  - string: ''
+  - string: ''
+  756:
+  - string: ''
+  - string: ''
+  757:
+  - string: ''
+  - string: ''
+  758:
+  - string: ''
+  - string: ''
+  759:
+  - string: ''
+  - string: ''
+  760:
+  - string: ''
+  - string: ''
+  761:
+  - string: ''
+  - string: ''
+  762:
+  - string: ''
+  - string: ''
+  763:
+  - string: ''
+  - string: ''
+  764:
+  - string: ''
+  - string: ''
+  765:
+  - string: ''
+  - string: ''
+  766:
+  - string: ''
+  - string: ''
+  767:
+  - string: ''
+  - string: ''
+  768:
+  - string: ''
+  - string: ''
+  769:
+  - string: ''
+  - string: ''
+  770:
+  - string: ''
+  - string: ''
+  771:
+  - string: ''
+  - string: ''
+  772:
+  - string: ''
+  - string: ''
+  773:
+  - string: ''
+  - string: ''
+  774:
+  - string: ''
+  - string: ''
+  775:
+  - string: ''
+  - string: ''
+  776:
+  - string: ''
+  - string: ''
+  777:
+  - string: ''
+  - string: ''
+  778:
+  - string: ''
+  - string: ''
+  779:
+  - string: ''
+  - string: ''
+  780:
+  - string: ''
+  - string: ''
+  781:
+  - string: ''
+  - string: ''
+  782:
+  - string: ''
+  - string: ''
+  783:
+  - string: ''
+  - string: ''
+  784:
+  - string: ''
+  - string: ''
+  785:
+  - string: ''
+  - string: ''
+  786:
+  - string: ''
+  - string: ''
+  787:
+  - string: ''
+  - string: ''
+  788:
+  - string: ''
+  - string: ''
+  789:
+  - string: ''
+  - string: ''
+  790:
+  - string: ''
+  - string: ''
+  791:
+  - string: ''
+  - string: ''
+  792:
+  - string: ''
+  - string: ''
+  793:
+  - string: ''
+  - string: ''
+  794:
+  - string: ''
+  - string: ''
+  795:
+  - string: ''
+  - string: ''
+  796:
+  - string: ''
+  - string: ''
+  797:
+  - string: ''
+  - string: ''
+  798:
+  - string: ''
+  - string: ''
+  799:
+  - string: ''
+  - string: ''
+  800:
+  - string: ''
+  - string: ''
+  801:
+  - string: ''
+  - string: ''
+  802:
+  - string: ''
+  - string: ''
+  803:
+  - string: ''
+  - string: ''
+  804:
+  - string: ''
+  - string: ''
+  805:
+  - string: ''
+  - string: ''
+  806:
+  - string: ''
+  - string: ''
+  807:
+  - string: ''
+  - string: ''
+  808:
+  - string: ''
+  - string: ''
+  809:
+  - string: ''
+  - string: ''
+  810:
+  - string: ''
+  - string: ''
+  811:
+  - string: ''
+  - string: ''
+  812:
+  - string: ''
+  - string: ''
+  813:
+  - string: ''
+  - string: ''
+  814:
+  - string: ''
+  - string: ''
+  815:
+  - string: ''
+  - string: ''
+  816:
+  - string: ''
+  - string: ''
+  817:
+  - string: ''
+  - string: ''
+  818:
+  - string: ''
+  - string: ''
+  819:
+  - string: ''
+  - string: ''
+  820:
+  - string: ''
+  - string: ''
+  821:
+  - string: ''
+  - string: ''
+  822:
+  - string: ''
+  - string: ''
+  823:
+  - string: ''
+  - string: ''
+  824:
+  - string: ''
+  - string: ''
+  825:
+  - string: ''
+  - string: ''
+  826:
+  - string: ''
+  - string: ''
+  827:
+  - string: ''
+  - string: ''
+  828:
+  - string: ''
+  - string: ''
+  829:
+  - string: ''
+  - string: ''
+  830:
+  - string: ''
+  - string: ''
+  831:
+  - string: ''
+  - string: ''
+  832:
+  - string: ''
+  - string: ''
+  833:
+  - string: ''
+  - string: ''
+  834:
+  - string: ''
+  - string: ''
+  835:
+  - string: ''
+  - string: ''
+  836:
+  - string: ''
+  - string: ''
+  837:
+  - string: ''
+  - string: ''
+  838:
+  - string: ''
+  - string: ''
+  839:
+  - string: ''
+  - string: ''
+  840:
+  - string: ''
+  - string: ''
+  841:
+  - string: ''
+  - string: ''
+  842:
+  - string: ''
+  - string: ''
+  843:
+  - string: ''
+  - string: ''
+  844:
+  - string: ''
+  - string: ''
+  845:
+  - string: ''
+  - string: ''
+  846:
+  - string: ''
+  - string: ''
+  847:
+  - string: ''
+  - string: ''
+  848:
+  - string: ''
+  - string: ''
+  849:
+  - string: ''
+  - string: ''
+  850:
+  - string: ''
+  - string: ''
+  851:
+  - string: ''
+  - string: ''
+  852:
+  - string: ''
+  - string: ''
+  853:
+  - string: ''
+  - string: ''
+  854:
+  - string: ''
+  - string: ''
+  855:
+  - string: ''
+  - string: ''
+  856:
+  - string: ''
+  - string: ''
+  857:
+  - string: ''
+  - string: ''
+  858:
+  - string: ''
+  - string: ''
+  859:
+  - string: ''
+  - string: ''
+  860:
+  - string: ''
+  - string: ''
+  861:
+  - string: ''
+  - string: ''
+  862:
+  - string: ''
+  - string: ''
+  863:
+  - string: ''
+  - string: ''
+  864:
+  - string: ''
+  - string: ''
+  865:
+  - string: ''
+  - string: ''
+  866:
+  - string: ''
+  - string: ''
+  867:
+  - string: ''
+  - string: ''
+  868:
+  - string: ''
+  - string: ''
+  869:
+  - string: ''
+  - string: ''
+  870:
+  - string: ''
+  - string: ''
+  871:
+  - string: ''
+  - string: ''
+  872:
+  - string: ''
+  - string: ''
+  873:
+  - string: ''
+  - string: ''
+  874:
+  - string: ''
+  - string: ''
+  875:
+  - string: ''
+  - string: ''
+  876:
+  - string: ''
+  - string: ''
+  877:
+  - string: ''
+  - string: ''
+  878:
+  - string: ''
+  - string: ''
+  879:
+  - string: ''
+  - string: ''
+  880:
+  - string: ''
+  - string: ''
+  881:
+  - string: ''
+  - string: ''
+  882:
+  - string: ''
+  - string: ''
+  883:
+  - string: ''
+  - string: ''
+  884:
+  - string: ''
+  - string: ''
+  885:
+  - string: ''
+  - string: ''
+  886:
+  - string: ''
+  - string: ''
+  887:
+  - string: ''
+  - string: ''
+  888:
+  - string: ''
+  - string: ''
+  889:
+  - string: ''
+  - string: ''
+  890:
+  - string: ''
+  - string: ''
+  891:
+  - string: ''
+  - string: ''
+  892:
+  - string: ''
+  - string: ''
+  893:
+  - string: ''
+  - string: ''
+  894:
+  - string: ''
+  - string: ''
+  895:
+  - string: ''
+  - string: ''
+  896:
+  - string: ''
+  - string: ''
+  897:
+  - string: ''
+  - string: ''
+  898:
+  - string: ''
+  - string: ''
+  899:
+  - string: ''
+  - string: ''
+  900:
+  - string: ''
+  - string: ''
+  901:
+  - string: ''
+  - string: ''
+  902:
+  - string: ''
+  - string: ''
+  903:
+  - string: ''
+  - string: ''
+  904:
+  - string: ''
+  - string: ''
+  905:
+  - string: ''
+  - string: ''
+  906:
+  - string: ''
+  - string: ''
+  907:
+  - string: ''
+  - string: ''
+  908:
+  - string: ''
+  - string: ''
+  909:
+  - string: ''
+  - string: ''
+  910:
+  - string: ''
+  - string: ''
+  911:
+  - string: ''
+  - string: ''
+  912:
+  - string: ''
+  - string: ''
+  913:
+  - string: ''
+  - string: ''
+  914:
+  - string: ''
+  - string: ''
+  915:
+  - string: ''
+  - string: ''
+  916:
+  - string: ''
+  - string: ''
+  917:
+  - string: ''
+  - string: ''
+  918:
+  - string: ''
+  - string: ''
+  919:
+  - string: ''
+  - string: ''
+  920:
+  - string: ''
+  - string: ''
+  921:
+  - string: ''
+  - string: ''
+  922:
+  - string: ''
+  - string: ''
+  923:
+  - string: ''
+  - string: ''
+  924:
+  - string: ''
+  - string: ''
+  925:
+  - string: ''
+  - string: ''
+  926:
+  - string: ''
+  - string: ''
+  927:
+  - string: ''
+  - string: ''
+  928:
+  - string: ''
+  - string: ''
+  929:
+  - string: ''
+  - string: ''
+  930:
+  - string: ''
+  - string: ''
+  931:
+  - string: ''
+  - string: ''
+  932:
+  - string: ''
+  - string: ''
+  933:
+  - string: ''
+  - string: ''
+  934:
+  - string: ''
+  - string: ''
+  935:
+  - string: ''
+  - string: ''
+  936:
+  - string: ''
+  - string: ''
+  937:
+  - string: ''
+  - string: ''
+  938:
+  - string: ''
+  - string: ''
+  939:
+  - string: ''
+  - string: ''
+  940:
+  - string: ''
+  - string: ''
+  941:
+  - string: ''
+  - string: ''
+  942:
+  - string: ''
+  - string: ''
+  943:
+  - string: ''
+  - string: ''
+  944:
+  - string: ''
+  - string: ''
+  945:
+  - string: ''
+  - string: ''
+  946:
+  - string: ''
+  - string: ''
+  947:
+  - string: ''
+  - string: ''
+  948:
+  - string: ''
+  - string: ''
+  949:
+  - string: ''
+  - string: ''
+  950:
+  - string: ''
+  - string: ''
+  951:
+  - string: ''
+  - string: ''
+  952:
+  - string: ''
+  - string: ''
+  953:
+  - string: ''
+  - string: ''
+  954:
+  - string: ''
+  - string: ''
+  955:
+  - string: ''
+  - string: ''
+  956:
+  - string: ''
+  - string: ''
+  957:
+  - string: ''
+  - string: ''
+  958:
+  - string: ''
+  - string: ''
+  959:
+  - string: ''
+  - string: ''
+  960:
+  - string: ''
+  - string: ''
+  961:
+  - string: ''
+  - string: ''
+  962:
+  - string: ''
+  - string: ''
+  963:
+  - string: ''
+  - string: ''
+  964:
+  - string: ''
+  - string: ''
+  965:
+  - string: ''
+  - string: ''
+  966:
+  - string: ''
+  - string: ''
+  967:
+  - string: ''
+  - string: ''
+  968:
+  - string: ''
+  - string: ''
+  969:
+  - string: ''
+  - string: ''
+  970:
+  - string: ''
+  - string: ''
+  971:
+  - string: ''
+  - string: ''
+  972:
+  - string: ''
+  - string: ''
+  973:
+  - string: ''
+  - string: ''
+  974:
+  - string: ''
+  - string: ''
+  975:
+  - string: ''
+  - string: ''
+  976:
+  - string: ''
+  - string: ''
+  977:
+  - string: ''
+  - string: ''
+  978:
+  - string: ''
+  - string: ''
+  979:
+  - string: ''
+  - string: ''
+  980:
+  - string: ''
+  - string: ''
+  981:
+  - string: ''
+  - string: ''
+  982:
+  - string: ''
+  - string: ''
+  983:
+  - string: ''
+  - string: ''
+  984:
+  - string: ''
+  - string: ''
+  985:
+  - string: ''
+  - string: ''
+  986:
+  - string: ''
+  - string: ''
+  987:
+  - string: ''
+  - string: ''
+  988:
+  - string: ''
+  - string: ''
+  989:
+  - string: ''
+  - string: ''
+  990:
+  - string: ''
+  - string: ''
+  991:
+  - string: ''
+  - string: ''
+  992:
+  - string: ''
+  - string: ''
+  993:
+  - string: ''
+  - string: ''
+  994:
+  - string: ''
+  - string: ''
+  995:
+  - string: ''
+  - string: ''
+  996:
+  - string: ''
+  - string: ''
+  997:
+  - string: ''
+  - string: ''
+  998:
+  - string: ''
+  - string: ''
+  999:
+  - string: ''
+  - string: ''
+  1000:
+  - string: ''
+  - string: ''
+  1001:
+  - string: ''
+  - string: ''
+  1002:
+  - string: ''
+  - string: ''
+  1003:
+  - string: ''
+  - string: ''
+  1004:
+  - string: ''
+  - string: ''
+  1005:
+  - string: ''
+  - string: ''
+  1006:
+  - string: ''
+  - string: ''
+  1007:
+  - string: ''
+  - string: ''
+  1008:
+  - string: ''
+  - string: ''
+  1009:
+  - string: ''
+  - string: ''
+  1010:
+  - string: ''
+  - string: ''
+  1011:
+  - string: ''
+  - string: ''
+  1012:
+  - string: ''
+  - string: ''
+  1013:
+  - string: ''
+  - string: ''
+  1014:
+  - string: ''
+  - string: ''
+  1015:
+  - string: ''
+  - string: ''
+  1016:
+  - string: ''
+  - string: ''
+  1017:
+  - string: ''
+  - string: ''
+  1018:
+  - string: ''
+  - string: ''
+  1019:
+  - string: ''
+  - string: ''
+  1020:
+  - string: ''
+  - string: ''
+  1021:
+  - string: ''
+  - string: ''
+  1022:
+  - string: ''
+  - string: ''
+  1023:
+  - string: ''
+  - string: ''

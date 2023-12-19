@@ -1,0 +1,981 @@
+names:
+- id: 17502209
+  name: Ornamental Weapon
+- id: 17502210
+  name: Ornamental Weapon
+- id: 17502211
+  name: Detector
+- id: 17502212
+  name: Caretaker
+- id: 17502213
+  name: Ornamental Weapon
+- id: 17502214
+  name: Ornamental Weapon
+- id: 17502215
+  name: Ornamental Weapon
+- id: 17502216
+  name: Ornamental Weapon
+- id: 17502217
+  name: Ornamental Weapon
+- id: 17502218
+  name: Ornamental Weapon
+- id: 17502219
+  name: Mystic Weapon
+- id: 17502220
+  name: Mystic Weapon
+- id: 17502221
+  name: Detector
+- id: 17502222
+  name: Caretaker
+- id: 17502223
+  name: Mystic Weapon
+- id: 17502224
+  name: Mystic Weapon
+- id: 17502225
+  name: Mystic Weapon
+- id: 17502226
+  name: Mystic Weapon
+- id: 17502227
+  name: Mystic Weapon
+- id: 17502228
+  name: Mystic Weapon
+- id: 17502229
+  name: Detector
+- id: 17502230
+  name: Caretaker
+- id: 17502231
+  name: Detector
+- id: 17502232
+  name: Caretaker
+- id: 17502233
+  name: Ornamental Weapon
+- id: 17502234
+  name: Ornamental Weapon
+- id: 17502235
+  name: Mystic Weapon
+- id: 17502236
+  name: Mystic Weapon
+- id: 17502237
+  name: Ornamental Weapon
+- id: 17502238
+  name: Ornamental Weapon
+- id: 17502239
+  name: Air Elemental
+- id: 17502240
+  name: Air Elemental
+- id: 17502241
+  name: Detector
+- id: 17502242
+  name: Caretaker
+- id: 17502243
+  name: Detector
+- id: 17502244
+  name: Caretaker
+- id: 17502245
+  name: Detector
+- id: 17502246
+  name: Caretaker
+- id: 17502247
+  name: Detector
+- id: 17502248
+  name: Caretaker
+- id: 17502249
+  name: Detector
+- id: 17502250
+  name: Caretaker
+- id: 17502251
+  name: Air Elemental
+- id: 17502252
+  name: Air Elemental
+- id: 17502253
+  name: Ornamental Weapon
+- id: 17502254
+  name: Ornamental Weapon
+- id: 17502255
+  name: Ornamental Weapon
+- id: 17502256
+  name: Ornamental Weapon
+- id: 17502257
+  name: Ornamental Weapon
+- id: 17502258
+  name: Ornamental Weapon
+- id: 17502259
+  name: Detector
+- id: 17502260
+  name: Caretaker
+- id: 17502261
+  name: Ornamental Weapon
+- id: 17502262
+  name: Ornamental Weapon
+- id: 17502263
+  name: Detector
+- id: 17502264
+  name: Caretaker
+- id: 17502265
+  name: Ornamental Weapon
+- id: 17502266
+  name: Ornamental Weapon
+- id: 17502267
+  name: Ornamental Weapon
+- id: 17502268
+  name: Ornamental Weapon
+- id: 17502269
+  name: Air Elemental
+- id: 17502270
+  name: Air Elemental
+- id: 17502271
+  name: Air Elemental
+- id: 17502272
+  name: Air Elemental
+- id: 17502273
+  name: Ornamental Weapon
+- id: 17502274
+  name: Ornamental Weapon
+- id: 17502275
+  name: Ornamental Weapon
+- id: 17502276
+  name: Ornamental Weapon
+- id: 17502277
+  name: Air Elemental
+- id: 17502278
+  name: Air Elemental
+- id: 17502279
+  name: Air Elemental
+- id: 17502280
+  name: Air Elemental
+- id: 17502281
+  name: Ornamental Weapon
+- id: 17502282
+  name: Ornamental Weapon
+- id: 17502283
+  name: Ornamental Weapon
+- id: 17502284
+  name: Earth Elemental
+- id: 17502285
+  name: Earth Elemental
+- id: 17502286
+  name: Detector
+- id: 17502287
+  name: Caretaker
+- id: 17502288
+  name: Detector
+- id: 17502289
+  name: Caretaker
+- id: 17502290
+  name: Detector
+- id: 17502291
+  name: Caretaker
+- id: 17502292
+  name: Detector
+- id: 17502293
+  name: Caretaker
+- id: 17502294
+  name: Detector
+- id: 17502295
+  name: Caretaker
+- id: 17502296
+  name: Earth Elemental
+- id: 17502297
+  name: Earth Elemental
+- id: 17502298
+  name: Mystic Weapon
+- id: 17502299
+  name: Mystic Weapon
+- id: 17502300
+  name: Mystic Weapon
+- id: 17502301
+  name: Mystic Weapon
+- id: 17502302
+  name: Mystic Weapon
+- id: 17502303
+  name: Mystic Weapon
+- id: 17502304
+  name: Detector
+- id: 17502305
+  name: Caretaker
+- id: 17502306
+  name: Mystic Weapon
+- id: 17502307
+  name: Mystic Weapon
+- id: 17502308
+  name: Detector
+- id: 17502309
+  name: Caretaker
+- id: 17502310
+  name: Mystic Weapon
+- id: 17502311
+  name: Mystic Weapon
+- id: 17502312
+  name: Mystic Weapon
+- id: 17502313
+  name: Mystic Weapon
+- id: 17502314
+  name: Earth Elemental
+- id: 17502315
+  name: Earth Elemental
+- id: 17502316
+  name: Earth Elemental
+- id: 17502317
+  name: Earth Elemental
+- id: 17502318
+  name: Mystic Weapon
+- id: 17502319
+  name: Mystic Weapon
+- id: 17502320
+  name: Earth Elemental
+- id: 17502321
+  name: Earth Elemental
+- id: 17502322
+  name: Mystic Weapon
+- id: 17502323
+  name: Mystic Weapon
+- id: 17502324
+  name: Earth Elemental
+- id: 17502325
+  name: Earth Elemental
+- id: 17502326
+  name: Mystic Weapon
+- id: 17502327
+  name: Mystic Weapon
+- id: 17502328
+  name: Mystic Weapon
+- id: 17502329
+  name: Detector
+- id: 17502330
+  name: Caretaker
+- id: 17502331
+  name: Dustbuster
+- id: 17502332
+  name: Dustbuster
+- id: 17502333
+  name: Dustbuster
+- id: 17502334
+  name: Dustbuster
+- id: 17502335
+  name: Detector
+- id: 17502336
+  name: Caretaker
+- id: 17502337
+  name: Dustbuster
+- id: 17502338
+  name: Dustbuster
+- id: 17502339
+  name: Dustbuster
+- id: 17502340
+  name: Dustbuster
+- id: 17502341
+  name: Dustbuster
+- id: 17502342
+  name: Dustbuster
+- id: 17502343
+  name: Detector
+- id: 17502344
+  name: Caretaker
+- id: 17502345
+  name: Thunder Elemental
+- id: 17502346
+  name: Thunder Elemental
+- id: 17502347
+  name: Detector
+- id: 17502348
+  name: Caretaker
+- id: 17502349
+  name: Detector
+- id: 17502350
+  name: Caretaker
+- id: 17502351
+  name: Detector
+- id: 17502352
+  name: Caretaker
+- id: 17502353
+  name: Detector
+- id: 17502354
+  name: Caretaker
+- id: 17502355
+  name: Detector
+- id: 17502356
+  name: Caretaker
+- id: 17502357
+  name: Thunder Elemental
+- id: 17502358
+  name: Thunder Elemental
+- id: 17502359
+  name: Detector
+- id: 17502360
+  name: Caretaker
+- id: 17502361
+  name: Dustbuster
+- id: 17502362
+  name: Dustbuster
+- id: 17502363
+  name: Dustbuster
+- id: 17502364
+  name: Dustbuster
+- id: 17502365
+  name: Dustbuster
+- id: 17502366
+  name: Dustbuster
+- id: 17502367
+  name: Detector
+- id: 17502368
+  name: Caretaker
+- id: 17502369
+  name: Dustbuster
+- id: 17502370
+  name: Dustbuster
+- id: 17502371
+  name: Detector
+- id: 17502372
+  name: Caretaker
+- id: 17502373
+  name: Detector
+- id: 17502374
+  name: Caretaker
+- id: 17502375
+  name: Dustbuster
+- id: 17502376
+  name: Dustbuster
+- id: 17502377
+  name: Dustbuster
+- id: 17502378
+  name: Dustbuster
+- id: 17502379
+  name: Dustbuster
+- id: 17502380
+  name: Dustbuster
+- id: 17502381
+  name: Dustbuster
+- id: 17502382
+  name: Dustbuster
+- id: 17502383
+  name: Dustbuster
+- id: 17502384
+  name: Dustbuster
+- id: 17502385
+  name: Dustbuster
+- id: 17502386
+  name: Dustbuster
+- id: 17502387
+  name: Dustbuster
+- id: 17502388
+  name: Dustbuster
+- id: 17502389
+  name: Dustbuster
+- id: 17502390
+  name: Dustbuster
+- id: 17502391
+  name: Dustbuster
+- id: 17502392
+  name: Dustbuster
+- id: 17502393
+  name: Dustbuster
+- id: 17502394
+  name: Dustbuster
+- id: 17502395
+  name: Dustbuster
+- id: 17502396
+  name: Dustbuster
+- id: 17502397
+  name: Detector
+- id: 17502398
+  name: Caretaker
+- id: 17502399
+  name: Dustbuster
+- id: 17502400
+  name: Dustbuster
+- id: 17502401
+  name: Dustbuster
+- id: 17502402
+  name: Dustbuster
+- id: 17502403
+  name: Detector
+- id: 17502404
+  name: Caretaker
+- id: 17502405
+  name: Dustbuster
+- id: 17502406
+  name: Dustbuster
+- id: 17502407
+  name: Dustbuster
+- id: 17502408
+  name: Dustbuster
+- id: 17502409
+  name: Dustbuster
+- id: 17502410
+  name: Dustbuster
+- id: 17502411
+  name: Detector
+- id: 17502412
+  name: Caretaker
+- id: 17502413
+  name: Water Elemental
+- id: 17502414
+  name: Water Elemental
+- id: 17502415
+  name: Detector
+- id: 17502416
+  name: Caretaker
+- id: 17502417
+  name: Detector
+- id: 17502418
+  name: Caretaker
+- id: 17502419
+  name: Detector
+- id: 17502420
+  name: Caretaker
+- id: 17502421
+  name: Detector
+- id: 17502422
+  name: Caretaker
+- id: 17502423
+  name: Detector
+- id: 17502424
+  name: Caretaker
+- id: 17502425
+  name: Water Elemental
+- id: 17502426
+  name: Water Elemental
+- id: 17502427
+  name: Detector
+- id: 17502428
+  name: Caretaker
+- id: 17502429
+  name: Dustbuster
+- id: 17502430
+  name: Dustbuster
+- id: 17502431
+  name: Dustbuster
+- id: 17502432
+  name: Dustbuster
+- id: 17502433
+  name: Dustbuster
+- id: 17502434
+  name: Dustbuster
+- id: 17502435
+  name: Detector
+- id: 17502436
+  name: Caretaker
+- id: 17502437
+  name: Dustbuster
+- id: 17502438
+  name: Dustbuster
+- id: 17502439
+  name: Detector
+- id: 17502440
+  name: Caretaker
+- id: 17502441
+  name: Dustbuster
+- id: 17502442
+  name: Dustbuster
+- id: 17502443
+  name: Water Elemental
+- id: 17502444
+  name: Water Elemental
+- id: 17502445
+  name: Dustbuster
+- id: 17502446
+  name: Dustbuster
+- id: 17502447
+  name: Dustbuster
+- id: 17502448
+  name: Dustbuster
+- id: 17502449
+  name: Dustbuster
+- id: 17502450
+  name: Dustbuster
+- id: 17502451
+  name: Dustbuster
+- id: 17502452
+  name: Dustbuster
+- id: 17502453
+  name: Dustbuster
+- id: 17502454
+  name: Dustbuster
+- id: 17502455
+  name: Dustbuster
+- id: 17502456
+  name: Dustbuster
+- id: 17502457
+  name: Dustbuster
+- id: 17502458
+  name: Dustbuster
+- id: 17502459
+  name: Dustbuster
+- id: 17502460
+  name: Dustbuster
+- id: 17502461
+  name: Detector
+- id: 17502462
+  name: Caretaker
+- id: 17502463
+  name: Enkidu
+- id: 17502464
+  name: Enkidu
+- id: 17502465
+  name: Enkidu
+- id: 17502466
+  name: Enkidu
+- id: 17502467
+  name: Detector
+- id: 17502468
+  name: Caretaker
+- id: 17502469
+  name: Enkidu
+- id: 17502470
+  name: Enkidu
+- id: 17502471
+  name: Enkidu
+- id: 17502472
+  name: Enkidu
+- id: 17502473
+  name: Enkidu
+- id: 17502474
+  name: Enkidu
+- id: 17502475
+  name: Detector
+- id: 17502476
+  name: Caretaker
+- id: 17502477
+  name: Ice Elemental
+- id: 17502478
+  name: Ice Elemental
+- id: 17502479
+  name: Detector
+- id: 17502480
+  name: Caretaker
+- id: 17502481
+  name: Detector
+- id: 17502482
+  name: Caretaker
+- id: 17502483
+  name: Detector
+- id: 17502484
+  name: Caretaker
+- id: 17502485
+  name: Detector
+- id: 17502486
+  name: Caretaker
+- id: 17502487
+  name: Detector
+- id: 17502488
+  name: Caretaker
+- id: 17502489
+  name: Fire Elemental
+- id: 17502490
+  name: Fire Elemental
+- id: 17502491
+  name: Detector
+- id: 17502492
+  name: Caretaker
+- id: 17502493
+  name: Enkidu
+- id: 17502494
+  name: Enkidu
+- id: 17502495
+  name: Enkidu
+- id: 17502496
+  name: Enkidu
+- id: 17502497
+  name: Enkidu
+- id: 17502498
+  name: Enkidu
+- id: 17502499
+  name: Detector
+- id: 17502500
+  name: Caretaker
+- id: 17502501
+  name: Enkidu
+- id: 17502502
+  name: Enkidu
+- id: 17502503
+  name: Detector
+- id: 17502504
+  name: Caretaker
+- id: 17502505
+  name: Enkidu
+- id: 17502506
+  name: Enkidu
+- id: 17502507
+  name: Ice Elemental
+- id: 17502508
+  name: Ice Elemental
+- id: 17502509
+  name: Ice Elemental
+- id: 17502510
+  name: Ice Elemental
+- id: 17502511
+  name: Enkidu
+- id: 17502512
+  name: Enkidu
+- id: 17502513
+  name: Enkidu
+- id: 17502514
+  name: Enkidu
+- id: 17502515
+  name: Enkidu
+- id: 17502516
+  name: Enkidu
+- id: 17502517
+  name: Enkidu
+- id: 17502518
+  name: Enkidu
+- id: 17502519
+  name: Enkidu
+- id: 17502520
+  name: Enkidu
+- id: 17502521
+  name: Enkidu
+- id: 17502522
+  name: Fire Elemental
+- id: 17502523
+  name: Fire Elemental
+- id: 17502524
+  name: Enkidu
+- id: 17502525
+  name: Enkidu
+- id: 17502526
+  name: Enkidu
+- id: 17502527
+  name: Enkidu
+- id: 17502528
+  name: Enkidu
+- id: 17502529
+  name: Enkidu
+- id: 17502530
+  name: Enkidu
+- id: 17502531
+  name: Enkidu
+- id: 17502532
+  name: Enkidu
+- id: 17502533
+  name: Enkidu
+- id: 17502534
+  name: Enkidu
+- id: 17502535
+  name: Detector
+- id: 17502536
+  name: Caretaker
+- id: 17502537
+  name: Detector
+- id: 17502538
+  name: Caretaker
+- id: 17502539
+  name: Detector
+- id: 17502540
+  name: Caretaker
+- id: 17502541
+  name: Detector
+- id: 17502542
+  name: Caretaker
+- id: 17502543
+  name: Detector
+- id: 17502544
+  name: Caretaker
+- id: 17502545
+  name: Detector
+- id: 17502546
+  name: Caretaker
+- id: 17502547
+  name: Detector
+- id: 17502548
+  name: Caretaker
+- id: 17502549
+  name: Detector
+- id: 17502550
+  name: Caretaker
+- id: 17502551
+  name: Detector
+- id: 17502552
+  name: Caretaker
+- id: 17502553
+  name: Detector
+- id: 17502554
+  name: Caretaker
+- id: 17502555
+  name: Detector
+- id: 17502556
+  name: Caretaker
+- id: 17502557
+  name: Detector
+- id: 17502558
+  name: Caretaker
+- id: 17502559
+  name: Detector
+- id: 17502560
+  name: Caretaker
+- id: 17502561
+  name: Detector
+- id: 17502562
+  name: Caretaker
+- id: 17502563
+  name: Detector
+- id: 17502564
+  name: Caretaker
+- id: 17502565
+  name: Detector
+- id: 17502566
+  name: Caretaker
+- id: 17502567
+  name: Mimic
+- id: 17502568
+  name: Brigandish Blade
+- id: 17502569
+  name: Steam Cleaner
+- id: 17502570
+  name: Zipacna
+- id: 17502571
+  name: Uptala
+- id: 17502572
+  name: Bisa
+- id: 17502573
+  name: Trna
+- id: 17502574
+  name: Uptala
+- id: 17502575
+  name: Bisa
+- id: 17502576
+  name: Trna
+- id: 17502577
+  name: Uptala
+- id: 17502578
+  name: Bisa
+- id: 17502579
+  name: Trna
+- id: 17502581
+  name: ???
+- id: 17502582
+  name: ???
+- id: 17502583
+  name: ???
+- id: 17502585
+  name: Treasure Casket
+- id: 17502586
+  name: Treasure Casket
+- id: 17502587
+  name: Treasure Casket
+- id: 17502588
+  name: Treasure Casket
+- id: 17502589
+  name: Treasure Casket
+- id: 17502590
+  name: Treasure Casket
+- id: 17502591
+  name: Treasure Casket
+- id: 17502592
+  name: Treasure Casket
+- id: 17502593
+  name: Treasure Casket
+- id: 17502594
+  name: Treasure Casket
+- id: 17502595
+  name: Treasure Casket
+- id: 17502596
+  name: Treasure Casket
+- id: 17502597
+  name: Treasure Casket
+- id: 17502598
+  name: Treasure Casket
+- id: 17502599
+  name: Treasure Casket
+- id: 17502600
+  name: Treasure Casket
+- id: 17502601
+  name: Achieve Master
+- id: 17502602
+  name: Unity Master
+- id: 17502607
+  name: ''
+- id: 17502608
+  name: Cermet Door
+- id: 17502609
+  name: Cermet Door
+- id: 17502610
+  name: Cermet Door
+- id: 17502611
+  name: Cermet Door
+- id: 17502612
+  name: Cermet Door
+- id: 17502613
+  name: Cermet Door
+- id: 17502614
+  name: Cermet Door
+- id: 17502615
+  name: Cermet Door
+- id: 17502616
+  name: Cermet Door
+- id: 17502617
+  name: Cermet Door
+- id: 17502618
+  name: Cermet Door
+- id: 17502619
+  name: Cermet Door
+- id: 17502620
+  name: Cermet Door
+- id: 17502621
+  name: Cermet Door
+- id: 17502622
+  name: Cermet Door
+- id: 17502624
+  name: Monolith
+- id: 17502626
+  name: Monolith
+- id: 17502628
+  name: Monolith
+- id: 17502630
+  name: Monolith
+- id: 17502632
+  name: Monolith
+- id: 17502634
+  name: Monolith
+- id: 17502636
+  name: Monolith
+- id: 17502638
+  name: Monolith
+- id: 17502640
+  name: Monolith
+- id: 17502642
+  name: Monolith
+- id: 17502643
+  name: Cermet Door
+- id: 17502644
+  name: Cermet Door
+- id: 17502645
+  name: Cermet Door
+- id: 17502646
+  name: Cermet Door
+- id: 17502647
+  name: Cermet Door
+- id: 17502648
+  name: Cermet Door
+- id: 17502649
+  name: Cermet Door
+- id: 17502650
+  name: Cermet Door
+- id: 17502651
+  name: Cermet Door
+- id: 17502652
+  name: Cermet Door
+- id: 17502653
+  name: Cermet Door
+- id: 17502654
+  name: Cermet Door
+- id: 17502655
+  name: Cermet Door
+- id: 17502656
+  name: Cermet Door
+- id: 17502657
+  name: Cermet Door
+- id: 17502658
+  name: Cermet Door
+- id: 17502659
+  name: Cermet Door
+- id: 17502660
+  name: Cermet Door
+- id: 17502661
+  name: Cermet Door
+- id: 17502662
+  name: Cermet Door
+- id: 17502663
+  name: Cermet Door
+- id: 17502664
+  name: Cermet Door
+- id: 17502665
+  name: Cermet Door
+- id: 17502666
+  name: Cermet Door
+- id: 17502667
+  name: Cermet Door
+- id: 17502668
+  name: Cermet Door
+- id: 17502669
+  name: Cermet Door
+- id: 17502670
+  name: Cermet Door
+- id: 17502671
+  name: Cermet Door
+- id: 17502672
+  name: Cermet Door
+- id: 17502673
+  name: Cermet Door
+- id: 17502674
+  name: Cermet Door
+- id: 17502675
+  name: Cermet Door
+- id: 17502676
+  name: Cermet Door
+- id: 17502677
+  name: Cermet Door
+- id: 17502678
+  name: Cermet Door
+- id: 17502679
+  name: Cermet Door
+- id: 17502680
+  name: Cermet Door
+- id: 17502681
+  name: Cermet Door
+- id: 17502682
+  name: Cermet Door
+- id: 17502683
+  name: Cermet Door
+- id: 17502684
+  name: Cermet Door
+- id: 17502685
+  name: Cermet Door
+- id: 17502686
+  name: Cermet Door
+- id: 17502687
+  name: Cermet Door
+- id: 17502688
+  name: Cermet Door
+- id: 17502689
+  name: Cermet Door
+- id: 17502691
+  name: Moogle
+- id: 17502692
+  name: Moogle
+- id: 17502693
+  name: Moogle
+- id: 17502694
+  name: Moogle
+- id: 17502695
+  name: Moogle
+- id: 17502696
+  name: Moogle
+- id: 17502697
+  name: Moogle
+- id: 17502698
+  name: Moogle
+- id: 17502699
+  name: Treasure Coffer
+- id: 17502700
+  name: Planar Rift
+- id: 17502701
+  name: Planar Rift
+- id: 17502702
+  name: Planar Rift
+- id: 17502703
+  name: Riftworn Pyxis
+- id: 17502704
+  name: Riftworn Pyxis
+- id: 17502705
+  name: Riftworn Pyxis
+- id: 17502706
+  name: Grounds Tome
+- id: 17502707
+  name: Grounds Tome
+- id: 17502708
+  name: Grounds Tome
+- id: 17502709
+  name: Grounds Tome
+- id: 17502710
+  name: Grounds Tome
+- id: 17502711
+  name: Grounds Tome
+- id: 17502712
+  name: Grounds Tome
+- id: 17502713
+  name: Grounds Tome
+- id: 17502714
+  name: Grounds Tome
+- id: 17502715
+  name: Grounds Tome

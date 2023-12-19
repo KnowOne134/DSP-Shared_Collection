@@ -1,0 +1,365 @@
+names:
+- id: 16871425
+  name: Agonizer
+- id: 16871426
+  name: Procreator
+- id: 16871427
+  name: Offspring
+- id: 16871428
+  name: Offspring
+- id: 16871429
+  name: Offspring
+- id: 16871430
+  name: Offspring
+- id: 16871431
+  name: Cumulator
+- id: 16871432
+  name: Agonizer
+- id: 16871433
+  name: Procreator
+- id: 16871434
+  name: Offspring
+- id: 16871435
+  name: Offspring
+- id: 16871436
+  name: Offspring
+- id: 16871437
+  name: Offspring
+- id: 16871438
+  name: Cumulator
+- id: 16871439
+  name: Agonizer
+- id: 16871440
+  name: Procreator
+- id: 16871441
+  name: Offspring
+- id: 16871442
+  name: Offspring
+- id: 16871443
+  name: Offspring
+- id: 16871444
+  name: Offspring
+- id: 16871445
+  name: Cumulator
+- id: 16871446
+  name: Memory Receptacle
+- id: 16871447
+  name: Memory Receptacle
+- id: 16871448
+  name: Memory Receptacle
+- id: 16871449
+  name: Memory Receptacle
+- id: 16871450
+  name: Contemplator
+- id: 16871451
+  name: Ingurgitator
+- id: 16871452
+  name: Repiner
+- id: 16871453
+  name: Neoingurgitator
+- id: 16871454
+  name: Neoingurgitator
+- id: 16871455
+  name: Enigmatic Sphere
+- id: 16871456
+  name: Memory Receptacle
+- id: 16871457
+  name: Memory Receptacle
+- id: 16871458
+  name: Memory Receptacle
+- id: 16871459
+  name: Memory Receptacle
+- id: 16871460
+  name: Contemplator
+- id: 16871461
+  name: Ingurgitator
+- id: 16871462
+  name: Repiner
+- id: 16871463
+  name: Neoingurgitator
+- id: 16871464
+  name: Neoingurgitator
+- id: 16871465
+  name: Enigmatic Sphere
+- id: 16871466
+  name: Memory Receptacle
+- id: 16871467
+  name: Memory Receptacle
+- id: 16871468
+  name: Memory Receptacle
+- id: 16871469
+  name: Memory Receptacle
+- id: 16871470
+  name: Contemplator
+- id: 16871471
+  name: Ingurgitator
+- id: 16871472
+  name: Repiner
+- id: 16871473
+  name: Neoingurgitator
+- id: 16871474
+  name: Neoingurgitator
+- id: 16871475
+  name: Enigmatic Sphere
+- id: 16871476
+  name: Anamnestic Vault
+- id: 16871477
+  name: Tormented Thinker
+- id: 16871478
+  name: Bottomless Gorger
+- id: 16871479
+  name: Bottomless Offspring
+- id: 16871480
+  name: Bottomless Offspring
+- id: 16871481
+  name: Rapacious Craver
+- id: 16871482
+  name: Hollow Air
+- id: 16871483
+  name: Hollow Darkness
+- id: 16871484
+  name: Hollow Earth
+- id: 16871485
+  name: Hollow Fire
+- id: 16871486
+  name: Hollow Ice
+- id: 16871487
+  name: Hollow Light
+- id: 16871488
+  name: Hollow Thunder
+- id: 16871489
+  name: Hollow Water
+- id: 16871490
+  name: Forsaken Baelfyr
+- id: 16871491
+  name: Forsaken Gefyrst
+- id: 16871492
+  name: Forsaken Ungeweder
+- id: 16871493
+  name: Forsaken Byrgen
+- id: 16871494
+  name: Constant Wanderer
+- id: 16871495
+  name: Constant Wanderer
+- id: 16871496
+  name: Constant Wanderer
+- id: 16871497
+  name: Constant Wanderer
+- id: 16871498
+  name: Disconsolate Weeper
+- id: 16871499
+  name: Disconsolate Weeper
+- id: 16871500
+  name: Disconsolate Weeper
+- id: 16871501
+  name: Disconsolate Weeper
+- id: 16871502
+  name: Quenchless Seether
+- id: 16871503
+  name: Quenchless Seether
+- id: 16871504
+  name: Quenchless Seether
+- id: 16871505
+  name: Quenchless Seether
+- id: 16871506
+  name: Disconsolate Weeper
+- id: 16871507
+  name: Disconsolate Weeper
+- id: 16871508
+  name: Anamnestic Vault
+- id: 16871509
+  name: Tormented Thinker
+- id: 16871510
+  name: Bottomless Gorger
+- id: 16871511
+  name: Bottomless Offspring
+- id: 16871512
+  name: Bottomless Offspring
+- id: 16871513
+  name: Rapacious Craver
+- id: 16871514
+  name: Hollow Air
+- id: 16871515
+  name: Hollow Darkness
+- id: 16871516
+  name: Hollow Earth
+- id: 16871517
+  name: Hollow Fire
+- id: 16871518
+  name: Hollow Ice
+- id: 16871519
+  name: Hollow Light
+- id: 16871520
+  name: Hollow Thunder
+- id: 16871521
+  name: Hollow Water
+- id: 16871522
+  name: Forsaken Baelfyr
+- id: 16871523
+  name: Forsaken Gefyrst
+- id: 16871524
+  name: Forsaken Ungeweder
+- id: 16871525
+  name: Forsaken Byrgen
+- id: 16871526
+  name: Constant Wanderer
+- id: 16871527
+  name: Constant Wanderer
+- id: 16871528
+  name: Constant Wanderer
+- id: 16871529
+  name: Constant Wanderer
+- id: 16871530
+  name: Disconsolate Weeper
+- id: 16871531
+  name: Disconsolate Weeper
+- id: 16871532
+  name: Disconsolate Weeper
+- id: 16871533
+  name: Disconsolate Weeper
+- id: 16871534
+  name: Quenchless Seether
+- id: 16871535
+  name: Quenchless Seether
+- id: 16871536
+  name: Quenchless Seether
+- id: 16871537
+  name: Quenchless Seether
+- id: 16871538
+  name: Disconsolate Weeper
+- id: 16871539
+  name: Disconsolate Weeper
+- id: 16871540
+  name: Anamnestic Vault
+- id: 16871541
+  name: Tormented Thinker
+- id: 16871542
+  name: Bottomless Gorger
+- id: 16871543
+  name: Bottomless Offspring
+- id: 16871544
+  name: Bottomless Offspring
+- id: 16871545
+  name: Rapacious Craver
+- id: 16871546
+  name: Hollow Air
+- id: 16871547
+  name: Hollow Darkness
+- id: 16871548
+  name: Hollow Earth
+- id: 16871549
+  name: Hollow Fire
+- id: 16871550
+  name: Hollow Ice
+- id: 16871551
+  name: Hollow Light
+- id: 16871552
+  name: Hollow Thunder
+- id: 16871553
+  name: Hollow Water
+- id: 16871554
+  name: Forsaken Baelfyr
+- id: 16871555
+  name: Forsaken Gefyrst
+- id: 16871556
+  name: Forsaken Ungeweder
+- id: 16871557
+  name: Forsaken Byrgen
+- id: 16871558
+  name: Constant Wanderer
+- id: 16871559
+  name: Constant Wanderer
+- id: 16871560
+  name: Constant Wanderer
+- id: 16871561
+  name: Constant Wanderer
+- id: 16871562
+  name: Disconsolate Weeper
+- id: 16871563
+  name: Disconsolate Weeper
+- id: 16871564
+  name: Disconsolate Weeper
+- id: 16871565
+  name: Disconsolate Weeper
+- id: 16871566
+  name: Quenchless Seether
+- id: 16871567
+  name: Quenchless Seether
+- id: 16871568
+  name: Quenchless Seether
+- id: 16871569
+  name: Quenchless Seether
+- id: 16871570
+  name: Disconsolate Weeper
+- id: 16871571
+  name: Disconsolate Weeper
+- id: 16871572
+  name: Achieve Master
+- id: 16871573
+  name: Unity Master
+- id: 16871578
+  name: Web of Recollections
+- id: 16871579
+  name: Web of Regret
+- id: 16871580
+  name: Web of Regret
+- id: 16871581
+  name: Web of Regret
+- id: 16871587
+  name: Bridge
+- id: 16871588
+  name: Radiant Aureole
+- id: 16871589
+  name: ???
+- id: 16871590
+  name: Tenzen
+- id: 16871591
+  name: Louverance
+- id: 16871592
+  name: Ulmia
+- id: 16871593
+  name: Nag'molada
+- id: 16871594
+  name: BOX2
+- id: 16871595
+  name: ''
+- id: 16871596
+  name: ''
+- id: 16871597
+  name: ???
+- id: 16871598
+  name: Prishe
+- id: 16871599
+  name: Tenzen
+- id: 16871600
+  name: Ulmia
+- id: 16871601
+  name: Nag'molada
+- id: 16871602
+  name: Louverance
+- id: 16871603
+  name: Diabolos
+- id: 16871604
+  name: ''
+- id: 16871605
+  name: ''
+- id: 16871606
+  name: Grumblix
+- id: 16871607
+  name: Goblin Footprint
+- id: 16871609
+  name: Moogle
+- id: 16871610
+  name: Moogle
+- id: 16871611
+  name: Moogle
+- id: 16871612
+  name: Moogle
+- id: 16871613
+  name: Moogle
+- id: 16871614
+  name: Moogle
+- id: 16871615
+  name: Moogle
+- id: 16871616
+  name: Moogle

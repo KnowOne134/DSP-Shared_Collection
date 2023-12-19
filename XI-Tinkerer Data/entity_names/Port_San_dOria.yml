@@ -1,0 +1,385 @@
+names:
+- id: 17727489
+  name: Trion
+- id: 17727490
+  name: Pieuje
+- id: 17727491
+  name: Claidie
+- id: 17727492
+  name: Avandale
+- id: 17727493
+  name: Callort
+- id: 17727494
+  name: Esca
+- id: 17727495
+  name: Miene
+- id: 17727496
+  name: Altiret
+- id: 17727497
+  name: Morjean
+- id: 17727498
+  name: Thierride
+- id: 17727499
+  name: Gulemont
+- id: 17727500
+  name: Ilgusin
+- id: 17727501
+  name: Antreneau
+- id: 17727502
+  name: Nogelle
+- id: 17727503
+  name: Croumangue
+- id: 17727504
+  name: Fontoumant
+- id: 17727505
+  name: Portaure
+- id: 17727506
+  name: Item100
+- id: 17727507
+  name: Regine
+- id: 17727508
+  name: Rugiette
+- id: 17727509
+  name: Paulinne
+- id: 17727510
+  name: Anton
+- id: 17727511
+  name: Leonora
+- id: 17727512
+  name: Anoki
+- id: 17727513
+  name: Meta
+- id: 17727514
+  name: Albinie
+- id: 17727515
+  name: Apstaule
+- id: 17727516
+  name: Comittie
+- id: 17727517
+  name: Meinemelle
+- id: 17727518
+  name: Gournaie
+- id: 17727519
+  name: Auction Counter
+- id: 17727520
+  name: Auction Counter
+- id: 17727521
+  name: Auction Counter
+- id: 17727522
+  name: Auction Counter
+- id: 17727523
+  name: Coullave
+- id: 17727524
+  name: Fiva
+- id: 17727525
+  name: Milva
+- id: 17727526
+  name: Vendavoq
+- id: 17727527
+  name: Deguerendars
+- id: 17727528
+  name: Nimia
+- id: 17727529
+  name: Patolle
+- id: 17727530
+  name: Bonmaurieut
+- id: 17727531
+  name: Phersula
+- id: 17727532
+  name: ''
+- id: 17727533
+  name: ''
+- id: 17727534
+  name: ''
+- id: 17727535
+  name: ''
+- id: 17727536
+  name: ''
+- id: 17727537
+  name: ''
+- id: 17727538
+  name: ''
+- id: 17727539
+  name: ''
+- id: 17727540
+  name: Laucimercen
+- id: 17727541
+  name: Rielle
+- id: 17727542
+  name: Coribalgeant
+- id: 17727543
+  name: Noquerelle
+- id: 17727544
+  name: Meuxtajean
+- id: 17727545
+  name: Marquie
+- id: 17727546
+  name: Crilde
+- id: 17727547
+  name: Eaugouint
+- id: 17727548
+  name: Liloune
+- id: 17727549
+  name: Pomilla
+- id: 17727550
+  name: Parcarin
+- id: 17727551
+  name: Solgierte
+- id: 17727552
+  name: Vounebariont
+- id: 17727553
+  name: Bricorsant
+- id: 17727554
+  name: Sheridan
+- id: 17727555
+  name: Teilsa
+- id: 17727556
+  name: Jaireto
+- id: 17727557
+  name: Diraulate
+- id: 17727558
+  name: Answald
+- id: 17727559
+  name: Arminibit
+- id: 17727560
+  name: Ceraulian
+- id: 17727561
+  name: Brugaire
+- id: 17727562
+  name: Felippe
+- id: 17727563
+  name: Rahal
+- id: 17727564
+  name: Artinien
+- id: 17727565
+  name: Brifalien
+- id: 17727566
+  name: Cherlodeau
+- id: 17727567
+  name: Bellue
+- id: 17727568
+  name: Bonarpant
+- id: 17727569
+  name: Prietta
+- id: 17727570
+  name: Auvare
+- id: 17727571
+  name: Maunadolace
+- id: 17727572
+  name: Chocobo
+- id: 17727573
+  name: Ambleon
+- id: 17727574
+  name: 'Home Point #1'
+- id: 17727575
+  name: 'Home Point #2'
+- id: 17727576
+  name: 'Home Point #3'
+- id: 17727577
+  name: 'Home Point #4'
+- id: 17727578
+  name: 'Home Point #5'
+- id: 17727579
+  name: Moogle
+- id: 17727580
+  name: ''
+- id: 17727581
+  name: ???
+- id: 17727582
+  name: ''
+- id: 17727583
+  name: Moogle
+- id: 17727584
+  name: Symphonic Curator
+- id: 17727585
+  name: Door:"Rusty Anchor"
+- id: 17727586
+  name: Door:Cargo Room A
+- id: 17727587
+  name: Door:Cargo Room B
+- id: 17727588
+  name: Door:Cargo Room A
+- id: 17727589
+  name: Door:Cargo Room B
+- id: 17727590
+  name: Door:Regine's Magicmart
+- id: 17727591
+  name: Door:Arrivals Entrance
+- id: 17727592
+  name: Door:Arrivals Exit
+- id: 17727593
+  name: Door:Departures Entrance
+- id: 17727594
+  name: Door:Departures Exit
+- id: 17727595
+  name: ''
+- id: 17727596
+  name: Nazar
+- id: 17727597
+  name: Louis
+- id: 17727598
+  name: ''
+- id: 17727599
+  name: Cevat
+- id: 17727600
+  name: Ulmia
+- id: 17727601
+  name: Shikaree X
+- id: 17727603
+  name: Moogle
+- id: 17727604
+  name: Moogle
+- id: 17727605
+  name: Moogle
+- id: 17727606
+  name: Moogle
+- id: 17727607
+  name: Moogle
+- id: 17727608
+  name: Moogle
+- id: 17727609
+  name: Moogle
+- id: 17727610
+  name: Moogle
+- id: 17727611
+  name: Gallijaux
+- id: 17727612
+  name: Joulet
+- id: 17727613
+  name: Ufanne
+- id: 17727614
+  name: ''
+- id: 17727615
+  name: World Shifter
+- id: 17727616
+  name: Dabbio
+- id: 17727617
+  name: Eddy
+- id: 17727618
+  name: ''
+- id: 17727619
+  name: ''
+- id: 17727620
+  name: Perdiouvilet
+- id: 17727621
+  name: Festive Moogle
+- id: 17727622
+  name: Raqtibahl
+- id: 17727623
+  name: Festive Moogle
+- id: 17727624
+  name: Bonanza Moogle
+- id: 17727625
+  name: Dealer Moogle
+- id: 17727626
+  name: Synergy Engineer
+- id: 17727627
+  name: Synergy Engineer
+- id: 17727628
+  name: Synergy Furnace
+- id: 17727629
+  name: Synergy Furnace
+- id: 17727630
+  name: Synergy Furnace
+- id: 17727631
+  name: Synergy Furnace
+- id: 17727632
+  name: Synergy Enthusiast
+- id: 17727633
+  name: Habitox
+- id: 17727634
+  name: Treasure Coffer
+- id: 17727635
+  name: Moogle
+- id: 17727636
+  name: ''
+- id: 17727637
+  name: ''
+- id: 17727638
+  name: ''
+- id: 17727639
+  name: ''
+- id: 17727640
+  name: ''
+- id: 17727641
+  name: ''
+- id: 17727642
+  name: ''
+- id: 17727643
+  name: ''
+- id: 17727644
+  name: ''
+- id: 17727645
+  name: ''
+- id: 17727646
+  name: ''
+- id: 17727647
+  name: Lilisette
+- id: 17727648
+  name: Thierride
+- id: 17727649
+  name: ???
+- id: 17727650
+  name: ???
+- id: 17727651
+  name: ''
+- id: 17727652
+  name: Gilburt
+- id: 17727653
+  name: Ivan
+- id: 17727654
+  name: Greeter Moogle
+- id: 17727655
+  name: Mog Dinghy
+- id: 17727656
+  name: Skipper Moogle
+- id: 17727657
+  name: Achieve Master
+- id: 17727658
+  name: Unity Master
+- id: 17727659
+  name: ''
+- id: 17727660
+  name: Iroha
+- id: 17727661
+  name: Lion
+- id: 17727662
+  name: Zeid
+- id: 17727663
+  name: ''
+- id: 17727664
+  name: Selh'teus
+- id: 17727665
+  name: Selh'teus
+- id: 17727666
+  name: Selh'teus
+- id: 17727667
+  name: Balamor
+- id: 17727668
+  name: ???
+- id: 17727669
+  name: ''
+- id: 17727670
+  name: ''
+- id: 17727671
+  name: Disjoined One
+- id: 17727672
+  name: Disjoined One
+- id: 17727673
+  name: Disjoined One
+- id: 17727674
+  name: Disjoined One
+- id: 17727675
+  name: Disjoined One
+- id: 17727676
+  name: Disjoined One
+- id: 17727677
+  name: Disjoined One
+- id: 17727678
+  name: Disjoined One
+- id: 17727679
+  name: ''
+- id: 17727680
+  name: ''
+- id: 17727681
+  name: Curio Vendor Moogle

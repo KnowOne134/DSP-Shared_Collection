@@ -1,0 +1,535 @@
+names:
+- id: 16822273
+  name: Snipper
+- id: 16822274
+  name: Blind Crab
+- id: 16822275
+  name: Cutter
+- id: 16822276
+  name: Ghost Crab
+- id: 16822277
+  name: Amoebic Nodule
+- id: 16822278
+  name: Dark Bats
+- id: 16822279
+  name: Goblin Craftsman
+- id: 16822280
+  name: Goblin Gutterman
+- id: 16822281
+  name: Moblin Pickman
+- id: 16822282
+  name: Goblin Leadman
+- id: 16822283
+  name: Goblin's Bat
+- id: 16822284
+  name: Dark Bats
+- id: 16822285
+  name: Moblin Witchman
+- id: 16822286
+  name: Goblin Hammerman
+- id: 16822287
+  name: Moblin Witchman
+- id: 16822288
+  name: Dark Bats
+- id: 16822289
+  name: Goblin Gutterman
+- id: 16822290
+  name: Moblin Ragman
+- id: 16822291
+  name: Moblin Chapman
+- id: 16822292
+  name: Goblin Craftsman
+- id: 16822293
+  name: Moblin Witchman
+- id: 16822294
+  name: Moblin Ragman
+- id: 16822295
+  name: Moblin Pickman
+- id: 16822296
+  name: Bugbear Servingman
+- id: 16822297
+  name: Bugbear Servingman
+- id: 16822298
+  name: Bugbear Servingman
+- id: 16822299
+  name: Goblin Hammerman
+- id: 16822300
+  name: Dark Bats
+- id: 16822301
+  name: Moblin Chapman
+- id: 16822302
+  name: Dark Bats
+- id: 16822303
+  name: Goblin Craftsman
+- id: 16822304
+  name: Moblin Witchman
+- id: 16822305
+  name: Goblin Leadman
+- id: 16822306
+  name: Goblin's Bat
+- id: 16822307
+  name: Moblin Ragman
+- id: 16822308
+  name: Bugbear Servingman
+- id: 16822309
+  name: Earth Elemental
+- id: 16822310
+  name: Goblin Leadman
+- id: 16822311
+  name: Goblin's Bat
+- id: 16822312
+  name: Goblin Hammerman
+- id: 16822313
+  name: Bugbear Servingman
+- id: 16822314
+  name: Moblin Chapman
+- id: 16822315
+  name: Bugbear Servingman
+- id: 16822316
+  name: Goblin Gutterman
+- id: 16822317
+  name: Goblin Craftsman
+- id: 16822318
+  name: Moblin Ragman
+- id: 16822319
+  name: Dark Bats
+- id: 16822320
+  name: Bugbear Servingman
+- id: 16822321
+  name: Bugbear Servingman
+- id: 16822322
+  name: Bugbear Muscleman
+- id: 16822323
+  name: Moblin Chapman
+- id: 16822324
+  name: Goblin Leadman
+- id: 16822325
+  name: Goblin's Bat
+- id: 16822326
+  name: Stirge
+- id: 16822327
+  name: Stirge
+- id: 16822328
+  name: Dark Bats
+- id: 16822329
+  name: Stirge
+- id: 16822330
+  name: Moblin Ragman
+- id: 16822331
+  name: Ancient Bomb
+- id: 16822332
+  name: Moblin Pickman
+- id: 16822333
+  name: Goblin Hammerman
+- id: 16822334
+  name: Ancient Bomb
+- id: 16822335
+  name: Moblin Witchman
+- id: 16822336
+  name: Bugbear Servingman
+- id: 16822337
+  name: Moblin Chapman
+- id: 16822338
+  name: Goblin Gutterman
+- id: 16822339
+  name: Goblin Leadman
+- id: 16822340
+  name: Goblin's Bat
+- id: 16822341
+  name: Goblin Hammerman
+- id: 16822342
+  name: Goblin Craftsman
+- id: 16822343
+  name: Moblin Pickman
+- id: 16822344
+  name: Bugbear Servingman
+- id: 16822345
+  name: Goblin Craftsman
+- id: 16822346
+  name: Moblin Witchman
+- id: 16822347
+  name: Dark Bats
+- id: 16822348
+  name: Dark Bats
+- id: 16822349
+  name: Thunder Elemental
+- id: 16822350
+  name: Dark Bats
+- id: 16822351
+  name: Stirge
+- id: 16822352
+  name: Earth Elemental
+- id: 16822353
+  name: Stirge
+- id: 16822354
+  name: Stirge
+- id: 16822355
+  name: Thunder Elemental
+- id: 16822356
+  name: Ancient Bomb
+- id: 16822357
+  name: Goblin Hammerman
+- id: 16822358
+  name: Moblin Chapman
+- id: 16822359
+  name: Bugbear Servingman
+- id: 16822360
+  name: Bugbear Servingman
+- id: 16822361
+  name: Moblin Ragman
+- id: 16822362
+  name: Moblin Pickman
+- id: 16822363
+  name: Moblin Chapman
+- id: 16822364
+  name: Moblin Witchman
+- id: 16822365
+  name: Goblin Craftsman
+- id: 16822366
+  name: Goblin Leadman
+- id: 16822367
+  name: Goblin's Bat
+- id: 16822368
+  name: Stirge
+- id: 16822369
+  name: Ancient Bomb
+- id: 16822370
+  name: Dark Bats
+- id: 16822371
+  name: Ancient Bomb
+- id: 16822372
+  name: Moblin Ragman
+- id: 16822373
+  name: Bugbear Servingman
+- id: 16822374
+  name: Moblin Pickman
+- id: 16822375
+  name: Goblin Gutterman
+- id: 16822376
+  name: Stirge
+- id: 16822377
+  name: Moblin Rodman
+- id: 16822378
+  name: Moblin Rodman
+- id: 16822379
+  name: Moblin Rodman
+- id: 16822380
+  name: Moblin Rodman
+- id: 16822381
+  name: Goblin Craftsman
+- id: 16822382
+  name: Goblin Hammerman
+- id: 16822383
+  name: Moblin Pickman
+- id: 16822384
+  name: Moblin Ragman
+- id: 16822385
+  name: Goblin Hammerman
+- id: 16822386
+  name: Goblin Craftsman
+- id: 16822387
+  name: Moblin Chapman
+- id: 16822388
+  name: Moblin Witchman
+- id: 16822389
+  name: Goblin Gutterman
+- id: 16822390
+  name: Moblin Pickman
+- id: 16822391
+  name: Moblin Witchman
+- id: 16822392
+  name: Moblin Chapman
+- id: 16822393
+  name: Moblin Ragman
+- id: 16822394
+  name: Goblin Gutterman
+- id: 16822395
+  name: Dark Bats
+- id: 16822396
+  name: Stirge
+- id: 16822397
+  name: Earth Elemental
+- id: 16822398
+  name: Ancient Bomb
+- id: 16822399
+  name: Bugbear Bondman
+- id: 16822400
+  name: Bugbear Bondman
+- id: 16822401
+  name: Goblin Tollman
+- id: 16822402
+  name: Goblin's Bat
+- id: 16822403
+  name: Bugbear Bondman
+- id: 16822404
+  name: Moblin Gasman
+- id: 16822405
+  name: Moblin Coalman
+- id: 16822406
+  name: Moblin Repairman
+- id: 16822407
+  name: Goblin Doorman
+- id: 16822408
+  name: Goblin Oilman
+- id: 16822409
+  name: Moblin Pikeman
+- id: 16822410
+  name: Goblin Doorman
+- id: 16822411
+  name: Moblin Pikeman
+- id: 16822412
+  name: Goblin Oilman
+- id: 16822413
+  name: Bugbear Bondman
+- id: 16822414
+  name: Bugbear Bondman
+- id: 16822415
+  name: Bugbear Bondman
+- id: 16822416
+  name: Bugbear Bondman
+- id: 16822417
+  name: Dark Bats
+- id: 16822418
+  name: Ancient Bomb
+- id: 16822419
+  name: Goblin Doorman
+- id: 16822420
+  name: Moblin Repairman
+- id: 16822421
+  name: Bugbear Bondman
+- id: 16822422
+  name: Bugbear Bondman
+- id: 16822423
+  name: Bugbear Strongman
+- id: 16822424
+  name: Goblin Oilman
+- id: 16822425
+  name: Bugbear Bondman
+- id: 16822426
+  name: Bugbear Bondman
+- id: 16822427
+  name: Bugbear Strongman
+- id: 16822428
+  name: Goblin Shovelman
+- id: 16822429
+  name: Moblin Repairman
+- id: 16822430
+  name: Goblin Shovelman
+- id: 16822431
+  name: Goblin Tollman
+- id: 16822432
+  name: Goblin's Bat
+- id: 16822433
+  name: Goblin Freelance
+- id: 16822434
+  name: Moblin Gasman
+- id: 16822435
+  name: Moblin Coalman
+- id: 16822436
+  name: Moblin Pikeman
+- id: 16822437
+  name: Goblin Freelance
+- id: 16822438
+  name: Moblin Gasman
+- id: 16822439
+  name: Moblin Coalman
+- id: 16822440
+  name: Moblin Pikeman
+- id: 16822441
+  name: Stirge
+- id: 16822442
+  name: Stirge
+- id: 16822443
+  name: Ancient Bomb
+- id: 16822444
+  name: Moblin Gasman
+- id: 16822445
+  name: Moblin Coalman
+- id: 16822446
+  name: Moblin Pikeman
+- id: 16822447
+  name: Moblin Repairman
+- id: 16822448
+  name: Goblin Oilman
+- id: 16822449
+  name: Goblin Doorman
+- id: 16822450
+  name: Moblin Ashman
+- id: 16822451
+  name: Thunder Elemental
+- id: 16822452
+  name: Earth Elemental
+- id: 16822453
+  name: Dark Bats
+- id: 16822454
+  name: Thunder Elemental
+- id: 16822455
+  name: Earth Elemental
+- id: 16822456
+  name: Bugallug
+- id: 16822457
+  name: Moblin Gurneyman
+- id: 16822458
+  name: Moblin Gurneyman
+- id: 16822459
+  name: Goblin Wolfman
+- id: 16822460
+  name: Goblin Preceptor
+- id: 16822461
+  name: Grimoire Guru Grimogek
+- id: 16822462
+  name: Dread Dealing Dredodak
+- id: 16822463
+  name: Bugbear Porterman
+- id: 16822464
+  name: Bugbear Porterman
+- id: 16822465
+  name: Bugbear Porterman
+- id: 16822466
+  name: Bugbear Porterman
+- id: 16822469
+  name: Scrawled Writing
+- id: 16822470
+  name: Achieve Master
+- id: 16822471
+  name: Unity Master
+- id: 16822477
+  name: Rusty Lever
+- id: 16822478
+  name: Rusty Lever
+- id: 16822479
+  name: Rusty Lever
+- id: 16822480
+  name: DROPFLOOR_A
+- id: 16822482
+  name: DROPFLOOR_B
+- id: 16822484
+  name: DROPFLOOR_C
+- id: 16822488
+  name: Tarnotik
+- id: 16822489
+  name: ''
+- id: 16822490
+  name: ''
+- id: 16822491
+  name: ''
+- id: 16822492
+  name: ???
+- id: 16822493
+  name: Selh'teus
+- id: 16822494
+  name: Louverance
+- id: 16822495
+  name: ???
+- id: 16822496
+  name: Brakobrik
+- id: 16822497
+  name: ???
+- id: 16822498
+  name: ???
+- id: 16822499
+  name: ???
+- id: 16822500
+  name: Rakorok
+- id: 16822501
+  name: Jabbos
+- id: 16822502
+  name: ???
+- id: 16822503
+  name: ???
+- id: 16822504
+  name: ???
+- id: 16822505
+  name: ???
+- id: 16822506
+  name: ???
+- id: 16822507
+  name: Koblakiq
+- id: 16822508
+  name: Zeelozok
+- id: 16822509
+  name: ''
+- id: 16822510
+  name: ''
+- id: 16822511
+  name: ''
+- id: 16822512
+  name: ''
+- id: 16822513
+  name: Bartabaq
+- id: 16822515
+  name: Moogle
+- id: 16822516
+  name: Moogle
+- id: 16822517
+  name: Moogle
+- id: 16822518
+  name: Moogle
+- id: 16822519
+  name: Moogle
+- id: 16822520
+  name: Moogle
+- id: 16822521
+  name: Moogle
+- id: 16822522
+  name: Moogle
+- id: 16822523
+  name: Ramblix
+- id: 16822524
+  name: Goblin Footprint
+- id: 16822525
+  name: Mining Point
+- id: 16822526
+  name: Mining Point
+- id: 16822527
+  name: Mining Point
+- id: 16822528
+  name: Mining Point
+- id: 16822529
+  name: Mining Point
+- id: 16822530
+  name: Mining Point
+- id: 16822531
+  name: Treasure Chest
+- id: 16822532
+  name: Pawnpix
+- id: 16822533
+  name: Stufstix
+- id: 16822534
+  name: Twinkbrix
+- id: 16822535
+  name: Jabbos
+- id: 16822536
+  name: Chekochuk
+- id: 16822537
+  name: Movamuq
+- id: 16822538
+  name: Trikotrak
+- id: 16822539
+  name: Swipostik
+- id: 16822540
+  name: '5'
+- id: 16822541
+  name: '6'
+- id: 16822542
+  name: '7'
+- id: 16822543
+  name: '8'
+- id: 16822544
+  name: Iron Box
+- id: 16822545
+  name: Gu'Zho Thunderblade
+- id: 16822546
+  name: ???
+- id: 16822547
+  name: Goblin Preceptor
+- id: 16822548
+  name: Mighty Minded Generajiq
+- id: 16822549
+  name: Choplix Limblopper
+- id: 16822550
+  name: ''
+- id: 16822551
+  name: Geomagnetic Fount
+- id: 16822552
+  name: Survival Guide

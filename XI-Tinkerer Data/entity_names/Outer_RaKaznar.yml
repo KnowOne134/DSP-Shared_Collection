@@ -1,0 +1,839 @@
+names:
+- id: 17899521
+  name: Legionless Draugar
+- id: 17899522
+  name: Legionless Draugar
+- id: 17899523
+  name: Legionless Draugar
+- id: 17899524
+  name: Legionless Draugar
+- id: 17899525
+  name: Dreadhound
+- id: 17899526
+  name: Dreadhound
+- id: 17899527
+  name: Legionless Draugar
+- id: 17899528
+  name: Legionless Draugar
+- id: 17899529
+  name: Dreadhound
+- id: 17899530
+  name: Legionless Draugar
+- id: 17899531
+  name: Legionless Draugar
+- id: 17899532
+  name: Legionless Draugar
+- id: 17899533
+  name: Dreadhound
+- id: 17899534
+  name: Restless Twitherym
+- id: 17899535
+  name: Restless Twitherym
+- id: 17899536
+  name: Shunned Deeparrow
+- id: 17899537
+  name: Shunned Deeparrow
+- id: 17899538
+  name: Shunned Nightstalker
+- id: 17899539
+  name: Shunned Hexer
+- id: 17899540
+  name: Shunned Hexer
+- id: 17899541
+  name: Shunned Nightstalker
+- id: 17899542
+  name: Debauched Unseelie
+- id: 17899543
+  name: Debauched Unseelie
+- id: 17899544
+  name: Phlegmatic Byrgen
+- id: 17899545
+  name: Phlegmatic Byrgen
+- id: 17899546
+  name: Debauched Unseelie
+- id: 17899547
+  name: Debauched Unseelie
+- id: 17899548
+  name: Phlegmatic Byrgen
+- id: 17899549
+  name: Phlegmatic Byrgen
+- id: 17899550
+  name: Debauched Unseelie
+- id: 17899551
+  name: Debauched Unseelie
+- id: 17899552
+  name: Phlegmatic Byrgen
+- id: 17899553
+  name: Phlegmatic Byrgen
+- id: 17899554
+  name: Phlegmatic Byrgen
+- id: 17899555
+  name: Phlegmatic Byrgen
+- id: 17899556
+  name: Undulating Umbril
+- id: 17899557
+  name: Undulating Umbril
+- id: 17899558
+  name: Undulating Umbril
+- id: 17899559
+  name: Undulating Umbril
+- id: 17899560
+  name: Phlegmatic Byrgen
+- id: 17899561
+  name: Undulating Umbril
+- id: 17899562
+  name: Undulating Umbril
+- id: 17899563
+  name: Phlegmatic Byrgen
+- id: 17899564
+  name: Undulating Umbril
+- id: 17899565
+  name: Undulating Umbril
+- id: 17899566
+  name: Undulating Umbril
+- id: 17899567
+  name: Phlegmatic Byrgen
+- id: 17899568
+  name: Fluturini
+- id: 17899569
+  name: Fluturini
+- id: 17899570
+  name: Restless Twitherym
+- id: 17899571
+  name: Restless Twitherym
+- id: 17899572
+  name: Restless Twitherym
+- id: 17899573
+  name: Restless Twitherym
+- id: 17899574
+  name: Restless Twitherym
+- id: 17899575
+  name: Restless Twitherym
+- id: 17899576
+  name: Astringent Acuex
+- id: 17899577
+  name: Astringent Acuex
+- id: 17899578
+  name: Obfuscous Obdella
+- id: 17899579
+  name: Obfuscous Obdella
+- id: 17899580
+  name: Astringent Acuex
+- id: 17899581
+  name: Astringent Acuex
+- id: 17899582
+  name: Astringent Acuex
+- id: 17899583
+  name: Obfuscous Obdella
+- id: 17899584
+  name: Astringent Acuex
+- id: 17899585
+  name: Astringent Acuex
+- id: 17899586
+  name: Obfuscous Obdella
+- id: 17899587
+  name: Obfuscous Obdella
+- id: 17899588
+  name: Obfuscous Obdella
+- id: 17899589
+  name: Obfuscous Obdella
+- id: 17899590
+  name: Obfuscous Obdella
+- id: 17899591
+  name: Legionless Draugar
+- id: 17899592
+  name: Legionless Draugar
+- id: 17899593
+  name: Legionless Draugar
+- id: 17899594
+  name: Obfuscous Obdella
+- id: 17899595
+  name: Legionless Draugar
+- id: 17899596
+  name: Legionless Draugar
+- id: 17899597
+  name: Obfuscous Obdella
+- id: 17899598
+  name: Legionless Draugar
+- id: 17899599
+  name: Legionless Draugar
+- id: 17899600
+  name: Legionless Draugar
+- id: 17899601
+  name: Obfuscous Obdella
+- id: 17899602
+  name: Fluturini
+- id: 17899603
+  name: Fluturini
+- id: 17899604
+  name: Restless Twitherym
+- id: 17899605
+  name: Restless Twitherym
+- id: 17899606
+  name: Restless Twitherym
+- id: 17899607
+  name: Restless Twitherym
+- id: 17899608
+  name: Restless Twitherym
+- id: 17899609
+  name: Restless Twitherym
+- id: 17899610
+  name: Dullahan
+- id: 17899611
+  name: Dullahan
+- id: 17899612
+  name: Horrific Bhoot
+- id: 17899613
+  name: Dullahan
+- id: 17899614
+  name: Dullahan
+- id: 17899615
+  name: Horrific Bhoot
+- id: 17899616
+  name: Dullahan
+- id: 17899617
+  name: Horrific Bhoot
+- id: 17899618
+  name: Legionless Draugar
+- id: 17899619
+  name: Legionless Draugar
+- id: 17899620
+  name: Legionless Draugar
+- id: 17899621
+  name: Legionless Draugar
+- id: 17899622
+  name: Dreadhound
+- id: 17899623
+  name: Dreadhound
+- id: 17899624
+  name: Legionless Draugar
+- id: 17899625
+  name: Legionless Draugar
+- id: 17899626
+  name: Dreadhound
+- id: 17899627
+  name: Legionless Draugar
+- id: 17899628
+  name: Legionless Draugar
+- id: 17899629
+  name: Legionless Draugar
+- id: 17899630
+  name: Dreadhound
+- id: 17899631
+  name: Fluturini
+- id: 17899632
+  name: Fluturini
+- id: 17899633
+  name: Restless Twitherym
+- id: 17899634
+  name: Restless Twitherym
+- id: 17899635
+  name: Restless Twitherym
+- id: 17899636
+  name: Restless Twitherym
+- id: 17899637
+  name: Restless Twitherym
+- id: 17899638
+  name: Restless Twitherym
+- id: 17899639
+  name: Suspended Sculpture
+- id: 17899640
+  name: Suspended Sculpture
+- id: 17899641
+  name: Suspended Sculpture
+- id: 17899642
+  name: Suspended Sculpture
+- id: 17899643
+  name: Suspended Sculpture
+- id: 17899644
+  name: Suspended Sculpture
+- id: 17899645
+  name: Suspended Sculpture
+- id: 17899646
+  name: Suspended Sculpture
+- id: 17899647
+  name: Undulating Umbril
+- id: 17899648
+  name: Undulating Umbril
+- id: 17899649
+  name: Undulating Umbril
+- id: 17899650
+  name: Undulating Umbril
+- id: 17899651
+  name: Undulating Umbril
+- id: 17899652
+  name: Undulating Umbril
+- id: 17899653
+  name: Undulating Umbril
+- id: 17899654
+  name: Undulating Umbril
+- id: 17899655
+  name: Undulating Umbril
+- id: 17899656
+  name: Undulating Umbril
+- id: 17899657
+  name: Undulating Umbril
+- id: 17899658
+  name: Undulating Umbril
+- id: 17899659
+  name: Undulating Umbril
+- id: 17899660
+  name: Undulating Umbril
+- id: 17899661
+  name: Undulating Umbril
+- id: 17899662
+  name: Undulating Umbril
+- id: 17899663
+  name: Debauched Unseelie
+- id: 17899664
+  name: Phlegmatic Byrgen
+- id: 17899665
+  name: Phlegmatic Byrgen
+- id: 17899666
+  name: Debauched Unseelie
+- id: 17899667
+  name: Debauched Unseelie
+- id: 17899668
+  name: Debauched Unseelie
+- id: 17899669
+  name: Debauched Unseelie
+- id: 17899670
+  name: Phlegmatic Byrgen
+- id: 17899671
+  name: Phlegmatic Byrgen
+- id: 17899672
+  name: Astringent Acuex
+- id: 17899673
+  name: Obfuscous Obdella
+- id: 17899674
+  name: Obfuscous Obdella
+- id: 17899675
+  name: Astringent Acuex
+- id: 17899676
+  name: Astringent Acuex
+- id: 17899677
+  name: Astringent Acuex
+- id: 17899678
+  name: Astringent Acuex
+- id: 17899679
+  name: Obfuscous Obdella
+- id: 17899680
+  name: Obfuscous Obdella
+- id: 17899681
+  name: Dullahan
+- id: 17899682
+  name: Enshrouded Cyhiraeth
+- id: 17899683
+  name: Enshrouded Cyhiraeth
+- id: 17899684
+  name: Dullahan
+- id: 17899685
+  name: Dullahan
+- id: 17899686
+  name: Dullahan
+- id: 17899687
+  name: Dullahan
+- id: 17899688
+  name: Enshrouded Cyhiraeth
+- id: 17899689
+  name: Enshrouded Cyhiraeth
+- id: 17899690
+  name: Shunned Saboteur
+- id: 17899691
+  name: Shunned Saboteur
+- id: 17899692
+  name: Shunned Saboteur
+- id: 17899693
+  name: Shunned Fluteslinger
+- id: 17899694
+  name: Shunned Fluteslinger
+- id: 17899695
+  name: Shunned Fluteslinger
+- id: 17899696
+  name: Shunned Nightstalker
+- id: 17899697
+  name: Shunned Nightstalker
+- id: 17899698
+  name: Shunned Nightstalker
+- id: 17899699
+  name: Shunned Deeparrow
+- id: 17899700
+  name: Shunned Deeparrow
+- id: 17899701
+  name: Shunned Deeparrow
+- id: 17899702
+  name: Shunned Hexer
+- id: 17899703
+  name: Shunned Hexer
+- id: 17899704
+  name: Shunned Hexer
+- id: 17899705
+  name: Shunned Elementalist
+- id: 17899706
+  name: Shunned Elementalist
+- id: 17899707
+  name: Shunned Elementalist
+- id: 17899708
+  name: Shunned Engraver
+- id: 17899709
+  name: Shunned Engraver
+- id: 17899710
+  name: Shunned Engraver
+- id: 17899711
+  name: Shunned Valiant
+- id: 17899712
+  name: Shunned Valiant
+- id: 17899713
+  name: Shunned Valiant
+- id: 17899714
+  name: Bristlehair Bat
+- id: 17899715
+  name: Bristlehair Bat
+- id: 17899716
+  name: Bristlehair Bat
+- id: 17899717
+  name: Bristlehair Bat
+- id: 17899718
+  name: Bristlehair Bat
+- id: 17899719
+  name: Bristlehair Bat
+- id: 17899720
+  name: Bristlehair Bat
+- id: 17899721
+  name: Bristlehair Bat
+- id: 17899722
+  name: Bristlehair Bat
+- id: 17899723
+  name: Bristlehair Bat
+- id: 17899724
+  name: Bristlehair Bat
+- id: 17899725
+  name: Bristlehair Bat
+- id: 17899726
+  name: Bristlehair Bat
+- id: 17899727
+  name: Bristlehair Bat
+- id: 17899728
+  name: Bristlehair Bat
+- id: 17899729
+  name: Bristlehair Bat
+- id: 17899730
+  name: Bristlehair Bat
+- id: 17899731
+  name: Bristlehair Bat
+- id: 17899732
+  name: Bristlehair Bat
+- id: 17899733
+  name: Bristlehair Bat
+- id: 17899734
+  name: Bristlehair Bat
+- id: 17899735
+  name: Bristlehair Bat
+- id: 17899736
+  name: Bristlehair Bat
+- id: 17899737
+  name: Bristlehair Bat
+- id: 17899738
+  name: Ironclad
+- id: 17899739
+  name: Ironclad
+- id: 17899740
+  name: Restless Twitherym
+- id: 17899741
+  name: Restless Twitherym
+- id: 17899742
+  name: Ironclad
+- id: 17899743
+  name: Ironclad
+- id: 17899744
+  name: Restless Twitherym
+- id: 17899745
+  name: Restless Twitherym
+- id: 17899746
+  name: Ironclad
+- id: 17899747
+  name: Ironclad
+- id: 17899748
+  name: Ironclad
+- id: 17899749
+  name: Restless Twitherym
+- id: 17899750
+  name: Restless Twitherym
+- id: 17899751
+  name: Ironclad
+- id: 17899752
+  name: Ironclad
+- id: 17899753
+  name: Restless Twitherym
+- id: 17899754
+  name: Restless Twitherym
+- id: 17899755
+  name: Ironclad
+- id: 17899756
+  name: Suspended Sculpture
+- id: 17899757
+  name: Suspended Sculpture
+- id: 17899758
+  name: Suspended Sculpture
+- id: 17899759
+  name: Suspended Sculpture
+- id: 17899760
+  name: Suspended Sculpture
+- id: 17899761
+  name: Suspended Sculpture
+- id: 17899762
+  name: Suspended Sculpture
+- id: 17899763
+  name: Suspended Sculpture
+- id: 17899764
+  name: Undulating Umbril
+- id: 17899765
+  name: Undulating Umbril
+- id: 17899766
+  name: Undulating Umbril
+- id: 17899767
+  name: Undulating Umbril
+- id: 17899768
+  name: Undulating Umbril
+- id: 17899769
+  name: Undulating Umbril
+- id: 17899770
+  name: Undulating Umbril
+- id: 17899771
+  name: Undulating Umbril
+- id: 17899772
+  name: Undulating Umbril
+- id: 17899773
+  name: Undulating Umbril
+- id: 17899774
+  name: Undulating Umbril
+- id: 17899775
+  name: Undulating Umbril
+- id: 17899776
+  name: Undulating Umbril
+- id: 17899777
+  name: Undulating Umbril
+- id: 17899778
+  name: Undulating Umbril
+- id: 17899779
+  name: Undulating Umbril
+- id: 17899780
+  name: Dimensional Tether
+- id: 17899781
+  name: Procrustean Draugar
+- id: 17899782
+  name: Procrustean Draugar
+- id: 17899783
+  name: Festering Umbril
+- id: 17899784
+  name: Dimensional Tether
+- id: 17899785
+  name: Procrustean Draugar
+- id: 17899786
+  name: Procrustean Draugar
+- id: 17899787
+  name: Festering Umbril
+- id: 17899788
+  name: Dimensional Tether
+- id: 17899789
+  name: Procrustean Draugar
+- id: 17899790
+  name: Procrustean Draugar
+- id: 17899791
+  name: Festering Umbril
+- id: 17899792
+  name: Dimensional Tether
+- id: 17899793
+  name: Procrustean Draugar
+- id: 17899794
+  name: Procrustean Draugar
+- id: 17899795
+  name: Festering Umbril
+- id: 17899796
+  name: Amaranth Barrier
+- id: 17899797
+  name: Amaranth Barrier
+- id: 17899798
+  name: Amaranth Barrier
+- id: 17899799
+  name: Vengeful Shunned
+- id: 17899800
+  name: Vengeful Shunned
+- id: 17899801
+  name: Vengeful Shunned
+- id: 17899802
+  name: Vengeful Shunned
+- id: 17899803
+  name: Amaranth Barrier
+- id: 17899804
+  name: Amaranth Barrier
+- id: 17899805
+  name: Amaranth Barrier
+- id: 17899806
+  name: Vengeful Shunned
+- id: 17899807
+  name: Vengeful Shunned
+- id: 17899808
+  name: Vengeful Shunned
+- id: 17899809
+  name: Vengeful Shunned
+- id: 17899810
+  name: Amaranth Barrier
+- id: 17899811
+  name: Amaranth Barrier
+- id: 17899812
+  name: Amaranth Barrier
+- id: 17899813
+  name: Vengeful Shunned
+- id: 17899814
+  name: Vengeful Shunned
+- id: 17899815
+  name: Vengeful Shunned
+- id: 17899816
+  name: Vengeful Shunned
+- id: 17899817
+  name: Amaranth Barrier
+- id: 17899818
+  name: Amaranth Barrier
+- id: 17899819
+  name: Amaranth Barrier
+- id: 17899820
+  name: Vengeful Shunned
+- id: 17899821
+  name: Vengeful Shunned
+- id: 17899822
+  name: Vengeful Shunned
+- id: 17899823
+  name: Vengeful Shunned
+- id: 17899824
+  name: Apex Twitherym
+- id: 17899825
+  name: Apex Twitherym
+- id: 17899826
+  name: Apex Twitherym
+- id: 17899827
+  name: Apex Twitherym
+- id: 17899828
+  name: Apex Twitherym
+- id: 17899829
+  name: Apex Twitherym
+- id: 17899830
+  name: Apex Ironclad
+- id: 17899831
+  name: Apex Twitherym
+- id: 17899832
+  name: Apex Twitherym
+- id: 17899833
+  name: Apex Twitherym
+- id: 17899834
+  name: Apex Twitherym
+- id: 17899835
+  name: Apex Twitherym
+- id: 17899836
+  name: Apex Twitherym
+- id: 17899837
+  name: Apex Ironclad
+- id: 17899838
+  name: Apex Twitherym
+- id: 17899839
+  name: Apex Twitherym
+- id: 17899840
+  name: Apex Twitherym
+- id: 17899841
+  name: Apex Twitherym
+- id: 17899842
+  name: Apex Bat
+- id: 17899843
+  name: Apex Bat
+- id: 17899844
+  name: Apex Bat
+- id: 17899845
+  name: Apex Bat
+- id: 17899846
+  name: Apex Bat
+- id: 17899847
+  name: Apex Bat
+- id: 17899848
+  name: Apex Ironclad
+- id: 17899849
+  name: Apex Bat
+- id: 17899850
+  name: Apex Bat
+- id: 17899851
+  name: Apex Bat
+- id: 17899852
+  name: Apex Bat
+- id: 17899853
+  name: Apex Bat
+- id: 17899854
+  name: Apex Bat
+- id: 17899855
+  name: Apex Ironclad
+- id: 17899856
+  name: Apex Bat
+- id: 17899857
+  name: Apex Bat
+- id: 17899858
+  name: Apex Bat
+- id: 17899859
+  name: Apex Bat
+- id: 17899875
+  name: JGL_BUILD_MASTER_0
+- id: 17899876
+  name: JGL_BUILD_MASTER_1
+- id: 17899877
+  name: JGL_BUILD_MASTER_2
+- id: 17899878
+  name: JGL_BUILD_MASTER_3
+- id: 17899879
+  name: JGL_BUILD_MASTER_4
+- id: 17899880
+  name: JGL_BUILD_MASTER_5
+- id: 17899909
+  name: Mining Point
+- id: 17899910
+  name: Mining Point
+- id: 17899911
+  name: Mining Point
+- id: 17899912
+  name: Mining Point
+- id: 17899913
+  name: Mining Point
+- id: 17899914
+  name: Mining Point
+- id: 17899915
+  name: Mining Point
+- id: 17899916
+  name: Mining Point
+- id: 17899917
+  name: Mining Point
+- id: 17899918
+  name: Mining Point
+- id: 17899919
+  name: Mining Point
+- id: 17899920
+  name: Mining Point
+- id: 17899921
+  name: Soul Pyre
+- id: 17899922
+  name: Soul Pyre
+- id: 17899923
+  name: Soul Pyre
+- id: 17899924
+  name: Soul Pyre
+- id: 17899925
+  name: Soul Pyre
+- id: 17899926
+  name: Soul Pyre
+- id: 17899928
+  name: Achieve Master
+- id: 17899929
+  name: Unity Master
+- id: 17899936
+  name: Moogle
+- id: 17899937
+  name: Moogle
+- id: 17899938
+  name: Moogle
+- id: 17899939
+  name: Moogle
+- id: 17899940
+  name: Moogle
+- id: 17899941
+  name: Moogle
+- id: 17899942
+  name: Moogle
+- id: 17899943
+  name: Moogle
+- id: 17899964
+  name: ???
+- id: 17899976
+  name: Demonic Architrave
+- id: 17900000
+  name: ''
+- id: 17900001
+  name: Augural Conveyor
+- id: 17900002
+  name: ''
+- id: 17900003
+  name: Duskbrood Gate
+- id: 17900004
+  name: Brash Gate
+- id: 17900005
+  name: Deathborne Gate
+- id: 17900006
+  name: Ramblix
+- id: 17900007
+  name: Goblin Footprint
+- id: 17900008
+  name: DIRECTOR by yaeko
+- id: 17900009
+  name: Lerene
+- id: 17900010
+  name: ''
+- id: 17900011
+  name: ''
+- id: 17900012
+  name: ''
+- id: 17900013
+  name: Entwined Roots
+- id: 17900014
+  name: Entwined Roots
+- id: 17900015
+  name: Entwined Roots
+- id: 17900016
+  name: Entwined Roots
+- id: 17900017
+  name: Entwined Roots
+- id: 17900018
+  name: Entwined Roots
+- id: 17900019
+  name: Vertical Transit Device
+- id: 17900020
+  name: Vertical Transit Device
+- id: 17900021
+  name: Vertical Transit Device
+- id: 17900022
+  name: Vertical Transit Device
+- id: 17900023
+  name: Vertical Transit Device
+- id: 17900024
+  name: Vertical Transit Device
+- id: 17900025
+  name: Vertical Transit Device
+- id: 17900026
+  name: ''
+- id: 17900027
+  name: Geomantic Fumes
+- id: 17900028
+  name: Meeting Point
+- id: 17900029
+  name: ''
+- id: 17900030
+  name: ''
+- id: 17900031
+  name: ''
+- id: 17900032
+  name: ???
+- id: 17900033
+  name: ???
+- id: 17900034
+  name: ''
+- id: 17900035
+  name: 'Liseran Door: Exit'
+- id: 17900036
+  name: 'Liseran Door: Exit'
+- id: 17900037
+  name: ''
+- id: 17900038
+  name: ''
+- id: 17900039
+  name: ''
+- id: 17900040
+  name: ''
+- id: 17900041
+  name: Dummy
+- id: 17900042
+  name: Effigy of Sealing
+- id: 17900043
+  name: Effigy of Sealing

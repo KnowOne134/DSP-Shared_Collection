@@ -1,0 +1,2259 @@
+bytes_per_entry: 256
+flip_bytes: true
+lists:
+  0:
+  - string: N/A
+  1:
+  - string: Fodderchief Flayer
+  2:
+  - string: Warchief Wrecker
+  3:
+  - string: Dread Dragon Slayer
+  4:
+  - string: Overlord Executioner
+  5:
+  - string: Dark Dragon Slayer
+  6:
+  - string: Adamantking Killer
+  7:
+  - string: Black Dragon Slayer
+  8:
+  - string: Manifest Mauler
+  9:
+  - string: Behemoth's Bane
+  10:
+  - string: Archmage Assassin
+  11:
+  - string: Hellsbane
+  12:
+  - string: Giant Killer
+  13:
+  - string: Lich Banisher
+  14:
+  - string: Jellybane
+  15:
+  - string: Bogeydowner
+  16:
+  - string: Beakbender
+  17:
+  - string: Skullcrusher
+  18:
+  - string: Morbolbane
+  19:
+  - string: Goliath Killer
+  20:
+  - string: Mary's Guide
+  21:
+  - string: Simurgh Poacher
+  22:
+  - string: Roc Star
+  23:
+  - string: Serket Breaker
+  24:
+  - string: Cassienova
+  25:
+  - string: The Hornsplitter
+  26:
+  - string: Tortoise Torturer
+  27:
+  - string: Mon Cherry
+  28:
+  - string: Behemoth Dethroner
+  29:
+  - string: The Vivisector
+  30:
+  - string: Dragon Asher
+  31:
+  - string: Expeditionary Trooper
+  32:
+  - string: Bearer of the Wisewoman's Hope
+  33:
+  - string: Bearer of the Eight Prayers
+  34:
+  - string: Lightweaver
+  35:
+  - string: Destroyer of Antiquity
+  36:
+  - string: Sealer of the Portal of the Gods
+  37:
+  - string: Burier of the Illusion
+  38:
+  - string: '0'
+  39:
+  - string: Family Counselor
+  40:
+  - string: '0'
+  41:
+  - string: Great Grappler Scorpio!?
+  42:
+  - string: Bond Fixer
+  43:
+  - string: Vampire Hunter D-Minus
+  44:
+  - string: Sheep's Milk Deliverer
+  45:
+  - string: Bean Cuisine Salter
+  46:
+  - string: Total Loser
+  47:
+  - string: Doctor Shantotto's Flavor of the Month
+  48:
+  - string: Pilgrim to Holla
+  49:
+  - string: Pilgrim to Dem
+  50:
+  - string: Pilgrim to Mea
+  51:
+  - string: Daybreak Gambler
+  52:
+  - string: The Pious One
+  53:
+  - string: A Moss Kind Person
+  54:
+  - string: Entrance Denied
+  55:
+  - string: Apiarist
+  56:
+  - string: Rabbiter
+  57:
+  - string: Royal Grave Keeper
+  58:
+  - string: Courier Extraordinaire
+  59:
+  - string: Ronfaurian Rescuer
+  60:
+  - string: Pickpocket Pincher
+  61:
+  - string: Fang Finder
+  62:
+  - string: Faith like a Candle
+  63:
+  - string: The Pure One
+  64:
+  - string: Lost Child Officer
+  65:
+  - string: Silencer of the Lambs
+  66:
+  - string: Lost & Found Officer
+  67:
+  - string: Green Grocer
+  68:
+  - string: The Benevolent One
+  69:
+  - string: Knight in Training
+  70:
+  - string: Lizard Skinner
+  71:
+  - string: Bug Catcher
+  72:
+  - string: Spelunker
+  73:
+  - string: Arms Trader
+  74:
+  - string: Traveling Medicine Man
+  75:
+  - string: Cat Skinner
+  76:
+  - string: Carp Diem
+  77:
+  - string: Advertising Executive
+  78:
+  - string: Third-rate Organizer
+  79:
+  - string: Second-rate Organizer
+  80:
+  - string: First-rate Organizer
+  81:
+  - string: Bastok Welcoming Committee
+  82:
+  - string: Shell Outer
+  83:
+  - string: Bucket Fisher
+  84:
+  - string: Pursuer of the Past
+  85:
+  - string: Pursuer of the Truth
+  86:
+  - string: Mommy's Helper
+  87:
+  - string: Hot Dog
+  88:
+  - string: Stampeder
+  89:
+  - string: Qiji's Friend
+  90:
+  - string: Qiji's Rival
+  91:
+  - string: Contest Rigger
+  92:
+  - string: Ringbearer
+  93:
+  - string: Kulatz Bridge Companion
+  94:
+  - string: Beadeaux Surveyor
+  95:
+  - string: Avenger
+  96:
+  - string: Treasure Scavenger
+  97:
+  - string: Airship Denouncer
+  98:
+  - string: Zeruhn Sweeper
+  99:
+  - string: Tearjerker
+  100:
+  - string: Crab Crusher
+  101:
+  - string: Star of Ifrit
+  102:
+  - string: Sorrow Drowner
+  103:
+  - string: Brygid-approved
+  104:
+  - string: Drachenfall Ascetic
+  105:
+  - string: '"Steaming Sheep" Regular'
+  106:
+  - string: Purple Belt
+  107:
+  - string: Gustaberg Tourist
+  108:
+  - string: Sand Blaster
+  109:
+  - string: Black Death
+  110:
+  - string: '0'
+  111:
+  - string: Fresh "North Winds" Recruit
+  112:
+  - string: New "Best of the West" Recruit
+  113:
+  - string: New "Buuma's Boomers" Recruit
+  114:
+  - string: Heavens Tower Gatehouse Recruit
+  115:
+  - string: Cat Burglar Groupie
+  116:
+  - string: Crawler Culler
+  117:
+  - string: Savior of Knowledge
+  118:
+  - string: Star-ordained Warrior
+  119:
+  - string: Lower than the Lowest Tunnel Worm
+  120:
+  - string: Star Onion Brigade Member
+  121:
+  - string: Star Onion Brigadier
+  122:
+  - string: Quick Fixer
+  123:
+  - string: Fake-moustached Investigator
+  124:
+  - string: Hakkuru-Rinkuru's Benefactor
+  125:
+  - string: S.O.B. Super Hero
+  126:
+  - string: Editor's Hatchet Man
+  127:
+  - string: Doctor Shantotto's Guinea Pig
+  128:
+  - string: Spoilsport
+  129:
+  - string: Super Model
+  130:
+  - string: Ghostie Buster
+  131:
+  - string: Night Sky Navigator
+  132:
+  - string: Fast Food Deliverer
+  133:
+  - string: Cupid's Florist
+  134:
+  - string: Tarutaru Murder Suspect
+  135:
+  - string: Hexer Vexer
+  136:
+  - string: Cardian Tutor
+  137:
+  - string: Deliverer of Tearful News
+  138:
+  - string: Fossilized Sea Farer
+  139:
+  - string: Down Piper Pipe-upperer
+  140:
+  - string: Kisser Make-upper
+  141:
+  - string: Timekeeper
+  142:
+  - string: Fortune-teller in Training
+  143:
+  - string: Torchbearer
+  144:
+  - string: Tenshodo Member
+  145:
+  - string: Chocobo Trainer
+  146:
+  - string: Bringer of Bliss
+  147:
+  - string: Activist for Kindness
+  148:
+  - string: Envoy to the North
+  149:
+  - string: Exorcist in Training
+  150:
+  - string: Professional Loafer
+  151:
+  - string: Clock Tower Preservationist
+  152:
+  - string: Life Saver
+  153:
+  - string: Fool's Errand Runner
+  154:
+  - string: Card Collector
+  155:
+  - string: Researcher of Classics
+  156:
+  - string: Street Sweeper
+  157:
+  - string: Mercy Errand Runner
+  158:
+  - string: Two's Company
+  159:
+  - string: Believer of Altana
+  160:
+  - string: Trader of Mysteries
+  161:
+  - string: Trader of Antiquities
+  162:
+  - string: Trader of Renown
+  163:
+  - string: Brown Belt
+  164:
+  - string: Horizon Breaker
+  165:
+  - string: Goblin's Exclusive Fashion Mannequin
+  166:
+  - string: Summit Breaker
+  167:
+  - string: Sky Breaker
+  168:
+  - string: Cloud Breaker
+  169:
+  - string: Star Breaker
+  170:
+  - string: Greedalox
+  171:
+  - string: Certified Rhinostery Venturer
+  172:
+  - string: Cordon Bleu Fisher
+  173:
+  - string: Ace Angler
+  174:
+  - string: Lu Shang-like Fisher King
+  175:
+  - string: Matchmaker
+  176:
+  - string: Ecologist
+  177:
+  - string: Li'l Cupid
+  178:
+  - string: The Love Doctor
+  179:
+  - string: Savior of Love
+  180:
+  - string: Honorary Citizen of Selbina
+  181:
+  - string: Purveyor in Training
+  182:
+  - string: One-star Purveyor
+  183:
+  - string: Two-star Purveyor
+  184:
+  - string: Three-star Purveyor
+  185:
+  - string: Four-star Purveyor
+  186:
+  - string: Five-star Purveyor
+  187:
+  - string: Doctor Yoran-Oran Supporter
+  188:
+  - string: Doctor Shantotto Supporter
+  189:
+  - string: Professor Koru-Moru Supporter
+  190:
+  - string: Rainbow Weaver
+  191:
+  - string: Shadow Walker
+  192:
+  - string: Heir to the Holy Crest
+  193:
+  - string: Bushido Blade
+  194:
+  - string: '0'
+  195:
+  - string: Paragon of Paladin Excellence
+  196:
+  - string: Paragon of Beastmaster Excellence
+  197:
+  - string: Paragon of Ranger Excellence
+  198:
+  - string: Paragon of Dark Knight Excellence
+  199:
+  - string: Paragon of Bard Excellence
+  200:
+  - string: Paragon of Samurai Excellence
+  201:
+  - string: Paragon of Dragoon Excellence
+  202:
+  - string: Paragon of Ninja Excellence
+  203:
+  - string: Paragon of Summoner Excellence
+  204:
+  - string: '0'
+  205:
+  - string: '0'
+  206:
+  - string: New Adventurer
+  207:
+  - string: Certified Adventurer
+  208:
+  - string: Shadow Banisher
+  209:
+  - string: Tried and Tested Knight
+  210:
+  - string: Dark Sider
+  211:
+  - string: The Fanged One
+  212:
+  - string: Have Wings, Will Fly
+  213:
+  - string: Animal Trainer
+  214:
+  - string: Wandering Minstrel
+  215:
+  - string: Mog's Master
+  216:
+  - string: Mog's Kind Master
+  217:
+  - string: Mog's Exceptionally Kind Master
+  218:
+  - string: Paragon of Warrior Excellence
+  219:
+  - string: Paragon of Monk Excellence
+  220:
+  - string: Paragon of Red Mage Excellence
+  221:
+  - string: Paragon of Thief Excellence
+  222:
+  - string: Paragon of Black Mage Excellence
+  223:
+  - string: Paragon of White Mage Excellence
+  224:
+  - string: Mog's Loving Master
+  225:
+  - string: '0'
+  226:
+  - string: Royal Archer
+  227:
+  - string: Royal Spearman
+  228:
+  - string: Royal Squire
+  229:
+  - string: Royal Swordsman
+  230:
+  - string: Royal Cavalier
+  231:
+  - string: Royal Guard
+  232:
+  - string: Grand Knight of the Realm
+  233:
+  - string: Grand Temple Knight
+  234:
+  - string: Reserve Knight Captain
+  235:
+  - string: Elite Royal Guard
+  236:
+  - string: Legionnaire
+  237:
+  - string: Decurion
+  238:
+  - string: Centurion
+  239:
+  - string: Junior Musketeer
+  240:
+  - string: Senior Musketeer
+  241:
+  - string: Musketeer Commander
+  242:
+  - string: Gold Musketeer
+  243:
+  - string: Praefectus
+  244:
+  - string: Senior Gold Musketeer
+  245:
+  - string: Praefectus Castrorum
+  246:
+  - string: Freesword
+  247:
+  - string: Mercenary
+  248:
+  - string: Mercenary Captain
+  249:
+  - string: Combat Caster
+  250:
+  - string: Tactician Magician
+  251:
+  - string: Wise Wizard
+  252:
+  - string: Patriarch Protector
+  253:
+  - string: Caster Captain
+  254:
+  - string: Master Caster
+  255:
+  - string: Mercenary Major
+  256:
+  - string: Fugitive Minister Bounty Hunter
+  257:
+  - string: King of the Opo-opos
+  258:
+  - string: Excommunicate of Kazham
+  259:
+  - string: Kazham Caller
+  260:
+  - string: Dream Dweller
+  261:
+  - string: Apprentice Sommelier
+  262:
+  - string: Desert Hunter
+  263:
+  - string: Seeker of Truth
+  264:
+  - string: Kuftal Tourist
+  265:
+  - string: The Immortal Fisher, Lu Shang
+  266:
+  - string: Looks Sublime in a Subligar
+  267:
+  - string: Looks Good in Leggings
+  268:
+  - string: Honorary Doctorate, Majoring in Tonberries
+  269:
+  - string: Treasure-house Ransacker
+  270:
+  - string: Cracker of the Secret Code
+  271:
+  - string: Black Marketeer
+  272:
+  - string: Acquirer of Ancient Arcanum
+  273:
+  - string: Ya Done Good
+  274:
+  - string: Heir of the Great Fire
+  275:
+  - string: Heir of the Great Earth
+  276:
+  - string: Heir of the Great Water
+  277:
+  - string: Heir of the Great Wind
+  278:
+  - string: Heir of the Great Ice
+  279:
+  - string: Heir of the Great Lightning
+  280:
+  - string: Guider of Souls to the Sanctuary
+  281:
+  - string: Bearer of Bonds Beyond Time
+  282:
+  - string: Friend of the Opo-opos
+  283:
+  - string: Hero on Behalf of Windurst
+  284:
+  - string: Victor of the Balga Contest
+  285:
+  - string: Gullible's Travels
+  286:
+  - string: Even More Gullible's Travels
+  287:
+  - string: Heir of the New Moon
+  288:
+  - string: Assassin Reject
+  289:
+  - string: Black Belt
+  290:
+  - string: Vermillion Venturer
+  291:
+  - string: Cerulean Soldier
+  292:
+  - string: Emerald Exterminator
+  293:
+  - string: Guiding Star
+  294:
+  - string: Vestal Chamberlain
+  295:
+  - string: San d'Orian Royal Heir
+  296:
+  - string: Hero Among Heroes
+  297:
+  - string: Dynamis-San d'Oria Interloper
+  298:
+  - string: Dynamis-Bastok Interloper
+  299:
+  - string: Dynamis-Windurst Interloper
+  300:
+  - string: Dynamis-Jeuno Interloper
+  301:
+  - string: Dynamis-Beaucedine Interloper
+  302:
+  - string: Dynamis-Xarcabard Interloper
+  303:
+  - string: Discerning Individual
+  304:
+  - string: Very Discerning Individual
+  305:
+  - string: Extremely Discerning Individual
+  306:
+  - string: Royal Wedding Planner
+  307:
+  - string: Consort Candidate
+  308:
+  - string: Obsidian Storm
+  309:
+  - string: Pentacide Perpetrator
+  310:
+  - string: Wood Worshiper
+  311:
+  - string: Lumber Lather
+  312:
+  - string: Accomplished Carpenter
+  313:
+  - string: Anvil Advocate
+  314:
+  - string: Forge Fanatic
+  315:
+  - string: Accomplished Blacksmith
+  316:
+  - string: Trinket Turner
+  317:
+  - string: Silver Smelter
+  318:
+  - string: Accomplished Goldsmith
+  319:
+  - string: Knitting Know-It-All
+  320:
+  - string: Loom Lunatic
+  321:
+  - string: Accomplished Weaver
+  322:
+  - string: Formula Fiddler
+  323:
+  - string: Potion Potentate
+  324:
+  - string: Accomplished Alchemist
+  325:
+  - string: Bone Beautifier
+  326:
+  - string: Shell Scrimshander
+  327:
+  - string: Accomplished Boneworker
+  328:
+  - string: Hide Handler
+  329:
+  - string: Leather Lauder
+  330:
+  - string: Accomplished Tanner
+  331:
+  - string: Fastriver Fisher
+  332:
+  - string: Coastline Caster
+  333:
+  - string: Accomplished Angler
+  334:
+  - string: Gourmand Gratifier
+  335:
+  - string: Banquet Bestower
+  336:
+  - string: Accomplished Chef
+  337:
+  - string: Fine Tuner
+  338:
+  - string: Friend of the Helmed
+  339:
+  - string: Tavnazian Squire
+  340:
+  - string: Ducal Dupe
+  341:
+  - string: Hyper Ultra Sonic Adventurer
+  342:
+  - string: Rod Retriever
+  343:
+  - string: Deed Verifier
+  344:
+  - string: Chocobo Love Guru
+  345:
+  - string: Pick-up Artist
+  346:
+  - string: Trash Collector
+  347:
+  - string: Ancient Flame Follower
+  348:
+  - string: Tavnazian Traveler
+  349:
+  - string: Transient Dreamer
+  350:
+  - string: The Lost One
+  351:
+  - string: Treader of an Icy Past
+  352:
+  - string: Branded by Lightning
+  353:
+  - string: Seeker of the Light
+  354:
+  - string: Dead Body
+  355:
+  - string: Frozen Dead Body
+  356:
+  - string: Dreambreaker
+  357:
+  - string: Mist Melter
+  358:
+  - string: Delta Enforcer
+  359:
+  - string: Omega Ostracizer
+  360:
+  - string: Ultima Undertaker
+  361:
+  - string: Ulmia's Soulmate
+  362:
+  - string: Tenzen's Ally
+  363:
+  - string: Companion of Louverance
+  364:
+  - string: True Companion of Louverance
+  365:
+  - string: Prishe's Buddy
+  366:
+  - string: Nag'molada's Underling
+  367:
+  - string: Esha'ntarl's Comrade in Arms
+  368:
+  - string: The Chebukkis' Worst Nightmare
+  369:
+  - string: Brown Mage Guinea Pig
+  370:
+  - string: Brown Magic By-Product
+  371:
+  - string: Bastok's Second Best Dressed
+  372:
+  - string: Rookie Hero Instructor
+  373:
+  - string: Goblin in Disguise
+  374:
+  - string: Apostate for Hire
+  375:
+  - string: Talks with Tonberries
+  376:
+  - string: Rook Buster
+  377:
+  - string: Banneret
+  378:
+  - string: Gold Balli☆☆☆☆star
+  379:
+  - string: Mythril Balli☆☆☆star
+  380:
+  - string: Silver Balli☆☆star
+  381:
+  - string: Bronze Balli☆star
+  382:
+  - string: Searing★Star
+  383:
+  - string: Striking★Star
+  384:
+  - string: Soothing★Star
+  385:
+  - string: Sable★Star
+  386:
+  - string: Scarlet★Star
+  387:
+  - string: Sonic★Star
+  388:
+  - string: Saintly★Star
+  389:
+  - string: Shadowy★Star
+  390:
+  - string: Savage★Star
+  391:
+  - string: Singing★Star
+  392:
+  - string: Sniping★Star
+  393:
+  - string: Slicing★Star
+  394:
+  - string: Sneaking★Star
+  395:
+  - string: Spearing★Star
+  396:
+  - string: Summoning★Star
+  397:
+  - string: Putrid Purveyor of Pungent Petals
+  398:
+  - string: Unquenchable Light
+  399:
+  - string: Ballistager
+  400:
+  - string: Ultimate Champion of the World
+  401:
+  - string: Warrior of the Crystal
+  402:
+  - string: Indomitable Fisher
+  403:
+  - string: Averter of the Apocalypse
+  404:
+  - string: Banisher of Emptiness
+  405:
+  - string: Random Adventurer
+  406:
+  - string: Irresponsible Adventurer
+  407:
+  - string: Odorous Adventurer
+  408:
+  - string: Insignificant Adventurer
+  409:
+  - string: Final Balli☆☆☆☆star
+  410:
+  - string: Balli☆☆☆☆star Royale
+  411:
+  - string: Destined Fellow
+  412:
+  - string: Orcish Serjeant
+  413:
+  - string: Bronze Quadav
+  414:
+  - string: Yagudo Initiate
+  415:
+  - string: Moblin Kinsman
+  416:
+  - string: Sin Hunter Hunter
+  417:
+  - string: Disciple of Justice
+  418:
+  - string: Monarch Linn Patrol Guard
+  419:
+  - string: Team Player
+  420:
+  - string: Worthy of Trust
+  421:
+  - string: Conqueror of Fate
+  422:
+  - string: Breaker of the Chains
+  423:
+  - string: A Friend Indeed
+  424:
+  - string: Heir to the Realm of Dreams
+  425:
+  - string: Gold Hook
+  426:
+  - string: Mythril Hook
+  427:
+  - string: Silver Hook
+  428:
+  - string: Copper Hook
+  429:
+  - string: '0'
+  430:
+  - string: Dynamis-Valkurm Interloper
+  431:
+  - string: Dynamis-Buburimu Interloper
+  432:
+  - string: Dynamis-Qufim Interloper
+  433:
+  - string: Dynamis-Tavnazia Interloper
+  434:
+  - string: Confronter of Nightmares
+  435:
+  - string: Disturber of Slumber
+  436:
+  - string: Interrupter of Dreams
+  437:
+  - string: Sapphire★Star
+  438:
+  - string: Surging★Star
+  439:
+  - string: Swaying★Star
+  440:
+  - string: Dark Resistant
+  441:
+  - string: Bearer of the Mark of Zahak
+  442:
+  - string: Seagull Phratrie Crew Member
+  443:
+  - string: Proud Automaton Owner
+  444:
+  - string: Private Second Class
+  445:
+  - string: Private First Class
+  446:
+  - string: Superior Private
+  447:
+  - string: Wildcat Publicist
+  448:
+  - string: Adamantking Usurper
+  449:
+  - string: Overlord Overthrower
+  450:
+  - string: Deity Debunker
+  451:
+  - string: Fafnir Slayer
+  452:
+  - string: Aspidochelone Sinker
+  453:
+  - string: Nidhogg Slayer
+  454:
+  - string: Maat Masher
+  455:
+  - string: Kirin Captivator
+  456:
+  - string: Cactrot Desacelerador
+  457:
+  - string: Lifter of Shadows
+  458:
+  - string: Tiamat Trouncer
+  459:
+  - string: Vrtra Vanquisher
+  460:
+  - string: World Serpent Slayer
+  461:
+  - string: Xolotl Xtrapolator
+  462:
+  - string: Boroka Beleaguerer
+  463:
+  - string: Ouryu Overwhelmer
+  464:
+  - string: Vinegar Evaporator
+  465:
+  - string: Virtuous Saint
+  466:
+  - string: Bye-bye, Taisai
+  467:
+  - string: Temenos Liberator
+  468:
+  - string: Apollyon Ravager
+  469:
+  - string: Wyrm Astonisher
+  470:
+  - string: Nightmare Awakener
+  471:
+  - string: Cerberus Muzzler
+  472:
+  - string: Hydra Headhunter
+  473:
+  - string: Shining Scale Rifler
+  474:
+  - string: Troll Subjugator
+  475:
+  - string: Gorgonstone Sunderer
+  476:
+  - string: Khimaira Carver
+  477:
+  - string: Elite Einherjar
+  478:
+  - string: Star Charioteer
+  479:
+  - string: Sun Charioteer
+  480:
+  - string: Subduer of the Mamool Ja
+  481:
+  - string: Subduer of the Trolls
+  482:
+  - string: Subduer of the Undead Swarm
+  483:
+  - string: Agent of the Allied Forces
+  484:
+  - string: Scenic Snapshotter
+  485:
+  - string: Branded by the Five Serpents
+  486:
+  - string: Immortal Lion
+  487:
+  - string: Paragon of Blue Mage Excellence
+  488:
+  - string: Paragon of Corsair Excellence
+  489:
+  - string: Paragon of Puppetmaster Excellence
+  490:
+  - string: Lance Corporal
+  491:
+  - string: Corporal
+  492:
+  - string: Master of Ambition
+  493:
+  - string: Master of Chance
+  494:
+  - string: Master of Manipulation
+  495:
+  - string: Ovjang's Errand Runner
+  496:
+  - string: Sergeant
+  497:
+  - string: Sergeant Major
+  498:
+  - string: Karababa's Tour Guide
+  499:
+  - string: Karababa's Bodyguard
+  500:
+  - string: Karababa's Secret Agent
+  501:
+  - string: Skyserpent Aggrandizer
+  502:
+  - string: Chief Sergeant
+  503:
+  - string: Aphmau's Mercenary
+  504:
+  - string: Nashmeira's Mercenary
+  505:
+  - string: Chocorookie
+  506:
+  - string: Second Lieutenant
+  507:
+  - string: Galeserpent Guardian
+  508:
+  - string: Stoneserpent Shocktrooper
+  509:
+  - string: Photopticator Operator
+  510:
+  - string: Salaheem's Risk Assessor
+  511:
+  - string: Treasure Trove Tender
+  512:
+  - string: Gessho's Mercy
+  513:
+  - string: Emissary of the Empress
+  514:
+  - string: Endymion Paratrooper
+  515:
+  - string: Naja's Comrade-In-Arms
+  516:
+  - string: Nashmeira's Loyalist
+  517:
+  - string: Preventer of Ragnarok
+  518:
+  - string: Champion of Aht Urhgan
+  519:
+  - string: First Lieutenant
+  520:
+  - string: Captain
+  521:
+  - string: Crystal Stakes Cupholder
+  522:
+  - string: Winning Owner
+  523:
+  - string: Victorious Owner
+  524:
+  - string: Triumphant Owner
+  525:
+  - string: High Roller
+  526:
+  - string: Fortune's Favorite
+  527:
+  - string: Superhero
+  528:
+  - string: Superheroine
+  529:
+  - string: Bloody Berserker
+  530:
+  - string: The Sixth Serpent
+  531:
+  - string: Eternal Mercenary
+  532:
+  - string: Springserpent Sentry
+  533:
+  - string: Sprightly★Star
+  534:
+  - string: Sagacious★Star
+  535:
+  - string: Schultz Scholar
+  536:
+  - string: Knight of the Iron Ram
+  537:
+  - string: Fourth Division Soldier
+  538:
+  - string: Cobra Unit Mercenary
+  539:
+  - string: Windtalker
+  540:
+  - string: Lady Killer
+  541:
+  - string: Troupe Brilioth Dancer
+  542:
+  - string: Cait Sith's Assistant
+  543:
+  - string: Ajido-Marujido's Minder
+  544:
+  - string: Comet Charioteer
+  545:
+  - string: Moon Charioteer
+  546:
+  - string: Sandworm Wrangler
+  547:
+  - string: Ixion Hornbreaker
+  548:
+  - string: Lambton Worm Desegmenter
+  549:
+  - string: Pandemonium Queller
+  550:
+  - string: Debaser of Dynasties
+  551:
+  - string: Disperser of Darkness
+  552:
+  - string: Ender of Idolatry
+  553:
+  - string: Lugh Exorcist
+  554:
+  - string: Elatha Exorcist
+  555:
+  - string: Ethniu Exorcist
+  556:
+  - string: Tethra Exorcist
+  557:
+  - string: Buarainech Exorcist
+  558:
+  - string: Oupire Impaler
+  559:
+  - string: Scylla Skinner
+  560:
+  - string: Zirnitra Wingclipper
+  561:
+  - string: Dawon Trapper
+  562:
+  - string: Krabkatoa Steamer
+  563:
+  - string: Orcus Trophy Hunter
+  564:
+  - string: Blobdingnag Burster
+  565:
+  - string: Verthandi Ensnarer
+  566:
+  - string: Ruthven Entomber
+  567:
+  - string: Yilbegan Hideflayer
+  568:
+  - string: Torchbearer of the 1st Walk
+  569:
+  - string: Torchbearer of the 2nd Walk
+  570:
+  - string: Torchbearer of the 3rd Walk
+  571:
+  - string: Torchbearer of the 4th Walk
+  572:
+  - string: Torchbearer of the 5th Walk
+  573:
+  - string: Torchbearer of the 6th Walk
+  574:
+  - string: Torchbearer of the 7th Walk
+  575:
+  - string: Torchbearer of the 8th Walk
+  576:
+  - string: Furniture Store Owner
+  577:
+  - string: Armory Owner
+  578:
+  - string: Jewelry Store Owner
+  579:
+  - string: Boutique Owner
+  580:
+  - string: Apothecary Owner
+  581:
+  - string: Curiosity Shop Owner
+  582:
+  - string: Shoeshop Owner
+  583:
+  - string: Fishmonger Owner
+  584:
+  - string: Restaurant Owner
+  585:
+  - string: Assistant Detective
+  586:
+  - string: Promising Dancer
+  587:
+  - string: Stardust Dancer
+  588:
+  - string: Elegant Dancer
+  589:
+  - string: Dazzling Dance Diva
+  590:
+  - string: Friend of Lehko Habhoka
+  591:
+  - string: Summa Cum Laude
+  592:
+  - string: Grimoire Bearer
+  593:
+  - string: Seasoning Connoisseur
+  594:
+  - string: Fine Young Griffon
+  595:
+  - string: Babban's Traveling Companion
+  596:
+  - string: Fellow Fortifier
+  597:
+  - string: Chocochampion
+  598:
+  - string: Traverser of Time
+  599:
+  - string: Mythril Musketeer No. 6
+  600:
+  - string: Jewel of the Cobra Unit
+  601:
+  - string: Knight of the Swiftwing Griffin
+  602:
+  - string: Wyrmsworn Protector
+  603:
+  - string: Flameserpent Facilitator
+  604:
+  - string: Maze Wanderer
+  605:
+  - string: Maze Navigator
+  606:
+  - string: Maze Scholar
+  607:
+  - string: Maze Artisan
+  608:
+  - string: Maze Overlord
+  609:
+  - string: Swarminator
+  610:
+  - string: Battle of Jeuno Veteran
+  611:
+  - string: Grand Greedalox
+  612:
+  - string: Karaha-Baruha's Research Assistant
+  613:
+  - string: Honorary Knight of the Cardinal Stag
+  614:
+  - string: Detector of Deception
+  615:
+  - string: Silencer of the Echo
+  616:
+  - string: Bestrider of Futures
+  617:
+  - string: Mog House Handyperson
+  618:
+  - string: Presidential Protector
+  619:
+  - string: The Moon's Companion
+  620:
+  - string: Arrester of the Ascension
+  621:
+  - string: House Aurchiat Retainer
+  622:
+  - string: Wanderer of Time
+  623:
+  - string: Smiter of the Shadow
+  624:
+  - string: Heir of the Blessed Radiance
+  625:
+  - string: Heir of the Blighted Gloom
+  626:
+  - string: Sworn to the Dark Divinity
+  627:
+  - string: Temperer of Mythril
+  628:
+  - string: Star in the Azure Sky
+  629:
+  - string: Fangmonger Forestaller
+  630:
+  - string: Visitor to Abyssea
+  631:
+  - string: Friend of Abyssea
+  632:
+  - string: Warrior of Abyssea
+  633:
+  - string: Stormer of Abyssea
+  634:
+  - string: Devastator of Abyssea
+  635:
+  - string: Hero of Abyssea
+  636:
+  - string: Champion of Abyssea
+  637:
+  - string: Conqueror of Abyssea
+  638:
+  - string: Savior of Abyssea
+  639:
+  - string: Vanquisher of Spite
+  640:
+  - string: Hadhayosh Halterer
+  641:
+  - string: Briareus Feller
+  642:
+  - string: Karkinos Clawcrusher
+  643:
+  - string: Carabosse Quasher
+  644:
+  - string: Ovni Obliterator
+  645:
+  - string: Ruminator Confounder
+  646:
+  - string: Eccentricity Expunger
+  647:
+  - string: Fistule Drainer
+  648:
+  - string: Kukulkan Defanger
+  649:
+  - string: Turul Grounder
+  650:
+  - string: Bloodeye Banisher
+  651:
+  - string: Satiator Depriver
+  652:
+  - string: Iratham Capturer
+  653:
+  - string: Lacovie Capsizer
+  654:
+  - string: Chloris Uprooter
+  655:
+  - string: Myrmecoleon Tamer
+  656:
+  - string: Glavoid Stampeder
+  657:
+  - string: Usurper Deposer
+  658:
+  - string: Yaanei Crasher
+  659:
+  - string: Kutharei Unhorser
+  660:
+  - string: Sippoy Capturer
+  661:
+  - string: Titlacauan Dismemberer
+  662:
+  - string: Smok Defogger
+  663:
+  - string: Amhuluk Inundater
+  664:
+  - string: Pulverizer Dismantler
+  665:
+  - string: Durinn Deceiver
+  666:
+  - string: Karkadann Exoculator
+  667:
+  - string: Ulhuadshi Desiccator
+  668:
+  - string: Itzpapalotl Declawer
+  669:
+  - string: Sobek Mummifier
+  670:
+  - string: Cirein-croin Harpooner
+  671:
+  - string: Bukhis Tetherer
+  672:
+  - string: Sedna Tuskbreaker
+  673:
+  - string: Cleaver Dismantler
+  674:
+  - string: Executioner Dismantler
+  675:
+  - string: Severer Dismantler
+  676:
+  - string: Lusca Debunker
+  677:
+  - string: Tristitia Deliverer
+  678:
+  - string: Ketea Beacher
+  679:
+  - string: Rani Decrowner
+  680:
+  - string: Orthrus Decapitator
+  681:
+  - string: Dragua Slayer
+  682:
+  - string: Bennu Deplumer
+  683:
+  - string: Hedjedjet Destinger
+  684:
+  - string: Cuijatender Desiccator
+  685:
+  - string: Brulo Extinguisher
+  686:
+  - string: Pantokrator Disprover
+  687:
+  - string: Apademak Annihilator
+  688:
+  - string: Isgebind Defroster
+  689:
+  - string: Resheph Eradicator
+  690:
+  - string: Empousa Expurgator
+  691:
+  - string: Indrik Immolator
+  692:
+  - string: Ogopogo Overturner
+  693:
+  - string: Raja Regicide
+  694:
+  - string: Alfard Detoxifier
+  695:
+  - string: Azdaja Abolisher
+  696:
+  - string: Amphitrite Shucker
+  697:
+  - string: Fuath Purifier
+  698:
+  - string: Killakriq Excoriator
+  699:
+  - string: Maere Bestirrer
+  700:
+  - string: Wyrm God Defier
+  701:
+  - string: Hahava Condemner
+  702:
+  - string: Celaeno Silencer
+  703:
+  - string: Voidwrought Deconstructor
+  704:
+  - string: Devourer of Shadows
+  705:
+  - string: Kaggen Clobberer
+  706:
+  - string: Akvan Absterger
+  707:
+  - string: Pil Unfrocker
+  708:
+  - string: Qilin Contravener
+  709:
+  - string: Uptala Reprobator
+  710:
+  - string: Aello Abator
+  711:
+  - string: Torchbearer of the 9th Walk
+  712:
+  - string: Torchbearer of the 10th Walk
+  713:
+  - string: Torchbearer of the 11th Walk
+  714:
+  - string: Nightmare Illuminator
+  715:
+  - string: Gaunab Gutter
+  716:
+  - string: Kalasutrax Cremator
+  717:
+  - string: Ocythoe Overrider
+  718:
+  - string: Ig-Alima Inhumer
+  719:
+  - string: Botulus Rex Engorger
+  720:
+  - string: Torchbearer of the 12th Walk
+  721:
+  - string: Torchbearer of the 13th Walk
+  722:
+  - string: Torchbearer of the 14th Walk
+  723:
+  - string: Torchbearer of the 15th Walk
+  724:
+  - string: Delver of the Depths
+  725:
+  - string: Subjugator of the Lofty
+  726:
+  - string: Subjugator of the Mired
+  727:
+  - string: Subjugator of the Soaring
+  728:
+  - string: Subjugator of the Veiled
+  729:
+  - string: Legendary Legionnaire
+  730:
+  - string: Witness to Provenance
+  731:
+  - string: Bismarck Flenser
+  732:
+  - string: Morta Extirpator
+  733:
+  - string: Unsung Heroine
+  734:
+  - string: Epic Heroine
+  735:
+  - string: Epic Einherjar
+  736:
+  - string: Mender of Wings
+  737:
+  - string: Champion of the Dawn
+  738:
+  - string: Bushin Aspirant
+  739:
+  - string: Bushin-Ryu Inheritor
+  740:
+  - string: Temenos Emancipator
+  741:
+  - string: Apollyon Razer
+  742:
+  - string: Goldwing Squasher
+  743:
+  - string: Silagilith Detonator
+  744:
+  - string: Surtr Smotherer
+  745:
+  - string: Dreyruk Predominator
+  746:
+  - string: Samursk Vitiator
+  747:
+  - string: Umagrhk Manemangler
+  748:
+  - string: Supernal Savant
+  749:
+  - string: Solar Sage
+  750:
+  - string: Bolide Baron
+  751:
+  - string: Moon Maven
+  752:
+  - string: Izyx Vexer
+  753:
+  - string: Grannus Garroter
+  754:
+  - string: Svaha Striker
+  755:
+  - string: Melisseus Domesticator
+  756:
+  - string: Waterway Exemplar
+  757:
+  - string: Cavern Exemplar
+  758:
+  - string: Muyingwa Wingcrusher
+  759:
+  - string: Dakuwaqa Trawler
+  760:
+  - string: Tojil Douser
+  761:
+  - string: Colkhab Dethroner
+  762:
+  - string: Achuka Glaciator
+  763:
+  - string: Tchakka Desiccator
+  764:
+  - string: Weald Exemplar
+  765:
+  - string: Hurkan Birdlimeist
+  766:
+  - string: Yumcax Logger
+  767:
+  - string: Colkhab Hivecrusher
+  768:
+  - string: Achuka Coagulator
+  769:
+  - string: Tchakka Filleter
+  770:
+  - string: Rabbit Tussler
+  771:
+  - string: Helminth Mincer
+  772:
+  - string: Mandragardener
+  773:
+  - string: Moppet Massacrer
+  774:
+  - string: Rip-roaring Limbrender
+  775:
+  - string: Shell Shocker
+  776:
+  - string: Yagudo Coopkeeper
+  777:
+  - string: Gigasplosion Expert
+  778:
+  - string: Brother-in-arms
+  779:
+  - string: Antica Hunter
+  780:
+  - string: Amphibian Adulterator
+  781:
+  - string: Tonberry Toppler
+  782:
+  - string: Bloodline Corrupter
+  783:
+  - string: Kumhau Roaster
+  784:
+  - string: Brilliance Manifest
+  785:
+  - string: Quieter of Ancient Thoughts
+  786:
+  - string: Ark Hume Humiliator
+  787:
+  - string: Ark Elvaan Eviscerator
+  788:
+  - string: Ark Mithra Maligner
+  789:
+  - string: Ark Tarutaru Trouncer
+  790:
+  - string: Ark Galka Gouger
+  791:
+  - string: Pentarch Pacifier
+  792:
+  - string: Dream Distiller
+  793:
+  - string: Ra'Kaznar Exemplar
+  794:
+  - string: Utkux Peltburner
+  795:
+  - string: Cailimh Plumageplucker
+  796:
+  - string: Wopket Trunksplitter
+  797:
+  - string: Ouryu Obfuscator
+  798:
+  - string: Unwavering Blaze
+  799:
+  - string: Lancelord Divester
+  800:
+  - string: Gessho Pinioner
+  801:
+  - string: Sin Purger
+  802:
+  - string: Adumbration Disperser
+  803:
+  - string: Queller of Otherworldly Gales
+  804:
+  - string: Blaze Marshaller
+  805:
+  - string: Penitentes Blaster
+  806:
+  - string: Sirocco Tamer
+  807:
+  - string: Suchian Feller
+  808:
+  - string: Ombifid Slayer
+  809:
+  - string: Nilotican Decimator
+  810:
+  - string: Illuminator of the 1st Walk
+  811:
+  - string: Illuminator of the 2nd Walk
+  812:
+  - string: Illuminator of the 3rd Walk
+  813:
+  - string: Illuminator of the 4th Walk
+  814:
+  - string: Illuminator of the 5th Walk
+  815:
+  - string: Illuminator of the 6th Walk
+  816:
+  - string: Illuminator of the 7th Walk
+  817:
+  - string: Illuminator of the 8th Walk
+  818:
+  - string: Illuminator of the 9th Walk
+  819:
+  - string: Illuminator of the 10th Walk
+  820:
+  - string: Illuminator of the 11th Walk
+  821:
+  - string: Illuminator of the 12th Walk
+  822:
+  - string: Illuminator of the 13th Walk
+  823:
+  - string: Illuminator of the 14th Walk
+  824:
+  - string: Illuminator of the 15th Walk
+  825:
+  - string: Lithosphere Annihilator
+  826:
+  - string: Fulmination Disruptor
+  827:
+  - string: Bore Repulsor
+  828:
+  - string: Palloritus Punisher
+  829:
+  - string: Putraxia Pulverizer
+  830:
+  - string: Rancibus Ravager
+  831:
+  - string: Alluvion Assailant
+  832:
+  - string: Perfidien Paindealer
+  833:
+  - string: Plouton Pincer
+  834:
+  - string: Fleetstalker Fileter
+  835:
+  - string: Shockmaw Subjugator
+  836:
+  - string: Geodancer
+  837:
+  - string: Runic Engraver
+  838:
+  - string: Apprentice Tarutaru Sauce Manager
+  839:
+  - string: Vegetable Revolutionary
+  840:
+  - string: Friend to Gluttons
+  841:
+  - string: Waypoint Warrior
+  842:
+  - string: Ulbukan Stalwart
+  843:
+  - string: Toxin Tussler
+  844:
+  - string: Spiritual★Star
+  845:
+  - string: Stippling★Star
+  846:
+  - string: Geomancipator
+  847:
+  - string: Trialed-and-True Runeist
+  848:
+  - string: Queen's Confidante
+  849:
+  - string: Princess's Partisan
+  850:
+  - string: Potation Pathfinder
+  851:
+  - string: Storied Geomancer
+  852:
+  - string: Ultimate Runeist
+  853:
+  - string: Mog Garden Seedling
+  854:
+  - string: Kit Empathizer
+  855:
+  - string: Jingly Dangler
+  856:
+  - string: Mole Manipulator
+  857:
+  - string: Agrarian Novice
+  858:
+  - string: Agrarian Initiate
+  859:
+  - string: Agrarian Professional
+  860:
+  - string: Agrarian Virtuoso
+  861:
+  - string: Agrarian Tutelar
+  862:
+  - string: Weed Praetor
+  863:
+  - string: Tree Praetor
+  864:
+  - string: Thicket Praetor
+  865:
+  - string: Forest Praetor
+  866:
+  - string: Jungle Praetor
+  867:
+  - string: Copper Mattock
+  868:
+  - string: Silver Mattock
+  869:
+  - string: Mythril Mattock
+  870:
+  - string: Gold Mattock
+  871:
+  - string: Adamanttock
+  872:
+  - string: Puddle Patron
+  873:
+  - string: Swamp Savant
+  874:
+  - string: Pond Preceptor
+  875:
+  - string: River Regent
+  876:
+  - string: Monke-Onke Master
+  877:
+  - string: Sardineophyte
+  878:
+  - string: Calamareeler
+  879:
+  - string: Octopotentate
+  880:
+  - string: Giant Squimperator
+  881:
+  - string: Leviauthority
+  882:
+  - string: Novice Nurseryman
+  883:
+  - string: Lesser Landscaper
+  884:
+  - string: Greater Gardener
+  885:
+  - string: Honored Horticulturist
+  886:
+  - string: Mog Gardener
+  887:
+  - string: Brygidesque Manager
+  888:
+  - string: Vegetable Evolutionary
+  889:
+  - string: Blade Enthusiast
+  890:
+  - string: Runic Emissary
+  891:
+  - string: Maester of Maddening
+  892:
+  - string: Sunshine Cadet
+  893:
+  - string: Quartet Captivator
+  894:
+  - string: The Trustworthy
+  895:
+  - string: The Lovelorn
+  896:
+  - string: Inventor Extraordinaire
+  897:
+  - string: Boomy and Busty
+  898:
+  - string: Weatherer of Brumal Climes
+  899:
+  - string: White Knight
+  900:
+  - string: Light of Dawn
+  901:
+  - string: Observer of Fateful Cubes
+  902:
+  - string: Knower of Untruths
+  903:
+  - string: Ulbukan Understudy
+  904:
+  - string: Keeper of Ulbuka
+  905:
+  - string: Radiance of Daybreak
+  906:
+  - string: Wibbly Wobbly Woozy Warrior
+  907:
+  - string: Heir of Eternity
+  908:
+  - string: Prospective Pamperer
+  909:
+  - string: Novice Nuzzler
+  910:
+  - string: Serious Snuggler
+  911:
+  - string: Cultivated Coddler
+  912:
+  - string: Respected Ruffler
+  913:
+  - string: Dung Disseminator
+  914:
+  - string: Fauna Feeder
+  915:
+  - string: Confident Caretaker
+  916:
+  - string: Glorious Groomer
+  917:
+  - string: Transcendental Tamer
+  918:
+  - string: Bond-building Breeder
+  919:
+  - string: Clumsy Cleaver
+  920:
+  - string: Disciplined Dissector
+  921:
+  - string: Established Examiner
+  922:
+  - string: Sublime Slicer
+  923:
+  - string: Lifter of Spirits
+  924:
+  - string: Shedder of Harlequin Tears
+  925:
+  - string: Hope for the Future
+  926:
+  - string: Thousand-Year Traveler
+  927:
+  - string: Vanquisher of Ashrakk
+  928:
+  - string: Vanquisher of Dhokmak
+  929:
+  - string: Protected by Ulbukan Spirits
+  930:
+  - string: Receiver of Sigils
+  931:
+  - string: Destroyer of Hades
+  932:
+  - string: Bringer of the Dawn
+  933:
+  - string: The One True Pioneer
+  934:
+  - string: Bringer of Hope
+  935:
+  - string: Good Dew-er
+  936:
+  - string: Lifecycler
+  937:
+  - string: Sword Saint
+  938:
+  - string: The Fated
+  939:
+  - string: Protector of the Sacred City
+  940:
+  - string: Urmahlullu Usurper
+  941:
+  - string: Blazewing Berater
+  942:
+  - string: Coven Collapser
+  943:
+  - string: Pazuzu Perplexer
+  944:
+  - string: Wrathare Waxer
+  945:
+  - string: Lupine Liquidator
+  946:
+  - string: Ruby Repulser
+  947:
+  - string: Devil's Demise
+  948:
+  - string: Custodian of Ulbuka
+  949:
+  - string: Azi Dahaka Annihilator
+  950:
+  - string: Naga Raja Nullifier
+  951:
+  - string: Quetzalcoatl Plucker
+  952:
+  - string: Pakecet Pacifier
+  953:
+  - string: Duke Vepar Vanquisher
+  954:
+  - string: Vir'ava Vegetator
+  955:
+  - string: Byakko Tamer
+  956:
+  - string: Genbu Cracker
+  957:
+  - string: Seiryu Clipper
+  958:
+  - string: Suzaku Plucker
+  959:
+  - string: Kirin Dismantler
+  960:
+  - string: Vanquisher of Apathy
+  961:
+  - string: Vanquisher of Cowardice
+  962:
+  - string: Vanquisher of Envy
+  963:
+  - string: Vanquisher of Arrogance
+  964:
+  - string: Vanquisher of Rage
+  965:
+  - string: Purger of the Warder
+  966:
+  - string: Conquerer of Fear
+  967:
+  - string: Dawn's Delight
+  968:
+  - string: Maju Mauler
+  969:
+  - string: Yakshi Yanker
+  970:
+  - string: Neak Nullifier
+  971:
+  - string: Teles Terrifier
+  972:
+  - string: Assistant Extraordinaire
+  973:
+  - string: Exalted Fisherman
+  974:
+  - string: Sauce Supreme
+  975:
+  - string: Fish Whisperer
+  976:
+  - string: Abyssal Purveyor
+  977:
+  - string: Banisher of the Profane
+  978:
+  - string: Spirit Seeker
+  979:
+  - string: One-Eyed Jack
+  980:
+  - string: Curator Culler
+  981:
+  - string: Master Centurion
+  982:
+  - string: Master Brawler
+  983:
+  - string: Master Healer
+  984:
+  - string: Master Wizard
+  985:
+  - string: Master Warlock
+  986:
+  - string: Master Rogue
+  987:
+  - string: Master Templar
+  988:
+  - string: Master Soulstealer
+  989:
+  - string: Master Tamer
+  990:
+  - string: Master Lyricist
+  991:
+  - string: Master Hunter
+  992:
+  - string: Master Mononofu
+  993:
+  - string: Master Shinobi
+  994:
+  - string: Master Hussar
+  995:
+  - string: Master Evoker
+  996:
+  - string: Master Magus
+  997:
+  - string: Master Privateer
+  998:
+  - string: Master Puppeteer
+  999:
+  - string: Master Headliner
+  1000:
+  - string: Master Academic
+  1001:
+  - string: Master Naturalist
+  1002:
+  - string: Master Runeist
+  1003:
+  - string: Zerde Zapper
+  1004:
+  - string: Vinipata Vanquisher
+  1005:
+  - string: Schah Scraper
+  1006:
+  - string: Albumen Aggrivator
+  1007:
+  - string: Onychophora Obliterator
+  1008:
+  - string: Erinys Engulfer
+  1009:
+  - string: Herald of a New Age
+  1010:
+  - string: Preventer of the Second Coming
+  1011:
+  - string: Lux Ex Tenebris
+  1012:
+  - string: The Triumphant
+  1013:
+  - string: Fu Fighter
+  1014:
+  - string: Kyou Killer
+  1015:
+  - string: Kei Combuster
+  1016:
+  - string: Gin Gagger
+  1017:
+  - string: Kin Kicker
+  1018:
+  - string: Ou Obliterator
+  1019:
+  - string: Dynamis-San d'Oria [D] Trespasser
+  1020:
+  - string: Dynamis-San d'Oria [D] Infiltrator
+  1021:
+  - string: Dynamis-San d'Oria [D] Dominator
+  1022:
+  - string: Dynamis-Bastok [D] Trespasser
+  1023:
+  - string: Dynamis-Bastok [D] Infiltrator
+  1024:
+  - string: Dynamis-Bastok [D] Dominator
+  1025:
+  - string: Dynamis-Windurst [D] Trespasser
+  1026:
+  - string: Dynamis-Windurst [D] Infiltrator
+  1027:
+  - string: Dynamis-Windurst [D] Dominator
+  1028:
+  - string: Dynamis-Jeuno [D] Trespasser
+  1029:
+  - string: Dynamis-Jeuno [D] Infiltrator
+  1030:
+  - string: Dynamis-Jeuno [D] Dominator
+  1031:
+  - string: Mimic Masher
+  1032:
+  - string: Judge, Jury, and Executioner
+  1033:
+  - string: Zeroine to Heroine
+  1034:
+  - string: Every Ilm a Heroine
+  1035:
+  - string: '0'
+  1036:
+  - string: '0'
+  1037:
+  - string: '0'
+  1038:
+  - string: '0'
+  1039:
+  - string: '0'
+  1040:
+  - string: '0'
+  1041:
+  - string: '0'
+  1042:
+  - string: '0'
+  1043:
+  - string: '0'
+  1044:
+  - string: Vegetable Hero
+  1045:
+  - string: Contributer from the Shadows
+  1046:
+  - string: The Decider
+  1047:
+  - string: The Ascended
+  1048:
+  - string: The Savior of Vana'diel
+  1049:
+  - string: Blessed by the Avatars
+  1050:
+  - string: Seer of Songs
+  1051:
+  - string: The Eternal Wind
+  1052:
+  - string: ''
+  1053:
+  - string: ''
+  1054:
+  - string: ''
+  1055:
+  - string: ''
+  1056:
+  - string: ''
+  1057:
+  - string: ''
+  1058:
+  - string: ''
+  1059:
+  - string: ''
+  1060:
+  - string: ''
+  1061:
+  - string: ''
+  1062:
+  - string: ''
+  1063:
+  - string: ''
+  1064:
+  - string: ''
+  1065:
+  - string: ''
+  1066:
+  - string: ''
+  1067:
+  - string: ''
+  1068:
+  - string: ''
+  1069:
+  - string: ''
+  1070:
+  - string: ''
+  1071:
+  - string: ''
+  1072:
+  - string: ''
+  1073:
+  - string: ''
+  1074:
+  - string: ''
+  1075:
+  - string: ''
+  1076:
+  - string: ''
+  1077:
+  - string: ''
+  1078:
+  - string: ''
+  1079:
+  - string: ''
+  1080:
+  - string: ''
+  1081:
+  - string: ''
+  1082:
+  - string: ''
+  1083:
+  - string: ''
+  1084:
+  - string: ''
+  1085:
+  - string: ''
+  1086:
+  - string: ''
+  1087:
+  - string: ''
+  1088:
+  - string: ''
+  1089:
+  - string: ''
+  1090:
+  - string: ''
+  1091:
+  - string: ''
+  1092:
+  - string: ''
+  1093:
+  - string: ''
+  1094:
+  - string: ''
+  1095:
+  - string: ''
+  1096:
+  - string: ''
+  1097:
+  - string: ''
+  1098:
+  - string: ''
+  1099:
+  - string: ''
+  1100:
+  - string: ''
+  1101:
+  - string: ''
+  1102:
+  - string: ''
+  1103:
+  - string: ''
+  1104:
+  - string: ''
+  1105:
+  - string: ''
+  1106:
+  - string: ''
+  1107:
+  - string: ''
+  1108:
+  - string: ''
+  1109:
+  - string: ''
+  1110:
+  - string: ''
+  1111:
+  - string: ''
+  1112:
+  - string: ''
+  1113:
+  - string: ''
+  1114:
+  - string: ''
+  1115:
+  - string: ''
+  1116:
+  - string: Raptor Wrangler
+  1117:
+  - string: Gardener for the Ages
+  1118:
+  - string: Lagoon Explorer
+  1119:
+  - string: Servant to the Servant
+  1120:
+  - string: Legendary Woodworker
+  1121:
+  - string: Legendary Blacksmith
+  1122:
+  - string: Legendary Goldsmith
+  1123:
+  - string: Legendary Weaver
+  1124:
+  - string: Legendary Tanner
+  1125:
+  - string: Legendary Boneworker
+  1126:
+  - string: Legendary Alchemist
+  1127:
+  - string: Legendary Culinarian

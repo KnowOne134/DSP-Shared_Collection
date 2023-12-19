@@ -1,0 +1,753 @@
+names:
+- id: 17616897
+  name: Salamander
+- id: 17616898
+  name: Magma
+- id: 17616899
+  name: Volcanic Gas
+- id: 17616900
+  name: Old Opo-opo
+- id: 17616901
+  name: Old Opo-opo
+- id: 17616902
+  name: Old Opo-opo
+- id: 17616903
+  name: Dire Bat
+- id: 17616904
+  name: Volcanic Gas
+- id: 17616905
+  name: Old Opo-opo
+- id: 17616906
+  name: Old Opo-opo
+- id: 17616907
+  name: Old Opo-opo
+- id: 17616908
+  name: Dire Bat
+- id: 17616909
+  name: Old Opo-opo
+- id: 17616910
+  name: Old Opo-opo
+- id: 17616911
+  name: Dire Bat
+- id: 17616912
+  name: Volcanic Gas
+- id: 17616913
+  name: Old Opo-opo
+- id: 17616914
+  name: Old Opo-opo
+- id: 17616915
+  name: Old Opo-opo
+- id: 17616916
+  name: Dire Bat
+- id: 17616917
+  name: Volcanic Gas
+- id: 17616918
+  name: Old Opo-opo
+- id: 17616919
+  name: Old Opo-opo
+- id: 17616920
+  name: Old Opo-opo
+- id: 17616921
+  name: Old Opo-opo
+- id: 17616922
+  name: Dire Bat
+- id: 17616923
+  name: Old Opo-opo
+- id: 17616924
+  name: Dire Bat
+- id: 17616925
+  name: Volcanic Gas
+- id: 17616926
+  name: Old Opo-opo
+- id: 17616927
+  name: Old Opo-opo
+- id: 17616928
+  name: Old Opo-opo
+- id: 17616929
+  name: Dire Bat
+- id: 17616930
+  name: Volcanic Gas
+- id: 17616931
+  name: Volcanic Gas
+- id: 17616932
+  name: Old Opo-opo
+- id: 17616933
+  name: Old Opo-opo
+- id: 17616934
+  name: Volcanic Gas
+- id: 17616935
+  name: Volcanic Gas
+- id: 17616936
+  name: Old Opo-opo
+- id: 17616937
+  name: Old Opo-opo
+- id: 17616938
+  name: Volcanic Gas
+- id: 17616939
+  name: Volcanic Gas
+- id: 17616940
+  name: Old Opo-opo
+- id: 17616941
+  name: Old Opo-opo
+- id: 17616942
+  name: Volcanic Gas
+- id: 17616943
+  name: Volcanic Gas
+- id: 17616944
+  name: Old Opo-opo
+- id: 17616945
+  name: Volcanic Gas
+- id: 17616946
+  name: Volcanic Gas
+- id: 17616947
+  name: Volcano Wasp
+- id: 17616948
+  name: Volcano Wasp
+- id: 17616949
+  name: Volcano Wasp
+- id: 17616950
+  name: Volcano Wasp
+- id: 17616951
+  name: Volcanic Gas
+- id: 17616952
+  name: Volcanic Gas
+- id: 17616953
+  name: Volcano Wasp
+- id: 17616954
+  name: Volcanic Gas
+- id: 17616955
+  name: Volcano Wasp
+- id: 17616956
+  name: Dire Bat
+- id: 17616957
+  name: Volcanic Gas
+- id: 17616958
+  name: Volcano Wasp
+- id: 17616959
+  name: Volcano Wasp
+- id: 17616960
+  name: Dire Bat
+- id: 17616961
+  name: Volcanic Gas
+- id: 17616962
+  name: Volcano Wasp
+- id: 17616963
+  name: Dire Bat
+- id: 17616964
+  name: Volcano Wasp
+- id: 17616965
+  name: Dire Bat
+- id: 17616966
+  name: Volcanic Gas
+- id: 17616967
+  name: Dire Bat
+- id: 17616968
+  name: Volcanic Gas
+- id: 17616969
+  name: Volcanic Gas
+- id: 17616970
+  name: Volcanic Gas
+- id: 17616971
+  name: Volcanic Gas
+- id: 17616972
+  name: Volcanic Gas
+- id: 17616973
+  name: Volcanic Gas
+- id: 17616974
+  name: Goblin Bandit
+- id: 17616975
+  name: Goblin Shepherd
+- id: 17616976
+  name: Goblin's Bats
+- id: 17616977
+  name: Dodomeki
+- id: 17616978
+  name: Goblin Alchemist
+- id: 17616979
+  name: Goblin Mercenary
+- id: 17616980
+  name: Dodomeki
+- id: 17616981
+  name: Volcanic Gas
+- id: 17616982
+  name: Sulfur Scorpion
+- id: 17616983
+  name: Dodomeki
+- id: 17616984
+  name: Volcanic Gas
+- id: 17616985
+  name: Volcanic Gas
+- id: 17616986
+  name: Sulfur Scorpion
+- id: 17616987
+  name: Dodomeki
+- id: 17616988
+  name: Volcanic Gas
+- id: 17616989
+  name: Dodomeki
+- id: 17616990
+  name: Volcanic Gas
+- id: 17616991
+  name: Volcanic Gas
+- id: 17616992
+  name: Volcanic Gas
+- id: 17616993
+  name: Volcanic Gas
+- id: 17616994
+  name: Volcanic Gas
+- id: 17616995
+  name: Sulfur Scorpion
+- id: 17616996
+  name: Sulfur Scorpion
+- id: 17616997
+  name: Volcanic Gas
+- id: 17616998
+  name: Volcanic Gas
+- id: 17616999
+  name: Tyrannic Tunnok
+- id: 17617000
+  name: Sulfur Scorpion
+- id: 17617001
+  name: Sulfur Scorpion
+- id: 17617002
+  name: Volcanic Gas
+- id: 17617003
+  name: Volcanic Gas
+- id: 17617004
+  name: Volcanic Gas
+- id: 17617005
+  name: Volcanic Gas
+- id: 17617006
+  name: Sulfur Scorpion
+- id: 17617007
+  name: Eotyrannus
+- id: 17617008
+  name: Eotyrannus
+- id: 17617009
+  name: Volcanic Gas
+- id: 17617010
+  name: Sulfur Scorpion
+- id: 17617011
+  name: Eotyrannus
+- id: 17617012
+  name: Eotyrannus
+- id: 17617013
+  name: Lindwurm
+- id: 17617014
+  name: Goblin Bandit
+- id: 17617015
+  name: Goblin Shepherd
+- id: 17617016
+  name: Goblin's Bats
+- id: 17617017
+  name: Goblin Alchemist
+- id: 17617018
+  name: Goblin Mercenary
+- id: 17617019
+  name: Goblin Bandit
+- id: 17617020
+  name: Goblin Shepherd
+- id: 17617021
+  name: Goblin's Bats
+- id: 17617022
+  name: Goblin Alchemist
+- id: 17617023
+  name: Goblin Mercenary
+- id: 17617024
+  name: Goblin Bandit
+- id: 17617025
+  name: Goblin Shepherd
+- id: 17617026
+  name: Goblin's Bats
+- id: 17617027
+  name: Goblin Alchemist
+- id: 17617028
+  name: Goblin Mercenary
+- id: 17617029
+  name: Volcanic Gas
+- id: 17617030
+  name: Sulfur Scorpion
+- id: 17617031
+  name: Eotyrannus
+- id: 17617032
+  name: Eotyrannus
+- id: 17617033
+  name: Volcanic Gas
+- id: 17617034
+  name: Volcanic Gas
+- id: 17617035
+  name: Volcanic Gas
+- id: 17617036
+  name: Volcanic Gas
+- id: 17617037
+  name: Eotyrannus
+- id: 17617038
+  name: Volcanic Gas
+- id: 17617039
+  name: Volcanic Gas
+- id: 17617040
+  name: Volcanic Gas
+- id: 17617041
+  name: Dodomeki
+- id: 17617042
+  name: Volcanic Gas
+- id: 17617043
+  name: Volcanic Gas
+- id: 17617044
+  name: Dodomeki
+- id: 17617045
+  name: Volcanic Gas
+- id: 17617046
+  name: Eotyrannus
+- id: 17617047
+  name: Eotyrannus
+- id: 17617048
+  name: Volcanic Gas
+- id: 17617049
+  name: Eotyrannus
+- id: 17617050
+  name: Eotyrannus
+- id: 17617051
+  name: Volcanic Gas
+- id: 17617052
+  name: Eotyrannus
+- id: 17617053
+  name: Goblin Shepherd
+- id: 17617054
+  name: Goblin's Bats
+- id: 17617055
+  name: Goblin Alchemist
+- id: 17617056
+  name: Goblin Alchemist
+- id: 17617057
+  name: Goblin Mercenary
+- id: 17617058
+  name: Goblin Bandit
+- id: 17617059
+  name: Goblin Shepherd
+- id: 17617060
+  name: Goblin's Bats
+- id: 17617061
+  name: Goblin Mercenary
+- id: 17617062
+  name: Foreseer Oramix
+- id: 17617063
+  name: Goblin Bandit
+- id: 17617064
+  name: Goblin Shepherd
+- id: 17617065
+  name: Goblin's Bats
+- id: 17617066
+  name: Goblin Alchemist
+- id: 17617067
+  name: Goblin Mercenary
+- id: 17617068
+  name: Goblin Bandit
+- id: 17617069
+  name: Goblin Alchemist
+- id: 17617070
+  name: Volcanic Gas
+- id: 17617071
+  name: Volcanic Gas
+- id: 17617072
+  name: Volcanic Gas
+- id: 17617073
+  name: Eotyrannus
+- id: 17617074
+  name: Volcanic Gas
+- id: 17617075
+  name: Volcanic Bomb
+- id: 17617076
+  name: Volcanic Bomb
+- id: 17617077
+  name: Volcanic Bomb
+- id: 17617078
+  name: Nightmare Bats
+- id: 17617079
+  name: Volcanic Bomb
+- id: 17617080
+  name: Nightmare Bats
+- id: 17617081
+  name: Volcanic Bomb
+- id: 17617082
+  name: Nightmare Bats
+- id: 17617083
+  name: Nightmare Bats
+- id: 17617084
+  name: Volcanic Bomb
+- id: 17617085
+  name: Nightmare Bats
+- id: 17617086
+  name: Volcanic Bomb
+- id: 17617087
+  name: Volcanic Bomb
+- id: 17617088
+  name: Volcanic Bomb
+- id: 17617089
+  name: Volcanic Bomb
+- id: 17617090
+  name: Volcanic Bomb
+- id: 17617091
+  name: Nightmare Bats
+- id: 17617092
+  name: Nightmare Bats
+- id: 17617093
+  name: Nightmare Bats
+- id: 17617094
+  name: Volcanic Bomb
+- id: 17617095
+  name: Nightmare Bats
+- id: 17617096
+  name: Volcanic Bomb
+- id: 17617097
+  name: Nightmare Bats
+- id: 17617098
+  name: Volcanic Bomb
+- id: 17617099
+  name: Nightmare Bats
+- id: 17617100
+  name: Ash Lizard
+- id: 17617101
+  name: Ash Lizard
+- id: 17617102
+  name: Volcanic Bomb
+- id: 17617103
+  name: Volcanic Bomb
+- id: 17617104
+  name: Nightmare Bats
+- id: 17617105
+  name: Ash Lizard
+- id: 17617106
+  name: Ash Lizard
+- id: 17617107
+  name: Volcanic Bomb
+- id: 17617108
+  name: Nightmare Bats
+- id: 17617109
+  name: Volcanic Bomb
+- id: 17617110
+  name: Nightmare Bats
+- id: 17617111
+  name: Volcanic Bomb
+- id: 17617112
+  name: Volcanic Bomb
+- id: 17617113
+  name: Ash Lizard
+- id: 17617114
+  name: Volcanic Bomb
+- id: 17617115
+  name: Ash Lizard
+- id: 17617116
+  name: Ash Lizard
+- id: 17617117
+  name: Hurricane Wyvern
+- id: 17617118
+  name: Hurricane Wyvern
+- id: 17617119
+  name: Volcanic Bomb
+- id: 17617120
+  name: Ash Lizard
+- id: 17617121
+  name: Hurricane Wyvern
+- id: 17617122
+  name: Hurricane Wyvern
+- id: 17617123
+  name: Volcanic Bomb
+- id: 17617124
+  name: Ash Lizard
+- id: 17617125
+  name: Hurricane Wyvern
+- id: 17617126
+  name: Volcanic Bomb
+- id: 17617127
+  name: Ash Lizard
+- id: 17617128
+  name: Ash Lizard
+- id: 17617129
+  name: Hurricane Wyvern
+- id: 17617130
+  name: Vouivre
+- id: 17617131
+  name: Volcanic Bomb
+- id: 17617132
+  name: Volcanic Bomb
+- id: 17617133
+  name: Volcanic Bomb
+- id: 17617134
+  name: Volcanic Bomb
+- id: 17617135
+  name: Volcanic Bomb
+- id: 17617136
+  name: Volcanic Bomb
+- id: 17617137
+  name: Ash Lizard
+- id: 17617138
+  name: Volcanic Bomb
+- id: 17617139
+  name: Ash Lizard
+- id: 17617140
+  name: Volcanic Bomb
+- id: 17617141
+  name: Hurricane Wyvern
+- id: 17617142
+  name: Volcanic Bomb
+- id: 17617143
+  name: Volcanic Bomb
+- id: 17617144
+  name: Volcanic Bomb
+- id: 17617145
+  name: Ash Lizard
+- id: 17617146
+  name: Ash Lizard
+- id: 17617147
+  name: Ash Dragon
+- id: 17617148
+  name: Volcanic Bomb
+- id: 17617149
+  name: Volcanic Bomb
+- id: 17617150
+  name: Volcanic Bomb
+- id: 17617151
+  name: Volcanic Bomb
+- id: 17617152
+  name: Volcanic Bomb
+- id: 17617153
+  name: Volcanic Bomb
+- id: 17617154
+  name: Volcanic Bomb
+- id: 17617155
+  name: Volcanic Bomb
+- id: 17617156
+  name: Volcanic Bomb
+- id: 17617157
+  name: Mimic
+- id: 17617158
+  name: Bomb Queen
+- id: 17617159
+  name: Bomb Princess
+- id: 17617160
+  name: Bomb Prince
+- id: 17617161
+  name: Bomb Princess
+- id: 17617162
+  name: Bomb Prince
+- id: 17617163
+  name: Bomb Bastard
+- id: 17617164
+  name: Tarasque
+- id: 17617165
+  name: Cailleach Bheur
+- id: 17617166
+  name: Ildebrann
+- id: 17617167
+  name: Hraun Dragon
+- id: 17617168
+  name: Hraun Dragon
+- id: 17617169
+  name: Ildebrann
+- id: 17617170
+  name: Hraun Dragon
+- id: 17617171
+  name: Hraun Dragon
+- id: 17617172
+  name: Ildebrann
+- id: 17617173
+  name: Hraun Dragon
+- id: 17617174
+  name: Hraun Dragon
+- id: 17617175
+  name: Coca
+- id: 17617176
+  name: Coca
+- id: 17617177
+  name: Coca
+- id: 17617179
+  name: ???
+- id: 17617180
+  name: ???
+- id: 17617181
+  name: ???
+- id: 17617182
+  name: Treasure Casket
+- id: 17617183
+  name: Treasure Casket
+- id: 17617184
+  name: Treasure Casket
+- id: 17617185
+  name: Treasure Casket
+- id: 17617186
+  name: Treasure Casket
+- id: 17617187
+  name: Treasure Casket
+- id: 17617188
+  name: Treasure Casket
+- id: 17617189
+  name: Treasure Casket
+- id: 17617190
+  name: Treasure Casket
+- id: 17617191
+  name: Treasure Casket
+- id: 17617192
+  name: Treasure Casket
+- id: 17617193
+  name: Treasure Casket
+- id: 17617194
+  name: Treasure Casket
+- id: 17617195
+  name: Treasure Casket
+- id: 17617196
+  name: Treasure Casket
+- id: 17617197
+  name: Treasure Casket
+- id: 17617198
+  name: Achieve Master
+- id: 17617199
+  name: Unity Master
+- id: 17617204
+  name: Flame Spout
+- id: 17617205
+  name: Flame Spout
+- id: 17617206
+  name: Flame Spout
+- id: 17617207
+  name: Flame Spout
+- id: 17617208
+  name: Altar of Ashes
+- id: 17617214
+  name: ???
+- id: 17617216
+  name: Moogle
+- id: 17617217
+  name: Moogle
+- id: 17617218
+  name: Moogle
+- id: 17617219
+  name: Moogle
+- id: 17617220
+  name: Moogle
+- id: 17617221
+  name: Moogle
+- id: 17617222
+  name: Moogle
+- id: 17617223
+  name: Moogle
+- id: 17617224
+  name: Treasure Coffer
+- id: 17617225
+  name: Mining Point
+- id: 17617226
+  name: Mining Point
+- id: 17617227
+  name: Mining Point
+- id: 17617228
+  name: Mining Point
+- id: 17617229
+  name: Mining Point
+- id: 17617230
+  name: Mining Point
+- id: 17617231
+  name: ''
+- id: 17617232
+  name: Capacucu
+- id: 17617233
+  name: Putori-Tutori
+- id: 17617234
+  name: Kilhwch
+- id: 17617235
+  name: Mieuseloir
+- id: 17617236
+  name: Lhu Mhakaracca
+- id: 17617237
+  name: Xonia
+- id: 17617238
+  name: Fonove
+- id: 17617239
+  name: Dzhau Yaam
+- id: 17617240
+  name: Kupalu-Harupalu
+- id: 17617241
+  name: Noillurie
+- id: 17617242
+  name: Umon-Paumon
+- id: 17617243
+  name: Ghebben
+- id: 17617244
+  name: Elrica
+- id: 17617245
+  name: Terounalivet
+- id: 17617246
+  name: ???
+- id: 17617247
+  name: Ramblix
+- id: 17617248
+  name: Goblin Footprint
+- id: 17617249
+  name: GoalPoint
+- id: 17617250
+  name: GoalPoint
+- id: 17617251
+  name: GoalPoint
+- id: 17617252
+  name: GoalPoint
+- id: 17617253
+  name: GoalPoint
+- id: 17617254
+  name: GoalPoint
+- id: 17617255
+  name: Moogle
+- id: 17617256
+  name: Moogle
+- id: 17617257
+  name: Moogle
+- id: 17617258
+  name: Moogle
+- id: 17617259
+  name: Moogle
+- id: 17617260
+  name: Moogle
+- id: 17617261
+  name: Planar Rift
+- id: 17617262
+  name: Planar Rift
+- id: 17617263
+  name: Planar Rift
+- id: 17617264
+  name: Riftworn Pyxis
+- id: 17617265
+  name: Riftworn Pyxis
+- id: 17617266
+  name: Riftworn Pyxis
+- id: 17617267
+  name: Grounds Tome
+- id: 17617268
+  name: Grounds Tome
+- id: 17617269
+  name: Grounds Tome
+- id: 17617270
+  name: Grounds Tome
+- id: 17617271
+  name: Grounds Tome
+- id: 17617272
+  name: Grounds Tome
+- id: 17617273
+  name: Grounds Tome
+- id: 17617274
+  name: Grounds Tome
+- id: 17617275
+  name: 'Home Point #1'
+- id: 17617276
+  name: 'Home Point #2'
+- id: 17617277
+  name: 'Home Point #3'
+- id: 17617278
+  name: 'Home Point #4'
+- id: 17617279
+  name: 'Home Point #5'
+- id: 17617280
+  name: Ethereal Junction
+- id: 17617281
+  name: Ethereal Junction
+- id: 17617282
+  name: Ethereal Junction
+- id: 17617283
+  name: Survival Guide

@@ -1,0 +1,641 @@
+names:
+- id: 17514497
+  name: Ark Angel HM
+- id: 17514498
+  name: Ark Angel HM
+- id: 17514499
+  name: Ark Angel HM
+- id: 17514500
+  name: Ark Angel MR
+- id: 17514501
+  name: Ark Angel MR
+- id: 17514502
+  name: Ark Angel MR
+- id: 17514503
+  name: Ark Angel's Tiger
+- id: 17514504
+  name: Ark Angel's Tiger
+- id: 17514505
+  name: Ark Angel's Tiger
+- id: 17514506
+  name: Ark Angel's Mandragora
+- id: 17514507
+  name: Ark Angel's Mandragora
+- id: 17514508
+  name: Ark Angel's Mandragora
+- id: 17514509
+  name: Ark Angel EV
+- id: 17514510
+  name: Ark Angel EV
+- id: 17514511
+  name: Ark Angel EV
+- id: 17514512
+  name: Ark Angel TT
+- id: 17514513
+  name: Ark Angel TT
+- id: 17514514
+  name: Ark Angel TT
+- id: 17514515
+  name: Ark Angel GK
+- id: 17514516
+  name: Ark Angel GK
+- id: 17514517
+  name: Ark Angel GK
+- id: 17514518
+  name: Ark Angel's Wyvern
+- id: 17514519
+  name: Ark Angel's Wyvern
+- id: 17514520
+  name: Ark Angel's Wyvern
+- id: 17514521
+  name: Ark Angel HM
+- id: 17514522
+  name: Ark Angel MR
+- id: 17514523
+  name: Ark Angel's Tiger
+- id: 17514524
+  name: Ark Angel's Mandragora
+- id: 17514525
+  name: Ark Angel EV
+- id: 17514526
+  name: Ark Angel TT
+- id: 17514527
+  name: Ark Angel GK
+- id: 17514528
+  name: Ark Angel's Wyvern
+- id: 17514529
+  name: Ark Angel HM
+- id: 17514530
+  name: Ark Angel MR
+- id: 17514531
+  name: Ark Angel's Tiger
+- id: 17514532
+  name: Ark Angel's Mandragora
+- id: 17514533
+  name: Ark Angel EV
+- id: 17514534
+  name: Ark Angel TT
+- id: 17514535
+  name: Ark Angel GK
+- id: 17514536
+  name: Ark Angel's Wyvern
+- id: 17514537
+  name: Ark Angel HM
+- id: 17514538
+  name: Ark Angel MR
+- id: 17514539
+  name: Ark Angel's Tiger
+- id: 17514540
+  name: Ark Angel's Mandragora
+- id: 17514541
+  name: Ark Angel EV
+- id: 17514542
+  name: Ark Angel TT
+- id: 17514543
+  name: Ark Angel GK
+- id: 17514544
+  name: Ark Angel's Wyvern
+- id: 17514545
+  name: Ark Angel HM
+- id: 17514546
+  name: Ark Angel HM
+- id: 17514547
+  name: Ark Angel HM
+- id: 17514548
+  name: Ark Angel MR
+- id: 17514549
+  name: Ark Angel MR
+- id: 17514550
+  name: Ark Angel MR
+- id: 17514551
+  name: Ark Angel's Tiger
+- id: 17514552
+  name: Ark Angel's Tiger
+- id: 17514553
+  name: Ark Angel's Tiger
+- id: 17514554
+  name: Ark Angel's Mandragora
+- id: 17514555
+  name: Ark Angel's Mandragora
+- id: 17514556
+  name: Ark Angel's Mandragora
+- id: 17514557
+  name: Ark Angel EV
+- id: 17514558
+  name: Ark Angel EV
+- id: 17514559
+  name: Ark Angel EV
+- id: 17514560
+  name: Ark Angel TT
+- id: 17514561
+  name: Ark Angel TT
+- id: 17514562
+  name: Ark Angel TT
+- id: 17514563
+  name: Ark Angel GK
+- id: 17514564
+  name: Ark Angel GK
+- id: 17514565
+  name: Ark Angel GK
+- id: 17514566
+  name: Ark Angel's Wyvern
+- id: 17514567
+  name: Ark Angel's Wyvern
+- id: 17514568
+  name: Ark Angel's Wyvern
+- id: 17514569
+  name: Ark Angel HM
+- id: 17514570
+  name: Ark Angel MR
+- id: 17514571
+  name: Ark Angel's Tiger
+- id: 17514572
+  name: Ark Angel's Mandragora
+- id: 17514573
+  name: Ark Angel EV
+- id: 17514574
+  name: Ark Angel TT
+- id: 17514575
+  name: Ark Angel GK
+- id: 17514576
+  name: Ark Angel's Wyvern
+- id: 17514577
+  name: Ark Angel HM
+- id: 17514578
+  name: Ark Angel MR
+- id: 17514579
+  name: Ark Angel's Tiger
+- id: 17514580
+  name: Ark Angel's Mandragora
+- id: 17514581
+  name: Ark Angel EV
+- id: 17514582
+  name: Ark Angel TT
+- id: 17514583
+  name: Ark Angel GK
+- id: 17514584
+  name: Ark Angel's Wyvern
+- id: 17514585
+  name: Ark Angel HM
+- id: 17514586
+  name: Ark Angel MR
+- id: 17514587
+  name: Ark Angel's Tiger
+- id: 17514588
+  name: Ark Angel's Mandragora
+- id: 17514589
+  name: Ark Angel EV
+- id: 17514590
+  name: Ark Angel TT
+- id: 17514591
+  name: Ark Angel GK
+- id: 17514592
+  name: Ark Angel's Wyvern
+- id: 17514593
+  name: Ark Angel HM
+- id: 17514594
+  name: Ark Angel HM
+- id: 17514595
+  name: Ark Angel HM
+- id: 17514596
+  name: Ark Angel MR
+- id: 17514597
+  name: Ark Angel MR
+- id: 17514598
+  name: Ark Angel MR
+- id: 17514599
+  name: Ark Angel's Tiger
+- id: 17514600
+  name: Ark Angel's Tiger
+- id: 17514601
+  name: Ark Angel's Tiger
+- id: 17514602
+  name: Ark Angel's Mandragora
+- id: 17514603
+  name: Ark Angel's Mandragora
+- id: 17514604
+  name: Ark Angel's Mandragora
+- id: 17514605
+  name: Ark Angel EV
+- id: 17514606
+  name: Ark Angel EV
+- id: 17514607
+  name: Ark Angel EV
+- id: 17514608
+  name: Ark Angel TT
+- id: 17514609
+  name: Ark Angel TT
+- id: 17514610
+  name: Ark Angel TT
+- id: 17514611
+  name: Ark Angel GK
+- id: 17514612
+  name: Ark Angel GK
+- id: 17514613
+  name: Ark Angel GK
+- id: 17514614
+  name: Ark Angel's Wyvern
+- id: 17514615
+  name: Ark Angel's Wyvern
+- id: 17514616
+  name: Ark Angel's Wyvern
+- id: 17514617
+  name: Ark Angel HM
+- id: 17514618
+  name: Ark Angel MR
+- id: 17514619
+  name: Ark Angel's Tiger
+- id: 17514620
+  name: Ark Angel's Mandragora
+- id: 17514621
+  name: Ark Angel EV
+- id: 17514622
+  name: Ark Angel TT
+- id: 17514623
+  name: Ark Angel GK
+- id: 17514624
+  name: Ark Angel's Wyvern
+- id: 17514625
+  name: Ark Angel HM
+- id: 17514626
+  name: Ark Angel MR
+- id: 17514627
+  name: Ark Angel's Tiger
+- id: 17514628
+  name: Ark Angel's Mandragora
+- id: 17514629
+  name: Ark Angel EV
+- id: 17514630
+  name: Ark Angel TT
+- id: 17514631
+  name: Ark Angel GK
+- id: 17514632
+  name: Ark Angel's Wyvern
+- id: 17514633
+  name: Ark Angel HM
+- id: 17514634
+  name: Ark Angel MR
+- id: 17514635
+  name: Ark Angel's Tiger
+- id: 17514636
+  name: Ark Angel's Mandragora
+- id: 17514637
+  name: Ark Angel EV
+- id: 17514638
+  name: Ark Angel TT
+- id: 17514639
+  name: Ark Angel GK
+- id: 17514640
+  name: Ark Angel's Wyvern
+- id: 17514641
+  name: Ark Angel HM
+- id: 17514642
+  name: Ark Angel HM
+- id: 17514643
+  name: Ark Angel HM
+- id: 17514644
+  name: Ark Angel MR
+- id: 17514645
+  name: Ark Angel MR
+- id: 17514646
+  name: Ark Angel MR
+- id: 17514647
+  name: Ark Angel's Tiger
+- id: 17514648
+  name: Ark Angel's Tiger
+- id: 17514649
+  name: Ark Angel's Tiger
+- id: 17514650
+  name: Ark Angel's Mandragora
+- id: 17514651
+  name: Ark Angel's Mandragora
+- id: 17514652
+  name: Ark Angel's Mandragora
+- id: 17514653
+  name: Ark Angel EV
+- id: 17514654
+  name: Ark Angel EV
+- id: 17514655
+  name: Ark Angel EV
+- id: 17514656
+  name: Ark Angel TT
+- id: 17514657
+  name: Ark Angel TT
+- id: 17514658
+  name: Ark Angel TT
+- id: 17514659
+  name: Ark Angel GK
+- id: 17514660
+  name: Ark Angel GK
+- id: 17514661
+  name: Ark Angel GK
+- id: 17514662
+  name: Ark Angel's Wyvern
+- id: 17514663
+  name: Ark Angel's Wyvern
+- id: 17514664
+  name: Ark Angel's Wyvern
+- id: 17514665
+  name: Ark Angel HM
+- id: 17514666
+  name: Ark Angel MR
+- id: 17514667
+  name: Ark Angel's Tiger
+- id: 17514668
+  name: Ark Angel's Mandragora
+- id: 17514669
+  name: Ark Angel EV
+- id: 17514670
+  name: Ark Angel TT
+- id: 17514671
+  name: Ark Angel GK
+- id: 17514672
+  name: Ark Angel's Wyvern
+- id: 17514673
+  name: Ark Angel HM
+- id: 17514674
+  name: Ark Angel MR
+- id: 17514675
+  name: Ark Angel's Tiger
+- id: 17514676
+  name: Ark Angel's Mandragora
+- id: 17514677
+  name: Ark Angel EV
+- id: 17514678
+  name: Ark Angel TT
+- id: 17514679
+  name: Ark Angel GK
+- id: 17514680
+  name: Ark Angel's Wyvern
+- id: 17514681
+  name: Ark Angel HM
+- id: 17514682
+  name: Ark Angel MR
+- id: 17514683
+  name: Ark Angel's Tiger
+- id: 17514684
+  name: Ark Angel's Mandragora
+- id: 17514685
+  name: Ark Angel EV
+- id: 17514686
+  name: Ark Angel TT
+- id: 17514687
+  name: Ark Angel GK
+- id: 17514688
+  name: Ark Angel's Wyvern
+- id: 17514689
+  name: Ark Angel HM
+- id: 17514690
+  name: Ark Angel HM
+- id: 17514691
+  name: Ark Angel HM
+- id: 17514692
+  name: Ark Angel MR
+- id: 17514693
+  name: Ark Angel MR
+- id: 17514694
+  name: Ark Angel MR
+- id: 17514695
+  name: Ark Angel's Tiger
+- id: 17514696
+  name: Ark Angel's Tiger
+- id: 17514697
+  name: Ark Angel's Tiger
+- id: 17514698
+  name: Ark Angel's Mandragora
+- id: 17514699
+  name: Ark Angel's Mandragora
+- id: 17514700
+  name: Ark Angel's Mandragora
+- id: 17514701
+  name: Ark Angel EV
+- id: 17514702
+  name: Ark Angel EV
+- id: 17514703
+  name: Ark Angel EV
+- id: 17514704
+  name: Ark Angel TT
+- id: 17514705
+  name: Ark Angel TT
+- id: 17514706
+  name: Ark Angel TT
+- id: 17514707
+  name: Ark Angel GK
+- id: 17514708
+  name: Ark Angel GK
+- id: 17514709
+  name: Ark Angel GK
+- id: 17514710
+  name: Ark Angel's Wyvern
+- id: 17514711
+  name: Ark Angel's Wyvern
+- id: 17514712
+  name: Ark Angel's Wyvern
+- id: 17514713
+  name: Ark Angel HM
+- id: 17514714
+  name: Ark Angel MR
+- id: 17514715
+  name: Ark Angel's Tiger
+- id: 17514716
+  name: Ark Angel's Mandragora
+- id: 17514717
+  name: Ark Angel EV
+- id: 17514718
+  name: Ark Angel TT
+- id: 17514719
+  name: Ark Angel GK
+- id: 17514720
+  name: Ark Angel's Wyvern
+- id: 17514721
+  name: Ark Angel HM
+- id: 17514722
+  name: Ark Angel MR
+- id: 17514723
+  name: Ark Angel's Tiger
+- id: 17514724
+  name: Ark Angel's Mandragora
+- id: 17514725
+  name: Ark Angel EV
+- id: 17514726
+  name: Ark Angel TT
+- id: 17514727
+  name: Ark Angel GK
+- id: 17514728
+  name: Ark Angel's Wyvern
+- id: 17514729
+  name: Ark Angel HM
+- id: 17514730
+  name: Ark Angel MR
+- id: 17514731
+  name: Ark Angel's Tiger
+- id: 17514732
+  name: Ark Angel's Mandragora
+- id: 17514733
+  name: Ark Angel EV
+- id: 17514734
+  name: Ark Angel TT
+- id: 17514735
+  name: Ark Angel GK
+- id: 17514736
+  name: Ark Angel's Wyvern
+- id: 17514737
+  name: Ark Angel HM
+- id: 17514738
+  name: Ark Angel HM
+- id: 17514739
+  name: Ark Angel HM
+- id: 17514740
+  name: Ark Angel MR
+- id: 17514741
+  name: Ark Angel MR
+- id: 17514742
+  name: Ark Angel MR
+- id: 17514743
+  name: Ark Angel's Tiger
+- id: 17514744
+  name: Ark Angel's Tiger
+- id: 17514745
+  name: Ark Angel's Tiger
+- id: 17514746
+  name: Ark Angel's Mandragora
+- id: 17514747
+  name: Ark Angel's Mandragora
+- id: 17514748
+  name: Ark Angel's Mandragora
+- id: 17514749
+  name: Ark Angel EV
+- id: 17514750
+  name: Ark Angel EV
+- id: 17514751
+  name: Ark Angel EV
+- id: 17514752
+  name: Ark Angel TT
+- id: 17514753
+  name: Ark Angel TT
+- id: 17514754
+  name: Ark Angel TT
+- id: 17514755
+  name: Ark Angel GK
+- id: 17514756
+  name: Ark Angel GK
+- id: 17514757
+  name: Ark Angel GK
+- id: 17514758
+  name: Ark Angel's Wyvern
+- id: 17514759
+  name: Ark Angel's Wyvern
+- id: 17514760
+  name: Ark Angel's Wyvern
+- id: 17514761
+  name: Ark Angel HM
+- id: 17514762
+  name: Ark Angel MR
+- id: 17514763
+  name: Ark Angel's Tiger
+- id: 17514764
+  name: Ark Angel's Mandragora
+- id: 17514765
+  name: Ark Angel EV
+- id: 17514766
+  name: Ark Angel TT
+- id: 17514767
+  name: Ark Angel GK
+- id: 17514768
+  name: Ark Angel's Wyvern
+- id: 17514769
+  name: Ark Angel HM
+- id: 17514770
+  name: Ark Angel MR
+- id: 17514771
+  name: Ark Angel's Tiger
+- id: 17514772
+  name: Ark Angel's Mandragora
+- id: 17514773
+  name: Ark Angel EV
+- id: 17514774
+  name: Ark Angel TT
+- id: 17514775
+  name: Ark Angel GK
+- id: 17514776
+  name: Ark Angel's Wyvern
+- id: 17514777
+  name: Ark Angel HM
+- id: 17514778
+  name: Ark Angel MR
+- id: 17514779
+  name: Ark Angel's Tiger
+- id: 17514780
+  name: Ark Angel's Mandragora
+- id: 17514781
+  name: Ark Angel EV
+- id: 17514782
+  name: Ark Angel TT
+- id: 17514783
+  name: Ark Angel GK
+- id: 17514784
+  name: Ark Angel's Wyvern
+- id: 17514785
+  name: Achieve Master
+- id: 17514786
+  name: Unity Master
+- id: 17514791
+  name: Shimmering Circle
+- id: 17514792
+  name: Shimmering Circle
+- id: 17514793
+  name: Shimmering Circle
+- id: 17514794
+  name: Shimmering Circle
+- id: 17514795
+  name: Shimmering Circle
+- id: 17514796
+  name: Shimmering Circle
+- id: 17514797
+  name: Shimmering Circle
+- id: 17514798
+  name: Shimmering Circle
+- id: 17514803
+  name: ''
+- id: 17514804
+  name: Shimmering Circle
+- id: 17514805
+  name: Shimmering Circle
+- id: 17514806
+  name: Shimmering Circle
+- id: 17514807
+  name: Shimmering Circle
+- id: 17514808
+  name: Shimmering Circle
+- id: 17514810
+  name: Moogle
+- id: 17514811
+  name: Moogle
+- id: 17514812
+  name: Moogle
+- id: 17514813
+  name: Moogle
+- id: 17514814
+  name: Moogle
+- id: 17514815
+  name: Moogle
+- id: 17514816
+  name: Moogle
+- id: 17514817
+  name: Moogle
+- id: 17514818
+  name: Ark Angel HM
+- id: 17514819
+  name: Ark Angel EV
+- id: 17514820
+  name: Ark Angel TT
+- id: 17514821
+  name: Ark Angel MR
+- id: 17514822
+  name: Ark Angel GK
+- id: 17514823
+  name: Cermet Door
+- id: 17514824
+  name: Ramblix
+- id: 17514825
+  name: Goblin Footprint

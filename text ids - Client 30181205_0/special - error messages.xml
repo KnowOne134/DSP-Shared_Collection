@@ -1,0 +1,1045 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thing-list>
+  <thing type="DMSGStringBlock">
+    <field name="index">0</field>
+    <field name="string-1">Error code: POL-%04d</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">1</field>
+    <field name="string-1">Error code: FFXI-%04d</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">2</field>
+    <field name="string-1">Could not connect to lobby server.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">3</field>
+    <field name="string-1">Transmission error with lobby server.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">4</field>
+    <field name="string-1">Transmission packet error #1.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">5</field>
+    <field name="string-1">Transmission packet error #2。</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">6</field>
+    <field name="string-1">Connection to the PlayOnline server lost.
+Returning to the PlayOnline FINAL FANTASY XI top page.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">7</field>
+    <field name="string-1">Character names must be at least three letters in length.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">8</field>
+    <field name="string-1">Gold World Pass too short to be valid.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">9</field>
+    <field name="string-1">Unless you enter a Gold World Pass,
+you can only specify a world server
+where you already have a character.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">10</field>
+    <field name="string-1">Protocol time out error.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">11</field>
+    <field name="string-1">Inconsistency occured with handle information.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">12</field>
+    <field name="string-1">Connection to the FINAL FANTASY XI server lost.
+Returning to the PlayOnline FINAL FANTASY XI top page.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">13</field>
+    <field name="string-1">Cannot select this character.
+Character's content ID is no longer valid.
+Please restore the content ID to select this character.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">14</field>
+    <field name="string-1">The world server you specified does not exist.
+Please check the spelling of the world name
+before trying again.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">15</field>
+    <field name="string-1">World name not specified.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">16</field>
+    <field name="string-1">Content ID for selected character not found.
+Please reboot PlayOnline.
+</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">17</field>
+    <field name="string-1">Same character is already logged in.
+Please wait a few minutes before trying to reconnect.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">18</field>
+    <field name="string-1">Your character data may be damaged.
+Please contact PlayOnline support services.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">19</field>
+    <field name="string-1">Unable to connect to area server.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">20</field>
+    <field name="string-1">Failed to carry out data creation #1 on world server</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">21</field>
+    <field name="string-1">Failed to carry out data creation #2 on world server</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">22</field>
+    <field name="string-1">Unable to log on to world server.
+Server currently congested.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">23</field>
+    <field name="string-1">Unable to log on to area server.
+Server currently congested.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">24</field>
+    <field name="string-1">Expansion pack area not registered.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">25</field>
+    <field name="string-1">Expansion pack area not installed.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">26</field>
+    <field name="string-1">This protocol is not supported.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">27</field>
+    <field name="string-1">There has been a communication error with the FINAL FANTASY XI server.
+Please log out from PlayOnline and wait several
+minutes before logging in again.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">28</field>
+    <field name="string-1">Authentication failed. Password incorrect.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">29</field>
+    <field name="string-1">Unable to find character.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">30</field>
+    <field name="string-1">Unable to find content ID.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">31</field>
+    <field name="string-1">Unable to connect to world server.
+Specified operation failed.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">32</field>
+    <field name="string-1">Login search server returned an error.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">33</field>
+    <field name="string-1">Same character is already logged in.
+Please wait a few minutes before trying to reconnect.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">34</field>
+    <field name="string-1">Could not connect to world server.
+Please check this title's news for announcements.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">35</field>
+    <field name="string-1">Registration with lobby server failed.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">36</field>
+    <field name="string-1">Registration #1 with world server failed.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">37</field>
+    <field name="string-1">Registration #2 with world server failed.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">38</field>
+    <field name="string-1">Failed to delete from world server.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">39</field>
+    <field name="string-1">The character name you entered is unavailable.
+Please choose another name.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">40</field>
+    <field name="string-1">Failed to register with name server.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">41</field>
+    <field name="string-1">Internal error #1.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">42</field>
+    <field name="string-1">Incorrect Gold World Pass.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">43</field>
+    <field name="string-1">Gold World Pass expired.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">44</field>
+    <field name="string-1">Failed to delete character.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">45</field>
+    <field name="string-1">Internal error #2.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">46</field>
+    <field name="string-1">Internal error #3.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">47</field>
+    <field name="string-1">Character's parameters are incorrect.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">48</field>
+    <field name="string-1">The character name you entered is unavailable.
+Please choose another name.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">49</field>
+    <field name="string-1">Your Gold World Pass is not valid for
+the world you have specified.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">50</field>
+    <field name="string-1">Internal error #4. Please try to create a new character again.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">51</field>
+    <field name="string-1">Failed to cancel character reservation.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">52</field>
+    <field name="string-1">Unable to create a character on the specified world server.
+Server population limit reached.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">53</field>
+    <field name="string-1">Transmission packet error #3.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">54</field>
+    <field name="string-1">Unable to delete.
+Specified character is currently logged in.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">55</field>
+    <field name="string-1">The game's data has been updated.
+Please return to the PlayOnline FINAL FANTASY XI
+top page and download the latest version.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">56</field>
+    <field name="string-1">Could not connect to lobby server.
+Please check this title's news for announcements.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">57</field>
+    <field name="string-1">Internal error #6.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">58</field>
+    <field name="string-1">The character name you entered is unavailable.
+Please choose another name.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">59</field>
+    <field name="string-1">Registration #3 with world server failed.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">60</field>
+    <field name="string-1">Internal error #5.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">61</field>
+    <field name="string-1">Internal error #7.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">62</field>
+    <field name="string-1">Unable to acquire error messages.
+Switching to direct numerical display mode.
+</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">63</field>
+    <field name="string-1">Unable to reserve required memory. Press OK to shut down.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">64</field>
+    <field name="string-1">Connection to the FINAL FANTASY XI server lost. Press OK to shut down.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">65</field>
+    <field name="string-1">Connection to server lost. (PlayOnline)
+Returning to the PlayOnline FINAL FANTASY XI top page.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">66</field>
+    <field name="string-1">You cannot use that command while viewing the chat log.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">67</field>
+    <field name="string-1">You cannot use that command at this time.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">68</field>
+    <field name="string-1">You cannot use that command here.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">69</field>
+    <field name="string-1">You must close the currently open window to use that command.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">70</field>
+    <field name="string-1">You must specify a valid target.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">71</field>
+    <field name="string-1">You cannot use that command here.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">72</field>
+    <field name="string-1">You cannot use that command while your moogle is away.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">73</field>
+    <field name="string-1">You cannot fish here.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">74</field>
+    <field name="string-1">You cannot dig here.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">75</field>
+    <field name="string-1">You cannot use that command while mounted.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">76</field>
+    <field name="string-1">You must wait a little while before calling forth your mount.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">77</field>
+    <field name="string-1">You cannot use that command while fishing.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">78</field>
+    <field name="string-1">You cannot use that command during synthesis.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">79</field>
+    <field name="string-1">You cannot use that command while unconscious.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">80</field>
+    <field name="string-1">You cannot use that command while changing the layout of your room.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">81</field>
+    <field name="string-1">You cannot use that command while healing.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">82</field>
+    <field name="string-1">You can only use that command during battle.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">83</field>
+    <field name="string-1">You cannot use that command while trading.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">84</field>
+    <field name="string-1">You cannot use that command while making delivery arrangements.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">85</field>
+    <field name="string-1">You cannot use that command while checking your delivery box.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">86</field>
+    <field name="string-1">
+    </field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">87</field>
+    <field name="string-1">Incorrect job, job level too low, or required ability not activated.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">88</field>
+    <field name="string-1">Not enough MP.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">89</field>
+    <field name="string-1">You must wait longer to use that spell.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">90</field>
+    <field name="string-1">You must specify a valid target for that spell.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">91</field>
+    <field name="string-1">
+    </field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">92</field>
+    <field name="string-1">You must wait longer to use that ability.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">93</field>
+    <field name="string-1">You must specify a valid target for that ability.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">94</field>
+    <field name="string-1">Job traits are always active.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">95</field>
+    <field name="string-1">Not enough TP.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">96</field>
+    <field name="string-1">You cannot display this type of message.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">97</field>
+    <field name="string-1">You cannot view maps while riding on elevators.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">98</field>
+    <field name="string-1">There is no map for this area.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">99</field>
+    <field name="string-1">You must specify the correct materials.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">100</field>
+    <field name="string-1">You must wait longer before repeating that action.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">101</field>
+    <field name="string-1">Search failed.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">102</field>
+    <field name="string-1">No friends registered.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">103</field>
+    <field name="string-1">No entries in blacklist.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">104</field>
+    <field name="string-1">No linkshell items in inventory.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">105</field>
+    <field name="string-1">You have no messages.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">106</field>
+    <field name="string-1">You have no items up for auction.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">107</field>
+    <field name="string-1">No applicable entries.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">108</field>
+    <field name="string-1">You currently have the maximum number of items allowed up for auction.
+You must remove one of those items in order to submit a bid.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">109</field>
+    <field name="string-1">You can only place seven items on auction at once.
+Either check off sold and unsold merchandise from the "Sales Status" list or remove an item from auction.
+Items already sent to your delivery box must also be checked off the list.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">110</field>
+    <field name="string-1">The result of your bid is pending.
+ If the result does not appear soon, check your inventory by selecting "Items" from the main menu.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">111</field>
+    <field name="string-1">You cannot remove that item from auction.
+Either your inventory is full or you can only hold one item of that type.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">112</field>
+    <field name="string-1">You cannot bid on that merchandise.
+Either your inventory is full or you can only hold one item of that type.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">113</field>
+    <field name="string-1">No linkshell items equipped.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">114</field>
+    <field name="string-1"> </field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">115</field>
+    <field name="string-1">Cannot select while playing FINAL FANTASY XI.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">116</field>
+    <field name="string-1"> </field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">117</field>
+    <field name="string-1"> </field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">118</field>
+    <field name="string-1"> </field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">119</field>
+    <field name="string-1"> </field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">120</field>
+    <field name="string-1"> </field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">121</field>
+    <field name="string-1">You cannot register more than 200 friends to your Friend List.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">122</field>
+    <field name="string-1">Cannot do that action while processing another PlayOnline message.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">123</field>
+    <field name="string-1">Current area is not subject to conquest.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">124</field>
+    <field name="string-1">You were unable to make that purchase.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">125</field>
+    <field name="string-1">You cannot cast lots. Your inventory is full.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">126</field>
+    <field name="string-1">You can only hold one item of this type.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">127</field>
+    <field name="string-1">No trade targets in range.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">128</field>
+    <field name="string-1">You cannot make that purchase.
+Your inventory is full.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">129</field>
+    <field name="string-1">You cannot make that purchase.
+Either your inventory is full or the guild is out of stock.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">130</field>
+    <field name="string-1">The guild would not buy that from you.
+Its stock of that item is full.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">131</field>
+    <field name="string-1">Your order could not be filled completely.
+Either your inventory became full or the guild ran out of stock.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">132</field>
+    <field name="string-1">The guild could not purchase the full amount.
+Its stock of that item became full.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">133</field>
+    <field name="string-1">Communications seem to be congested.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">134</field>
+    <field name="string-1">Delivery orders are currently backlogged.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">135</field>
+    <field name="string-1">Recipient's delivery box is full.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">136</field>
+    <field name="string-1">Your inventory is full.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">137</field>
+    <field name="string-1">You can only hold one item of that type.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">138</field>
+    <field name="string-1">Unable to scan.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">139</field>
+    <field name="string-1">You need the Dual Wield ability to equip that as a sub-weapon.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">140</field>
+    <field name="string-1">Unable to execute that command. Your inventory is full.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">141</field>
+    <field name="string-1">Cannot save screenshot.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">142</field>
+    <field name="string-1">You were unable to change your equipped items.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">143</field>
+    <field name="string-1">dummy</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">144</field>
+    <field name="string-1">dummy</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">145</field>
+    <field name="string-1">dummy</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">146</field>
+    <field name="string-1">dummy</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">147</field>
+    <field name="string-1">That feature is currently unavailable.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">148</field>
+    <field name="string-1">Auto-disconnect failed.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">149</field>
+    <field name="string-1">Cannot attack target.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">150</field>
+    <field name="string-1">There was no input within set time, so the program
+automatically disconnected itself from the game server.
+Now ending FINAL FANTASY XI and returning to PlayOnline.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">151</field>
+    <field name="string-1">You cannot use that command while charmed.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">152</field>
+    <field name="string-1">You must have a main weapon equipped before equipping a sub-weapon.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">153</field>
+    <field name="string-1">You can only equip a sub-weapon when your main weapon is a one-handed weapon.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">154</field>
+    <field name="string-1">Please wait longer before making another purchase.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">155</field>
+    <field name="string-1">You were unable to carry out that transaction.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">156</field>
+    <field name="string-1">An error occurred.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">157</field>
+    <field name="string-1">No linkshell message exists.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">158</field>
+    <field name="string-1">You are not authorized to perform that action.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">159</field>
+    <field name="string-1">You are unable to invite that person to join your party.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">160</field>
+    <field name="string-1">You cannot perform that action while sitting.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">161</field>
+    <field name="string-1">That person is already registered on your friend list.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">162</field>
+    <field name="string-1">You were unable to add that person to your friend list.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">163</field>
+    <field name="string-1">Transaction cancelled. You can only hold one item of that type.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">164</field>
+    <field name="string-1">You cannot perform that action on the selected sub-target.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">165</field>
+    <field name="string-1">You cannot perform that action on the selected target.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">166</field>
+    <field name="string-1">You cannot perform that action while participating in Conflict.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">167</field>
+    <field name="string-1">You can only perform that action when participating in Conflict.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">168</field>
+    <field name="string-1">That cannot be used right now.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">169</field>
+    <field name="string-1">No response from the FINAL FANTASY XI server.
+Connection timed out.
+Press OK to shut down.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">170</field>
+    <field name="string-1">No response from the FINAL FANTASY XI server.
+Connection timed out.
+Press OK to shut down.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">171</field>
+    <field name="string-1">Time out reported by the FINAL FANTASY XI server.
+Press OK to shut down.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">172</field>
+    <field name="string-1">Connection to the FINAL FANTASY XI server lost. Press OK to shut down.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">173</field>
+    <field name="string-1">Connection to the FINAL FANTASY XI server lost. Press OK to shut down.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">174</field>
+    <field name="string-1">Connection to the FINAL FANTASY XI server lost. Press OK to shut down.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">175</field>
+    <field name="string-1">Partially depleted items cannot be put up for auction.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">176</field>
+    <field name="string-1">That command cannot be performed while wearing a costume.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">177</field>
+    <field name="string-1">That command cannot be used outside of your Mog House.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">178</field>
+    <field name="string-1">That command cannot be used on players on your blacklist.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">179</field>
+    <field name="string-1">A Gold World Pass is valid
+for your first character only.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">180</field>
+    <field name="string-1">You cannot cast blue magic spells that have not been set.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">181</field>
+    <field name="string-1">You do not currently have access to a Mog Locker.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">182</field>
+    <field name="string-1">Your blue magic spells have recently been reset. Unable to cast spell.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">183</field>
+    <field name="string-1">You cannot customize an activated automaton.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">184</field>
+    <field name="string-1">(The delivery service is currently unavailable.)</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">185</field>
+    <field name="string-1">(Auction house services are currently unavailable.)</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">186</field>
+    <field name="string-1">You cannot perform that action while under a level restriction or participating in Besieged.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">187</field>
+    <field name="string-1">You cannot use that command inside another character's Mog House.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">188</field>
+    <field name="string-1">Your current status prevents you from using that ability.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">189</field>
+    <field name="string-1">You have not met one or more requirements needed to enter Mog Gardens.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">190</field>
+    <field name="string-1">You are unable to use Trust magic at this time.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">191</field>
+    <field name="string-1">You cannot perform this action because no synthesis history exists.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">192</field>
+    <field name="string-1">You must wait longer before repeating that action.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">193</field>
+    <field name="string-1">You do not possess that chair.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">194</field>
+    <field name="string-1">Focus targeting can only be applied to other party members.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">195</field>
+    <field name="string-1">You cannot request to join that player's party.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">196</field>
+    <field name="string-1">You are unable to request to join the party of someone you have blacklisted.</field>
+    <field name="string-count">1</field>
+  </thing>
+  <thing type="DMSGStringBlock">
+    <field name="index">197</field>
+    <field name="string-1">You were unable to make a request to join.</field>
+    <field name="string-count">1</field>
+  </thing>
+</thing-list>

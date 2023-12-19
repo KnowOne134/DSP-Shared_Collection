@@ -1,0 +1,829 @@
+names:
+- id: 16928769
+  name: Armoury Crate
+- id: 16928770
+  name: Armoury Crate
+- id: 16928771
+  name: Armoury Crate
+- id: 16928772
+  name: Goblin Slaughterman
+- id: 16928773
+  name: Goblin Slaughterman
+- id: 16928774
+  name: Moblin Dustman
+- id: 16928775
+  name: Moblin Dustman
+- id: 16928776
+  name: Moblin Dustman
+- id: 16928777
+  name: Moblin Dustman
+- id: 16928778
+  name: Armoury Crate
+- id: 16928779
+  name: Armoury Crate
+- id: 16928780
+  name: Armoury Crate
+- id: 16928781
+  name: Skadi
+- id: 16928782
+  name: Thrym
+- id: 16928783
+  name: Beli
+- id: 16928784
+  name: Kari
+- id: 16928785
+  name: Armoury Crate
+- id: 16928786
+  name: Armoury Crate
+- id: 16928787
+  name: Armoury Crate
+- id: 16928788
+  name: Telchines Bard
+- id: 16928789
+  name: Telchines White Mage
+- id: 16928790
+  name: Telchines Dragoon
+- id: 16928791
+  name: Telchines's Wyvern
+- id: 16928792
+  name: Telchines Monk
+- id: 16928793
+  name: Telchines Monk
+- id: 16928794
+  name: Armoury Crate
+- id: 16928795
+  name: Armoury Crate
+- id: 16928796
+  name: Armoury Crate
+- id: 16928797
+  name: Kindred Warrior
+- id: 16928798
+  name: Kindred Dark Knight
+- id: 16928799
+  name: Kindred Summoner
+- id: 16928800
+  name: Kindred's Elemental
+- id: 16928801
+  name: Kindred's Avatar
+- id: 16928802
+  name: Kindred Black Mage
+- id: 16928803
+  name: Kindred Black Mage
+- id: 16928804
+  name: Kindred Black Mage
+- id: 16928805
+  name: Kindred Black Mage
+- id: 16928806
+  name: Armoury Crate
+- id: 16928807
+  name: Armoury Crate
+- id: 16928808
+  name: Armoury Crate
+- id: 16928809
+  name: Praetorian Guard CCXX
+- id: 16928810
+  name: Praetorian Guard LXXIII
+- id: 16928811
+  name: Praetorian Guard CXLVIII
+- id: 16928812
+  name: Praetorian Guard CCCXI
+- id: 16928813
+  name: Armoury Crate
+- id: 16928814
+  name: Armoury Crate
+- id: 16928815
+  name: Armoury Crate
+- id: 16928816
+  name: Cryptonberry Charmer
+- id: 16928817
+  name: Cryptonberry Skulker
+- id: 16928818
+  name: Cryptonberry Abductor
+- id: 16928819
+  name: Cryptonberry Designator
+- id: 16928820
+  name: Tonberry's Elemental
+- id: 16928821
+  name: Tonberry's Avatar
+- id: 16928822
+  name: Cryptonberry Abductor
+- id: 16928823
+  name: Cryptonberry Designator
+- id: 16928824
+  name: Tonberry's Elemental
+- id: 16928825
+  name: Tonberry's Avatar
+- id: 16928826
+  name: Cryptonberry Abductor
+- id: 16928827
+  name: Cryptonberry Designator
+- id: 16928828
+  name: Tonberry's Elemental
+- id: 16928829
+  name: Tonberry's Avatar
+- id: 16928830
+  name: Armoury Crate
+- id: 16928831
+  name: Goblin Warlord
+- id: 16928832
+  name: Goblin Fencer
+- id: 16928833
+  name: Goblin Theurgist
+- id: 16928834
+  name: Goblin Fencer
+- id: 16928835
+  name: Goblin Theurgist
+- id: 16928836
+  name: Armoury Crate
+- id: 16928837
+  name: Armoury Crate
+- id: 16928838
+  name: Armoury Crate
+- id: 16928839
+  name: Armoury Crate
+- id: 16928840
+  name: Fire Elemental
+- id: 16928841
+  name: Fire Elemental
+- id: 16928842
+  name: Fire Elemental
+- id: 16928843
+  name: Fire Elemental
+- id: 16928844
+  name: Mystic Avatar
+- id: 16928845
+  name: Armoury Crate
+- id: 16928846
+  name: Armoury Crate
+- id: 16928847
+  name: Armoury Crate
+- id: 16928848
+  name: Armoury Crate
+- id: 16928849
+  name: Ice Elemental
+- id: 16928850
+  name: Ice Elemental
+- id: 16928851
+  name: Ice Elemental
+- id: 16928852
+  name: Ice Elemental
+- id: 16928853
+  name: Mystic Avatar
+- id: 16928854
+  name: Armoury Crate
+- id: 16928855
+  name: Armoury Crate
+- id: 16928856
+  name: Armoury Crate
+- id: 16928857
+  name: Armoury Crate
+- id: 16928858
+  name: Air Elemental
+- id: 16928859
+  name: Air Elemental
+- id: 16928860
+  name: Air Elemental
+- id: 16928861
+  name: Air Elemental
+- id: 16928862
+  name: Mystic Avatar
+- id: 16928863
+  name: Armoury Crate
+- id: 16928864
+  name: Armoury Crate
+- id: 16928865
+  name: Armoury Crate
+- id: 16928866
+  name: Armoury Crate
+- id: 16928867
+  name: Earth Elemental
+- id: 16928868
+  name: Earth Elemental
+- id: 16928869
+  name: Earth Elemental
+- id: 16928870
+  name: Earth Elemental
+- id: 16928871
+  name: Mystic Avatar
+- id: 16928872
+  name: Armoury Crate
+- id: 16928873
+  name: Armoury Crate
+- id: 16928874
+  name: Armoury Crate
+- id: 16928875
+  name: Armoury Crate
+- id: 16928876
+  name: Thunder Elemental
+- id: 16928877
+  name: Thunder Elemental
+- id: 16928878
+  name: Thunder Elemental
+- id: 16928879
+  name: Thunder Elemental
+- id: 16928880
+  name: Mystic Avatar
+- id: 16928881
+  name: Armoury Crate
+- id: 16928882
+  name: Armoury Crate
+- id: 16928883
+  name: Armoury Crate
+- id: 16928884
+  name: Armoury Crate
+- id: 16928885
+  name: Water Elemental
+- id: 16928886
+  name: Water Elemental
+- id: 16928887
+  name: Water Elemental
+- id: 16928888
+  name: Water Elemental
+- id: 16928889
+  name: Mystic Avatar
+- id: 16928890
+  name: Armoury Crate
+- id: 16928891
+  name: Armoury Crate
+- id: 16928892
+  name: Dark Elemental
+- id: 16928893
+  name: Dark Elemental
+- id: 16928894
+  name: Mystic Avatar
+- id: 16928895
+  name: Armoury Crate
+- id: 16928896
+  name: Armoury Crate
+- id: 16928897
+  name: Armoury Crate
+- id: 16928898
+  name: Enhanced Tiger
+- id: 16928899
+  name: Enhanced Tiger
+- id: 16928900
+  name: Enhanced Tiger
+- id: 16928901
+  name: Enhanced Tiger
+- id: 16928902
+  name: Enhanced Tiger
+- id: 16928903
+  name: Enhanced Tiger
+- id: 16928904
+  name: Enhanced Tiger
+- id: 16928905
+  name: Enhanced Tiger
+- id: 16928906
+  name: Enhanced Tiger
+- id: 16928907
+  name: Armoury Crate
+- id: 16928908
+  name: Armoury Crate
+- id: 16928909
+  name: Armoury Crate
+- id: 16928910
+  name: Enhanced Mandragora
+- id: 16928911
+  name: Enhanced Mandragora
+- id: 16928912
+  name: Enhanced Mandragora
+- id: 16928913
+  name: Enhanced Mandragora
+- id: 16928914
+  name: Enhanced Mandragora
+- id: 16928915
+  name: Enhanced Mandragora
+- id: 16928916
+  name: Enhanced Mandragora
+- id: 16928917
+  name: Enhanced Mandragora
+- id: 16928918
+  name: Enhanced Mandragora
+- id: 16928919
+  name: Armoury Crate
+- id: 16928920
+  name: Armoury Crate
+- id: 16928921
+  name: Armoury Crate
+- id: 16928922
+  name: Enhanced Beetle
+- id: 16928923
+  name: Enhanced Beetle
+- id: 16928924
+  name: Enhanced Beetle
+- id: 16928925
+  name: Enhanced Beetle
+- id: 16928926
+  name: Enhanced Beetle
+- id: 16928927
+  name: Enhanced Beetle
+- id: 16928928
+  name: Armoury Crate
+- id: 16928929
+  name: Armoury Crate
+- id: 16928930
+  name: Armoury Crate
+- id: 16928931
+  name: Enhanced Lizard
+- id: 16928932
+  name: Enhanced Lizard
+- id: 16928933
+  name: Enhanced Lizard
+- id: 16928934
+  name: Enhanced Lizard
+- id: 16928935
+  name: Enhanced Lizard
+- id: 16928936
+  name: Enhanced Lizard
+- id: 16928937
+  name: Enhanced Lizard
+- id: 16928938
+  name: Enhanced Lizard
+- id: 16928939
+  name: Enhanced Lizard
+- id: 16928940
+  name: Armoury Crate
+- id: 16928941
+  name: Armoury Crate
+- id: 16928942
+  name: Armoury Crate
+- id: 16928943
+  name: Enhanced Slime
+- id: 16928944
+  name: Enhanced Slime
+- id: 16928945
+  name: Enhanced Slime
+- id: 16928946
+  name: Enhanced Slime
+- id: 16928947
+  name: Enhanced Slime
+- id: 16928948
+  name: Enhanced Slime
+- id: 16928949
+  name: Armoury Crate
+- id: 16928950
+  name: Armoury Crate
+- id: 16928951
+  name: Armoury Crate
+- id: 16928952
+  name: Enhanced Pugil
+- id: 16928953
+  name: Enhanced Pugil
+- id: 16928954
+  name: Enhanced Pugil
+- id: 16928955
+  name: Enhanced Pugil
+- id: 16928956
+  name: Enhanced Pugil
+- id: 16928957
+  name: Enhanced Pugil
+- id: 16928958
+  name: Armoury Crate
+- id: 16928959
+  name: Enhanced Vulture
+- id: 16928960
+  name: Enhanced Vulture
+- id: 16928961
+  name: Enhanced Vulture
+- id: 16928962
+  name: Enhanced Vulture
+- id: 16928963
+  name: Enhanced Vulture
+- id: 16928964
+  name: Enhanced Vulture
+- id: 16928965
+  name: Armoury Crate
+- id: 16928966
+  name: Proto-Ultima
+- id: 16928967
+  name: Armoury Crate
+- id: 16928968
+  name: Armoury Crate
+- id: 16928969
+  name: Armoury Crate
+- id: 16928970
+  name: Armoury Crate
+- id: 16928971
+  name: Armoury Crate
+- id: 16928972
+  name: Armoury Crate
+- id: 16928973
+  name: Armoury Crate
+- id: 16928974
+  name: Armoury Crate
+- id: 16928975
+  name: Armoury Crate
+- id: 16928976
+  name: Armoury Crate
+- id: 16928977
+  name: Armoury Crate
+- id: 16928978
+  name: Armoury Crate
+- id: 16928979
+  name: Armoury Crate
+- id: 16928980
+  name: Armoury Crate
+- id: 16928981
+  name: Armoury Crate
+- id: 16928982
+  name: Armoury Crate
+- id: 16928983
+  name: Armoury Crate
+- id: 16928984
+  name: Armoury Crate
+- id: 16928985
+  name: Armoury Crate
+- id: 16928986
+  name: Kingslayer Doggvdegg
+- id: 16928987
+  name: Ji'Gho Ageless
+- id: 16928988
+  name: Koo Buzu the Theomanic
+- id: 16928989
+  name: Yagudo's Elemental
+- id: 16928990
+  name: Yagudo's Avatar
+- id: 16928991
+  name: Mystic Avatar
+- id: 16928992
+  name: Mystic Avatar
+- id: 16928993
+  name: Mystic Avatar
+- id: 16928994
+  name: Mystic Avatar
+- id: 16928995
+  name: Mystic Avatar
+- id: 16928996
+  name: Mystic Avatar
+- id: 16928997
+  name: Enhanced Koenigstiger
+- id: 16928998
+  name: Enhanced Pygmaioi
+- id: 16928999
+  name: Enhanced Kettenkaefer
+- id: 16929000
+  name: Enhanced Salamander
+- id: 16929001
+  name: Enhanced Jelly
+- id: 16929002
+  name: Enhanced Makara
+- id: 16929003
+  name: Enhanced Akbaba
+- id: 16929004
+  name: Armoury Crate
+- id: 16929005
+  name: Abyssdweller Jhabdebb
+- id: 16929006
+  name: Orichalcum Quadav
+- id: 16929007
+  name: Pee Qoho the Python
+- id: 16929008
+  name: Yagudo's Elemental
+- id: 16929009
+  name: Yagudo's Avatar
+- id: 16929010
+  name: Grognard Mesmerizer
+- id: 16929011
+  name: Grognard Footsoldier
+- id: 16929012
+  name: Grognard Predator
+- id: 16929013
+  name: Grognard Neckchopper
+- id: 16929014
+  name: Grognard Grappler
+- id: 16929015
+  name: Grognard Impaler
+- id: 16929016
+  name: Orc's Wyvern
+- id: 16929017
+  name: Star Ruby Quadav
+- id: 16929018
+  name: Fossil Quadav
+- id: 16929019
+  name: Whitegold Quadav
+- id: 16929020
+  name: Wootz Quadav
+- id: 16929021
+  name: Star Sapphire Quadav
+- id: 16929022
+  name: Lightsteel Quadav
+- id: 16929023
+  name: Yagudo Archpriest
+- id: 16929024
+  name: Yagudo Disciplinant
+- id: 16929025
+  name: Yagudo Kapellmeister
+- id: 16929026
+  name: Yagudo Knight Templar
+- id: 16929027
+  name: Yagudo Prelatess
+- id: 16929028
+  name: Yagudo Eradicator
+- id: 16929029
+  name: Armoury Crate
+- id: 16929030
+  name: Mystic Avatar
+- id: 16929031
+  name: Light Elemental
+- id: 16929032
+  name: Light Elemental
+- id: 16929033
+  name: Fire Elemental
+- id: 16929034
+  name: Ice Elemental
+- id: 16929035
+  name: Air Elemental
+- id: 16929036
+  name: Earth Elemental
+- id: 16929037
+  name: Thunder Elemental
+- id: 16929038
+  name: Water Elemental
+- id: 16929039
+  name: Mystic Avatar
+- id: 16929040
+  name: Mystic Avatar
+- id: 16929041
+  name: Mystic Avatar
+- id: 16929042
+  name: Mystic Avatar
+- id: 16929043
+  name: Mystic Avatar
+- id: 16929044
+  name: Mystic Avatar
+- id: 16929045
+  name: Armoury Crate
+- id: 16929046
+  name: Airi
+- id: 16929047
+  name: Temenos Cleaner
+- id: 16929048
+  name: Iruci
+- id: 16929049
+  name: Temenos Weapon
+- id: 16929050
+  name: Enhanced Dragon
+- id: 16929051
+  name: Enhanced Ahriman
+- id: 16929052
+  name: Armoury Crate
+- id: 16929053
+  name: Temenos Aern
+- id: 16929054
+  name: Temenos Aern
+- id: 16929055
+  name: Temenos Aern
+- id: 16929056
+  name: Aern's Wynav
+- id: 16929057
+  name: Temenos Aern
+- id: 16929058
+  name: Temenos Aern
+- id: 16929059
+  name: Aern's Euvhi
+- id: 16929060
+  name: Temenos Aern
+- id: 16929061
+  name: Temenos Aern
+- id: 16929062
+  name: Temenos Aern
+- id: 16929063
+  name: Temenos Aern
+- id: 16929064
+  name: Temenos Aern
+- id: 16929065
+  name: Temenos Aern
+- id: 16929066
+  name: Temenos Aern
+- id: 16929067
+  name: Aern's Elemental
+- id: 16929068
+  name: Aern's Avatar
+- id: 16929069
+  name: Temenos Aern
+- id: 16929070
+  name: Aern's Wynav
+- id: 16929071
+  name: Temenos Aern
+- id: 16929072
+  name: Temenos Aern
+- id: 16929073
+  name: Temenos Aern
+- id: 16929074
+  name: Aern's Euvhi
+- id: 16929075
+  name: Temenos Aern
+- id: 16929076
+  name: Temenos Aern
+- id: 16929077
+  name: Temenos Aern
+- id: 16929078
+  name: Temenos Aern
+- id: 16929079
+  name: Temenos Aern
+- id: 16929080
+  name: Aern's Elemental
+- id: 16929081
+  name: Aern's Avatar
+- id: 16929082
+  name: Temenos Aern
+- id: 16929083
+  name: Temenos Aern
+- id: 16929084
+  name: Temenos Aern
+- id: 16929085
+  name: Temenos Aern
+- id: 16929086
+  name: Temenos Aern
+- id: 16929087
+  name: Temenos Aern
+- id: 16929088
+  name: Temenos Ghrah
+- id: 16929089
+  name: Armoury Crate
+- id: 16929090
+  name: Temenos Aern
+- id: 16929091
+  name: Temenos Aern
+- id: 16929092
+  name: Temenos Aern
+- id: 16929093
+  name: Temenos Aern
+- id: 16929094
+  name: Temenos Aern
+- id: 16929095
+  name: Temenos Aern
+- id: 16929096
+  name: Temenos Aern
+- id: 16929097
+  name: Temenos Aern
+- id: 16929098
+  name: Temenos Aern
+- id: 16929099
+  name: Aern's Wynav
+- id: 16929100
+  name: Temenos Aern
+- id: 16929101
+  name: Temenos Aern
+- id: 16929102
+  name: Aern's Wynav
+- id: 16929103
+  name: Temenos Aern
+- id: 16929104
+  name: Temenos Aern
+- id: 16929105
+  name: Temenos Aern
+- id: 16929106
+  name: Temenos Aern
+- id: 16929107
+  name: Temenos Aern
+- id: 16929108
+  name: Temenos Aern
+- id: 16929109
+  name: Temenos Aern
+- id: 16929110
+  name: Temenos Aern
+- id: 16929111
+  name: Temenos Aern
+- id: 16929112
+  name: Temenos Aern
+- id: 16929113
+  name: Temenos Aern
+- id: 16929114
+  name: Aern's Elemental
+- id: 16929115
+  name: Aern's Avatar
+- id: 16929116
+  name: Armoury Crate
+- id: 16929117
+  name: Temenos Euvhi
+- id: 16929118
+  name: Temenos Euvhi
+- id: 16929119
+  name: Temenos Euvhi
+- id: 16929120
+  name: Temenos Euvhi
+- id: 16929121
+  name: Temenos Euvhi
+- id: 16929122
+  name: Temenos Euvhi
+- id: 16929123
+  name: Temenos Euvhi
+- id: 16929124
+  name: Temenos Euvhi
+- id: 16929125
+  name: Temenos Euvhi
+- id: 16929126
+  name: Temenos Euvhi
+- id: 16929127
+  name: Thalesek
+- id: 16929128
+  name: Armoury Crate
+- id: 16929129
+  name: Pyrrha
+- id: 16929130
+  name: Pyrrha
+- id: 16929131
+  name: Pyrrha
+- id: 16929132
+  name: Pyrrha
+- id: 16929133
+  name: Pyrrha
+- id: 16929134
+  name: Pyrrha
+- id: 16929135
+  name: Pyrrha
+- id: 16929136
+  name: Pyrrha
+- id: 16929137
+  name: Temenos Ghrah
+- id: 16929138
+  name: Temenos Ghrah
+- id: 16929139
+  name: Temenos Ghrah
+- id: 16929140
+  name: Temenos Ghrah
+- id: 16929141
+  name: Temenos Ghrah
+- id: 16929142
+  name: Temenos Ghrah
+- id: 16929143
+  name: Temenos Ghrah
+- id: 16929144
+  name: Temenos Ghrah
+- id: 16929145
+  name: Temenos Ghrah
+- id: 16929146
+  name: Temenos Ghrah
+- id: 16929147
+  name: Temenos Ghrah
+- id: 16929148
+  name: Temenos Ghrah
+- id: 16929149
+  name: Temenos Ghrah
+- id: 16929150
+  name: Temenos Ghrah
+- id: 16929151
+  name: Temenos Ghrah
+- id: 16929152
+  name: Temenos Ghrah
+- id: 16929153
+  name: Temenos Ghrah
+- id: 16929154
+  name: Temenos Ghrah
+- id: 16929155
+  name: Temenos Ghrah
+- id: 16929156
+  name: Temenos Ghrah
+- id: 16929157
+  name: Temenos Ghrah
+- id: 16929158
+  name: Temenos Ghrah
+- id: 16929159
+  name: Temenos Ghrah
+- id: 16929160
+  name: Temenos Ghrah
+- id: 16929161
+  name: Armoury Crate
+- id: 16929162
+  name: Arch-Ultima
+- id: 16929171
+  name: Scanning Device
+- id: 16929172
+  name: Achieve Master
+- id: 16929173
+  name: Unity Master
+- id: 16929188
+  name: Matter Diffusion Module
+- id: 16929189
+  name: Matter Diffusion Module
+- id: 16929190
+  name: Matter Diffusion Module
+- id: 16929191
+  name: Matter Diffusion Module
+- id: 16929192
+  name: Matter Diffusion Module
+- id: 16929193
+  name: Matter Diffusion Module
+- id: 16929194
+  name: Matter Diffusion Module
+- id: 16929195
+  name: Matter Diffusion Module
+- id: 16929196
+  name: Matter Diffusion Module
+- id: 16929249
+  name: Moogle
+- id: 16929250
+  name: Moogle
+- id: 16929251
+  name: Moogle
+- id: 16929252
+  name: Moogle
+- id: 16929253
+  name: Moogle
+- id: 16929254
+  name: Moogle
+- id: 16929255
+  name: Moogle
+- id: 16929256
+  name: Moogle

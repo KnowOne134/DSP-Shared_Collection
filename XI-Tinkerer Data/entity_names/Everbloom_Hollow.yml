@@ -1,0 +1,571 @@
+names:
+- id: 17129473
+  name: Orcish Stormer
+- id: 17129474
+  name: Orcish Stormer
+- id: 17129475
+  name: Orcish Stormer
+- id: 17129476
+  name: Orcish Stormer
+- id: 17129477
+  name: Orcish Stormer
+- id: 17129478
+  name: Orcish Stormer
+- id: 17129479
+  name: Orcish Stormer
+- id: 17129480
+  name: Orcish Stormer
+- id: 17129481
+  name: Orcish Stormer
+- id: 17129482
+  name: Orcish Stormer
+- id: 17129483
+  name: Orcish Stormer
+- id: 17129484
+  name: Orcish Stormer
+- id: 17129485
+  name: Orcish Stormer
+- id: 17129486
+  name: Orcish Stormer
+- id: 17129487
+  name: Orcish Stormer
+- id: 17129488
+  name: Orcish Stormer
+- id: 17129489
+  name: Orcish Stormer
+- id: 17129490
+  name: Orcish Stormer
+- id: 17129491
+  name: Royal Garrison
+- id: 17129492
+  name: Royal Garrison
+- id: 17129493
+  name: Royal Garrison
+- id: 17129494
+  name: Royal Infantry
+- id: 17129495
+  name: Royal Infantry
+- id: 17129496
+  name: Royal Infantry
+- id: 17129497
+  name: Trained Crab
+- id: 17129498
+  name: Trained Bat
+- id: 17129499
+  name: Trained Scorpion
+- id: 17129500
+  name: Orcish Carrier
+- id: 17129501
+  name: Orcish Guard
+- id: 17129502
+  name: Orcish Guard
+- id: 17129503
+  name: Orcish Carrier
+- id: 17129504
+  name: Orcish Guard
+- id: 17129505
+  name: Orcish Guard
+- id: 17129506
+  name: Orcish Carrier
+- id: 17129507
+  name: Orcish Guard
+- id: 17129508
+  name: Orcish Guard
+- id: 17129509
+  name: Orcish Carrier
+- id: 17129510
+  name: Orcish Guard
+- id: 17129511
+  name: Orcish Guard
+- id: 17129512
+  name: Orcish Carrier
+- id: 17129513
+  name: Orcish Guard
+- id: 17129514
+  name: Orcish Guard
+- id: 17129515
+  name: Orcish Guard
+- id: 17129516
+  name: Orcish Guard
+- id: 17129517
+  name: Orcish Guard
+- id: 17129518
+  name: Orcish Guard
+- id: 17129519
+  name: King Arthro
+- id: 17129520
+  name: Knight Crab
+- id: 17129521
+  name: Knight Crab
+- id: 17129522
+  name: Knight Crab
+- id: 17129523
+  name: Knight Crab
+- id: 17129524
+  name: Knight Crab
+- id: 17129525
+  name: Knight Crab
+- id: 17129526
+  name: Knight Crab
+- id: 17129527
+  name: Knight Crab
+- id: 17129528
+  name: Knight Crab
+- id: 17129529
+  name: Knight Crab
+- id: 17129530
+  name: Knight Crab
+- id: 17129531
+  name: Knight Crab
+- id: 17129532
+  name: Lambton Worm
+- id: 17129533
+  name: Orcish Serjeant
+- id: 17129534
+  name: Orcish Grunt
+- id: 17129535
+  name: Orcish Grunt
+- id: 17129536
+  name: Orcish Grunt
+- id: 17129537
+  name: Orcish Grunt
+- id: 17129538
+  name: Orcish Grunt
+- id: 17129539
+  name: Orcish Officer
+- id: 17129540
+  name: Orcish Trooper
+- id: 17129541
+  name: Orcish Trooper
+- id: 17129542
+  name: Orcish Trooper
+- id: 17129543
+  name: Orcish Trooper
+- id: 17129544
+  name: Orcish Trooper
+- id: 17129545
+  name: Orcish Veteran
+- id: 17129546
+  name: Orcish Veteran
+- id: 17129547
+  name: Orcish Veteran
+- id: 17129548
+  name: Pupil Palliator I
+- id: 17129549
+  name: Pupil Palliator II
+- id: 17129550
+  name: Pupil Palliator III
+- id: 17129551
+  name: Royal Guard
+- id: 17129552
+  name: Savage Hound Condottiere
+- id: 17129553
+  name: Scarlet Boar Esquire
+- id: 17129554
+  name: Norvallen Knight
+- id: 17129555
+  name: Royal Knight
+- id: 17129556
+  name: Aragoneu Knight
+- id: 17129557
+  name: Royal Guard
+- id: 17129558
+  name: Savage Hound Condottiere
+- id: 17129559
+  name: Scarlet Boar Esquire
+- id: 17129560
+  name: Norvallen Knight
+- id: 17129561
+  name: Rongelouts N Distaud
+- id: 17129562
+  name: Zazarg
+- id: 17129563
+  name: Romaa Mihgo
+- id: 17129564
+  name: Iron Ram Knight
+- id: 17129565
+  name: Iron Ram Knight
+- id: 17129566
+  name: 7th Cohors Legionnaire
+- id: 17129567
+  name: 7th Cohors Legionnaire
+- id: 17129568
+  name: Cobra Mercenary
+- id: 17129569
+  name: Cobra Mercenary
+- id: 17129570
+  name: One-eyed Gwajboj
+- id: 17129571
+  name: Orcish Gladiator
+- id: 17129572
+  name: Orcish Gladiator
+- id: 17129573
+  name: Orcish Gladiator
+- id: 17129574
+  name: Orcish Gladiator
+- id: 17129575
+  name: Orcish Hexspinner
+- id: 17129576
+  name: Nickel Quadav
+- id: 17129577
+  name: Nickel Quadav
+- id: 17129578
+  name: Nickel Quadav
+- id: 17129579
+  name: Nickel Quadav
+- id: 17129580
+  name: Ruby Quadav
+- id: 17129581
+  name: Yagudo Missionary
+- id: 17129582
+  name: Yagudo Missionary
+- id: 17129583
+  name: Yagudo Missionary
+- id: 17129584
+  name: Yagudo Missionary
+- id: 17129585
+  name: Yagudo Abbot
+- id: 17129586
+  name: Orcish Gladiator
+- id: 17129587
+  name: Orcish Gladiator
+- id: 17129588
+  name: Orcish Gladiator
+- id: 17129589
+  name: Orcish Hexspinner
+- id: 17129590
+  name: Orcish Hexspinner
+- id: 17129591
+  name: Nickel Quadav
+- id: 17129592
+  name: Nickel Quadav
+- id: 17129593
+  name: Nickel Quadav
+- id: 17129594
+  name: Ruby Quadav
+- id: 17129595
+  name: Ruby Quadav
+- id: 17129596
+  name: Yagudo Missionary
+- id: 17129597
+  name: Yagudo Missionary
+- id: 17129598
+  name: Yagudo Missionary
+- id: 17129599
+  name: Yagudo Abbot
+- id: 17129600
+  name: Yagudo Abbot
+- id: 17129601
+  name: Young Behemoth
+- id: 17129602
+  name: Arch Ahriman
+- id: 17129603
+  name: Volker
+- id: 17129604
+  name: Nicolaus
+- id: 17129605
+  name: Five Moons
+- id: 17129606
+  name: Giddy Bomb
+- id: 17129607
+  name: Giddy Bomb
+- id: 17129608
+  name: Giddy Bomb
+- id: 17129609
+  name: Giddy Bomb
+- id: 17129610
+  name: Goblin Reaver
+- id: 17129611
+  name: Goblin Reaver
+- id: 17129612
+  name: Klara
+- id: 17129613
+  name: Fangmonger Colossus
+- id: 17129614
+  name: Tombstone
+- id: 17129615
+  name: Tombstone
+- id: 17129616
+  name: Tombstone
+- id: 17129617
+  name: Tombstone
+- id: 17129618
+  name: Tombstone
+- id: 17129619
+  name: Tombstone
+- id: 17129620
+  name: Excenmille
+- id: 17129621
+  name: Maxcimille
+- id: 17129622
+  name: Bostillette
+- id: 17129624
+  name: Dawn Aureola
+- id: 17129625
+  name: Twilight Aureola
+- id: 17129626
+  name: Lacuna Whorl
+- id: 17129628
+  name: ctrl_mission
+- id: 17129630
+  name: ???
+- id: 17129631
+  name: ???
+- id: 17129632
+  name: Achieve Master
+- id: 17129639
+  name: DOOR_MASTER
+- id: 17129640
+  name: _2e0
+- id: 17129641
+  name: _2e1
+- id: 17129642
+  name: _2e2
+- id: 17129643
+  name: _2e3
+- id: 17129644
+  name: _2e4
+- id: 17129645
+  name: _2e5
+- id: 17129646
+  name: _2e6
+- id: 17129647
+  name: _2e7
+- id: 17129648
+  name: _2e8
+- id: 17129649
+  name: _2e9
+- id: 17129650
+  name: _2ea
+- id: 17129651
+  name: _2eb
+- id: 17129652
+  name: _2ec
+- id: 17129653
+  name: _2ed
+- id: 17129654
+  name: _2ee
+- id: 17129655
+  name: _2ef
+- id: 17129656
+  name: _2eg
+- id: 17129657
+  name: _2eh
+- id: 17129658
+  name: _2ei
+- id: 17129659
+  name: _2ej
+- id: 17129660
+  name: _2ek
+- id: 17129661
+  name: _2el
+- id: 17129662
+  name: _2em
+- id: 17129663
+  name: _2en
+- id: 17129664
+  name: _2eo
+- id: 17129665
+  name: _2ep
+- id: 17129666
+  name: _2eq
+- id: 17129667
+  name: _2er
+- id: 17129668
+  name: _2es
+- id: 17129669
+  name: _2et
+- id: 17129670
+  name: _2eu
+- id: 17129671
+  name: _2ev
+- id: 17129672
+  name: _2ew
+- id: 17129673
+  name: _2ex
+- id: 17129674
+  name: _2ey
+- id: 17129675
+  name: _2ez
+- id: 17129676
+  name: _ke0
+- id: 17129677
+  name: _ke1
+- id: 17129678
+  name: _ke2
+- id: 17129679
+  name: _ke3
+- id: 17129680
+  name: _ke4
+- id: 17129681
+  name: _ke5
+- id: 17129682
+  name: _ke6
+- id: 17129683
+  name: _ke7
+- id: 17129684
+  name: _ke8
+- id: 17129685
+  name: _ke9
+- id: 17129686
+  name: _kea
+- id: 17129687
+  name: _keb
+- id: 17129688
+  name: _kec
+- id: 17129689
+  name: _ked
+- id: 17129690
+  name: _kee
+- id: 17129691
+  name: _kef
+- id: 17129692
+  name: _keg
+- id: 17129693
+  name: _keh
+- id: 17129694
+  name: _kei
+- id: 17129695
+  name: _kej
+- id: 17129696
+  name: _kek
+- id: 17129697
+  name: _kel
+- id: 17129698
+  name: _kem
+- id: 17129699
+  name: _ken
+- id: 17129700
+  name: _keo
+- id: 17129701
+  name: _kep
+- id: 17129702
+  name: _keq
+- id: 17129703
+  name: _ker
+- id: 17129704
+  name: _kes
+- id: 17129705
+  name: ''
+- id: 17129706
+  name: medic_pop_ctrl
+- id: 17129707
+  name: ''
+- id: 17129709
+  name: Moogle
+- id: 17129710
+  name: Moogle
+- id: 17129711
+  name: Moogle
+- id: 17129712
+  name: Moogle
+- id: 17129713
+  name: Moogle
+- id: 17129714
+  name: Moogle
+- id: 17129715
+  name: Moogle
+- id: 17129716
+  name: Moogle
+- id: 17129717
+  name: ???
+- id: 17129718
+  name: ???
+- id: 17129719
+  name: ???
+- id: 17129720
+  name: ???
+- id: 17129721
+  name: ???
+- id: 17129722
+  name: ???
+- id: 17129723
+  name: ???
+- id: 17129724
+  name: ???
+- id: 17129725
+  name: ???
+- id: 17129726
+  name: ???
+- id: 17129727
+  name: ???
+- id: 17129728
+  name: ???
+- id: 17129729
+  name: ???
+- id: 17129730
+  name: ???
+- id: 17129731
+  name: ???
+- id: 17129732
+  name: ???
+- id: 17129733
+  name: ???
+- id: 17129734
+  name: ???
+- id: 17129735
+  name: ???
+- id: 17129736
+  name: ???
+- id: 17129737
+  name: ???
+- id: 17129738
+  name: ???
+- id: 17129739
+  name: ???
+- id: 17129740
+  name: ???
+- id: 17129741
+  name: ???
+- id: 17129742
+  name: ???
+- id: 17129743
+  name: ???
+- id: 17129744
+  name: Switch
+- id: 17129745
+  name: Switch
+- id: 17129746
+  name: Switch
+- id: 17129747
+  name: ''
+- id: 17129748
+  name: ''
+- id: 17129749
+  name: ''
+- id: 17129750
+  name: ''
+- id: 17129751
+  name: ''
+- id: 17129752
+  name: ''
+- id: 17129753
+  name: ''
+- id: 17129754
+  name: ''
+- id: 17129755
+  name: ''
+- id: 17129756
+  name: ''
+- id: 17129757
+  name: ''
+- id: 17129758
+  name: ''
+- id: 17129759
+  name: ''
+- id: 17129760
+  name: ''
+- id: 17129761
+  name: ''
+- id: 17129762
+  name: ''
+- id: 17129763
+  name: ???
+- id: 17129764
+  name: ''
+- id: 17129765
+  name: Cait Sith Naoi
+- id: 17129766
+  name: ''
+- id: 17129767
+  name: Zogbog

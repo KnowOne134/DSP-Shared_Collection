@@ -1,0 +1,691 @@
+lists:
+  0:
+  - string: 'Current setting: Your treasure is being pooled.'
+  1:
+  - string: You are currently not in a party.
+  2:
+  - string: This region is not under any country's control.
+  3:
+  - string: This region is under the control of the beastmen.
+  4:
+  - string: This area is not under any country's control.
+  5:
+  - string: Server is now calculating regional influences.
+  6:
+  - string: Now obtaining information from server.
+  7:
+  - string: Switch to this linkshell group?
+  8:
+  - string: Dispose of this item?
+  9:
+  - string: Synthesis canceled. That combination of materials cannot be synthesized.
+  10:
+  - string: Synthesis failed. You lost the crystal you were using.
+  11:
+  - string: Synthesis failed. You lost the crystal you were using.
+  12:
+  - string: Synthesis interrupted. You lost the crystal and materials you were using.
+  13:
+  - string: Synthesis canceled. That formula is beyond your current craft skill level.
+  14:
+  - string: Synthesis canceled.
+  15:
+  - string: Too many materials.
+  16:
+  - string: Synthesis canceled. You cannot hold more than one item of that type.
+  17:
+  - string: Message sent.
+  18:
+  - string: Reply sent.
+  19:
+  - string: Tried knocking.
+  20:
+  - string: Requested friend registration.
+  21:
+  - string: Accepted friend registration.
+  22:
+  - string: Declined friend registration.
+  23:
+  - string: Accepted friend registration and requested friend registration in return.
+  24:
+  - string: Added name to Ignore List.
+  25:
+  - string: Marked message as read.
+  26:
+  - string: |-
+      Add sender to
+      Ignore List?
+  27:
+  - string: dummy
+  28:
+  - string: FINAL FANTASY XI
+  29:
+  - string: Let's be friends!
+  30:
+  - string: Let's play!
+  31:
+  - string: FINAL FANTASY XI
+  32:
+  - string: Added you to Friend List.
+  33:
+  - string: Declined to add you to Friend List.
+  34:
+  - string: 'Friend''s Name:'
+  35:
+  - string: Current Area
+  36:
+  - string: Area
+  37:
+  - string: All Areas
+  38:
+  - string: World
+  39:
+  - string: ' [Searching]'
+  40:
+  - string: You made a purchase from %s's bazaar.
+  41:
+  - string: '%s''s bazaar was closed midway through your transaction.'
+  42:
+  - string: You made a purchase from the guild.
+  43:
+  - string: You made a sale to the guild.
+  44:
+  - string: Select from your inventory.
+  45:
+  - string: Please try again in a little while.
+  46:
+  - string: Recipient
+  47:
+  - string: Recipient (preparing)
+  48:
+  - string: Recipient (sent)
+  49:
+  - string: Recipient (canceled)
+  50:
+  - string: Entering cancel delivery mode.
+  51:
+  - string: 'Sender:'
+  52:
+  - string: Dispose of this item?
+  53:
+  - string: Return this item to sender?
+  54:
+  - string: |-
+      Merchandise placed on auction.
+      If merchandise remains unsold after 30 weeks (Vana'diel time), it will be returned to your current residence.
+      If a successful bid is made, the proceeds from the sale will be delivered to your current residence.
+      Signed items will lose their signature after being purchased.
+  55:
+  - string: Failed to place merchandise on auction.
+  56:
+  - string: Your bid was successful.
+  57:
+  - string: Your bid failed.
+  58:
+  - string: Remove merchandise from auction?
+  59:
+  - string: →
+  60:
+  - string: |-
+      Calculating transaction fee.
+      Reselect item name once its color changes.
+  61:
+  - string: You do not have enough gil to pay the transaction fee.
+  62:
+  - string: Auction house is temporarily closed for trading.
+  63:
+  - string: Results shown may include returned merchandise that you have already removed from your delivery box.
+  64:
+  - string: '---------'
+  65:
+  - string: Follow canceled.
+  66:
+  - string: Screenshot saved.
+  67:
+  - string: Equipment changed.
+  68:
+  - string: Equipment removed.
+  69:
+  - string: Which area do you want to exit to?
+  70:
+  - string: Area you entered from.
+  71:
+  - string: Updating PlayOnline handle information. (1)
+  72:
+  - string: Updating PlayOnline handle information. (2)
+  73:
+  - string: Executing auto-disconnect.
+  74:
+  - string: No spells learned.
+  75:
+  - string: No spells available.
+  76:
+  - string: ' '
+  77:
+  - string: No abilities
+  78:
+  - string: available.
+  79:
+  - string: No mounts
+  80:
+  - string: available.
+  81:
+  - string: Say lines
+  82:
+  - string: Shout lines
+  83:
+  - string: Your successful attacks
+  84:
+  - string: Your unsuccessful attacks
+  85:
+  - string: Damage you receive
+  86:
+  - string: Attacks you evaded
+  87:
+  - string: Party member's successful attacks
+  88:
+  - string: Party member's unsuccessful attacks
+  89:
+  - string: Damage party members receives
+  90:
+  - string: Attacks party members evaded
+  91:
+  - string: Other people's successful attacks
+  92:
+  - string: Other people's unsuccessful attacks
+  93:
+  - string: Activation of magic and abilities
+  94:
+  - string: Effects of magic and abilities
+  95:
+  - string: Examine %s?
+  96:
+  - string: You do not possess any key items.
+  97:
+  - string: Preparing data.
+  98:
+  - string: Please wait a moment.
+  99:
+  - string: No current quests.
+  100:
+  - string: No completed quests.
+  101:
+  - string: |
+      Spelling of name is incorrect.
+  102:
+  - string: Failed to execute command.
+  103:
+  - string: |
+      Cannot use yet.
+  104:
+  - string: 'Record of visits to area: '
+  105:
+  - string: No record of visits to area.
+  106:
+  - string: N/A
+  107:
+  - string: |2
+        MAP: %s, NAME: %s
+  108:
+  - string: Yes
+  109:
+  - string: No
+  110:
+  - string: shown
+  111:
+  - string: hidden
+  112:
+  - string: |
+      Visits to: %s
+  113:
+  - string: Visited
+  114:
+  - string: Hasn't
+  115:
+  - string: Unknown
+  116:
+  - string: Added to blacklist.
+  117:
+  - string: Failed to add to blacklist.
+  118:
+  - string: Removed from blacklist.
+  119:
+  - string: Failed to remove from blacklist.
+  120:
+  - string: '...A command error occurred.'
+  121:
+  - string: Go back.
+  122:
+  - string: Return.
+  123:
+  - string: Delete this message.
+  124:
+  - string: |2
+
+      Carry out selected process?
+  125:
+  - string: Execute.
+  126:
+  - string: Data read error.
+  127:
+  - string: 'Acquiring data: '
+  128:
+  - string: Already placed in trade slot.
+  129:
+  - string: Another event was called while current event was running.
+  130:
+  - string: Currently in an event. This GMTELL was invalidated.
+  131:
+  - string: Currently four GMTELL's have been received. This GMTELL was invalidated.
+  132:
+  - string: 'GMTELL(%s): Question(%s): Result (Canceled due to event activation.)'
+  133:
+  - string: 'GMTELL(%s): Question(%s): Result (Canceled.)'
+  134:
+  - string: 'GMTELL(%s): Question(%s): Result (%s)'
+  135:
+  - string: /party <t> sighted!
+  136:
+  - string: ''
+  137:
+  - string: '/party Current position: <pos>!'
+  138:
+  - string: ''
+  139:
+  - string: '/say Help! I''m being chased by <t> at: <pos>!'
+  140:
+  - string: ''
+  141:
+  - string: /say Warning! I'm being chased by multiple enemies!
+  142:
+  - string: ''
+  143:
+  - string: /names
+  144:
+  - string: ''
+  145:
+  - string: /invite
+  146:
+  - string: ''
+  147:
+  - string: /anon
+  148:
+  - string: ''
+  149:
+  - string: /party I'm out of MP!
+  150:
+  - string: ''
+  151:
+  - string: /party TP ready for use!
+  152:
+  - string: ''
+  153:
+  - string: /yes
+  154:
+  - string: ''
+  155:
+  - string: /no
+  156:
+  - string: ''
+  157:
+  - string: /wave
+  158:
+  - string: ''
+  159:
+  - string: /pcmd add
+  160:
+  - string: ''
+  161:
+  - string: /join
+  162:
+  - string: /wait 3
+  163:
+  - string: /cm party
+  164:
+  - string: Thanks for letting me join your party!
+  165:
+  - string: /joy motion
+  166:
+  - string: ''
+  167:
+  - string: /say Sorry. I want to play solo.
+  168:
+  - string: /decline
+  169:
+  - string: /pcmd leave
+  170:
+  - string: /bow motion
+  171:
+  - string: ''
+  172:
+  - string: /nominate party "Go which way?" "Left?" "Right?"
+  173:
+  - string: ''
+  174:
+  - string: /vote 1
+  175:
+  - string: ''
+  176:
+  - string: /vote 2
+  177:
+  - string: ''
+  178:
+  - string: /party Luring <t>!
+  179:
+  - string: /magic "Dia" <t>
+  180:
+  - string: /wait 4
+  181:
+  - string: /attack <t>
+  182:
+  - string: ''
+  183:
+  - string: Dispose of item?
+  184:
+  - string: Stay in your room.
+  185:
+  - string: Select an area to exit to.
+  186:
+  - string: Current Region
+  187:
+  - string: Region
+  188:
+  - string: Only the linkshell holder may edit the linkshell group's welcome message.
+  189:
+  - string: Only linkshell or pearlsack holders may edit the linkshell group's welcome message.
+  190:
+  - string: All members may edit the linkshell group's welcome message.
+  191:
+  - string: '(※ Note: The list of people found has been truncated.)'
+  192:
+  - string: delivery
+  193:
+  - string: delivery
+  194:
+  - string: All treasure obtained will be automatically pooled.
+  195:
+  - string: Q&A
+  196:
+  - string: Please enter a keyword.
+  197:
+  - string: Help Desk
+  198:
+  - string: Config
+  199:
+  - string: Back
+  200:
+  - string: Your keyword search has failed.
+  201:
+  - string: Your search has returned too many results. Please add another keyword and try again.
+  202:
+  - string: '(Note: The list of matches found has been truncated.)'
+  203:
+  - string: '%d matches found (%d results displayed).'
+  204:
+  - string: Enable Mentor Status.
+  205:
+  - string: Disable Mentor Status.
+  206:
+  - string: Cancel New Adventurer Status.
+  207:
+  - string: Mentor Search
+  208:
+  - string: What is a New Adventurer?
+  209:
+  - string: Please note that registering and serving as a mentor, as well as utilizing the services of the Mentor Program, are to be done at the player's own discretion. SQUARE ENIX will not be held responsible for the actions and/or comments of any mentors. No benefits of any kind will be provided to those who choose to participate in the Mentor Program. When you agree to participate in the Mentor Program, you are acknowledging that you have read and understood the above terms.
+  210:
+  - string: Enable Mentor Status?
+  211:
+  - string: Disable Mentor Status?
+  212:
+  - string: Once New Adventurer Status has been canceled, it cannot be reinstated. Are you sure you want to cancel?
+  213:
+  - string: You can search Q&A by typing in keywords.
+  214:
+  - string: Entering a space between keywords will result in a search for passages containing both terms. Entering "Q" and then the article number will automatically call up a specific topic.
+  215:
+  - string: Transferring to the Help Desk.
+  216:
+  - string: Transferring to the Mentor Search.
+  217:
+  - string: Transferring to the Config Menu.
+  218:
+  - string: Enable Mentor Status.
+  219:
+  - string: Disable Mentor Status.
+  220:
+  - string: Cancel New Adventurer Status.
+  221:
+  - string: Help Desk
+  222:
+  - string: Config
+  223:
+  - string: There are no Rooks nearby.
+  224:
+  - string: Remove all equipment from the mannequin?
+  225:
+  - string: Registration successful.
+  226:
+  - string: All Jobs
+  227:
+  - string: (Remove All)
+  228:
+  - string: Remove all set blue magic spells?
+  229:
+  - string: Remove all attachments?
+  230:
+  - string: MP Cost
+  231:
+  - string: Next
+  232:
+  - string: |-
+      Currently unable to target others' pets.
+       ("/ignorepet off" to cancel)
+  233:
+  - string: Currently able to target others' pets.
+  234:
+  - string: |-
+      Ability to target others' pets has been disabled.
+       ("/ignorepet off" to cancel)
+  235:
+  - string: Ability to target others' pets has been enabled.
+  236:
+  - string: ' '
+  237:
+  - string: This macro set will be overwritten. Do you still wish to paste?
+  238:
+  - string: Do you really wish to delete this macro set?
+  239:
+  - string: This macro book will be overwritten. Do you still wish to paste?
+  240:
+  - string: Do you really wish to delete this macro book?
+  241:
+  - string: Leave Mog House.
+  242:
+  - string: Battle music will now play only when you yourself enter battle mode.
+  243:
+  - string: Battle music will now play whenever any party member enters battle mode.
+  244:
+  - string: Bell sounds have been enabled.
+  245:
+  - string: Bell sounds have been disabled.
+  246:
+  - string: |-
+      All Maze Runes will be removed.
+      Do you wish to proceed?
+  247:
+  - string: The "Call for Help" command is currently being blocked.
+  248:
+  - string: The "Call for Help" command is no longer being blocked.
+  249:
+  - string: The /yell chat filter is currently enabled.
+  250:
+  - string: The /yell chat filter is currently disabled.
+  251:
+  - string: Simplified weather expression has been enabled.
+  252:
+  - string: Simplified weather expression has been disabled.
+  253:
+  - string: Environmental effect suppression has been enabled.
+  254:
+  - string: Environmental effect suppression has been disabled.
+  255:
+  - string: Character armor display has been disabled.
+  256:
+  - string: Character armor display has been enabled.
+  257:
+  - string: Remove all?
+  258:
+  - string: Cost
+  259:
+  - string: Simplified weather expression is currently enabled.
+  260:
+  - string: Simplified weather expression is currently disabled.
+  261:
+  - string: Environmental effect suppression is currently enabled.
+  262:
+  - string: Environmental effect supression is currently disabled.
+  263:
+  - string: Character effect suppression has been enabled.
+  264:
+  - string: Character effect suppression has been disabled.
+  265:
+  - string: Character effect suppression is currently enabled.
+  266:
+  - string: Character effect suppression is currently disabled.
+  267:
+  - string: Targeting of other players' alter egos is currently disabled.
+  268:
+  - string: Targeting of other players' alter egos is currently enabled.
+  269:
+  - string: Targeting of other players' alter egos has been disabled.
+  270:
+  - string: Targeting of other players' alter egos has been enabled.
+  271:
+  - string: Display of other players' alter egos is currently disabled.
+  272:
+  - string: Display of other players' alter egos is currently enabled.
+  273:
+  - string: Display of other players' alter egos has been disabled.
+  274:
+  - string: Display of other players' alter egos has been enabled.
+  275:
+  - string: Remove piece.
+  276:
+  - string: Keep same piece.
+  277:
+  - string: Performing this action will overwrite the current set with a new one. Proceed?
+  278:
+  - string: Truly delete this set?
+  279:
+  - string: Proceed with overwriting this set with your current equipment?
+  280:
+  - string: 'Style: %s'
+  281:
+  - string: Do everything
+  282:
+  - string: Hard-core battle content
+  283:
+  - string: Casual battle content
+  284:
+  - string: HNM Vanquishing
+  285:
+  - string: Meet other new players
+  286:
+  - string: Assist each other
+  287:
+  - string: Trading
+  288:
+  - string: Nothing
+  289:
+  - string: Timestamp on
+  290:
+  - string: Timestamp off
+  291:
+  - string: Timestamp on (minutes)
+  292:
+  - string: Timestamp on (seconds)
+  293:
+  - string: Change floors.
+  294:
+  - string: '=== Area: Mog House 1F ==='
+  295:
+  - string: '=== Area: Mog House 2F ==='
+  296:
+  - string: That furnishing is not placed on this floor.
+  297:
+  - string: Area of effect display on
+  298:
+  - string: Area of effect display off
+  299:
+  - string: Adventuring Primer
+  300:
+  - string: Display the adventuring primer.
+  301:
+  - string: Furnishing camera collision has been turned on.
+  302:
+  - string: Furnishing camera collision has been turned off.
+  303:
+  - string: Furnishing camera collision is currently on.
+  304:
+  - string: Furnishing camera collision is currently off.
+  305:
+  - string: Layout control style has been set to type 1.
+  306:
+  - string: Layout control style has been set to type 2.
+  307:
+  - string: Layout control style is currently set to type 1.
+  308:
+  - string: Layout control style is currently set to type 2.
+  309:
+  - string: 'Charges required: %d.'
+  310:
+  - string: Visual effects are enabled.
+  311:
+  - string: Visual effects are disabled.
+  312:
+  - string: Party member status icons are enabled.
+  313:
+  - string: Party member status icons are disabled.
+  314:
+  - string: 'Focus targeting is enabled. '
+  315:
+  - string: Focus targeting is disabled.
+  316:
+  - string: Status icon timers are enabled.
+  317:
+  - string: Status icon timers are disabled.
+  318:
+  - string: Subtarget movement increment has been set to %d.
+  319:
+  - string: 'Current subtarget movement increment: %d.'
+  320:
+  - string: Really reset request history?
+  321:
+  - string: The request has been deleted.
+  322:
+  - string: All requests to join have been deleted.
+  323:
+  - string: Job mastery display (★) is enabled.
+  324:
+  - string: Job mastery display (★) is disabled.
+  325:
+  - string: Blurring has been enabled.
+  326:
+  - string: Blurring has been disabled.
+  327:
+  - string: 'Background music: muted.'
+  328:
+  - string: 'Background music: audible.'
+  329:
+  - string: 'Sound effects: muted.'
+  330:
+  - string: 'Sound effects: audible.'
+  331:
+  - string: 'Alter ego emotions: linked.'
+  332:
+  - string: 'Alter ego emotions: not linked.'
+  333:
+  - string: Alter ego emotions are now linked.
+  334:
+  - string: Alter ego emotions are no longer linked.

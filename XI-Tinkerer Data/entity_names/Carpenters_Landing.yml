@@ -1,0 +1,743 @@
+names:
+- id: 16785409
+  name: Snipper
+- id: 16785410
+  name: Triangle Crab
+- id: 16785411
+  name: Clipper
+- id: 16785412
+  name: Greater Pugil
+- id: 16785413
+  name: Fishtrap
+- id: 16785414
+  name: Beady Beetle
+- id: 16785415
+  name: Beady Beetle
+- id: 16785416
+  name: Poison Funguar
+- id: 16785417
+  name: Poison Funguar
+- id: 16785418
+  name: Poison Funguar
+- id: 16785419
+  name: Poison Funguar
+- id: 16785420
+  name: Poison Funguar
+- id: 16785421
+  name: Specter Bat
+- id: 16785422
+  name: Specter Bat
+- id: 16785423
+  name: Bulldog Bats
+- id: 16785424
+  name: Bulldog Bats
+- id: 16785425
+  name: Digger Wasp
+- id: 16785426
+  name: Digger Wasp
+- id: 16785427
+  name: Digger Wasp
+- id: 16785428
+  name: Digger Wasp
+- id: 16785429
+  name: Digger Wasp
+- id: 16785430
+  name: Digger Wasp
+- id: 16785431
+  name: Digger Wasp
+- id: 16785432
+  name: Glide Bomb
+- id: 16785433
+  name: Thunder Elemental
+- id: 16785434
+  name: Beady Beetle
+- id: 16785435
+  name: Beady Beetle
+- id: 16785436
+  name: Beady Beetle
+- id: 16785437
+  name: Beady Beetle
+- id: 16785438
+  name: Flytrap
+- id: 16785439
+  name: Flytrap
+- id: 16785440
+  name: Orcish Grunt
+- id: 16785441
+  name: Orcish Stonechucker
+- id: 16785442
+  name: Orcish Neckchopper
+- id: 16785443
+  name: Beady Beetle
+- id: 16785444
+  name: Flytrap
+- id: 16785445
+  name: Flytrap
+- id: 16785446
+  name: Orcish Grunt
+- id: 16785447
+  name: Orcish Stonechucker
+- id: 16785448
+  name: Orcish Neckchopper
+- id: 16785449
+  name: Poison Funguar
+- id: 16785450
+  name: Poison Funguar
+- id: 16785451
+  name: Beady Beetle
+- id: 16785452
+  name: Beady Beetle
+- id: 16785453
+  name: Beady Beetle
+- id: 16785454
+  name: Beady Beetle
+- id: 16785455
+  name: Beady Beetle
+- id: 16785456
+  name: Beady Beetle
+- id: 16785457
+  name: Orcish Grunt
+- id: 16785458
+  name: Orcish Stonechucker
+- id: 16785459
+  name: Orcish Neckchopper
+- id: 16785460
+  name: Land Pugil
+- id: 16785461
+  name: Water Elemental
+- id: 16785462
+  name: Land Pugil
+- id: 16785463
+  name: Water Elemental
+- id: 16785464
+  name: Land Pugil
+- id: 16785465
+  name: Land Pugil
+- id: 16785466
+  name: Stag Beetle
+- id: 16785467
+  name: Stag Beetle
+- id: 16785468
+  name: Battrap
+- id: 16785469
+  name: Battrap
+- id: 16785470
+  name: Battrap
+- id: 16785471
+  name: Battrap
+- id: 16785472
+  name: Orcish Fighter
+- id: 16785473
+  name: Orcish Cursemaker
+- id: 16785474
+  name: Orcish Serjeant
+- id: 16785475
+  name: Stag Beetle
+- id: 16785476
+  name: Ghoul
+- id: 16785477
+  name: Battrap
+- id: 16785478
+  name: Battrap
+- id: 16785479
+  name: Orcish Fighter
+- id: 16785480
+  name: Orcish Cursemaker
+- id: 16785481
+  name: Orcish Serjeant
+- id: 16785482
+  name: Ghoul
+- id: 16785483
+  name: Stag Beetle
+- id: 16785484
+  name: Stag Beetle
+- id: 16785485
+  name: Stag Beetle
+- id: 16785486
+  name: Battrap
+- id: 16785487
+  name: Battrap
+- id: 16785488
+  name: Orcish Fighter
+- id: 16785489
+  name: Orcish Serjeant
+- id: 16785490
+  name: Stag Beetle
+- id: 16785491
+  name: Battrap
+- id: 16785492
+  name: Battrap
+- id: 16785493
+  name: Stag Beetle
+- id: 16785494
+  name: Ghoul
+- id: 16785495
+  name: Battrap
+- id: 16785496
+  name: Battrap
+- id: 16785497
+  name: Ghoul
+- id: 16785498
+  name: Thunder Elemental
+- id: 16785499
+  name: Marsh Funguar
+- id: 16785500
+  name: Marsh Funguar
+- id: 16785501
+  name: Stag Beetle
+- id: 16785502
+  name: Stag Beetle
+- id: 16785503
+  name: Ghoul
+- id: 16785504
+  name: Will-o'-the-Wisp
+- id: 16785505
+  name: Battrap
+- id: 16785506
+  name: Battrap
+- id: 16785507
+  name: Orcish Fighter
+- id: 16785508
+  name: Orcish Cursemaker
+- id: 16785509
+  name: Ghoul
+- id: 16785510
+  name: Forest Tiger
+- id: 16785511
+  name: Forest Tiger
+- id: 16785512
+  name: Stag Beetle
+- id: 16785513
+  name: Marsh Funguar
+- id: 16785514
+  name: Marsh Funguar
+- id: 16785515
+  name: Thunder Elemental
+- id: 16785516
+  name: Stag Beetle
+- id: 16785517
+  name: Battrap
+- id: 16785518
+  name: Battrap
+- id: 16785519
+  name: Fosse Pugil
+- id: 16785520
+  name: Fosse Pugil
+- id: 16785521
+  name: Water Elemental
+- id: 16785522
+  name: Fosse Pugil
+- id: 16785523
+  name: Water Elemental
+- id: 16785524
+  name: Fosse Pugil
+- id: 16785525
+  name: Water Elemental
+- id: 16785526
+  name: Stag Beetle
+- id: 16785527
+  name: Stag Beetle
+- id: 16785528
+  name: Stag Beetle
+- id: 16785529
+  name: Spider Wasp
+- id: 16785530
+  name: Spider Wasp
+- id: 16785531
+  name: Stag Beetle
+- id: 16785532
+  name: Stag Beetle
+- id: 16785533
+  name: Stag Beetle
+- id: 16785534
+  name: Stag Beetle
+- id: 16785535
+  name: Marsh Funguar
+- id: 16785536
+  name: Spider Wasp
+- id: 16785537
+  name: Spider Wasp
+- id: 16785538
+  name: Stag Beetle
+- id: 16785539
+  name: Spider Wasp
+- id: 16785540
+  name: Marsh Funguar
+- id: 16785541
+  name: Stag Beetle
+- id: 16785542
+  name: Stag Beetle
+- id: 16785543
+  name: Stag Beetle
+- id: 16785544
+  name: Marsh Funguar
+- id: 16785545
+  name: Marsh Funguar
+- id: 16785546
+  name: Marsh Funguar
+- id: 16785547
+  name: Marsh Funguar
+- id: 16785548
+  name: Marsh Funguar
+- id: 16785549
+  name: Stag Beetle
+- id: 16785550
+  name: Marsh Funguar
+- id: 16785551
+  name: Marsh Funguar
+- id: 16785552
+  name: Marsh Funguar
+- id: 16785553
+  name: Marsh Funguar
+- id: 16785554
+  name: Marsh Funguar
+- id: 16785555
+  name: Spider Wasp
+- id: 16785556
+  name: Spider Wasp
+- id: 16785557
+  name: Spider Wasp
+- id: 16785558
+  name: Stag Beetle
+- id: 16785559
+  name: Stag Beetle
+- id: 16785560
+  name: Spider Wasp
+- id: 16785561
+  name: Spider Wasp
+- id: 16785562
+  name: Spider Wasp
+- id: 16785563
+  name: Stag Beetle
+- id: 16785564
+  name: Marsh Funguar
+- id: 16785565
+  name: Stag Beetle
+- id: 16785566
+  name: Stag Beetle
+- id: 16785567
+  name: Spider Wasp
+- id: 16785568
+  name: Stag Beetle
+- id: 16785569
+  name: Marsh Funguar
+- id: 16785570
+  name: Marsh Funguar
+- id: 16785571
+  name: Stag Beetle
+- id: 16785572
+  name: Marsh Funguar
+- id: 16785573
+  name: Marsh Funguar
+- id: 16785574
+  name: Marsh Funguar
+- id: 16785575
+  name: Marsh Funguar
+- id: 16785576
+  name: Marsh Funguar
+- id: 16785577
+  name: Stag Beetle
+- id: 16785578
+  name: Stag Beetle
+- id: 16785579
+  name: Stag Beetle
+- id: 16785580
+  name: Marsh Funguar
+- id: 16785581
+  name: Marsh Funguar
+- id: 16785582
+  name: Marsh Funguar
+- id: 16785583
+  name: Marsh Funguar
+- id: 16785584
+  name: Marsh Funguar
+- id: 16785585
+  name: Stag Beetle
+- id: 16785586
+  name: Forest Tiger
+- id: 16785587
+  name: Forest Tiger
+- id: 16785588
+  name: Forest Tiger
+- id: 16785589
+  name: Stag Beetle
+- id: 16785590
+  name: Forest Tiger
+- id: 16785591
+  name: Forest Tiger
+- id: 16785592
+  name: Forest Tiger
+- id: 16785593
+  name: Tempest Tigon
+- id: 16785594
+  name: Ghoul
+- id: 16785595
+  name: Ghoul
+- id: 16785596
+  name: Thunder Elemental
+- id: 16785597
+  name: Fosse Pugil
+- id: 16785598
+  name: Fosse Pugil
+- id: 16785599
+  name: Water Elemental
+- id: 16785600
+  name: Stag Beetle
+- id: 16785601
+  name: Stag Beetle
+- id: 16785602
+  name: Stag Beetle
+- id: 16785603
+  name: Battrap
+- id: 16785604
+  name: Battrap
+- id: 16785605
+  name: Battrap
+- id: 16785606
+  name: Thunder Elemental
+- id: 16785607
+  name: Stag Beetle
+- id: 16785608
+  name: Stag Beetle
+- id: 16785609
+  name: Stag Beetle
+- id: 16785610
+  name: Stag Beetle
+- id: 16785611
+  name: Ghoul
+- id: 16785612
+  name: Will-o'-the-Wisp
+- id: 16785613
+  name: Battrap
+- id: 16785614
+  name: Battrap
+- id: 16785615
+  name: Battrap
+- id: 16785616
+  name: Battrap
+- id: 16785617
+  name: Battrap
+- id: 16785618
+  name: Battrap
+- id: 16785619
+  name: Battrap
+- id: 16785620
+  name: Ghoul
+- id: 16785621
+  name: Forest Tiger
+- id: 16785622
+  name: Forest Tiger
+- id: 16785623
+  name: Stag Beetle
+- id: 16785624
+  name: Battrap
+- id: 16785625
+  name: Battrap
+- id: 16785626
+  name: Stag Beetle
+- id: 16785627
+  name: Marsh Funguar
+- id: 16785628
+  name: Marsh Funguar
+- id: 16785629
+  name: Marsh Funguar
+- id: 16785630
+  name: Fosse Pugil
+- id: 16785631
+  name: Fosse Pugil
+- id: 16785632
+  name: Water Elemental
+- id: 16785633
+  name: Diving Beetle
+- id: 16785634
+  name: Diving Beetle
+- id: 16785635
+  name: Birdtrap
+- id: 16785636
+  name: Birdtrap
+- id: 16785637
+  name: Birdtrap
+- id: 16785638
+  name: Birdtrap
+- id: 16785639
+  name: Sabertooth Tiger
+- id: 16785640
+  name: Diving Beetle
+- id: 16785641
+  name: Birdtrap
+- id: 16785642
+  name: Birdtrap
+- id: 16785643
+  name: Birdtrap
+- id: 16785644
+  name: Sabertooth Tiger
+- id: 16785645
+  name: Diving Beetle
+- id: 16785646
+  name: Diving Beetle
+- id: 16785647
+  name: Diving Beetle
+- id: 16785648
+  name: Wight
+- id: 16785649
+  name: Spunkie
+- id: 16785650
+  name: Birdtrap
+- id: 16785651
+  name: Birdtrap
+- id: 16785652
+  name: Birdtrap
+- id: 16785653
+  name: Birdtrap
+- id: 16785654
+  name: Birdtrap
+- id: 16785655
+  name: Wendigo
+- id: 16785656
+  name: Sabertooth Tiger
+- id: 16785657
+  name: Sabertooth Tiger
+- id: 16785658
+  name: Shrieker
+- id: 16785659
+  name: Shrieker
+- id: 16785660
+  name: Shrieker
+- id: 16785661
+  name: Diving Beetle
+- id: 16785662
+  name: Diving Beetle
+- id: 16785663
+  name: Birdtrap
+- id: 16785664
+  name: Birdtrap
+- id: 16785665
+  name: Birdtrap
+- id: 16785666
+  name: Birdtrap
+- id: 16785667
+  name: Sabertooth Tiger
+- id: 16785668
+  name: Diving Beetle
+- id: 16785669
+  name: Diving Beetle
+- id: 16785670
+  name: Diving Beetle
+- id: 16785671
+  name: Birdtrap
+- id: 16785672
+  name: Birdtrap
+- id: 16785673
+  name: Birdtrap
+- id: 16785674
+  name: Sabertooth Tiger
+- id: 16785675
+  name: Birdtrap
+- id: 16785676
+  name: Orctrap
+- id: 16785677
+  name: Thunder Elemental
+- id: 16785678
+  name: Diving Beetle
+- id: 16785679
+  name: Birdtrap
+- id: 16785680
+  name: Birdtrap
+- id: 16785681
+  name: Spinous Pugil
+- id: 16785682
+  name: Spinous Pugil
+- id: 16785683
+  name: Water Elemental
+- id: 16785684
+  name: Spinous Pugil
+- id: 16785685
+  name: Water Elemental
+- id: 16785686
+  name: Spinous Pugil
+- id: 16785687
+  name: Water Elemental
+- id: 16785688
+  name: Diving Beetle
+- id: 16785689
+  name: Diving Beetle
+- id: 16785690
+  name: Diving Beetle
+- id: 16785691
+  name: Diving Beetle
+- id: 16785692
+  name: Shrieker
+- id: 16785693
+  name: Diving Beetle
+- id: 16785694
+  name: Diving Beetle
+- id: 16785695
+  name: Shrieker
+- id: 16785696
+  name: Shrieker
+- id: 16785697
+  name: Shrieker
+- id: 16785698
+  name: Diving Beetle
+- id: 16785699
+  name: Diving Beetle
+- id: 16785700
+  name: Diving Beetle
+- id: 16785701
+  name: Diving Beetle
+- id: 16785702
+  name: Diving Beetle
+- id: 16785703
+  name: Diving Beetle
+- id: 16785704
+  name: Shrieker
+- id: 16785705
+  name: Shrieker
+- id: 16785706
+  name: Shrieker
+- id: 16785707
+  name: Shrieker
+- id: 16785708
+  name: Shrieker
+- id: 16785709
+  name: Overgrown Ivy
+- id: 16785710
+  name: Cryptonberry Executor
+- id: 16785711
+  name: Cryptonberry Assassin
+- id: 16785712
+  name: Cryptonberry Assassin
+- id: 16785713
+  name: Cryptonberry Assassin
+- id: 16785714
+  name: Tonberry's Elemental
+- id: 16785715
+  name: Tonberry's Avatar
+- id: 16785716
+  name: Para
+- id: 16785717
+  name: Para
+- id: 16785718
+  name: Para
+- id: 16785719
+  name: Para
+- id: 16785720
+  name: Para
+- id: 16785721
+  name: Bullheaded Grosvez
+- id: 16785722
+  name: Mycophile
+- id: 16785723
+  name: Hercules Beetle
+- id: 16785724
+  name: Orcfeltrap
+- id: 16785725
+  name: Orcfeltrap
+- id: 16785726
+  name: Orcfeltrap
+- id: 16785729
+  name: ???
+- id: 16785730
+  name: ???
+- id: 16785731
+  name: ???
+- id: 16785732
+  name: ???
+- id: 16785733
+  name: ???
+- id: 16785734
+  name: ???
+- id: 16785735
+  name: ???
+- id: 16785736
+  name: Achieve Master
+- id: 16785737
+  name: Unity Master
+- id: 16785744
+  name: Chuaie
+- id: 16785745
+  name: Ratoulle
+- id: 16785746
+  name: Felourie
+- id: 16785747
+  name: ship
+- id: 16785748
+  name: Guilloud
+- id: 16785749
+  name: Louverance
+- id: 16785750
+  name: Louverance
+- id: 16785751
+  name: ???
+- id: 16785752
+  name: Louverance
+- id: 16785753
+  name: Chocobo
+- id: 16785754
+  name: Beugungel
+- id: 16785755
+  name: sdoor_s
+- id: 16785756
+  name: sdoor_t
+- id: 16785757
+  name: sdoor_u
+- id: 16785758
+  name: ''
+- id: 16785760
+  name: Moogle
+- id: 16785761
+  name: Moogle
+- id: 16785762
+  name: Moogle
+- id: 16785763
+  name: Moogle
+- id: 16785764
+  name: Moogle
+- id: 16785765
+  name: Moogle
+- id: 16785766
+  name: Moogle
+- id: 16785767
+  name: Moogle
+- id: 16785768
+  name: Ramblix
+- id: 16785769
+  name: Goblin Footprint
+- id: 16785770
+  name: ???
+- id: 16785771
+  name: Anguenet
+- id: 16785772
+  name: Lourdaude
+- id: 16785773
+  name: Logging Point
+- id: 16785774
+  name: Logging Point
+- id: 16785775
+  name: Logging Point
+- id: 16785776
+  name: Logging Point
+- id: 16785777
+  name: Cofisephe
+- id: 16785778
+  name: Coupulie
+- id: 16785779
+  name: Echanie
+- id: 16785780
+  name: ???
+- id: 16785781
+  name: ???
+- id: 16785782
+  name: ''
+- id: 16785783
+  name: Perseus
+- id: 16785784
+  name: ???
+- id: 16785785
+  name: Ethereal Junction
+- id: 16785786
+  name: Ethereal Junction
+- id: 16785787
+  name: Ethereal Junction
+- id: 16785788
+  name: Survival Guide

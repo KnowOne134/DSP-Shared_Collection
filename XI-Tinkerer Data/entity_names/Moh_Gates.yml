@@ -1,0 +1,693 @@
+names:
+- id: 17879041
+  name: Boiling Obdella
+- id: 17879042
+  name: Boiling Obdella
+- id: 17879043
+  name: Boiling Obdella
+- id: 17879044
+  name: Submerged Slime
+- id: 17879045
+  name: Submerged Slime
+- id: 17879046
+  name: Menacing Mantis
+- id: 17879047
+  name: Cthonic Chapuli
+- id: 17879048
+  name: Cthonic Chapuli
+- id: 17879049
+  name: Cthonic Chapuli
+- id: 17879050
+  name: Menacing Mantis
+- id: 17879051
+  name: Cthonic Chapuli
+- id: 17879052
+  name: Cthonic Chapuli
+- id: 17879053
+  name: Cthonic Chapuli
+- id: 17879054
+  name: Gleeful Ungeweder
+- id: 17879055
+  name: Cave Panopt
+- id: 17879056
+  name: Cave Panopt
+- id: 17879057
+  name: Cave Panopt
+- id: 17879058
+  name: Erythemic Eft
+- id: 17879059
+  name: Erythemic Eft
+- id: 17879060
+  name: Erythemic Eft
+- id: 17879061
+  name: Crestfallen Baelfyr
+- id: 17879062
+  name: Repugnant Twitherym
+- id: 17879063
+  name: Repugnant Twitherym
+- id: 17879064
+  name: Repugnant Twitherym
+- id: 17879065
+  name: Repugnant Twitherym
+- id: 17879066
+  name: Gleeful Ungeweder
+- id: 17879067
+  name: Thirsting Obdella
+- id: 17879068
+  name: Thirsting Obdella
+- id: 17879069
+  name: Thirsting Obdella
+- id: 17879070
+  name: Thirsting Obdella
+- id: 17879071
+  name: Blustering Twitherym
+- id: 17879072
+  name: Blustering Twitherym
+- id: 17879073
+  name: Blustering Twitherym
+- id: 17879074
+  name: Blustering Twitherym
+- id: 17879075
+  name: Blustering Twitherym
+- id: 17879076
+  name: Blustering Twitherym
+- id: 17879077
+  name: Blustering Twitherym
+- id: 17879078
+  name: Highwing Chapuli
+- id: 17879079
+  name: Highwing Chapuli
+- id: 17879080
+  name: Highwing Chapuli
+- id: 17879081
+  name: Highwing Chapuli
+- id: 17879082
+  name: Highwing Chapuli
+- id: 17879083
+  name: Consecrated Baelfyr
+- id: 17879084
+  name: Conflagrant Eruca
+- id: 17879085
+  name: Conflagrant Eruca
+- id: 17879086
+  name: Conflagrant Eruca
+- id: 17879087
+  name: Conflagrant Eruca
+- id: 17879088
+  name: Conflagrant Eruca
+- id: 17879089
+  name: Conflagrant Eruca
+- id: 17879090
+  name: Erupting Geyser
+- id: 17879091
+  name: Erythemic Eft
+- id: 17879092
+  name: Erythemic Eft
+- id: 17879093
+  name: Erythemic Eft
+- id: 17879094
+  name: Erythemic Eft
+- id: 17879095
+  name: Erythemic Eft
+- id: 17879096
+  name: Erythemic Eft
+- id: 17879097
+  name: Crestfallen Baelfyr
+- id: 17879098
+  name: Disturbed Matamata
+- id: 17879099
+  name: Disturbed Matamata
+- id: 17879100
+  name: Erupting Geyser
+- id: 17879101
+  name: Pepper Hare
+- id: 17879102
+  name: Pepper Hare
+- id: 17879103
+  name: Pepper Hare
+- id: 17879104
+  name: Repugnant Twitherym
+- id: 17879105
+  name: Repugnant Twitherym
+- id: 17879106
+  name: Repugnant Twitherym
+- id: 17879107
+  name: Repugnant Twitherym
+- id: 17879108
+  name: Gleeful Ungeweder
+- id: 17879109
+  name: Erupting Geyser
+- id: 17879110
+  name: Disturbed Matamata
+- id: 17879111
+  name: Disturbed Matamata
+- id: 17879112
+  name: Ruby Raptor
+- id: 17879113
+  name: Ruby Raptor
+- id: 17879114
+  name: Ruby Raptor
+- id: 17879115
+  name: Ruby Raptor
+- id: 17879116
+  name: Crestfallen Baelfyr
+- id: 17879117
+  name: Erupting Geyser
+- id: 17879118
+  name: Scoriaceous Clot
+- id: 17879119
+  name: Scoriaceous Clot
+- id: 17879120
+  name: Nachtschatten
+- id: 17879121
+  name: Nachtschatten
+- id: 17879122
+  name: Pungent Fungus
+- id: 17879123
+  name: Scoriaceous Clot
+- id: 17879124
+  name: Scoriaceous Clot
+- id: 17879125
+  name: Nachtschatten
+- id: 17879126
+  name: Nachtschatten
+- id: 17879127
+  name: Pungent Fungus
+- id: 17879128
+  name: Ferocious Funguar
+- id: 17879129
+  name: Ferocious Funguar
+- id: 17879130
+  name: Ferocious Funguar
+- id: 17879131
+  name: Ferocious Funguar
+- id: 17879132
+  name: Pungent Fungus
+- id: 17879133
+  name: Ferocious Funguar
+- id: 17879134
+  name: Ferocious Funguar
+- id: 17879135
+  name: Ferocious Funguar
+- id: 17879136
+  name: Ferocious Funguar
+- id: 17879137
+  name: Gleeful Ungeweder
+- id: 17879138
+  name: Pungent Fungus
+- id: 17879139
+  name: Cave Panopt
+- id: 17879140
+  name: Cave Panopt
+- id: 17879141
+  name: Cave Panopt
+- id: 17879142
+  name: Cave Panopt
+- id: 17879143
+  name: Pungent Fungus
+- id: 17879144
+  name: Repugnant Twitherym
+- id: 17879145
+  name: Repugnant Twitherym
+- id: 17879146
+  name: Repugnant Twitherym
+- id: 17879147
+  name: Repugnant Twitherym
+- id: 17879148
+  name: Scoriaceous Clot
+- id: 17879149
+  name: Scoriaceous Clot
+- id: 17879150
+  name: Scoriaceous Clot
+- id: 17879151
+  name: Pungent Fungus
+- id: 17879152
+  name: Writhing Obdella
+- id: 17879153
+  name: Writhing Obdella
+- id: 17879154
+  name: Writhing Obdella
+- id: 17879155
+  name: Ruby Raptor
+- id: 17879156
+  name: Ruby Raptor
+- id: 17879157
+  name: Nachtschatten
+- id: 17879158
+  name: Nachtschatten
+- id: 17879159
+  name: Nachtschatten
+- id: 17879160
+  name: Cthonic Chapuli
+- id: 17879161
+  name: Cthonic Chapuli
+- id: 17879162
+  name: Ferocious Funguar
+- id: 17879163
+  name: Ferocious Funguar
+- id: 17879164
+  name: Ferocious Funguar
+- id: 17879165
+  name: Knotted Root
+- id: 17879166
+  name: Knotted Root
+- id: 17879167
+  name: Knotted Root
+- id: 17879168
+  name: Ruby Raptor
+- id: 17879169
+  name: Ruby Raptor
+- id: 17879170
+  name: Skittish Matamata
+- id: 17879171
+  name: Ruby Raptor
+- id: 17879172
+  name: Ruby Raptor
+- id: 17879173
+  name: Skittish Matamata
+- id: 17879174
+  name: Knotted Root
+- id: 17879175
+  name: Knotted Root
+- id: 17879176
+  name: Knotted Root
+- id: 17879177
+  name: Scoriaceous Clot
+- id: 17879178
+  name: Scoriaceous Clot
+- id: 17879179
+  name: Skittish Matamata
+- id: 17879180
+  name: Scoriaceous Clot
+- id: 17879181
+  name: Scoriaceous Clot
+- id: 17879182
+  name: Skittish Matamata
+- id: 17879183
+  name: Staumarth
+- id: 17879184
+  name: Liquidbone Leech
+- id: 17879185
+  name: Rank Eft
+- id: 17879186
+  name: Liquidbone Leech
+- id: 17879187
+  name: Rank Eft
+- id: 17879188
+  name: Rank Eft
+- id: 17879189
+  name: Liquidbone Leech
+- id: 17879190
+  name: Rank Eft
+- id: 17879191
+  name: Liquidbone Leech
+- id: 17879192
+  name: Liquidbone Leech
+- id: 17879193
+  name: Rank Eft
+- id: 17879194
+  name: Rank Eft
+- id: 17879195
+  name: Steelclaw Raptor
+- id: 17879196
+  name: Steelclaw Raptor
+- id: 17879197
+  name: Steelclaw Raptor
+- id: 17879198
+  name: Praying Chapuli
+- id: 17879199
+  name: Praying Chapuli
+- id: 17879200
+  name: Praying Chapuli
+- id: 17879201
+  name: Praying Chapuli
+- id: 17879202
+  name: Praying Chapuli
+- id: 17879203
+  name: Praying Chapuli
+- id: 17879204
+  name: Groundstomp Matamata
+- id: 17879205
+  name: Groundstomp Matamata
+- id: 17879206
+  name: Groundstomp Matamata
+- id: 17879207
+  name: Groundstomp Matamata
+- id: 17879208
+  name: Groundstomp Matamata
+- id: 17879209
+  name: Erupting Geyser
+- id: 17879210
+  name: Incandescent Baelfyr
+- id: 17879211
+  name: Incandescent Baelfyr
+- id: 17879212
+  name: Incandescent Baelfyr
+- id: 17879213
+  name: Erupting Geyser
+- id: 17879214
+  name: Erupting Geyser
+- id: 17879215
+  name: Erupting Geyser
+- id: 17879216
+  name: Groundstomp Matamata
+- id: 17879217
+  name: Erupting Geyser
+- id: 17879218
+  name: Murkmoan Umbril
+- id: 17879219
+  name: Murkmoan Umbril
+- id: 17879220
+  name: Somatophylax Dullahan
+- id: 17879221
+  name: Murkmoan Umbril
+- id: 17879222
+  name: Somatophylax Dullahan
+- id: 17879223
+  name: Erupting Geyser
+- id: 17879224
+  name: Erupting Geyser
+- id: 17879225
+  name: Murkmoan Umbril
+- id: 17879226
+  name: Murkmoan Umbril
+- id: 17879227
+  name: Somatophylax Dullahan
+- id: 17879228
+  name: Murkmoan Umbril
+- id: 17879229
+  name: Somatophylax Dullahan
+- id: 17879230
+  name: Murkmoan Umbril
+- id: 17879231
+  name: Murkmoan Umbril
+- id: 17879232
+  name: Murkmoan Umbril
+- id: 17879233
+  name: Somatophylax Dullahan
+- id: 17879234
+  name: Somatophylax Dullahan
+- id: 17879235
+  name: Murkmoan Umbril
+- id: 17879236
+  name: Somatophylax Dullahan
+- id: 17879237
+  name: Murkmoan Umbril
+- id: 17879238
+  name: Murkmoan Umbril
+- id: 17879239
+  name: Erupting Geyser
+- id: 17879240
+  name: Murkmoan Umbril
+- id: 17879241
+  name: Somatophylax Dullahan
+- id: 17879242
+  name: Somatophylax Dullahan
+- id: 17879243
+  name: Splotched Acuex
+- id: 17879244
+  name: Splotched Acuex
+- id: 17879245
+  name: Splotched Acuex
+- id: 17879246
+  name: Splotched Acuex
+- id: 17879247
+  name: Splotched Acuex
+- id: 17879248
+  name: Splotched Acuex
+- id: 17879249
+  name: Steelclaw Raptor
+- id: 17879250
+  name: Steelclaw Raptor
+- id: 17879251
+  name: Groundstomp Matamata
+- id: 17879252
+  name: Groundstomp Matamata
+- id: 17879253
+  name: Steelclaw Raptor
+- id: 17879254
+  name: Gelatinous Clot
+- id: 17879255
+  name: Gelatinous Clot
+- id: 17879256
+  name: Gelatinous Clot
+- id: 17879257
+  name: Gelatinous Clot
+- id: 17879258
+  name: Gelatinous Clot
+- id: 17879259
+  name: Gelatinous Clot
+- id: 17879260
+  name: Liquidbone Leech
+- id: 17879261
+  name: Liquidbone Leech
+- id: 17879262
+  name: Groundstomp Matamata
+- id: 17879263
+  name: Groundstomp Matamata
+- id: 17879264
+  name: Groundstomp Matamata
+- id: 17879265
+  name: Groundstomp Matamata
+- id: 17879266
+  name: Groundstomp Matamata
+- id: 17879267
+  name: Stinkskin
+- id: 17879268
+  name: Liquidbone Leech
+- id: 17879269
+  name: Steelclaw Raptor
+- id: 17879270
+  name: Steelclaw Raptor
+- id: 17879271
+  name: Rank Eft
+- id: 17879272
+  name: Liquidbone Leech
+- id: 17879273
+  name: Rank Eft
+- id: 17879274
+  name: Apex Matamata
+- id: 17879275
+  name: Apex Matamata
+- id: 17879276
+  name: Apex Matamata
+- id: 17879277
+  name: Apex Raptor
+- id: 17879278
+  name: Apex Raptor
+- id: 17879279
+  name: Apex Raptor
+- id: 17879280
+  name: Apex Matamata
+- id: 17879281
+  name: Apex Matamata
+- id: 17879282
+  name: Apex Matamata
+- id: 17879283
+  name: Apex Raptor
+- id: 17879284
+  name: Apex Raptor
+- id: 17879285
+  name: Apex Raptor
+- id: 17879286
+  name: Apex Matamata
+- id: 17879287
+  name: Apex Matamata
+- id: 17879288
+  name: Apex Matamata
+- id: 17879289
+  name: Apex Raptor
+- id: 17879290
+  name: Apex Raptor
+- id: 17879291
+  name: Apex Raptor
+- id: 17879292
+  name: Apex Raptor
+- id: 17879293
+  name: Erupting Geyser
+- id: 17879294
+  name: Apex Eft
+- id: 17879295
+  name: Apex Eft
+- id: 17879296
+  name: Apex Eft
+- id: 17879297
+  name: Apex Eft
+- id: 17879298
+  name: Apex Eft
+- id: 17879299
+  name: Apex Eft
+- id: 17879300
+  name: Apex Eft
+- id: 17879301
+  name: Apex Eft
+- id: 17879302
+  name: Apex Eft
+- id: 17879303
+  name: Apex Eft
+- id: 17879304
+  name: Apex Eft
+- id: 17879305
+  name: Apex Eft
+- id: 17879306
+  name: Apex Eft
+- id: 17879307
+  name: Apex Eft
+- id: 17879308
+  name: Apex Eft
+- id: 17879309
+  name: Apex Eft
+- id: 17879310
+  name: Apex Eft
+- id: 17879311
+  name: Apex Eft
+- id: 17879312
+  name: Apex Eft
+- id: 17879313
+  name: Apex Eft
+- id: 17879314
+  name: Apex Eruca
+- id: 17879315
+  name: Apex Eruca
+- id: 17879316
+  name: Apex Eruca
+- id: 17879317
+  name: Apex Eruca
+- id: 17879318
+  name: Apex Eruca
+- id: 17879319
+  name: Apex Eruca
+- id: 17879320
+  name: Apex Eruca
+- id: 17879321
+  name: Apex Eruca
+- id: 17879322
+  name: Apex Eruca
+- id: 17879323
+  name: Apex Eruca
+- id: 17879339
+  name: JGL_BUILD_MASTER_0
+- id: 17879340
+  name: JGL_BUILD_MASTER_1
+- id: 17879341
+  name: JGL_BUILD_MASTER_2
+- id: 17879342
+  name: JGL_BUILD_MASTER_3
+- id: 17879343
+  name: JGL_BUILD_MASTER_4
+- id: 17879344
+  name: JGL_BUILD_MASTER_5
+- id: 17879373
+  name: Mining Point
+- id: 17879374
+  name: Mining Point
+- id: 17879375
+  name: Mining Point
+- id: 17879376
+  name: Mining Point
+- id: 17879377
+  name: Mining Point
+- id: 17879378
+  name: Mining Point
+- id: 17879379
+  name: Soul Pyre
+- id: 17879380
+  name: Soul Pyre
+- id: 17879381
+  name: Soul Pyre
+- id: 17879382
+  name: Soul Pyre
+- id: 17879383
+  name: Soul Pyre
+- id: 17879384
+  name: Soul Pyre
+- id: 17879386
+  name: Achieve Master
+- id: 17879387
+  name: Unity Master
+- id: 17879388
+  name: ???
+- id: 17879398
+  name: ''
+- id: 17879399
+  name: Molten Rift
+- id: 17879400
+  name: ''
+- id: 17879401
+  name: Staumarth
+- id: 17879402
+  name: ''
+- id: 17879403
+  name: ???
+- id: 17879404
+  name: ''
+- id: 17879405
+  name: ''
+- id: 17879406
+  name: ''
+- id: 17879407
+  name: ''
+- id: 17879408
+  name: ''
+- id: 17879409
+  name: ''
+- id: 17879410
+  name: ''
+- id: 17879411
+  name: ''
+- id: 17879412
+  name: ''
+- id: 17879413
+  name: ''
+- id: 17879414
+  name: ''
+- id: 17879415
+  name: Magma Vein
+- id: 17879416
+  name: Ergon Locus
+- id: 17879417
+  name: Ergon Locus
+- id: 17879418
+  name: Ergon Locus
+- id: 17879419
+  name: Ergon Locus
+- id: 17879420
+  name: Lost Article
+- id: 17879423
+  name: Moogle
+- id: 17879424
+  name: Moogle
+- id: 17879425
+  name: Moogle
+- id: 17879426
+  name: Moogle
+- id: 17879427
+  name: Moogle
+- id: 17879428
+  name: Moogle
+- id: 17879429
+  name: Moogle
+- id: 17879430
+  name: Moogle
+- id: 17879431
+  name: Scalable Area
+- id: 17879432
+  name: Scalable Area
+- id: 17879433
+  name: Scalable Area
+- id: 17879434
+  name: Scalable Area
+- id: 17879435
+  name: Ramblix
+- id: 17879436
+  name: Goblin Footprint
+- id: 17879437
+  name: ???
+- id: 17879438
+  name: ???
+- id: 17879439
+  name: ???
+- id: 17879440
+  name: ???
+- id: 17879441
+  name: ???

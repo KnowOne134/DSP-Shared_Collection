@@ -1,0 +1,1321 @@
+names:
+- id: 17190913
+  name: Pugil
+- id: 17190914
+  name: Cheval Pugil
+- id: 17190915
+  name: Mud Pugil
+- id: 17190916
+  name: Pug Pugil
+- id: 17190917
+  name: Fighting Pugil
+- id: 17190918
+  name: Wild Rabbit
+- id: 17190919
+  name: Wild Rabbit
+- id: 17190920
+  name: Wild Rabbit
+- id: 17190921
+  name: Wild Rabbit
+- id: 17190922
+  name: Wild Rabbit
+- id: 17190923
+  name: Wild Rabbit
+- id: 17190924
+  name: Wild Rabbit
+- id: 17190925
+  name: Wild Rabbit
+- id: 17190926
+  name: Wild Rabbit
+- id: 17190927
+  name: Wild Rabbit
+- id: 17190928
+  name: Tunnel Worm
+- id: 17190929
+  name: Tunnel Worm
+- id: 17190930
+  name: Tunnel Worm
+- id: 17190931
+  name: Tunnel Worm
+- id: 17190932
+  name: Tunnel Worm
+- id: 17190933
+  name: Ding Bats
+- id: 17190934
+  name: Ding Bats
+- id: 17190935
+  name: Ding Bats
+- id: 17190936
+  name: Ding Bats
+- id: 17190937
+  name: Ding Bats
+- id: 17190938
+  name: Wild Rabbit
+- id: 17190939
+  name: Wild Rabbit
+- id: 17190940
+  name: Wild Rabbit
+- id: 17190941
+  name: Wild Rabbit
+- id: 17190942
+  name: Wild Rabbit
+- id: 17190943
+  name: Wild Rabbit
+- id: 17190944
+  name: Wild Rabbit
+- id: 17190945
+  name: Wild Rabbit
+- id: 17190946
+  name: Wild Rabbit
+- id: 17190947
+  name: Wild Rabbit
+- id: 17190948
+  name: Tunnel Worm
+- id: 17190949
+  name: Tunnel Worm
+- id: 17190950
+  name: Tunnel Worm
+- id: 17190951
+  name: Tunnel Worm
+- id: 17190952
+  name: Tunnel Worm
+- id: 17190953
+  name: Ding Bats
+- id: 17190954
+  name: Ding Bats
+- id: 17190955
+  name: Ding Bats
+- id: 17190956
+  name: Ding Bats
+- id: 17190957
+  name: Ding Bats
+- id: 17190958
+  name: Pugil
+- id: 17190959
+  name: Pugil
+- id: 17190960
+  name: Pugil
+- id: 17190961
+  name: Pugil
+- id: 17190962
+  name: Pugil
+- id: 17190963
+  name: Pugil
+- id: 17190964
+  name: Wild Rabbit
+- id: 17190965
+  name: Wild Rabbit
+- id: 17190966
+  name: Wild Rabbit
+- id: 17190967
+  name: Wild Rabbit
+- id: 17190968
+  name: Wild Rabbit
+- id: 17190969
+  name: Tunnel Worm
+- id: 17190970
+  name: Tunnel Worm
+- id: 17190971
+  name: Tunnel Worm
+- id: 17190972
+  name: Ding Bats
+- id: 17190973
+  name: Ding Bats
+- id: 17190974
+  name: Ding Bats
+- id: 17190975
+  name: Forest Hare
+- id: 17190976
+  name: Forest Hare
+- id: 17190977
+  name: Forest Hare
+- id: 17190978
+  name: Forest Hare
+- id: 17190979
+  name: Forest Hare
+- id: 17190980
+  name: Forest Hare
+- id: 17190981
+  name: Carrion Worm
+- id: 17190982
+  name: Carrion Worm
+- id: 17190983
+  name: Carrion Worm
+- id: 17190984
+  name: Forest Funguar
+- id: 17190985
+  name: Scarab Beetle
+- id: 17190986
+  name: Scarab Beetle
+- id: 17190987
+  name: Orcish Fodder
+- id: 17190988
+  name: Orcish Fodder
+- id: 17190989
+  name: Ding Bats
+- id: 17190990
+  name: Ding Bats
+- id: 17190991
+  name: Mouse Bat
+- id: 17190992
+  name: Mouse Bat
+- id: 17190993
+  name: Orcish Mesmerizer
+- id: 17190994
+  name: Orcish Grappler
+- id: 17190995
+  name: Forest Hare
+- id: 17190996
+  name: Forest Hare
+- id: 17190997
+  name: Forest Hare
+- id: 17190998
+  name: Forest Hare
+- id: 17190999
+  name: Forest Hare
+- id: 17191000
+  name: Forest Hare
+- id: 17191001
+  name: Carrion Worm
+- id: 17191002
+  name: Carrion Worm
+- id: 17191003
+  name: Carrion Worm
+- id: 17191004
+  name: Forest Funguar
+- id: 17191005
+  name: Forest Funguar
+- id: 17191006
+  name: Scarab Beetle
+- id: 17191007
+  name: Orcish Fodder
+- id: 17191008
+  name: Orcish Fodder
+- id: 17191009
+  name: Ding Bats
+- id: 17191010
+  name: Ding Bats
+- id: 17191011
+  name: Mouse Bat
+- id: 17191012
+  name: Mouse Bat
+- id: 17191013
+  name: Goblin Fisher
+- id: 17191014
+  name: Goblin Fisher
+- id: 17191015
+  name: Goblin Fisher
+- id: 17191016
+  name: Goblin Fisher
+- id: 17191017
+  name: Pugil
+- id: 17191018
+  name: Pugil
+- id: 17191019
+  name: Pugil
+- id: 17191020
+  name: Pugil
+- id: 17191021
+  name: Pugil
+- id: 17191022
+  name: Forest Hare
+- id: 17191023
+  name: Forest Hare
+- id: 17191024
+  name: Forest Hare
+- id: 17191025
+  name: Forest Hare
+- id: 17191026
+  name: Forest Hare
+- id: 17191027
+  name: Forest Hare
+- id: 17191028
+  name: Carrion Worm
+- id: 17191029
+  name: Carrion Worm
+- id: 17191030
+  name: Carrion Worm
+- id: 17191031
+  name: Forest Funguar
+- id: 17191032
+  name: Scarab Beetle
+- id: 17191033
+  name: Scarab Beetle
+- id: 17191034
+  name: Wild Sheep
+- id: 17191035
+  name: Wild Sheep
+- id: 17191036
+  name: Orcish Fodder
+- id: 17191037
+  name: Orcish Mesmerizer
+- id: 17191038
+  name: Orcish Grappler
+- id: 17191039
+  name: Ding Bats
+- id: 17191040
+  name: Ding Bats
+- id: 17191041
+  name: Mouse Bat
+- id: 17191042
+  name: Mouse Bat
+- id: 17191043
+  name: Tainted Hound
+- id: 17191044
+  name: Rambukk
+- id: 17191045
+  name: Pugil
+- id: 17191046
+  name: Pugil
+- id: 17191047
+  name: Pugil
+- id: 17191048
+  name: Pugil
+- id: 17191049
+  name: Forest Hare
+- id: 17191050
+  name: Forest Hare
+- id: 17191051
+  name: Forest Hare
+- id: 17191052
+  name: Forest Hare
+- id: 17191053
+  name: Forest Hare
+- id: 17191054
+  name: Carrion Worm
+- id: 17191055
+  name: Carrion Worm
+- id: 17191056
+  name: Carrion Worm
+- id: 17191057
+  name: Scarab Beetle
+- id: 17191058
+  name: Goblin Thug
+- id: 17191059
+  name: Ding Bats
+- id: 17191060
+  name: Ding Bats
+- id: 17191061
+  name: Mouse Bat
+- id: 17191062
+  name: Forest Hare
+- id: 17191063
+  name: Forest Hare
+- id: 17191064
+  name: Forest Hare
+- id: 17191065
+  name: Forest Hare
+- id: 17191066
+  name: Forest Hare
+- id: 17191067
+  name: Forest Hare
+- id: 17191068
+  name: Carrion Worm
+- id: 17191069
+  name: Carrion Worm
+- id: 17191070
+  name: Carrion Worm
+- id: 17191071
+  name: Carrion Worm
+- id: 17191072
+  name: Forest Funguar
+- id: 17191073
+  name: Forest Funguar
+- id: 17191074
+  name: Scarab Beetle
+- id: 17191075
+  name: Goblin Thug
+- id: 17191076
+  name: Goblin Thug
+- id: 17191077
+  name: Goblin Weaver
+- id: 17191078
+  name: Ding Bats
+- id: 17191079
+  name: Ding Bats
+- id: 17191080
+  name: Mouse Bat
+- id: 17191081
+  name: Mouse Bat
+- id: 17191082
+  name: Enchanted Bones
+- id: 17191083
+  name: Forest Hare
+- id: 17191084
+  name: Forest Hare
+- id: 17191085
+  name: Forest Hare
+- id: 17191086
+  name: Forest Hare
+- id: 17191087
+  name: Forest Hare
+- id: 17191088
+  name: Carrion Worm
+- id: 17191089
+  name: Carrion Worm
+- id: 17191090
+  name: Carrion Worm
+- id: 17191091
+  name: Scarab Beetle
+- id: 17191092
+  name: Scarab Beetle
+- id: 17191093
+  name: Goblin Thug
+- id: 17191094
+  name: Goblin Thug
+- id: 17191095
+  name: Goblin Weaver
+- id: 17191096
+  name: Ding Bats
+- id: 17191097
+  name: Ding Bats
+- id: 17191098
+  name: Mouse Bat
+- id: 17191099
+  name: Mouse Bat
+- id: 17191100
+  name: Enchanted Bones
+- id: 17191101
+  name: Bomb
+- id: 17191102
+  name: Goblin Thug
+- id: 17191103
+  name: Goblin Weaver
+- id: 17191104
+  name: Forest Hare
+- id: 17191105
+  name: Forest Hare
+- id: 17191106
+  name: Forest Hare
+- id: 17191107
+  name: Carrion Worm
+- id: 17191108
+  name: Carrion Worm
+- id: 17191109
+  name: Goblin Thug
+- id: 17191110
+  name: Goblin Thug
+- id: 17191111
+  name: Goblin Weaver
+- id: 17191112
+  name: Ding Bats
+- id: 17191113
+  name: Ding Bats
+- id: 17191114
+  name: Mouse Bat
+- id: 17191115
+  name: Mouse Bat
+- id: 17191116
+  name: Goblin Thug
+- id: 17191117
+  name: Goblin Weaver
+- id: 17191118
+  name: Pugil
+- id: 17191119
+  name: Pugil
+- id: 17191120
+  name: Pugil
+- id: 17191121
+  name: Forest Hare
+- id: 17191122
+  name: Forest Hare
+- id: 17191123
+  name: Forest Hare
+- id: 17191124
+  name: Forest Hare
+- id: 17191125
+  name: Carrion Worm
+- id: 17191126
+  name: Carrion Worm
+- id: 17191127
+  name: Scarab Beetle
+- id: 17191128
+  name: Wild Sheep
+- id: 17191129
+  name: Wild Sheep
+- id: 17191130
+  name: Wild Sheep
+- id: 17191131
+  name: Wild Sheep
+- id: 17191132
+  name: Wild Sheep
+- id: 17191133
+  name: Goblin Thug
+- id: 17191134
+  name: Goblin Thug
+- id: 17191135
+  name: Goblin Weaver
+- id: 17191136
+  name: Tainted Hound
+- id: 17191137
+  name: Enchanted Bones
+- id: 17191138
+  name: Forest Hare
+- id: 17191139
+  name: Forest Hare
+- id: 17191140
+  name: Forest Hare
+- id: 17191141
+  name: Forest Hare
+- id: 17191142
+  name: Carrion Worm
+- id: 17191143
+  name: Carrion Worm
+- id: 17191144
+  name: Scarab Beetle
+- id: 17191145
+  name: Wild Sheep
+- id: 17191146
+  name: Wild Sheep
+- id: 17191147
+  name: Wild Sheep
+- id: 17191148
+  name: Wild Sheep
+- id: 17191149
+  name: Wild Sheep
+- id: 17191150
+  name: Goblin Thug
+- id: 17191151
+  name: Goblin Thug
+- id: 17191152
+  name: Goblin Weaver
+- id: 17191153
+  name: Orcish Fodder
+- id: 17191154
+  name: Orcish Mesmerizer
+- id: 17191155
+  name: Orcish Grappler
+- id: 17191156
+  name: Bomb
+- id: 17191157
+  name: Tainted Hound
+- id: 17191158
+  name: Enchanted Bones
+- id: 17191159
+  name: Enchanted Bones
+- id: 17191160
+  name: Forest Hare
+- id: 17191161
+  name: Forest Hare
+- id: 17191162
+  name: Forest Hare
+- id: 17191163
+  name: Forest Hare
+- id: 17191164
+  name: Forest Hare
+- id: 17191165
+  name: Carrion Worm
+- id: 17191166
+  name: Forest Funguar
+- id: 17191167
+  name: Forest Funguar
+- id: 17191168
+  name: Forest Funguar
+- id: 17191169
+  name: Scarab Beetle
+- id: 17191170
+  name: Scarab Beetle
+- id: 17191171
+  name: Wild Sheep
+- id: 17191172
+  name: Wild Sheep
+- id: 17191173
+  name: Wild Sheep
+- id: 17191174
+  name: Orcish Fodder
+- id: 17191175
+  name: Orcish Mesmerizer
+- id: 17191176
+  name: Orcish Grappler
+- id: 17191177
+  name: Ding Bats
+- id: 17191178
+  name: Ding Bats
+- id: 17191179
+  name: Mouse Bat
+- id: 17191180
+  name: Mouse Bat
+- id: 17191181
+  name: Tainted Hound
+- id: 17191182
+  name: Enchanted Bones
+- id: 17191183
+  name: Enchanted Bones
+- id: 17191184
+  name: Orcish Fodder
+- id: 17191185
+  name: Orcish Mesmerizer
+- id: 17191186
+  name: Orcish Grappler
+- id: 17191187
+  name: Pugil
+- id: 17191188
+  name: Pugil
+- id: 17191189
+  name: Swamfisk
+- id: 17191190
+  name: Forest Hare
+- id: 17191191
+  name: Forest Hare
+- id: 17191192
+  name: Forest Hare
+- id: 17191193
+  name: Forest Hare
+- id: 17191194
+  name: Carrion Worm
+- id: 17191195
+  name: Carrion Worm
+- id: 17191196
+  name: Bigmouth Billy
+- id: 17191197
+  name: Scarab Beetle
+- id: 17191198
+  name: Wild Sheep
+- id: 17191199
+  name: Wild Sheep
+- id: 17191200
+  name: Wild Sheep
+- id: 17191201
+  name: Goblin Thug
+- id: 17191202
+  name: Goblin Weaver
+- id: 17191203
+  name: Goblin Weaver
+- id: 17191204
+  name: Orcish Fodder
+- id: 17191205
+  name: Orcish Mesmerizer
+- id: 17191206
+  name: Orcish Grappler
+- id: 17191207
+  name: Ding Bats
+- id: 17191208
+  name: Ding Bats
+- id: 17191209
+  name: Mouse Bat
+- id: 17191210
+  name: Mouse Bat
+- id: 17191211
+  name: Tainted Hound
+- id: 17191212
+  name: Enchanted Bones
+- id: 17191213
+  name: Enchanted Bones
+- id: 17191214
+  name: Forest Hare
+- id: 17191215
+  name: Forest Hare
+- id: 17191216
+  name: Forest Hare
+- id: 17191217
+  name: Forest Hare
+- id: 17191218
+  name: Forest Hare
+- id: 17191219
+  name: Carrion Worm
+- id: 17191220
+  name: Forest Funguar
+- id: 17191221
+  name: Forest Funguar
+- id: 17191222
+  name: Forest Funguar
+- id: 17191223
+  name: Scarab Beetle
+- id: 17191224
+  name: Scarab Beetle
+- id: 17191225
+  name: Wild Sheep
+- id: 17191226
+  name: Wild Sheep
+- id: 17191227
+  name: Wild Sheep
+- id: 17191228
+  name: Orcish Fodder
+- id: 17191229
+  name: Orcish Mesmerizer
+- id: 17191230
+  name: Orcish Grappler
+- id: 17191231
+  name: Ding Bats
+- id: 17191232
+  name: Ding Bats
+- id: 17191233
+  name: Mouse Bat
+- id: 17191234
+  name: Mouse Bat
+- id: 17191235
+  name: Bomb
+- id: 17191236
+  name: Tainted Hound
+- id: 17191237
+  name: Enchanted Bones
+- id: 17191238
+  name: Forest Hare
+- id: 17191239
+  name: Forest Hare
+- id: 17191240
+  name: Forest Hare
+- id: 17191241
+  name: Goblin Thug
+- id: 17191242
+  name: Goblin Weaver
+- id: 17191243
+  name: Ding Bats
+- id: 17191244
+  name: Ding Bats
+- id: 17191245
+  name: Enchanted Bones
+- id: 17191246
+  name: Forest Hare
+- id: 17191247
+  name: Forest Hare
+- id: 17191248
+  name: Forest Hare
+- id: 17191249
+  name: Wild Sheep
+- id: 17191250
+  name: Wild Sheep
+- id: 17191251
+  name: Wild Sheep
+- id: 17191252
+  name: Goblin Thug
+- id: 17191253
+  name: Goblin Weaver
+- id: 17191254
+  name: Goblin Weaver
+- id: 17191255
+  name: Ding Bats
+- id: 17191256
+  name: Ding Bats
+- id: 17191257
+  name: Tainted Hound
+- id: 17191258
+  name: Enchanted Bones
+- id: 17191259
+  name: Enchanted Bones
+- id: 17191260
+  name: Goblin Thug
+- id: 17191261
+  name: Goblin Weaver
+- id: 17191262
+  name: Forest Hare
+- id: 17191263
+  name: Forest Hare
+- id: 17191264
+  name: Forest Hare
+- id: 17191265
+  name: Forest Funguar
+- id: 17191266
+  name: Forest Funguar
+- id: 17191267
+  name: Forest Funguar
+- id: 17191268
+  name: Scarab Beetle
+- id: 17191269
+  name: Scarab Beetle
+- id: 17191270
+  name: Wild Sheep
+- id: 17191271
+  name: Wild Sheep
+- id: 17191272
+  name: Wild Sheep
+- id: 17191273
+  name: Orcish Fodder
+- id: 17191274
+  name: Orcish Mesmerizer
+- id: 17191275
+  name: Orcish Grappler
+- id: 17191276
+  name: Ding Bats
+- id: 17191277
+  name: Ding Bats
+- id: 17191278
+  name: Mouse Bat
+- id: 17191279
+  name: Enchanted Bones
+- id: 17191280
+  name: Forest Hare
+- id: 17191281
+  name: Goblin Thug
+- id: 17191282
+  name: Goblin Weaver
+- id: 17191283
+  name: Goblin Weaver
+- id: 17191284
+  name: Goblin Fisher
+- id: 17191285
+  name: Goblin Fisher
+- id: 17191286
+  name: Goblin Fisher
+- id: 17191287
+  name: Pugil
+- id: 17191288
+  name: Pugil
+- id: 17191289
+  name: Pugil
+- id: 17191290
+  name: Pugil
+- id: 17191291
+  name: Swamfisk
+- id: 17191292
+  name: Forest Hare
+- id: 17191293
+  name: Forest Hare
+- id: 17191294
+  name: Forest Hare
+- id: 17191295
+  name: Forest Hare
+- id: 17191296
+  name: Carrion Worm
+- id: 17191297
+  name: Scarab Beetle
+- id: 17191298
+  name: Scarab Beetle
+- id: 17191299
+  name: Wild Sheep
+- id: 17191300
+  name: Wild Sheep
+- id: 17191301
+  name: Orcish Fodder
+- id: 17191302
+  name: Orcish Mesmerizer
+- id: 17191303
+  name: Orcish Grappler
+- id: 17191304
+  name: Ding Bats
+- id: 17191305
+  name: Mouse Bat
+- id: 17191306
+  name: Enchanted Bones
+- id: 17191307
+  name: Forest Hare
+- id: 17191308
+  name: Forest Hare
+- id: 17191309
+  name: Scarab Beetle
+- id: 17191310
+  name: Scarab Beetle
+- id: 17191311
+  name: Wild Sheep
+- id: 17191312
+  name: Wild Sheep
+- id: 17191313
+  name: Wild Sheep
+- id: 17191314
+  name: Ding Bats
+- id: 17191315
+  name: Mouse Bat
+- id: 17191316
+  name: Goblin Digger
+- id: 17191317
+  name: Pixie
+- id: 17191318
+  name: Pixie
+- id: 17191319
+  name: Pixie
+- id: 17191320
+  name: Pixie
+- id: 17191321
+  name: Pixie
+- id: 17191322
+  name: Gawky Gawain
+- id: 17191323
+  name: Yilbegan
+- id: 17191324
+  name: Krabkatoa
+- id: 17191325
+  name: Yacumama
+- id: 17191326
+  name: Capricornus
+- id: 17191327
+  name: Quagmire Pugil
+- id: 17191328
+  name: Quagmire Pugil
+- id: 17191329
+  name: Quagmire Pugil
+- id: 17191330
+  name: Quagmire Pugil
+- id: 17191331
+  name: Sunderclaw
+- id: 17191332
+  name: Sunderclaw
+- id: 17191333
+  name: Sunderclaw
+- id: 17191334
+  name: Sunderclaw
+- id: 17191335
+  name: Sarimanok
+- id: 17191336
+  name: Sarimanok
+- id: 17191337
+  name: Sarimanok
+- id: 17191338
+  name: Tatenashi Armor
+- id: 17191339
+  name: Hizamaru Armor
+- id: 17191340
+  name: Ubuginu Armor
+- id: 17191341
+  name: Hachiryu Armor
+- id: 17191342
+  name: Omodaka Armor
+- id: 17191343
+  name: Bull [Herd1]
+- id: 17191344
+  name: Cow [Herd1]
+- id: 17191345
+  name: Cow [Herd1]
+- id: 17191346
+  name: Cow [Herd1]
+- id: 17191347
+  name: Calf [Herd1]
+- id: 17191348
+  name: Calf [Herd1]
+- id: 17191349
+  name: Calf [Herd1]
+- id: 17191350
+  name: Calf [Herd1]
+- id: 17191351
+  name: Calf [Herd1]
+- id: 17191352
+  name: Calf [Herd1]
+- id: 17191353
+  name: Bull [Herd2]
+- id: 17191354
+  name: Cow [Herd2]
+- id: 17191355
+  name: Cow [Herd2]
+- id: 17191356
+  name: Cow [Herd2]
+- id: 17191357
+  name: Calf [Herd2]
+- id: 17191358
+  name: Calf [Herd2]
+- id: 17191359
+  name: Calf [Herd2]
+- id: 17191360
+  name: Calf [Herd2]
+- id: 17191361
+  name: Calf [Herd2]
+- id: 17191362
+  name: Calf [Herd2]
+- id: 17191363
+  name: Bull [Herd3]
+- id: 17191364
+  name: Cow [Herd3]
+- id: 17191365
+  name: Cow [Herd3]
+- id: 17191366
+  name: Cow [Herd3]
+- id: 17191367
+  name: Calf [Herd3]
+- id: 17191368
+  name: Calf [Herd3]
+- id: 17191369
+  name: Calf [Herd3]
+- id: 17191370
+  name: Calf [Herd3]
+- id: 17191371
+  name: Calf [Herd3]
+- id: 17191372
+  name: Calf [Herd3]
+- id: 17191373
+  name: Chigoe
+- id: 17191374
+  name: Chigoe
+- id: 17191375
+  name: Chigoe
+- id: 17191376
+  name: Chigoe
+- id: 17191377
+  name: Chigoe
+- id: 17191378
+  name: Chigoe
+- id: 17191379
+  name: Chigoe
+- id: 17191380
+  name: Chigoe
+- id: 17191381
+  name: Chigoe
+- id: 17191382
+  name: Chigoe
+- id: 17191383
+  name: Pyracmon
+- id: 17191384
+  name: Wraith Bat
+- id: 17191385
+  name: Wraith Bat
+- id: 17191386
+  name: Wraith Bat
+- id: 17191387
+  name: Wraith Bat
+- id: 17191388
+  name: Wraith Bat
+- id: 17191389
+  name: Wraith Bat
+- id: 17191390
+  name: Wraith Bat
+- id: 17191391
+  name: Wraith Bat
+- id: 17191392
+  name: Wraith Bat
+- id: 17191393
+  name: Wraith Bat
+- id: 17191394
+  name: Astral Box
+- id: 17191395
+  name: Astral Box
+- id: 17191396
+  name: Astral Box
+- id: 17191397
+  name: Astral Box
+- id: 17191398
+  name: Astral Box
+- id: 17191399
+  name: Astral Box
+- id: 17191400
+  name: Astral Box
+- id: 17191401
+  name: Astral Box
+- id: 17191402
+  name: Astral Box
+- id: 17191403
+  name: Astral Box
+- id: 17191404
+  name: Astral Box
+- id: 17191405
+  name: Astral Box
+- id: 17191406
+  name: Astral Box
+- id: 17191407
+  name: Astral Box
+- id: 17191408
+  name: Astral Box
+- id: 17191409
+  name: Astral Box
+- id: 17191410
+  name: Astral Box
+- id: 17191411
+  name: Astral Box
+- id: 17191412
+  name: Astral Box
+- id: 17191413
+  name: Astral Box
+- id: 17191414
+  name: Astral Box
+- id: 17191415
+  name: Astral Box
+- id: 17191416
+  name: Astral Box
+- id: 17191417
+  name: Astral Box
+- id: 17191418
+  name: Astral Box
+- id: 17191419
+  name: Astral Box
+- id: 17191420
+  name: Astral Box
+- id: 17191421
+  name: Astral Box
+- id: 17191422
+  name: Astral Box
+- id: 17191423
+  name: Astral Box
+- id: 17191424
+  name: Astral Box
+- id: 17191425
+  name: Astral Box
+- id: 17191426
+  name: Astral Box
+- id: 17191427
+  name: Astral Box
+- id: 17191428
+  name: Astral Box
+- id: 17191429
+  name: Astral Box
+- id: 17191430
+  name: Astral Box
+- id: 17191431
+  name: Astral Box
+- id: 17191432
+  name: Astral Box
+- id: 17191433
+  name: Astral Box
+- id: 17191434
+  name: Astral Box
+- id: 17191435
+  name: Astral Box
+- id: 17191436
+  name: Slime
+- id: 17191437
+  name: Slime
+- id: 17191438
+  name: Slime
+- id: 17191439
+  name: Slime
+- id: 17191440
+  name: Slime
+- id: 17191441
+  name: Slime
+- id: 17191442
+  name: Slime
+- id: 17191443
+  name: Slime
+- id: 17191444
+  name: Slime
+- id: 17191445
+  name: Slime
+- id: 17191446
+  name: Slime
+- id: 17191447
+  name: Slime
+- id: 17191448
+  name: Slime
+- id: 17191449
+  name: Slime
+- id: 17191450
+  name: Slime
+- id: 17191451
+  name: Slime
+- id: 17191452
+  name: Slime
+- id: 17191453
+  name: Slime
+- id: 17191454
+  name: Slime
+- id: 17191455
+  name: Slime
+- id: 17191456
+  name: She-Slime
+- id: 17191457
+  name: She-Slime
+- id: 17191458
+  name: She-Slime
+- id: 17191459
+  name: She-Slime
+- id: 17191460
+  name: She-Slime
+- id: 17191461
+  name: She-Slime
+- id: 17191462
+  name: She-Slime
+- id: 17191463
+  name: She-Slime
+- id: 17191464
+  name: She-Slime
+- id: 17191465
+  name: She-Slime
+- id: 17191466
+  name: Metal Slime
+- id: 17191467
+  name: Metal Slime
+- id: 17191468
+  name: Metal Slime
+- id: 17191469
+  name: Metal Slime
+- id: 17191470
+  name: Metal Slime
+- id: 17191471
+  name: Hugemaw Harold
+- id: 17191472
+  name: Hugemaw Harold
+- id: 17191473
+  name: Hugemaw Harold
+- id: 17191474
+  name: Rousing Raaz
+- id: 17191475
+  name: Rapturous Raaz
+- id: 17191476
+  name: Rhapsodic Raaz
+- id: 17191477
+  name: Beastmaster
+- id: 17191481
+  name: Treasure Casket
+- id: 17191482
+  name: Treasure Casket
+- id: 17191483
+  name: Treasure Casket
+- id: 17191484
+  name: Treasure Casket
+- id: 17191485
+  name: Treasure Casket
+- id: 17191486
+  name: Treasure Casket
+- id: 17191487
+  name: Treasure Casket
+- id: 17191488
+  name: Treasure Casket
+- id: 17191489
+  name: Treasure Casket
+- id: 17191490
+  name: Treasure Casket
+- id: 17191491
+  name: Treasure Casket
+- id: 17191492
+  name: Treasure Casket
+- id: 17191493
+  name: Treasure Casket
+- id: 17191494
+  name: Treasure Casket
+- id: 17191495
+  name: Treasure Casket
+- id: 17191496
+  name: Treasure Casket
+- id: 17191497
+  name: Treasure Coffer
+- id: 17191498
+  name: Achieve Master
+- id: 17191499
+  name: Unity Master
+- id: 17191504
+  name: Andelain
+- id: 17191505
+  name: Croteillard
+- id: 17191506
+  name: Rayochindot
+- id: 17191507
+  name: Cheval River
+- id: 17191508
+  name: Signpost
+- id: 17191509
+  name: Signpost
+- id: 17191510
+  name: Signpost
+- id: 17191511
+  name: Signpost
+- id: 17191512
+  name: Signpost
+- id: 17191513
+  name: Signpost
+- id: 17191514
+  name: Signpost
+- id: 17191515
+  name: Signpost
+- id: 17191517
+  name: Moogle
+- id: 17191518
+  name: Moogle
+- id: 17191519
+  name: Moogle
+- id: 17191520
+  name: Moogle
+- id: 17191521
+  name: Moogle
+- id: 17191522
+  name: Moogle
+- id: 17191523
+  name: Moogle
+- id: 17191524
+  name: Moogle
+- id: 17191525
+  name: Stone Monument
+- id: 17191527
+  name: Cavernous Maw
+- id: 17191528
+  name: ''
+- id: 17191529
+  name: Logging Point
+- id: 17191530
+  name: Logging Point
+- id: 17191531
+  name: Logging Point
+- id: 17191532
+  name: Logging Point
+- id: 17191533
+  name: Logging Point
+- id: 17191534
+  name: Logging Point
+- id: 17191535
+  name: EFFECTER
+- id: 17191536
+  name: Carbuncle
+- id: 17191537
+  name: Talking Doll
+- id: 17191538
+  name: Field Manual
+- id: 17191539
+  name: Field Manual
+- id: 17191540
+  name: Field Parchment
+- id: 17191541
+  name: Ethereal Junction
+- id: 17191542
+  name: Ethereal Junction
+- id: 17191543
+  name: Ethereal Junction
+- id: 17191544
+  name: Mogball-Local
+- id: 17191545
+  name: Mog-Tablet
+- id: 17191546
+  name: Summoner
+- id: 17191547
+  name: Summoner
+- id: 17191548
+  name: Moogle
+- id: 17191549
+  name: ???
+- id: 17191550
+  name: ???
+- id: 17191551
+  name: ???
+- id: 17191552
+  name: ???
+- id: 17191553
+  name: ???
+- id: 17191554
+  name: ''
+- id: 17191556
+  name: Moogle
+- id: 17191557
+  name: Moogle
+- id: 17191558
+  name: Moogle
+- id: 17191559
+  name: ???
+- id: 17191560
+  name: Magivore Ternion
+- id: 17191561
+  name: Stampeding Bison
+- id: 17191562
+  name: Smile Helper
+- id: 17191563
+  name: Smile Helper
+- id: 17191564
+  name: Smile Helper
+- id: 17191565
+  name: Smile Helper
+- id: 17191566
+  name: Smile Helper
+- id: 17191567
+  name: Smile Helper
+- id: 17191568
+  name: Smile Helper
+- id: 17191569
+  name: Smile Helper
+- id: 17191570
+  name: Smile Helper
+- id: 17191571
+  name: Smile Helper
+- id: 17191572
+  name: Debug
+- id: 17191573
+  name: ''
+- id: 17191574
+  name: Slabble
+- id: 17191575
+  name: ''
+- id: 17191576
+  name: Planar Rift
+- id: 17191577
+  name: Planar Rift
+- id: 17191578
+  name: Planar Rift
+- id: 17191579
+  name: Riftworn Pyxis
+- id: 17191580
+  name: Riftworn Pyxis
+- id: 17191581
+  name: Riftworn Pyxis
+- id: 17191582
+  name: Geomantic Reservoir

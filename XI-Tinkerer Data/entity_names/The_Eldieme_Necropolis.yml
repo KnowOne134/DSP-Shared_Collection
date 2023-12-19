@@ -1,0 +1,1001 @@
+names:
+- id: 17575937
+  name: Lich C Magnus
+- id: 17575938
+  name: Skull of Gluttony
+- id: 17575939
+  name: Skull of Greed
+- id: 17575940
+  name: Skull of Sloth
+- id: 17575941
+  name: Skull of Lust
+- id: 17575942
+  name: Skull of Pride
+- id: 17575943
+  name: Skull of Envy
+- id: 17575944
+  name: Skull of Wrath
+- id: 17575945
+  name: Marchosias
+- id: 17575946
+  name: Lost Soul
+- id: 17575947
+  name: Lost Soul
+- id: 17575948
+  name: Lost Soul
+- id: 17575949
+  name: Lost Soul
+- id: 17575950
+  name: Marchosias
+- id: 17575951
+  name: Marchosias
+- id: 17575952
+  name: Marchosias
+- id: 17575953
+  name: Shade
+- id: 17575954
+  name: Shade
+- id: 17575955
+  name: Shade
+- id: 17575956
+  name: Shade
+- id: 17575957
+  name: Lost Soul
+- id: 17575958
+  name: Lost Soul
+- id: 17575959
+  name: Hellbound Warrior
+- id: 17575960
+  name: Hellbound Warlock
+- id: 17575961
+  name: Hellbound Warrior
+- id: 17575962
+  name: Hellbound Warlock
+- id: 17575963
+  name: Hellbound Warrior
+- id: 17575964
+  name: Hellbound Warlock
+- id: 17575965
+  name: Hellbound Warrior
+- id: 17575966
+  name: Hellbound Warlock
+- id: 17575967
+  name: Marchosias
+- id: 17575968
+  name: Marchosias
+- id: 17575969
+  name: Lost Soul
+- id: 17575970
+  name: Lost Soul
+- id: 17575971
+  name: Lost Soul
+- id: 17575972
+  name: Lost Soul
+- id: 17575973
+  name: Lost Soul
+- id: 17575974
+  name: Revenant
+- id: 17575975
+  name: Marchosias
+- id: 17575976
+  name: Marchosias
+- id: 17575977
+  name: Marchosias
+- id: 17575978
+  name: Hellbound Warrior
+- id: 17575979
+  name: Hellbound Warlock
+- id: 17575980
+  name: Hellbound Warrior
+- id: 17575981
+  name: Hellbound Warlock
+- id: 17575982
+  name: Hellbound Warrior
+- id: 17575983
+  name: Hellbound Warlock
+- id: 17575984
+  name: Hellbound Warrior
+- id: 17575985
+  name: Hellbound Warlock
+- id: 17575986
+  name: Marchosias
+- id: 17575987
+  name: Marchosias
+- id: 17575988
+  name: Lost Soul
+- id: 17575989
+  name: Lost Soul
+- id: 17575990
+  name: Lost Soul
+- id: 17575991
+  name: Lost Soul
+- id: 17575992
+  name: Hell Hound
+- id: 17575993
+  name: Hell Hound
+- id: 17575994
+  name: Hell Hound
+- id: 17575995
+  name: Hellbound Warrior
+- id: 17575996
+  name: Hellbound Warlock
+- id: 17575997
+  name: Hellbound Warrior
+- id: 17575998
+  name: Hellbound Warlock
+- id: 17575999
+  name: Hellbound Warrior
+- id: 17576000
+  name: Hellbound Warlock
+- id: 17576001
+  name: Hellbound Warrior
+- id: 17576002
+  name: Hellbound Warlock
+- id: 17576003
+  name: Revenant
+- id: 17576004
+  name: Revenant
+- id: 17576005
+  name: Lost Soul
+- id: 17576006
+  name: Lost Soul
+- id: 17576007
+  name: Lost Soul
+- id: 17576008
+  name: Anemone
+- id: 17576009
+  name: Gazer
+- id: 17576010
+  name: Gazer
+- id: 17576011
+  name: Gazer
+- id: 17576012
+  name: Gazer
+- id: 17576013
+  name: Gazer
+- id: 17576014
+  name: Gazer
+- id: 17576015
+  name: Gazer
+- id: 17576016
+  name: Puroboros
+- id: 17576017
+  name: Puroboros
+- id: 17576018
+  name: Hell Hound
+- id: 17576019
+  name: Hell Hound
+- id: 17576020
+  name: Mummy
+- id: 17576021
+  name: Mummy
+- id: 17576022
+  name: Lich
+- id: 17576023
+  name: Mummy
+- id: 17576024
+  name: Mummy
+- id: 17576025
+  name: Lich
+- id: 17576026
+  name: Mummy
+- id: 17576027
+  name: Mummy
+- id: 17576028
+  name: Lich
+- id: 17576029
+  name: Lich
+- id: 17576030
+  name: Hell Hound
+- id: 17576031
+  name: Blood Soul
+- id: 17576032
+  name: Blood Soul
+- id: 17576033
+  name: Blood Soul
+- id: 17576034
+  name: Ka
+- id: 17576035
+  name: Ka
+- id: 17576036
+  name: Ka
+- id: 17576037
+  name: Ka
+- id: 17576038
+  name: Mummy
+- id: 17576039
+  name: Mummy
+- id: 17576040
+  name: Lich
+- id: 17576041
+  name: Lich
+- id: 17576042
+  name: Ka
+- id: 17576043
+  name: Ka
+- id: 17576044
+  name: Ka
+- id: 17576045
+  name: Ka
+- id: 17576046
+  name: Mummy
+- id: 17576047
+  name: Mummy
+- id: 17576048
+  name: Lich
+- id: 17576049
+  name: Lich
+- id: 17576050
+  name: Tomb Wolf
+- id: 17576051
+  name: Tomb Wolf
+- id: 17576052
+  name: Tomb Wolf
+- id: 17576053
+  name: Tomb Wolf
+- id: 17576054
+  name: Cwn Cyrff
+- id: 17576055
+  name: Utukku
+- id: 17576056
+  name: Utukku
+- id: 17576057
+  name: Utukku
+- id: 17576058
+  name: Utukku
+- id: 17576059
+  name: Lost Soul
+- id: 17576060
+  name: Lost Soul
+- id: 17576061
+  name: Lost Soul
+- id: 17576062
+  name: Lost Soul
+- id: 17576063
+  name: Gazer
+- id: 17576064
+  name: Gazer
+- id: 17576065
+  name: Gazer
+- id: 17576066
+  name: Gazer
+- id: 17576067
+  name: Anemone
+- id: 17576068
+  name: Puroboros
+- id: 17576069
+  name: Nekros Hound
+- id: 17576070
+  name: Nekros Hound
+- id: 17576071
+  name: Nekros Hound
+- id: 17576072
+  name: Nekros Hound
+- id: 17576073
+  name: Nekros Hound
+- id: 17576074
+  name: Nekros Hound
+- id: 17576075
+  name: Nekros Hound
+- id: 17576076
+  name: Nekros Hound
+- id: 17576077
+  name: Nekros Hound
+- id: 17576078
+  name: Nekros Hound
+- id: 17576079
+  name: Nekros Hound
+- id: 17576080
+  name: Nekros Hound
+- id: 17576081
+  name: Nekros Hound
+- id: 17576082
+  name: Nekros Hound
+- id: 17576083
+  name: Lich
+- id: 17576084
+  name: Lich
+- id: 17576085
+  name: Nekros Hound
+- id: 17576086
+  name: Nekros Hound
+- id: 17576087
+  name: Nekros Hound
+- id: 17576088
+  name: Nekros Hound
+- id: 17576089
+  name: Nekros Hound
+- id: 17576090
+  name: Nekros Hound
+- id: 17576091
+  name: Lost Soul
+- id: 17576092
+  name: Lost Soul
+- id: 17576093
+  name: Lost Soul
+- id: 17576094
+  name: Lost Soul
+- id: 17576095
+  name: Hell Hound
+- id: 17576096
+  name: Revenant
+- id: 17576097
+  name: Revenant
+- id: 17576098
+  name: Revenant
+- id: 17576099
+  name: Hell Hound
+- id: 17576100
+  name: Hell Hound
+- id: 17576101
+  name: Hell Hound
+- id: 17576102
+  name: Hell Hound
+- id: 17576103
+  name: Hell Hound
+- id: 17576104
+  name: Hell Hound
+- id: 17576105
+  name: Ka
+- id: 17576106
+  name: Ka
+- id: 17576107
+  name: Ka
+- id: 17576108
+  name: Ka
+- id: 17576109
+  name: Blood Soul
+- id: 17576110
+  name: Blood Soul
+- id: 17576111
+  name: Blood Soul
+- id: 17576112
+  name: Dark Stalker
+- id: 17576113
+  name: Dark Stalker
+- id: 17576114
+  name: Dark Stalker
+- id: 17576115
+  name: Dark Stalker
+- id: 17576116
+  name: Utukku
+- id: 17576117
+  name: Utukku
+- id: 17576118
+  name: Utukku
+- id: 17576119
+  name: Ka
+- id: 17576120
+  name: Ka
+- id: 17576121
+  name: Ka
+- id: 17576122
+  name: Ka
+- id: 17576123
+  name: Blood Soul
+- id: 17576124
+  name: Blood Soul
+- id: 17576125
+  name: Blood Soul
+- id: 17576126
+  name: Dark Stalker
+- id: 17576127
+  name: Dark Stalker
+- id: 17576128
+  name: Dark Stalker
+- id: 17576129
+  name: Dark Stalker
+- id: 17576130
+  name: Utukku
+- id: 17576131
+  name: Utukku
+- id: 17576132
+  name: Utukku
+- id: 17576133
+  name: Azer
+- id: 17576134
+  name: Azer
+- id: 17576135
+  name: Azer
+- id: 17576136
+  name: Azer
+- id: 17576137
+  name: Fallen Knight
+- id: 17576138
+  name: Lich
+- id: 17576139
+  name: Lich
+- id: 17576140
+  name: Fallen Knight
+- id: 17576141
+  name: Lich
+- id: 17576142
+  name: Lich
+- id: 17576143
+  name: Fallen Knight
+- id: 17576144
+  name: Fallen Knight
+- id: 17576145
+  name: Lich
+- id: 17576146
+  name: Fallen Knight
+- id: 17576147
+  name: Fallen Knight
+- id: 17576148
+  name: Lich
+- id: 17576149
+  name: Ka
+- id: 17576150
+  name: Ka
+- id: 17576151
+  name: Ka
+- id: 17576152
+  name: Ka
+- id: 17576153
+  name: Tomb Wolf
+- id: 17576154
+  name: Tomb Wolf
+- id: 17576155
+  name: Ice Elemental
+- id: 17576156
+  name: Earth Elemental
+- id: 17576157
+  name: Tomb Wolf
+- id: 17576158
+  name: Tomb Wolf
+- id: 17576159
+  name: Ice Elemental
+- id: 17576160
+  name: Earth Elemental
+- id: 17576161
+  name: Tomb Wolf
+- id: 17576162
+  name: Tomb Wolf
+- id: 17576163
+  name: Ice Elemental
+- id: 17576164
+  name: Earth Elemental
+- id: 17576165
+  name: Tomb Wolf
+- id: 17576166
+  name: Tomb Wolf
+- id: 17576167
+  name: Ice Elemental
+- id: 17576168
+  name: Earth Elemental
+- id: 17576169
+  name: Tomb Wolf
+- id: 17576170
+  name: Tomb Wolf
+- id: 17576171
+  name: Tomb Wolf
+- id: 17576172
+  name: Tomb Wolf
+- id: 17576173
+  name: Tomb Wolf
+- id: 17576174
+  name: Tomb Wolf
+- id: 17576175
+  name: Haunt
+- id: 17576176
+  name: Haunt
+- id: 17576177
+  name: Tomb Warrior
+- id: 17576178
+  name: Tomb Warrior
+- id: 17576179
+  name: Tomb Mage
+- id: 17576180
+  name: Shade
+- id: 17576181
+  name: Shade
+- id: 17576182
+  name: Shade
+- id: 17576183
+  name: Shade
+- id: 17576184
+  name: Lost Soul
+- id: 17576185
+  name: Lost Soul
+- id: 17576186
+  name: Ka
+- id: 17576187
+  name: Ka
+- id: 17576188
+  name: Ka
+- id: 17576189
+  name: Ka
+- id: 17576190
+  name: Fallen Knight
+- id: 17576191
+  name: Fallen Knight
+- id: 17576192
+  name: Lich
+- id: 17576193
+  name: Fallen Knight
+- id: 17576194
+  name: Fallen Knight
+- id: 17576195
+  name: Lich
+- id: 17576196
+  name: Dark Stalker
+- id: 17576197
+  name: Dark Stalker
+- id: 17576198
+  name: Dark Stalker
+- id: 17576199
+  name: Dark Stalker
+- id: 17576200
+  name: Dark Stalker
+- id: 17576201
+  name: Dark Stalker
+- id: 17576202
+  name: Dark Stalker
+- id: 17576203
+  name: Dark Stalker
+- id: 17576204
+  name: Ice Elemental
+- id: 17576205
+  name: Earth Elemental
+- id: 17576206
+  name: Tomb Warrior
+- id: 17576207
+  name: Tomb Warrior
+- id: 17576208
+  name: Tomb Mage
+- id: 17576209
+  name: Spriggan
+- id: 17576210
+  name: Spriggan
+- id: 17576211
+  name: Spriggan
+- id: 17576212
+  name: Spriggan
+- id: 17576213
+  name: Spriggan
+- id: 17576214
+  name: Spriggan
+- id: 17576215
+  name: Spriggan
+- id: 17576216
+  name: Spriggan
+- id: 17576217
+  name: Haunt
+- id: 17576218
+  name: Haunt
+- id: 17576219
+  name: Haunt
+- id: 17576220
+  name: Haunt
+- id: 17576221
+  name: Tomb Warrior
+- id: 17576222
+  name: Tomb Warrior
+- id: 17576223
+  name: Tomb Mage
+- id: 17576224
+  name: Tomb Mage
+- id: 17576225
+  name: Spriggan
+- id: 17576226
+  name: Spriggan
+- id: 17576227
+  name: Spriggan
+- id: 17576228
+  name: Spriggan
+- id: 17576229
+  name: Haunt
+- id: 17576230
+  name: Haunt
+- id: 17576231
+  name: Haunt
+- id: 17576232
+  name: Tomb Warrior
+- id: 17576233
+  name: Tomb Warrior
+- id: 17576234
+  name: Tomb Mage
+- id: 17576235
+  name: Tomb Mage
+- id: 17576236
+  name: Shade
+- id: 17576237
+  name: Shade
+- id: 17576238
+  name: Shade
+- id: 17576239
+  name: Shade
+- id: 17576240
+  name: Lost Soul
+- id: 17576241
+  name: Lost Soul
+- id: 17576242
+  name: Lost Soul
+- id: 17576243
+  name: Lost Soul
+- id: 17576244
+  name: Spriggan
+- id: 17576245
+  name: Spriggan
+- id: 17576246
+  name: Spriggan
+- id: 17576247
+  name: Spriggan
+- id: 17576248
+  name: Haunt
+- id: 17576249
+  name: Haunt
+- id: 17576250
+  name: Haunt
+- id: 17576251
+  name: Tomb Warrior
+- id: 17576252
+  name: Tomb Warrior
+- id: 17576253
+  name: Tomb Warrior
+- id: 17576254
+  name: Tomb Mage
+- id: 17576255
+  name: Tomb Mage
+- id: 17576256
+  name: Tomb Warrior
+- id: 17576257
+  name: Tomb Warrior
+- id: 17576258
+  name: Tomb Mage
+- id: 17576259
+  name: Tomb Mage
+- id: 17576260
+  name: Tomb Warrior
+- id: 17576261
+  name: Tomb Warrior
+- id: 17576262
+  name: Tomb Mage
+- id: 17576263
+  name: Tomb Mage
+- id: 17576264
+  name: Yum Kimil
+- id: 17576265
+  name: Dog Guardian
+- id: 17576266
+  name: Owl Guardian
+- id: 17576267
+  name: Sturm
+- id: 17576268
+  name: Taifun
+- id: 17576269
+  name: Trombe
+- id: 17576270
+  name: Mimic
+- id: 17576271
+  name: Ice Elemental
+- id: 17576272
+  name: Namorodo
+- id: 17576273
+  name: Namorodo
+- id: 17576274
+  name: Namorodo
+- id: 17576275
+  name: Gasha
+- id: 17576276
+  name: Gasha
+- id: 17576277
+  name: Gasha
+- id: 17576280
+  name: Treasure Casket
+- id: 17576281
+  name: Treasure Casket
+- id: 17576282
+  name: Treasure Casket
+- id: 17576283
+  name: Treasure Casket
+- id: 17576284
+  name: Treasure Casket
+- id: 17576285
+  name: Treasure Casket
+- id: 17576286
+  name: Treasure Casket
+- id: 17576287
+  name: Treasure Casket
+- id: 17576288
+  name: Treasure Casket
+- id: 17576289
+  name: Treasure Casket
+- id: 17576290
+  name: Treasure Casket
+- id: 17576291
+  name: Treasure Casket
+- id: 17576292
+  name: Treasure Casket
+- id: 17576293
+  name: Treasure Casket
+- id: 17576294
+  name: Treasure Casket
+- id: 17576295
+  name: Treasure Casket
+- id: 17576296
+  name: Achieve Master
+- id: 17576297
+  name: Unity Master
+- id: 17576302
+  name: Cermet Door
+- id: 17576303
+  name: Strange Apparatus
+- id: 17576306
+  name: Shiva's Gate
+- id: 17576307
+  name: Shiva's Gate
+- id: 17576308
+  name: Shiva's Gate
+- id: 17576309
+  name: Shiva's Gate
+- id: 17576310
+  name: Shiva's Gate
+- id: 17576311
+  name: Odin's Gate
+- id: 17576312
+  name: Odin's Gate
+- id: 17576313
+  name: Odin's Gate
+- id: 17576314
+  name: Odin's Gate
+- id: 17576315
+  name: Odin's Gate
+- id: 17576316
+  name: Leviathan's Gate
+- id: 17576317
+  name: Leviathan's Gate
+- id: 17576318
+  name: Leviathan's Gate
+- id: 17576319
+  name: Leviathan's Gate
+- id: 17576320
+  name: Leviathan's Gate
+- id: 17576321
+  name: Titan's Gate
+- id: 17576322
+  name: Titan's Gate
+- id: 17576323
+  name: Titan's Gate
+- id: 17576324
+  name: Titan's Gate
+- id: 17576325
+  name: Titan's Gate
+- id: 17576326
+  name: East Plate
+- id: 17576327
+  name: East Plate
+- id: 17576328
+  name: North Plate
+- id: 17576329
+  name: North Plate
+- id: 17576330
+  name: West Plate
+- id: 17576331
+  name: West Plate
+- id: 17576332
+  name: South Plate
+- id: 17576333
+  name: South Plate
+- id: 17576334
+  name: Tallow Candle
+- id: 17576335
+  name: Tallow Candle
+- id: 17576336
+  name: Tallow Candle
+- id: 17576337
+  name: Tallow Candle
+- id: 17576338
+  name: Tallow Candle
+- id: 17576339
+  name: Tallow Candle
+- id: 17576340
+  name: Tallow Candle
+- id: 17576341
+  name: Hume Bones
+- id: 17576342
+  name: a presenter
+- id: 17576343
+  name: Brazier
+- id: 17576344
+  name: Brazier
+- id: 17576345
+  name: Brazier
+- id: 17576346
+  name: Brazier
+- id: 17576348
+  name: Moogle
+- id: 17576349
+  name: Moogle
+- id: 17576350
+  name: Moogle
+- id: 17576351
+  name: Moogle
+- id: 17576352
+  name: Moogle
+- id: 17576353
+  name: Moogle
+- id: 17576354
+  name: Moogle
+- id: 17576355
+  name: Moogle
+- id: 17576356
+  name: Treasure Chest
+- id: 17576357
+  name: Treasure Coffer
+- id: 17576358
+  name: ???
+- id: 17576359
+  name: Balpah
+- id: 17576360
+  name: Tebhi
+- id: 17576361
+  name: '00'
+- id: 17576362
+  name: '01'
+- id: 17576363
+  name: '02'
+- id: 17576364
+  name: '03'
+- id: 17576365
+  name: '04'
+- id: 17576366
+  name: '05'
+- id: 17576367
+  name: '06'
+- id: 17576368
+  name: '07'
+- id: 17576369
+  name: '08'
+- id: 17576370
+  name: '09'
+- id: 17576371
+  name: '10'
+- id: 17576372
+  name: '11'
+- id: 17576373
+  name: '12'
+- id: 17576374
+  name: '13'
+- id: 17576375
+  name: '14'
+- id: 17576376
+  name: '15'
+- id: 17576377
+  name: '16'
+- id: 17576378
+  name: '17'
+- id: 17576379
+  name: '18'
+- id: 17576380
+  name: '19'
+- id: 17576381
+  name: '20'
+- id: 17576382
+  name: '21'
+- id: 17576383
+  name: '22'
+- id: 17576384
+  name: '23'
+- id: 17576385
+  name: '24'
+- id: 17576386
+  name: '25'
+- id: 17576387
+  name: '26'
+- id: 17576388
+  name: '27'
+- id: 17576389
+  name: '28'
+- id: 17576390
+  name: '29'
+- id: 17576391
+  name: '30'
+- id: 17576392
+  name: '31'
+- id: 17576393
+  name: '32'
+- id: 17576394
+  name: Sarcophagus
+- id: 17576395
+  name: Sarcophagus
+- id: 17576396
+  name: Sarcophagus
+- id: 17576397
+  name: Sarcophagus
+- id: 17576398
+  name: Sarcophagus
+- id: 17576399
+  name: ''
+- id: 17576400
+  name: Shikaree M
+- id: 17576401
+  name: Gravestone
+- id: 17576402
+  name: Gravestone
+- id: 17576403
+  name: Gravestone
+- id: 17576404
+  name: Gravestone
+- id: 17576405
+  name: Cannau
+- id: 17576407
+  name: Ramblix
+- id: 17576408
+  name: Goblin Footprint
+- id: 17576409
+  name: GoalPoint
+- id: 17576410
+  name: GoalPoint
+- id: 17576411
+  name: GoalPoint
+- id: 17576412
+  name: GoalPoint
+- id: 17576413
+  name: GoalPoint
+- id: 17576414
+  name: GoalPoint
+- id: 17576415
+  name: Moogle
+- id: 17576416
+  name: Moogle
+- id: 17576417
+  name: Moogle
+- id: 17576418
+  name: Moogle
+- id: 17576419
+  name: Moogle
+- id: 17576420
+  name: Moogle
+- id: 17576421
+  name: ???
+- id: 17576422
+  name: ''
+- id: 17576423
+  name: Palometa
+- id: 17576424
+  name: Palometa
+- id: 17576425
+  name: ''
+- id: 17576426
+  name: ???
+- id: 17576427
+  name: ???
+- id: 17576428
+  name: ???
+- id: 17576429
+  name: Grounds Tome
+- id: 17576430
+  name: Grounds Tome
+- id: 17576431
+  name: Grounds Tome
+- id: 17576432
+  name: Grounds Tome
+- id: 17576433
+  name: Planar Rift
+- id: 17576434
+  name: Planar Rift
+- id: 17576435
+  name: Planar Rift
+- id: 17576436
+  name: Riftworn Pyxis
+- id: 17576437
+  name: Riftworn Pyxis
+- id: 17576438
+  name: Riftworn Pyxis
+- id: 17576439
+  name: Geomagnetic Fount
+- id: 17576440
+  name: Geomantic Reservoir
+- id: 17576443
+  name: ''
+- id: 17576444
+  name: ''
+- id: 17576445
+  name: ''
+- id: 17576446
+  name: ''
+- id: 17576447
+  name: Hazy Rune
+- id: 17576448
+  name: Survival Guide

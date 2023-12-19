@@ -1,0 +1,597 @@
+lists:
+  0:
+  - string: unknown
+  1:
+  - string: Phanauet Channel
+  2:
+  - string: Carpenters' Landing
+  3:
+  - string: Manaclipper
+  4:
+  - string: Bibiki Bay
+  5:
+  - string: Uleguerand Range
+  6:
+  - string: Bearclaw Pinnacle
+  7:
+  - string: Attohwa Chasm
+  8:
+  - string: Boneyard Gully
+  9:
+  - string: Pso'Xja
+  10:
+  - string: The Shrouded Maw
+  11:
+  - string: Oldton Movalpolos
+  12:
+  - string: Newton Movalpolos
+  13:
+  - string: 'Mine Shaft #2716'
+  14:
+  - string: Hall of Transference
+  15:
+  - string: Abyssea - Konschtat
+  16:
+  - string: Promyvion - Holla
+  17:
+  - string: Spire of Holla
+  18:
+  - string: Promyvion - Dem
+  19:
+  - string: Spire of Dem
+  20:
+  - string: Promyvion - Mea
+  21:
+  - string: Spire of Mea
+  22:
+  - string: Promyvion - Vahzl
+  23:
+  - string: Spire of Vahzl
+  24:
+  - string: Lufaise Meadows
+  25:
+  - string: Misareaux Coast
+  26:
+  - string: Tavnazian Safehold
+  27:
+  - string: Phomiuna Aqueducts
+  28:
+  - string: Sacrarium
+  29:
+  - string: 'Riverne - Site #B01'
+  30:
+  - string: 'Riverne - Site #A01'
+  31:
+  - string: Monarch Linn
+  32:
+  - string: Sealion's Den
+  33:
+  - string: Al'Taieu
+  34:
+  - string: Grand Palace of Hu'Xzoi
+  35:
+  - string: The Garden of Ru'Hmet
+  36:
+  - string: Empyreal Paradox
+  37:
+  - string: Temenos
+  38:
+  - string: Apollyon
+  39:
+  - string: Dynamis - Valkurm
+  40:
+  - string: Dynamis - Buburimu
+  41:
+  - string: Dynamis - Qufim
+  42:
+  - string: Dynamis - Tavnazia
+  43:
+  - string: Diorama Abdhaljs-Ghelsba
+  44:
+  - string: Abdhaljs Isle-Purgonorgo
+  45:
+  - string: Abyssea - Tahrongi
+  46:
+  - string: Open sea route to Al Zahbi
+  47:
+  - string: Open sea route to Mhaura
+  48:
+  - string: Al Zahbi
+  49:
+  - string: none
+  50:
+  - string: Aht Urhgan Whitegate
+  51:
+  - string: Wajaom Woodlands
+  52:
+  - string: Bhaflau Thickets
+  53:
+  - string: Nashmau
+  54:
+  - string: Arrapago Reef
+  55:
+  - string: Ilrusi Atoll
+  56:
+  - string: Periqia
+  57:
+  - string: Talacca Cove
+  58:
+  - string: Silver Sea route to Nashmau
+  59:
+  - string: Silver Sea route to Al Zahbi
+  60:
+  - string: The Ashu Talif
+  61:
+  - string: Mount Zhayolm
+  62:
+  - string: Halvung
+  63:
+  - string: Lebros Cavern
+  64:
+  - string: Navukgo Execution Chamber
+  65:
+  - string: Mamook
+  66:
+  - string: Mamool Ja Training Grounds
+  67:
+  - string: Jade Sepulcher
+  68:
+  - string: Aydeewa Subterrane
+  69:
+  - string: Leujaoam Sanctum
+  70:
+  - string: Chocobo Circuit
+  71:
+  - string: The Colosseum
+  72:
+  - string: Alzadaal Undersea Ruins
+  73:
+  - string: Zhayolm Remnants
+  74:
+  - string: Arrapago Remnants
+  75:
+  - string: Bhaflau Remnants
+  76:
+  - string: Silver Sea Remnants
+  77:
+  - string: Nyzul Isle
+  78:
+  - string: Hazhalm Testing Grounds
+  79:
+  - string: Caedarva Mire
+  80:
+  - string: Southern San d'Oria [S]
+  81:
+  - string: East Ronfaure [S]
+  82:
+  - string: Jugner Forest [S]
+  83:
+  - string: Vunkerl Inlet [S]
+  84:
+  - string: Batallia Downs [S]
+  85:
+  - string: La Vaule [S]
+  86:
+  - string: Everbloom Hollow
+  87:
+  - string: Bastok Markets [S]
+  88:
+  - string: North Gustaberg [S]
+  89:
+  - string: Grauberg [S]
+  90:
+  - string: Pashhow Marshlands [S]
+  91:
+  - string: Rolanberry Fields [S]
+  92:
+  - string: Beadeaux [S]
+  93:
+  - string: Ruhotz Silvermines
+  94:
+  - string: Windurst Waters [S]
+  95:
+  - string: West Sarutabaruta [S]
+  96:
+  - string: Fort Karugo-Narugo [S]
+  97:
+  - string: Meriphataud Mountains [S]
+  98:
+  - string: Sauromugue Champaign [S]
+  99:
+  - string: Castle Oztroja [S]
+  100:
+  - string: West Ronfaure
+  101:
+  - string: East Ronfaure
+  102:
+  - string: La Theine Plateau
+  103:
+  - string: Valkurm Dunes
+  104:
+  - string: Jugner Forest
+  105:
+  - string: Batallia Downs
+  106:
+  - string: North Gustaberg
+  107:
+  - string: South Gustaberg
+  108:
+  - string: Konschtat Highlands
+  109:
+  - string: Pashhow Marshlands
+  110:
+  - string: Rolanberry Fields
+  111:
+  - string: Beaucedine Glacier
+  112:
+  - string: Xarcabard
+  113:
+  - string: Cape Teriggan
+  114:
+  - string: Eastern Altepa Desert
+  115:
+  - string: West Sarutabaruta
+  116:
+  - string: East Sarutabaruta
+  117:
+  - string: Tahrongi Canyon
+  118:
+  - string: Buburimu Peninsula
+  119:
+  - string: Meriphataud Mountains
+  120:
+  - string: Sauromugue Champaign
+  121:
+  - string: The Sanctuary of Zi'Tah
+  122:
+  - string: Ro'Maeve
+  123:
+  - string: Yuhtunga Jungle
+  124:
+  - string: Yhoator Jungle
+  125:
+  - string: Western Altepa Desert
+  126:
+  - string: Qufim Island
+  127:
+  - string: Behemoth's Dominion
+  128:
+  - string: Valley of Sorrows
+  129:
+  - string: Ghoyu's Reverie
+  130:
+  - string: Ru'Aun Gardens
+  131:
+  - string: Mordion Gaol
+  132:
+  - string: Abyssea - La Theine
+  133:
+  - string: ''
+  134:
+  - string: Dynamis - Beaucedine
+  135:
+  - string: Dynamis - Xarcabard
+  136:
+  - string: Beaucedine Glacier [S]
+  137:
+  - string: Xarcabard [S]
+  138:
+  - string: Castle Zvahl Baileys [S]
+  139:
+  - string: Horlais Peak
+  140:
+  - string: Ghelsba Outpost
+  141:
+  - string: Fort Ghelsba
+  142:
+  - string: Yughott Grotto
+  143:
+  - string: Palborough Mines
+  144:
+  - string: Waughroon Shrine
+  145:
+  - string: Giddeus
+  146:
+  - string: Balga's Dais
+  147:
+  - string: Beadeaux
+  148:
+  - string: Qulun Dome
+  149:
+  - string: Davoi
+  150:
+  - string: Monastic Cavern
+  151:
+  - string: Castle Oztroja
+  152:
+  - string: Altar Room
+  153:
+  - string: The Boyahda Tree
+  154:
+  - string: Dragon's Aery
+  155:
+  - string: Castle Zvahl Keep [S]
+  156:
+  - string: Throne Room [S]
+  157:
+  - string: Middle Delkfutt's Tower
+  158:
+  - string: Upper Delkfutt's Tower
+  159:
+  - string: Temple of Uggalepih
+  160:
+  - string: Den of Rancor
+  161:
+  - string: Castle Zvahl Baileys
+  162:
+  - string: Castle Zvahl Keep
+  163:
+  - string: Sacrificial Chamber
+  164:
+  - string: Garlaige Citadel [S]
+  165:
+  - string: Throne Room
+  166:
+  - string: Ranguemont Pass
+  167:
+  - string: Bostaunieux Oubliette
+  168:
+  - string: Chamber of Oracles
+  169:
+  - string: Toraimarai Canal
+  170:
+  - string: Full Moon Fountain
+  171:
+  - string: Crawlers' Nest [S]
+  172:
+  - string: Zeruhn Mines
+  173:
+  - string: Korroloka Tunnel
+  174:
+  - string: Kuftal Tunnel
+  175:
+  - string: The Eldieme Necropolis [S]
+  176:
+  - string: Sea Serpent Grotto
+  177:
+  - string: Ve'Lugannon Palace
+  178:
+  - string: The Shrine of Ru'Avitau
+  179:
+  - string: Stellar Fulcrum
+  180:
+  - string: La'Loff Amphitheater
+  181:
+  - string: The Celestial Nexus
+  182:
+  - string: Walk of Echoes
+  183:
+  - string: Maquette Abdhaljs-Legion
+  184:
+  - string: Lower Delkfutt's Tower
+  185:
+  - string: Dynamis - San d'Oria
+  186:
+  - string: Dynamis - Bastok
+  187:
+  - string: Dynamis - Windurst
+  188:
+  - string: Dynamis - Jeuno
+  189:
+  - string: ''
+  190:
+  - string: King Ranperre's Tomb
+  191:
+  - string: Dangruf Wadi
+  192:
+  - string: Inner Horutoto Ruins
+  193:
+  - string: Ordelle's Caves
+  194:
+  - string: Outer Horutoto Ruins
+  195:
+  - string: The Eldieme Necropolis
+  196:
+  - string: Gusgen Mines
+  197:
+  - string: Crawlers' Nest
+  198:
+  - string: Maze of Shakhrami
+  199:
+  - string: ''
+  200:
+  - string: Garlaige Citadel
+  201:
+  - string: Cloister of Gales
+  202:
+  - string: Cloister of Storms
+  203:
+  - string: Cloister of Frost
+  204:
+  - string: Fei'Yin
+  205:
+  - string: Ifrit's Cauldron
+  206:
+  - string: Qu'Bia Arena
+  207:
+  - string: Cloister of Flames
+  208:
+  - string: Quicksand Caves
+  209:
+  - string: Cloister of Tremors
+  210:
+  - string: ''
+  211:
+  - string: Cloister of Tides
+  212:
+  - string: Gustav Tunnel
+  213:
+  - string: Labyrinth of Onzozo
+  214:
+  - string: ''
+  215:
+  - string: Abyssea - Attohwa
+  216:
+  - string: Abyssea - Misareaux
+  217:
+  - string: Abyssea - Vunkerl
+  218:
+  - string: Abyssea - Altepa
+  219:
+  - string: ''
+  220:
+  - string: Ship bound for Selbina
+  221:
+  - string: Ship bound for Mhaura
+  222:
+  - string: Provenance
+  223:
+  - string: San d'Oria-Jeuno Airship
+  224:
+  - string: Bastok-Jeuno Airship
+  225:
+  - string: Windurst-Jeuno Airship
+  226:
+  - string: Kazham-Jeuno Airship
+  227:
+  - string: Ship bound for Selbina
+  228:
+  - string: Ship bound for Mhaura
+  229:
+  - string: ''
+  230:
+  - string: Southern San d'Oria
+  231:
+  - string: Northern San d'Oria
+  232:
+  - string: Port San d'Oria
+  233:
+  - string: Chateau d'Oraguille
+  234:
+  - string: Bastok Mines
+  235:
+  - string: Bastok Markets
+  236:
+  - string: Port Bastok
+  237:
+  - string: Metalworks
+  238:
+  - string: Windurst Waters
+  239:
+  - string: Windurst Walls
+  240:
+  - string: Port Windurst
+  241:
+  - string: Windurst Woods
+  242:
+  - string: Heavens Tower
+  243:
+  - string: Ru'Lude Gardens
+  244:
+  - string: Upper Jeuno
+  245:
+  - string: Lower Jeuno
+  246:
+  - string: Port Jeuno
+  247:
+  - string: Rabao
+  248:
+  - string: Selbina
+  249:
+  - string: Mhaura
+  250:
+  - string: Kazham
+  251:
+  - string: Hall of the Gods
+  252:
+  - string: Norg
+  253:
+  - string: Abyssea - Uleguerand
+  254:
+  - string: Abyssea - Grauberg
+  255:
+  - string: Abyssea - Empyreal Paradox
+  256:
+  - string: Western Adoulin
+  257:
+  - string: Eastern Adoulin
+  258:
+  - string: Rala Waterways
+  259:
+  - string: Rala Waterways [U]
+  260:
+  - string: Yahse Hunting Grounds
+  261:
+  - string: Ceizak Battlegrounds
+  262:
+  - string: Foret de Hennetiel
+  263:
+  - string: Yorcia Weald
+  264:
+  - string: Yorcia Weald [U]
+  265:
+  - string: Morimar Basalt Fields
+  266:
+  - string: Marjami Ravine
+  267:
+  - string: Kamihr Drifts
+  268:
+  - string: Sih Gates
+  269:
+  - string: Moh Gates
+  270:
+  - string: Cirdas Caverns
+  271:
+  - string: Cirdas Caverns [U]
+  272:
+  - string: Dho Gates
+  273:
+  - string: Woh Gates
+  274:
+  - string: Outer Ra'Kaznar
+  275:
+  - string: Outer Ra'Kaznar [U]
+  276:
+  - string: Ra'Kaznar Inner Court
+  277:
+  - string: Ra'Kaznar Turris
+  278:
+  - string: ''
+  279:
+  - string: ''
+  280:
+  - string: Mog Garden
+  281:
+  - string: Leafallia
+  282:
+  - string: Mount Kamihr
+  283:
+  - string: Silver Knife
+  284:
+  - string: Celennia Memorial Library
+  285:
+  - string: Feretory
+  286:
+  - string: ''
+  287:
+  - string: ''
+  288:
+  - string: Escha - Zi'Tah
+  289:
+  - string: Escha - Ru'Aun
+  290:
+  - string: Desuetia - Empyreal Paradox
+  291:
+  - string: Reisenjima
+  292:
+  - string: Reisenjima Henge
+  293:
+  - string: Reisenjima Sanctorium
+  294:
+  - string: Dynamis - San d'Oria [D]
+  295:
+  - string: Dynamis - Bastok [D]
+  296:
+  - string: Dynamis - Windurst [D]
+  297:
+  - string: Dynamis - Jeuno [D]

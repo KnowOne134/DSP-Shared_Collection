@@ -1,0 +1,679 @@
+names:
+- id: 17436673
+  name: Evil Eye
+- id: 17436674
+  name: Evil Eye
+- id: 17436675
+  name: Demon Pawn
+- id: 17436676
+  name: Evil Eye
+- id: 17436677
+  name: Evil Eye
+- id: 17436678
+  name: Dark Elemental
+- id: 17436679
+  name: Ice Elemental
+- id: 17436680
+  name: Demon Pawn
+- id: 17436681
+  name: Demon Pawn
+- id: 17436682
+  name: Evil Eye
+- id: 17436683
+  name: Dark Elemental
+- id: 17436684
+  name: Ice Elemental
+- id: 17436685
+  name: Demon Pawn
+- id: 17436686
+  name: Demon Pawn
+- id: 17436687
+  name: Evil Eye
+- id: 17436688
+  name: Dark Elemental
+- id: 17436689
+  name: Ice Elemental
+- id: 17436690
+  name: Evil Eye
+- id: 17436691
+  name: Demon Pawn
+- id: 17436692
+  name: Demon Knight
+- id: 17436693
+  name: Demon Pawn
+- id: 17436694
+  name: Demon Knight
+- id: 17436695
+  name: Demon Pawn
+- id: 17436696
+  name: Demon Knight
+- id: 17436697
+  name: Demon Pawn
+- id: 17436698
+  name: Demon Knight
+- id: 17436699
+  name: Evil Eye
+- id: 17436700
+  name: Demon Pawn
+- id: 17436701
+  name: Demon Pawn
+- id: 17436702
+  name: Demon Pawn
+- id: 17436703
+  name: Demon Wizard
+- id: 17436704
+  name: Demon Pawn
+- id: 17436705
+  name: Demon Wizard
+- id: 17436706
+  name: Demon Pawn
+- id: 17436707
+  name: Dark Elemental
+- id: 17436708
+  name: Ice Elemental
+- id: 17436709
+  name: Demon Pawn
+- id: 17436710
+  name: Dark Elemental
+- id: 17436711
+  name: Ice Elemental
+- id: 17436712
+  name: Evil Eye
+- id: 17436713
+  name: Evil Eye
+- id: 17436714
+  name: Likho
+- id: 17436715
+  name: Evil Eye
+- id: 17436716
+  name: Evil Eye
+- id: 17436717
+  name: Demon Pawn
+- id: 17436718
+  name: Demon Pawn
+- id: 17436719
+  name: Demon Wizard
+- id: 17436720
+  name: Demon Knight
+- id: 17436721
+  name: Demon Pawn
+- id: 17436722
+  name: Demon Pawn
+- id: 17436723
+  name: Demon Wizard
+- id: 17436724
+  name: Demon Knight
+- id: 17436725
+  name: Goblin Poacher
+- id: 17436726
+  name: Goblin Trader
+- id: 17436727
+  name: Goblin's Bats
+- id: 17436728
+  name: Goblin Robber
+- id: 17436729
+  name: Goblin Reaper
+- id: 17436730
+  name: Orcish Bowshooter
+- id: 17436731
+  name: Orcish Footsoldier
+- id: 17436732
+  name: Orcish Gladiator
+- id: 17436733
+  name: Orcish Trooper
+- id: 17436734
+  name: Goblin Poacher
+- id: 17436735
+  name: Goblin Trader
+- id: 17436736
+  name: Goblin's Bats
+- id: 17436737
+  name: Goblin Robber
+- id: 17436738
+  name: Goblin Reaper
+- id: 17436739
+  name: Orcish Bowshooter
+- id: 17436740
+  name: Orcish Footsoldier
+- id: 17436741
+  name: Orcish Gladiator
+- id: 17436742
+  name: Orcish Trooper
+- id: 17436743
+  name: Demon Wizard
+- id: 17436744
+  name: Demon Knight
+- id: 17436745
+  name: Demon Warlock
+- id: 17436746
+  name: Demon's Elemental
+- id: 17436747
+  name: Demon Wizard
+- id: 17436748
+  name: Demon Knight
+- id: 17436749
+  name: Demon Warlock
+- id: 17436750
+  name: Demon's Elemental
+- id: 17436751
+  name: Goblin Poacher
+- id: 17436752
+  name: Goblin Trader
+- id: 17436753
+  name: Goblin's Bats
+- id: 17436754
+  name: Goblin Robber
+- id: 17436755
+  name: Goblin Reaper
+- id: 17436756
+  name: Orcish Bowshooter
+- id: 17436757
+  name: Orcish Footsoldier
+- id: 17436758
+  name: Orcish Gladiator
+- id: 17436759
+  name: Orcish Trooper
+- id: 17436760
+  name: Goblin Poacher
+- id: 17436761
+  name: Goblin Trader
+- id: 17436762
+  name: Goblin's Bats
+- id: 17436763
+  name: Goblin Robber
+- id: 17436764
+  name: Goblin Reaper
+- id: 17436765
+  name: Orcish Bowshooter
+- id: 17436766
+  name: Orcish Footsoldier
+- id: 17436767
+  name: Orcish Gladiator
+- id: 17436768
+  name: Orcish Trooper
+- id: 17436769
+  name: Demon Knight
+- id: 17436770
+  name: Demon Knight
+- id: 17436771
+  name: Evil Eye
+- id: 17436772
+  name: Evil Eye
+- id: 17436773
+  name: Evil Eye
+- id: 17436774
+  name: Goblin Poacher
+- id: 17436775
+  name: Goblin Trader
+- id: 17436776
+  name: Goblin's Bats
+- id: 17436777
+  name: Goblin Robber
+- id: 17436778
+  name: Goblin Reaper
+- id: 17436779
+  name: Orcish Bowshooter
+- id: 17436780
+  name: Orcish Footsoldier
+- id: 17436781
+  name: Orcish Gladiator
+- id: 17436782
+  name: Orcish Trooper
+- id: 17436783
+  name: Elder Quadav
+- id: 17436784
+  name: Iron Quadav
+- id: 17436785
+  name: Spinel Quadav
+- id: 17436786
+  name: Emerald Quadav
+- id: 17436787
+  name: Yagudo Zealot
+- id: 17436788
+  name: Yagudo Conquistador
+- id: 17436789
+  name: Yagudo Lutenist
+- id: 17436790
+  name: Yagudo Prior
+- id: 17436791
+  name: Elder Quadav
+- id: 17436792
+  name: Iron Quadav
+- id: 17436793
+  name: Spinel Quadav
+- id: 17436794
+  name: Emerald Quadav
+- id: 17436795
+  name: Yagudo Zealot
+- id: 17436796
+  name: Yagudo Conquistador
+- id: 17436797
+  name: Yagudo Lutenist
+- id: 17436798
+  name: Yagudo Prior
+- id: 17436799
+  name: Elder Quadav
+- id: 17436800
+  name: Iron Quadav
+- id: 17436801
+  name: Spinel Quadav
+- id: 17436802
+  name: Emerald Quadav
+- id: 17436803
+  name: Yagudo Zealot
+- id: 17436804
+  name: Yagudo Conquistador
+- id: 17436805
+  name: Yagudo Lutenist
+- id: 17436806
+  name: Yagudo Prior
+- id: 17436807
+  name: Morbid Eye
+- id: 17436808
+  name: Morbid Eye
+- id: 17436809
+  name: Elder Quadav
+- id: 17436810
+  name: Iron Quadav
+- id: 17436811
+  name: Spinel Quadav
+- id: 17436812
+  name: Emerald Quadav
+- id: 17436813
+  name: Yagudo Zealot
+- id: 17436814
+  name: Yagudo Conquistador
+- id: 17436815
+  name: Yagudo Lutenist
+- id: 17436816
+  name: Yagudo Prior
+- id: 17436817
+  name: Demon Pawn
+- id: 17436818
+  name: Demon Pawn
+- id: 17436819
+  name: Demon Wizard
+- id: 17436820
+  name: Elder Quadav
+- id: 17436821
+  name: Iron Quadav
+- id: 17436822
+  name: Spinel Quadav
+- id: 17436823
+  name: Emerald Quadav
+- id: 17436824
+  name: Yagudo Zealot
+- id: 17436825
+  name: Yagudo Conquistador
+- id: 17436826
+  name: Yagudo Lutenist
+- id: 17436827
+  name: Yagudo Prior
+- id: 17436828
+  name: Demon Pawn
+- id: 17436829
+  name: Demon Pawn
+- id: 17436830
+  name: Demon Wizard
+- id: 17436831
+  name: Morbid Eye
+- id: 17436832
+  name: Morbid Eye
+- id: 17436833
+  name: Morbid Eye
+- id: 17436834
+  name: Demon Wizard
+- id: 17436835
+  name: Demon Knight
+- id: 17436836
+  name: Demon Wizard
+- id: 17436837
+  name: Demon Warlock
+- id: 17436838
+  name: Demon's Elemental
+- id: 17436839
+  name: Morbid Eye
+- id: 17436840
+  name: Morbid Eye
+- id: 17436841
+  name: Morbid Eye
+- id: 17436842
+  name: Morbid Eye
+- id: 17436843
+  name: Morbid Eye
+- id: 17436844
+  name: Demon Commander
+- id: 17436845
+  name: Demon General
+- id: 17436846
+  name: Demon Chancellor
+- id: 17436847
+  name: Demon Magistrate
+- id: 17436848
+  name: Demon's Elemental
+- id: 17436849
+  name: Demon Commander
+- id: 17436850
+  name: Demon General
+- id: 17436851
+  name: Demon Chancellor
+- id: 17436852
+  name: Demon Magistrate
+- id: 17436853
+  name: Demon's Elemental
+- id: 17436854
+  name: Demon Commander
+- id: 17436855
+  name: Demon General
+- id: 17436856
+  name: Demon Chancellor
+- id: 17436857
+  name: Demon Magistrate
+- id: 17436858
+  name: Demon's Elemental
+- id: 17436859
+  name: Demon Commander
+- id: 17436860
+  name: Demon General
+- id: 17436861
+  name: Demon Chancellor
+- id: 17436862
+  name: Demon Magistrate
+- id: 17436863
+  name: Demon's Elemental
+- id: 17436864
+  name: Demon Commander
+- id: 17436865
+  name: Demon General
+- id: 17436866
+  name: Demon Chancellor
+- id: 17436867
+  name: Demon Magistrate
+- id: 17436868
+  name: Demon's Elemental
+- id: 17436869
+  name: Blood Demon
+- id: 17436870
+  name: Doom Demon
+- id: 17436871
+  name: Arch Demon
+- id: 17436872
+  name: Blood Demon
+- id: 17436873
+  name: Doom Demon
+- id: 17436874
+  name: Abyssal Demon
+- id: 17436875
+  name: Demon's Elemental
+- id: 17436876
+  name: Marquis Naberius
+- id: 17436877
+  name: Blood Demon
+- id: 17436878
+  name: Doom Demon
+- id: 17436879
+  name: Abyssal Demon
+- id: 17436880
+  name: Demon's Elemental
+- id: 17436881
+  name: Marquis Sabnock
+- id: 17436882
+  name: Doom Demon
+- id: 17436883
+  name: Arch Demon
+- id: 17436884
+  name: Abyssal Demon
+- id: 17436885
+  name: Demon's Elemental
+- id: 17436886
+  name: Blood Demon
+- id: 17436887
+  name: Arch Demon
+- id: 17436888
+  name: Abyssal Demon
+- id: 17436889
+  name: Demon's Elemental
+- id: 17436890
+  name: Blood Demon
+- id: 17436891
+  name: Doom Demon
+- id: 17436892
+  name: Arch Demon
+- id: 17436893
+  name: Doom Demon
+- id: 17436894
+  name: Arch Demon
+- id: 17436895
+  name: Abyssal Demon
+- id: 17436896
+  name: Demon's Elemental
+- id: 17436897
+  name: Blood Demon
+- id: 17436898
+  name: Arch Demon
+- id: 17436899
+  name: Abyssal Demon
+- id: 17436900
+  name: Demon's Elemental
+- id: 17436901
+  name: Ahriman
+- id: 17436902
+  name: Ahriman
+- id: 17436903
+  name: Ahriman
+- id: 17436904
+  name: Ahriman
+- id: 17436905
+  name: Ahriman
+- id: 17436906
+  name: Ahriman
+- id: 17436907
+  name: Ahriman
+- id: 17436908
+  name: Ahriman
+- id: 17436909
+  name: Dread Demon
+- id: 17436910
+  name: Judicator Demon
+- id: 17436911
+  name: Stygian Demon
+- id: 17436912
+  name: Demon's Elemental
+- id: 17436913
+  name: Marquis Allocen
+- id: 17436914
+  name: Gore Demon
+- id: 17436915
+  name: Judicator Demon
+- id: 17436916
+  name: Stygian Demon
+- id: 17436917
+  name: Demon's Elemental
+- id: 17436918
+  name: Marquis Amon
+- id: 17436919
+  name: Gore Demon
+- id: 17436920
+  name: Dread Demon
+- id: 17436921
+  name: Stygian Demon
+- id: 17436922
+  name: Demon's Elemental
+- id: 17436923
+  name: Duke Haborym
+- id: 17436924
+  name: Gore Demon
+- id: 17436925
+  name: Dread Demon
+- id: 17436926
+  name: Judicator Demon
+- id: 17436927
+  name: Grand Duke Batym
+- id: 17436928
+  name: Demon's Elemental
+- id: 17436929
+  name: Demon's Avatar
+- id: 17436930
+  name: Ahriman
+- id: 17436931
+  name: Ahriman
+- id: 17436932
+  name: Ahriman
+- id: 17436933
+  name: Ahriman
+- id: 17436934
+  name: Ahriman
+- id: 17436935
+  name: Ahriman
+- id: 17436936
+  name: Ahriman
+- id: 17436937
+  name: Ahriman
+- id: 17436938
+  name: Ahriman
+- id: 17436939
+  name: Ahriman
+- id: 17436940
+  name: Ahriman
+- id: 17436941
+  name: Ahriman
+- id: 17436942
+  name: Ahriman
+- id: 17436943
+  name: Ahriman
+- id: 17436944
+  name: Dread Demon
+- id: 17436945
+  name: Judicator Demon
+- id: 17436946
+  name: Stygian Demon
+- id: 17436947
+  name: Demon's Elemental
+- id: 17436948
+  name: Gore Demon
+- id: 17436949
+  name: Gore Demon
+- id: 17436950
+  name: Judicator Demon
+- id: 17436951
+  name: Stygian Demon
+- id: 17436952
+  name: Demon's Elemental
+- id: 17436953
+  name: Dread Demon
+- id: 17436954
+  name: Gore Demon
+- id: 17436955
+  name: Dread Demon
+- id: 17436956
+  name: Stygian Demon
+- id: 17436957
+  name: Demon's Elemental
+- id: 17436958
+  name: Judicator Demon
+- id: 17436959
+  name: Gore Demon
+- id: 17436960
+  name: Dread Demon
+- id: 17436961
+  name: Judicator Demon
+- id: 17436962
+  name: Stygian Demon
+- id: 17436963
+  name: Demon's Elemental
+- id: 17436964
+  name: Dark Spark
+- id: 17436965
+  name: Mimic
+- id: 17436966
+  name: Marquis Andrealphus
+- id: 17436967
+  name: Demon Banneret
+- id: 17436968
+  name: Demon Secretary
+- id: 17436969
+  name: Demon Banneret
+- id: 17436970
+  name: Demon Secretary
+- id: 17436972
+  name: Achieve Master
+- id: 17436973
+  name: Unity Master
+- id: 17436978
+  name: ''
+- id: 17436979
+  name: ''
+- id: 17436980
+  name: ''
+- id: 17436981
+  name: ''
+- id: 17436982
+  name: Iron Bar Gate
+- id: 17436983
+  name: Iron Bar Gate
+- id: 17436984
+  name: Torch
+- id: 17436985
+  name: Torch
+- id: 17436986
+  name: Torch
+- id: 17436987
+  name: Torch
+- id: 17436989
+  name: Moogle
+- id: 17436990
+  name: Moogle
+- id: 17436991
+  name: Moogle
+- id: 17436992
+  name: Moogle
+- id: 17436993
+  name: Moogle
+- id: 17436994
+  name: Moogle
+- id: 17436995
+  name: Moogle
+- id: 17436996
+  name: Moogle
+- id: 17436997
+  name: Treasure Chest
+- id: 17436998
+  name: Treasure Coffer
+- id: 17436999
+  name: Switchstix
+- id: 17437000
+  name: ???
+- id: 17437001
+  name: ???
+- id: 17437002
+  name: Ramblix
+- id: 17437003
+  name: Goblin Footprint
+- id: 17437004
+  name: ''
+- id: 17437005
+  name: ???
+- id: 17437006
+  name: ''
+- id: 17437007
+  name: Stooge Moogle
+- id: 17437008
+  name: '1'
+- id: 17437009
+  name: '2'
+- id: 17437010
+  name: '3'
+- id: 17437011
+  name: '4'
+- id: 17437012
+  name: '5'
+- id: 17437013
+  name: '6'
+- id: 17437014
+  name: Stooge Moogle
+- id: 17437015
+  name: Shadowy Pillar
+- id: 17437016
+  name: Flame of Fate
+- id: 17437017
+  name: Survival Guide

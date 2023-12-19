@@ -1,0 +1,749 @@
+names:
+- id: 17891329
+  name: Chumchomp Jagil
+- id: 17891330
+  name: Chumchomp Jagil
+- id: 17891331
+  name: Crusty Crab
+- id: 17891332
+  name: Crusty Crab
+- id: 17891333
+  name: Crusty Crab
+- id: 17891334
+  name: Knotted Root
+- id: 17891335
+  name: Knotted Root
+- id: 17891336
+  name: Velkk Punisher
+- id: 17891337
+  name: Trogloptera
+- id: 17891338
+  name: Velkk Vaticinator
+- id: 17891339
+  name: Trogloptera
+- id: 17891340
+  name: Knotted Root
+- id: 17891341
+  name: Knotted Root
+- id: 17891342
+  name: Velkk Ravager
+- id: 17891343
+  name: Crevice Tarichuk
+- id: 17891344
+  name: Velkk Manipulator
+- id: 17891345
+  name: Crevice Tarichuk
+- id: 17891346
+  name: Leafdancer Twitherym
+- id: 17891347
+  name: Leafdancer Twitherym
+- id: 17891348
+  name: Leafdancer Twitherym
+- id: 17891349
+  name: Leafdancer Twitherym
+- id: 17891350
+  name: Ripsaw Jagil
+- id: 17891351
+  name: Ripsaw Jagil
+- id: 17891352
+  name: Ripsaw Jagil
+- id: 17891353
+  name: Velkk Trampler
+- id: 17891354
+  name: Velkk Trampler
+- id: 17891355
+  name: Velkk Dreadnought
+- id: 17891356
+  name: Velkk Dreadnought
+- id: 17891357
+  name: Ripsaw Jagil
+- id: 17891358
+  name: Ripsaw Jagil
+- id: 17891359
+  name: Ripsaw Jagil
+- id: 17891360
+  name: Ripsaw Jagil
+- id: 17891361
+  name: Velkk Archmagus
+- id: 17891362
+  name: Velkk Archmagus
+- id: 17891363
+  name: Velkk Cyclonicist
+- id: 17891364
+  name: Velkk Cyclonicist
+- id: 17891365
+  name: Unyielding Tarichuk
+- id: 17891366
+  name: Unyielding Tarichuk
+- id: 17891367
+  name: Spumous Slug
+- id: 17891368
+  name: Spumous Slug
+- id: 17891369
+  name: Spumous Slug
+- id: 17891370
+  name: Septic Acuex
+- id: 17891371
+  name: Septic Acuex
+- id: 17891372
+  name: Septic Acuex
+- id: 17891373
+  name: Firth Umbril
+- id: 17891374
+  name: Firth Umbril
+- id: 17891375
+  name: Blightdella
+- id: 17891376
+  name: Blightdella
+- id: 17891377
+  name: Pungent Fungus
+- id: 17891378
+  name: Pungent Fungus
+- id: 17891379
+  name: Leafdancer Twitherym
+- id: 17891380
+  name: Leafdancer Twitherym
+- id: 17891381
+  name: Leafdancer Twitherym
+- id: 17891382
+  name: Duskprowlers
+- id: 17891383
+  name: Duskprowlers
+- id: 17891384
+  name: Velkk Reaver
+- id: 17891385
+  name: Velkk Reaver
+- id: 17891386
+  name: Velkk Reaver
+- id: 17891387
+  name: Firth Umbril
+- id: 17891388
+  name: Firth Umbril
+- id: 17891389
+  name: Firth Umbril
+- id: 17891390
+  name: Velkk Stormcaller
+- id: 17891391
+  name: Velkk Stormcaller
+- id: 17891392
+  name: Velkk Stormcaller
+- id: 17891393
+  name: Unyielding Tarichuk
+- id: 17891394
+  name: Unyielding Tarichuk
+- id: 17891395
+  name: Velkk Berserker
+- id: 17891396
+  name: Velkk Berserker
+- id: 17891397
+  name: Velkk Berserker
+- id: 17891398
+  name: Velkk Berserker
+- id: 17891399
+  name: Spinescent Protuberance
+- id: 17891400
+  name: Velkk Magus
+- id: 17891401
+  name: Velkk Magus
+- id: 17891402
+  name: Velkk Magus
+- id: 17891403
+  name: Velkk Magus
+- id: 17891404
+  name: Spinescent Protuberance
+- id: 17891405
+  name: Velkk Reaver
+- id: 17891406
+  name: Velkk Reaver
+- id: 17891407
+  name: Velkk Reaver
+- id: 17891408
+  name: Velkk Reaver
+- id: 17891409
+  name: Spinescent Protuberance
+- id: 17891410
+  name: Velkk Stormcaller
+- id: 17891411
+  name: Velkk Stormcaller
+- id: 17891412
+  name: Velkk Stormcaller
+- id: 17891413
+  name: Velkk Stormcaller
+- id: 17891414
+  name: Spinescent Protuberance
+- id: 17891415
+  name: Unyielding Tarichuk
+- id: 17891416
+  name: Unyielding Tarichuk
+- id: 17891417
+  name: Velkk Reaver
+- id: 17891418
+  name: Velkk Reaver
+- id: 17891419
+  name: Velkk Berserker
+- id: 17891420
+  name: Velkk Berserker
+- id: 17891421
+  name: Velkk Magus
+- id: 17891422
+  name: Velkk Magus
+- id: 17891423
+  name: Velkk Stormcaller
+- id: 17891424
+  name: Velkk Stormcaller
+- id: 17891425
+  name: Spinescent Protuberance
+- id: 17891426
+  name: Spinescent Protuberance
+- id: 17891427
+  name: Pungent Fungus
+- id: 17891428
+  name: Pungent Fungus
+- id: 17891429
+  name: Blightdella
+- id: 17891430
+  name: Blightdella
+- id: 17891431
+  name: Spumous Slug
+- id: 17891432
+  name: Spumous Slug
+- id: 17891433
+  name: Pungent Fungus
+- id: 17891434
+  name: Pungent Fungus
+- id: 17891435
+  name: Void Worm
+- id: 17891436
+  name: Void Worm
+- id: 17891437
+  name: Spinescent Protuberance
+- id: 17891438
+  name: Spinescent Protuberance
+- id: 17891439
+  name: Spinescent Protuberance
+- id: 17891440
+  name: Spinescent Protuberance
+- id: 17891441
+  name: Twilight Bat
+- id: 17891442
+  name: Twilight Bat
+- id: 17891443
+  name: Leafdancer Twitherym
+- id: 17891444
+  name: Leafdancer Twitherym
+- id: 17891445
+  name: Slinking Slug
+- id: 17891446
+  name: Slinking Slug
+- id: 17891447
+  name: Bloodspattered Fly
+- id: 17891448
+  name: Midnight Worm
+- id: 17891449
+  name: Midnight Worm
+- id: 17891450
+  name: Bloodspattered Fly
+- id: 17891451
+  name: Midnight Worm
+- id: 17891452
+  name: Midnight Worm
+- id: 17891453
+  name: Bloodspattered Fly
+- id: 17891454
+  name: Rancidclaw Crab
+- id: 17891455
+  name: Rancidclaw Crab
+- id: 17891456
+  name: Irascible Tarichuk
+- id: 17891457
+  name: Irascible Tarichuk
+- id: 17891458
+  name: Rancidclaw Crab
+- id: 17891459
+  name: Rancidclaw Crab
+- id: 17891460
+  name: Surly Craklaw
+- id: 17891461
+  name: Surly Craklaw
+- id: 17891462
+  name: Rancidclaw Crab
+- id: 17891463
+  name: Midnight Worm
+- id: 17891464
+  name: Midnight Worm
+- id: 17891465
+  name: Midnight Worm
+- id: 17891466
+  name: Bloodspattered Fly
+- id: 17891467
+  name: Surly Craklaw
+- id: 17891468
+  name: Surly Craklaw
+- id: 17891469
+  name: Surly Craklaw
+- id: 17891470
+  name: Slinking Slug
+- id: 17891471
+  name: Slinking Slug
+- id: 17891472
+  name: Slinking Slug
+- id: 17891473
+  name: Slinking Slug
+- id: 17891474
+  name: Slinking Slug
+- id: 17891475
+  name: Slinking Slug
+- id: 17891476
+  name: Irascible Tarichuk
+- id: 17891477
+  name: Bloodspattered Fly
+- id: 17891478
+  name: Irascible Tarichuk
+- id: 17891479
+  name: Irascible Tarichuk
+- id: 17891480
+  name: Bloodspattered Fly
+- id: 17891481
+  name: Rancidclaw Crab
+- id: 17891482
+  name: Irascible Tarichuk
+- id: 17891483
+  name: Rancidclaw Crab
+- id: 17891484
+  name: Rancidclaw Crab
+- id: 17891485
+  name: Bloodspattered Fly
+- id: 17891486
+  name: Irascible Tarichuk
+- id: 17891487
+  name: Slinking Slug
+- id: 17891488
+  name: Slinking Slug
+- id: 17891489
+  name: Slinking Slug
+- id: 17891490
+  name: Slinking Slug
+- id: 17891491
+  name: Surly Craklaw
+- id: 17891492
+  name: Slinking Slug
+- id: 17891493
+  name: Slinking Slug
+- id: 17891494
+  name: Slinking Slug
+- id: 17891495
+  name: Fleshrending Obdella
+- id: 17891496
+  name: Fleshrending Obdella
+- id: 17891497
+  name: Peevish Acuex
+- id: 17891498
+  name: Peevish Acuex
+- id: 17891499
+  name: Midnight Worm
+- id: 17891500
+  name: Midnight Worm
+- id: 17891501
+  name: Rancidclaw Crab
+- id: 17891502
+  name: Rancidclaw Crab
+- id: 17891503
+  name: Rancidclaw Crab
+- id: 17891504
+  name: Dreadpincer
+- id: 17891505
+  name: Dwende
+- id: 17891506
+  name: Bloodspattered Fly
+- id: 17891507
+  name: Bloodspattered Fly
+- id: 17891508
+  name: Surly Craklaw
+- id: 17891509
+  name: Surly Craklaw
+- id: 17891510
+  name: Peevish Acuex
+- id: 17891511
+  name: Peevish Acuex
+- id: 17891512
+  name: Peevish Acuex
+- id: 17891513
+  name: Fleshrending Obdella
+- id: 17891514
+  name: Fleshrending Obdella
+- id: 17891515
+  name: Fleshrending Obdella
+- id: 17891516
+  name: Peevish Acuex
+- id: 17891517
+  name: Surly Craklaw
+- id: 17891518
+  name: Bloodspattered Fly
+- id: 17891519
+  name: Bloodspattered Fly
+- id: 17891520
+  name: Fleshrending Obdella
+- id: 17891521
+  name: Dwende
+- id: 17891522
+  name: Bloodspattered Fly
+- id: 17891523
+  name: Dwende
+- id: 17891524
+  name: Bloodspattered Fly
+- id: 17891525
+  name: Bloodspattered Fly
+- id: 17891526
+  name: Fleshrending Obdella
+- id: 17891527
+  name: Fleshrending Obdella
+- id: 17891528
+  name: Fetid Umbril
+- id: 17891529
+  name: Fetid Umbril
+- id: 17891530
+  name: Plagueborn Dullahan
+- id: 17891531
+  name: Fetid Umbril
+- id: 17891532
+  name: Plagueborn Dullahan
+- id: 17891533
+  name: Fetid Umbril
+- id: 17891534
+  name: Plagueborn Dullahan
+- id: 17891535
+  name: Fetid Umbril
+- id: 17891536
+  name: Fetid Umbril
+- id: 17891537
+  name: Plagueborn Dullahan
+- id: 17891538
+  name: Plagueborn Dullahan
+- id: 17891539
+  name: Fetid Umbril
+- id: 17891540
+  name: Surly Craklaw
+- id: 17891541
+  name: Surly Craklaw
+- id: 17891542
+  name: Surly Craklaw
+- id: 17891543
+  name: Apex Jagil
+- id: 17891544
+  name: Apex Bats
+- id: 17891545
+  name: Apex Craklaw
+- id: 17891546
+  name: Apex Crab
+- id: 17891547
+  name: Apex Bats
+- id: 17891548
+  name: Apex Bats
+- id: 17891549
+  name: Apex Bats
+- id: 17891550
+  name: Apex Bats
+- id: 17891551
+  name: Apex Bats
+- id: 17891552
+  name: Apex Bats
+- id: 17891553
+  name: Apex Jagil
+- id: 17891554
+  name: Apex Jagil
+- id: 17891555
+  name: Apex Jagil
+- id: 17891556
+  name: Apex Jagil
+- id: 17891557
+  name: Apex Jagil
+- id: 17891558
+  name: Apex Crab
+- id: 17891559
+  name: Apex Crab
+- id: 17891560
+  name: Apex Crab
+- id: 17891561
+  name: Apex Crab
+- id: 17891562
+  name: Apex Crab
+- id: 17891563
+  name: Apex Jagil
+- id: 17891564
+  name: Apex Jagil
+- id: 17891565
+  name: Apex Jagil
+- id: 17891566
+  name: Apex Jagil
+- id: 17891567
+  name: Apex Jagil
+- id: 17891568
+  name: Apex Crab
+- id: 17891569
+  name: Apex Crab
+- id: 17891570
+  name: Apex Crab
+- id: 17891571
+  name: Apex Crab
+- id: 17891572
+  name: Apex Crab
+- id: 17891573
+  name: Apex Bats
+- id: 17891574
+  name: Apex Bats
+- id: 17891575
+  name: Apex Bats
+- id: 17891576
+  name: Apex Bats
+- id: 17891577
+  name: Apex Bats
+- id: 17891578
+  name: Apex Crab
+- id: 17891579
+  name: Apex Crab
+- id: 17891580
+  name: Apex Crab
+- id: 17891581
+  name: Apex Crab
+- id: 17891582
+  name: Apex Crab
+- id: 17891583
+  name: Apex Bats
+- id: 17891584
+  name: Apex Bats
+- id: 17891585
+  name: Apex Bats
+- id: 17891586
+  name: Apex Bats
+- id: 17891587
+  name: Apex Bats
+- id: 17891588
+  name: Apex Crab
+- id: 17891589
+  name: Apex Crab
+- id: 17891590
+  name: Apex Crab
+- id: 17891591
+  name: Apex Crab
+- id: 17891592
+  name: Apex Crab
+- id: 17891593
+  name: Apex Bats
+- id: 17891594
+  name: Apex Bats
+- id: 17891595
+  name: Apex Bats
+- id: 17891596
+  name: Apex Bats
+- id: 17891597
+  name: Apex Craklaw
+- id: 17891598
+  name: Apex Craklaw
+- id: 17891599
+  name: Apex Craklaw
+- id: 17891600
+  name: Apex Craklaw
+- id: 17891601
+  name: Apex Craklaw
+- id: 17891602
+  name: Apex Craklaw
+- id: 17891603
+  name: Apex Craklaw
+- id: 17891604
+  name: Apex Craklaw
+- id: 17891605
+  name: Apex Craklaw
+- id: 17891606
+  name: Apex Craklaw
+- id: 17891607
+  name: Apex Craklaw
+- id: 17891608
+  name: Apex Craklaw
+- id: 17891609
+  name: Apex Craklaw
+- id: 17891610
+  name: Apex Bats
+- id: 17891611
+  name: Apex Bats
+- id: 17891612
+  name: Apex Bats
+- id: 17891613
+  name: Apex Bats
+- id: 17891614
+  name: Apex Bats
+- id: 17891615
+  name: Apex Bats
+- id: 17891616
+  name: Apex Jagil
+- id: 17891617
+  name: Apex Jagil
+- id: 17891618
+  name: Apex Jagil
+- id: 17891619
+  name: Apex Jagil
+- id: 17891620
+  name: Apex Crab
+- id: 17891621
+  name: Apex Crab
+- id: 17891622
+  name: Apex Crab
+- id: 17891623
+  name: Apex Crab
+- id: 17891624
+  name: Apex Crab
+- id: 17891625
+  name: Apex Crab
+- id: 17891626
+  name: Apex Crab
+- id: 17891627
+  name: Apex Crab
+- id: 17891628
+  name: Apex Crab
+- id: 17891644
+  name: JGL_BUILD_MASTER_0
+- id: 17891645
+  name: JGL_BUILD_MASTER_1
+- id: 17891646
+  name: JGL_BUILD_MASTER_2
+- id: 17891647
+  name: JGL_BUILD_MASTER_3
+- id: 17891648
+  name: JGL_BUILD_MASTER_4
+- id: 17891649
+  name: JGL_BUILD_MASTER_5
+- id: 17891678
+  name: Mining Point
+- id: 17891679
+  name: Mining Point
+- id: 17891680
+  name: Mining Point
+- id: 17891681
+  name: Mining Point
+- id: 17891682
+  name: Mining Point
+- id: 17891683
+  name: Mining Point
+- id: 17891684
+  name: Soul Pyre
+- id: 17891685
+  name: Soul Pyre
+- id: 17891686
+  name: Soul Pyre
+- id: 17891687
+  name: Soul Pyre
+- id: 17891688
+  name: Soul Pyre
+- id: 17891689
+  name: Soul Pyre
+- id: 17891691
+  name: Achieve Master
+- id: 17891692
+  name: Unity Master
+- id: 17891693
+  name: ???
+- id: 17891703
+  name: Ergon Locus
+- id: 17891704
+  name: Ergon Locus
+- id: 17891705
+  name: Ergon Locus
+- id: 17891706
+  name: Ergon Locus
+- id: 17891707
+  name: Lost Article
+- id: 17891710
+  name: Moogle
+- id: 17891711
+  name: Moogle
+- id: 17891712
+  name: Moogle
+- id: 17891713
+  name: Moogle
+- id: 17891714
+  name: Moogle
+- id: 17891715
+  name: Moogle
+- id: 17891716
+  name: Moogle
+- id: 17891717
+  name: Moogle
+- id: 17891718
+  name: ''
+- id: 17891719
+  name: Scalable Area
+- id: 17891720
+  name: Scalable Area
+- id: 17891721
+  name: Scalable Area
+- id: 17891722
+  name: Scalable Area
+- id: 17891723
+  name: ???
+- id: 17891724
+  name: Ramblix
+- id: 17891725
+  name: Goblin Footprint
+- id: 17891726
+  name: Rocky Outcrop
+- id: 17891727
+  name: Nashu
+- id: 17891728
+  name: Soraa Ishakal
+- id: 17891729
+  name: Brezit-Kyorgul
+- id: 17891730
+  name: Mligni-Vorgut
+- id: 17891731
+  name: ''
+- id: 17891732
+  name: ''
+- id: 17891733
+  name: ''
+- id: 17891734
+  name: ''
+- id: 17891735
+  name: Araustoix
+- id: 17891736
+  name: ''
+- id: 17891737
+  name: Inlet of Whispers
+- id: 17891738
+  name: ''
+- id: 17891739
+  name: ???
+- id: 17891740
+  name: ''
+- id: 17891741
+  name: ''
+- id: 17891742
+  name: ''
+- id: 17891743
+  name: ''
+- id: 17891744
+  name: ''
+- id: 17891745
+  name: ''
+- id: 17891746
+  name: ''
+- id: 17891747
+  name: ''
+- id: 17891748
+  name: ''
+- id: 17891749
+  name: ''
+- id: 17891750
+  name: ''
+- id: 17891751
+  name: Water of Whispers
+- id: 17891752
+  name: ''
+- id: 17891753
+  name: ???
+- id: 17891754
+  name: ???
+- id: 17891755
+  name: ???
+- id: 17891756
+  name: ???
+- id: 17891757
+  name: ???

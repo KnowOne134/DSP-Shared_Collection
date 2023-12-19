@@ -1,0 +1,923 @@
+names:
+- id: 17567745
+  name: Stag Crab
+- id: 17567746
+  name: Stag Crab
+- id: 17567747
+  name: Thread Leech
+- id: 17567748
+  name: Poison Leech
+- id: 17567749
+  name: Rancid Ooze
+- id: 17567750
+  name: Stink Bats
+- id: 17567751
+  name: Stink Bats
+- id: 17567752
+  name: Stink Bats
+- id: 17567753
+  name: Stink Bats
+- id: 17567754
+  name: Snipper
+- id: 17567755
+  name: Snipper
+- id: 17567756
+  name: Stink Bats
+- id: 17567757
+  name: Stink Bats
+- id: 17567758
+  name: Stink Bats
+- id: 17567759
+  name: Blood Bunny
+- id: 17567760
+  name: Blood Bunny
+- id: 17567761
+  name: Stink Bats
+- id: 17567762
+  name: Stink Bats
+- id: 17567763
+  name: Blood Bunny
+- id: 17567764
+  name: Blood Bunny
+- id: 17567765
+  name: Goblin Tinkerer
+- id: 17567766
+  name: Goblin Butcher
+- id: 17567767
+  name: Goblin Ambusher
+- id: 17567768
+  name: Goblin Tinkerer
+- id: 17567769
+  name: Goblin Butcher
+- id: 17567770
+  name: Goblin Ambusher
+- id: 17567771
+  name: Goblin Tinkerer
+- id: 17567772
+  name: Goblin Butcher
+- id: 17567773
+  name: Blood Bunny
+- id: 17567774
+  name: Blood Bunny
+- id: 17567775
+  name: Goblin Ambusher
+- id: 17567776
+  name: Stink Bats
+- id: 17567777
+  name: Stink Bats
+- id: 17567778
+  name: Blood Bunny
+- id: 17567779
+  name: Stink Bats
+- id: 17567780
+  name: Blood Bunny
+- id: 17567781
+  name: Stink Bats
+- id: 17567782
+  name: Stink Bats
+- id: 17567783
+  name: Blood Bunny
+- id: 17567784
+  name: Blood Bunny
+- id: 17567785
+  name: Stink Bats
+- id: 17567786
+  name: Blood Bunny
+- id: 17567787
+  name: Stink Bats
+- id: 17567788
+  name: Stink Bats
+- id: 17567789
+  name: Hognosed Bat
+- id: 17567790
+  name: Hognosed Bat
+- id: 17567791
+  name: Hognosed Bat
+- id: 17567792
+  name: Stalking Sapling
+- id: 17567793
+  name: Stalking Sapling
+- id: 17567794
+  name: Stalking Sapling
+- id: 17567795
+  name: Stalking Sapling
+- id: 17567796
+  name: Fly Agaric
+- id: 17567797
+  name: Fly Agaric
+- id: 17567798
+  name: Fly Agaric
+- id: 17567799
+  name: Fly Agaric
+- id: 17567800
+  name: Fly Agaric
+- id: 17567801
+  name: Donggu
+- id: 17567802
+  name: Stink Bats
+- id: 17567803
+  name: Stink Bats
+- id: 17567804
+  name: Hognosed Bat
+- id: 17567805
+  name: Goblin Mugger
+- id: 17567806
+  name: Goblin Leecher
+- id: 17567807
+  name: Goblin Gambler
+- id: 17567808
+  name: Goblin Mugger
+- id: 17567809
+  name: Goblin Leecher
+- id: 17567810
+  name: Goblin Gambler
+- id: 17567811
+  name: Stink Bats
+- id: 17567812
+  name: Stink Bats
+- id: 17567813
+  name: Hognosed Bat
+- id: 17567814
+  name: Stalking Sapling
+- id: 17567815
+  name: Stalking Sapling
+- id: 17567816
+  name: Stalking Sapling
+- id: 17567817
+  name: Stalking Sapling
+- id: 17567818
+  name: Goblin Mugger
+- id: 17567819
+  name: Goblin Leecher
+- id: 17567820
+  name: Goblin Gambler
+- id: 17567821
+  name: Goblin Mugger
+- id: 17567822
+  name: Goblin Leecher
+- id: 17567823
+  name: Goblin Gambler
+- id: 17567824
+  name: Stink Bats
+- id: 17567825
+  name: Stink Bats
+- id: 17567826
+  name: Hognosed Bat
+- id: 17567827
+  name: Stalking Sapling
+- id: 17567828
+  name: Stalking Sapling
+- id: 17567829
+  name: Stalking Sapling
+- id: 17567830
+  name: Stalking Sapling
+- id: 17567831
+  name: Goblin Mugger
+- id: 17567832
+  name: Hognosed Bat
+- id: 17567833
+  name: Hognosed Bat
+- id: 17567834
+  name: Hognosed Bat
+- id: 17567835
+  name: Buds Bunny
+- id: 17567836
+  name: Buds Bunny
+- id: 17567837
+  name: Buds Bunny
+- id: 17567838
+  name: Buds Bunny
+- id: 17567839
+  name: Buds Bunny
+- id: 17567840
+  name: Buds Bunny
+- id: 17567841
+  name: Buds Bunny
+- id: 17567842
+  name: Buds Bunny
+- id: 17567843
+  name: Buds Bunny
+- id: 17567844
+  name: Buds Bunny
+- id: 17567845
+  name: Buds Bunny
+- id: 17567846
+  name: Buds Bunny
+- id: 17567847
+  name: Buds Bunny
+- id: 17567848
+  name: Buds Bunny
+- id: 17567849
+  name: Buds Bunny
+- id: 17567850
+  name: Buds Bunny
+- id: 17567851
+  name: Bilis Leech
+- id: 17567852
+  name: Bilis Leech
+- id: 17567853
+  name: Bilis Leech
+- id: 17567854
+  name: Bilis Leech
+- id: 17567855
+  name: Bilis Leech
+- id: 17567856
+  name: Bilis Leech
+- id: 17567857
+  name: Bilis Leech
+- id: 17567858
+  name: Bilis Leech
+- id: 17567859
+  name: Bilis Leech
+- id: 17567860
+  name: Bilis Leech
+- id: 17567861
+  name: Bilis Leech
+- id: 17567862
+  name: Bilis Leech
+- id: 17567863
+  name: Bilis Leech
+- id: 17567864
+  name: Bilis Leech
+- id: 17567865
+  name: Bilis Leech
+- id: 17567866
+  name: Stink Bats
+- id: 17567867
+  name: Hognosed Bat
+- id: 17567868
+  name: Hognosed Bat
+- id: 17567869
+  name: Dung Beetle
+- id: 17567870
+  name: Dung Beetle
+- id: 17567871
+  name: Dung Beetle
+- id: 17567872
+  name: Dung Beetle
+- id: 17567873
+  name: Vorpal Bunny
+- id: 17567874
+  name: Dung Beetle
+- id: 17567875
+  name: Dung Beetle
+- id: 17567876
+  name: Dung Beetle
+- id: 17567877
+  name: Vorpal Bunny
+- id: 17567878
+  name: Vorpal Bunny
+- id: 17567879
+  name: Dung Beetle
+- id: 17567880
+  name: Dung Beetle
+- id: 17567881
+  name: Vorpal Bunny
+- id: 17567882
+  name: Vorpal Bunny
+- id: 17567883
+  name: Vorpal Bunny
+- id: 17567884
+  name: Dung Beetle
+- id: 17567885
+  name: Vorpal Bunny
+- id: 17567886
+  name: Vorpal Bunny
+- id: 17567887
+  name: Vorpal Bunny
+- id: 17567888
+  name: Vorpal Bunny
+- id: 17567889
+  name: Poison Leech
+- id: 17567890
+  name: Poison Leech
+- id: 17567891
+  name: Poison Leech
+- id: 17567892
+  name: Poison Leech
+- id: 17567893
+  name: Poison Leech
+- id: 17567894
+  name: Poison Leech
+- id: 17567895
+  name: Jelly
+- id: 17567896
+  name: Jelly
+- id: 17567897
+  name: Jelly
+- id: 17567898
+  name: Jelly
+- id: 17567899
+  name: Jelly
+- id: 17567900
+  name: Jelly
+- id: 17567901
+  name: Agar Agar
+- id: 17567902
+  name: Goblin Mugger
+- id: 17567903
+  name: Hognosed Bat
+- id: 17567904
+  name: Hognosed Bat
+- id: 17567905
+  name: Hognosed Bat
+- id: 17567906
+  name: Swagger Spruce
+- id: 17567907
+  name: Swagger Spruce
+- id: 17567908
+  name: Swagger Spruce
+- id: 17567909
+  name: Swagger Spruce
+- id: 17567910
+  name: Swagger Spruce
+- id: 17567911
+  name: Swagger Spruce
+- id: 17567912
+  name: Swagger Spruce
+- id: 17567913
+  name: Swagger Spruce
+- id: 17567914
+  name: Swagger Spruce
+- id: 17567915
+  name: Swagger Spruce
+- id: 17567916
+  name: Swagger Spruce
+- id: 17567917
+  name: Swagger Spruce
+- id: 17567918
+  name: Swagger Spruce
+- id: 17567919
+  name: Swagger Spruce
+- id: 17567920
+  name: Swagger Spruce
+- id: 17567921
+  name: Swagger Spruce
+- id: 17567922
+  name: Targe Beetle
+- id: 17567923
+  name: Targe Beetle
+- id: 17567924
+  name: Targe Beetle
+- id: 17567925
+  name: Targe Beetle
+- id: 17567926
+  name: Targe Beetle
+- id: 17567927
+  name: Targe Beetle
+- id: 17567928
+  name: Targe Beetle
+- id: 17567929
+  name: Targe Beetle
+- id: 17567930
+  name: Targe Beetle
+- id: 17567931
+  name: Targe Beetle
+- id: 17567932
+  name: Targe Beetle
+- id: 17567933
+  name: Targe Beetle
+- id: 17567934
+  name: Hognosed Bat
+- id: 17567935
+  name: Hognosed Bat
+- id: 17567936
+  name: Hognosed Bat
+- id: 17567937
+  name: Hognosed Bat
+- id: 17567938
+  name: Stalking Sapling
+- id: 17567939
+  name: Stalking Sapling
+- id: 17567940
+  name: Hognosed Bat
+- id: 17567941
+  name: Hognosed Bat
+- id: 17567942
+  name: Hognosed Bat
+- id: 17567943
+  name: Stalking Sapling
+- id: 17567944
+  name: Stalking Sapling
+- id: 17567945
+  name: Buds Bunny
+- id: 17567946
+  name: Buds Bunny
+- id: 17567947
+  name: Buds Bunny
+- id: 17567948
+  name: Buds Bunny
+- id: 17567949
+  name: Swagger Spruce
+- id: 17567950
+  name: Buds Bunny
+- id: 17567951
+  name: Buds Bunny
+- id: 17567952
+  name: Buds Bunny
+- id: 17567953
+  name: Buds Bunny
+- id: 17567954
+  name: Swagger Spruce
+- id: 17567955
+  name: Swagger Spruce
+- id: 17567956
+  name: Swagger Spruce
+- id: 17567957
+  name: Buds Bunny
+- id: 17567958
+  name: Swagger Spruce
+- id: 17567959
+  name: Swagger Spruce
+- id: 17567960
+  name: Swagger Spruce
+- id: 17567961
+  name: Swagger Spruce
+- id: 17567962
+  name: Buds Bunny
+- id: 17567963
+  name: Swagger Spruce
+- id: 17567964
+  name: Swagger Spruce
+- id: 17567965
+  name: Stink Bats
+- id: 17567966
+  name: Stink Bats
+- id: 17567967
+  name: Goblin Ambusher
+- id: 17567968
+  name: Goblin Tinkerer
+- id: 17567969
+  name: Goblin Butcher
+- id: 17567970
+  name: Goblin Ambusher
+- id: 17567971
+  name: Goblin Tinkerer
+- id: 17567972
+  name: Goblin Butcher
+- id: 17567973
+  name: Stink Bats
+- id: 17567974
+  name: Stink Bats
+- id: 17567975
+  name: Blood Bunny
+- id: 17567976
+  name: Blood Bunny
+- id: 17567977
+  name: Blood Bunny
+- id: 17567978
+  name: Blood Bunny
+- id: 17567979
+  name: Goblin Ambusher
+- id: 17567980
+  name: Goblin Tinkerer
+- id: 17567981
+  name: Goblin Butcher
+- id: 17567982
+  name: Goblin Ambusher
+- id: 17567983
+  name: Goblin Tinkerer
+- id: 17567984
+  name: Goblin Butcher
+- id: 17567985
+  name: Stink Bats
+- id: 17567986
+  name: Stink Bats
+- id: 17567987
+  name: Blood Bunny
+- id: 17567988
+  name: Blood Bunny
+- id: 17567989
+  name: Blood Bunny
+- id: 17567990
+  name: Blood Bunny
+- id: 17567991
+  name: Stink Bats
+- id: 17567992
+  name: Stink Bats
+- id: 17567993
+  name: Stink Bats
+- id: 17567994
+  name: Stink Bats
+- id: 17567995
+  name: Hognosed Bat
+- id: 17567996
+  name: Hognosed Bat
+- id: 17567997
+  name: Hognosed Bat
+- id: 17567998
+  name: Stalking Sapling
+- id: 17567999
+  name: Stalking Sapling
+- id: 17568000
+  name: Stalking Sapling
+- id: 17568001
+  name: Thread Leech
+- id: 17568002
+  name: Thread Leech
+- id: 17568003
+  name: Thread Leech
+- id: 17568004
+  name: Thread Leech
+- id: 17568005
+  name: Stink Bats
+- id: 17568006
+  name: Stink Bats
+- id: 17568007
+  name: Hognosed Bat
+- id: 17568008
+  name: Hognosed Bat
+- id: 17568009
+  name: Hognosed Bat
+- id: 17568010
+  name: Stalking Sapling
+- id: 17568011
+  name: Stalking Sapling
+- id: 17568012
+  name: Stalking Sapling
+- id: 17568013
+  name: Thread Leech
+- id: 17568014
+  name: Thread Leech
+- id: 17568015
+  name: Thread Leech
+- id: 17568016
+  name: Thread Leech
+- id: 17568017
+  name: Stink Bats
+- id: 17568018
+  name: Stink Bats
+- id: 17568019
+  name: Stink Bats
+- id: 17568020
+  name: Stink Bats
+- id: 17568021
+  name: Thread Leech
+- id: 17568022
+  name: Thread Leech
+- id: 17568023
+  name: Stink Bats
+- id: 17568024
+  name: Stink Bats
+- id: 17568025
+  name: Thread Leech
+- id: 17568026
+  name: Stink Bats
+- id: 17568027
+  name: Stink Bats
+- id: 17568028
+  name: Thread Leech
+- id: 17568029
+  name: Thread Leech
+- id: 17568030
+  name: Fly Agaric
+- id: 17568031
+  name: Fly Agaric
+- id: 17568032
+  name: Fly Agaric
+- id: 17568033
+  name: Fly Agaric
+- id: 17568034
+  name: Fly Agaric
+- id: 17568035
+  name: Stink Bats
+- id: 17568036
+  name: Stink Bats
+- id: 17568037
+  name: Stink Bats
+- id: 17568038
+  name: Thread Leech
+- id: 17568039
+  name: Thread Leech
+- id: 17568040
+  name: Stink Bats
+- id: 17568041
+  name: Stink Bats
+- id: 17568042
+  name: Hognosed Bat
+- id: 17568043
+  name: Stink Bats
+- id: 17568044
+  name: Hognosed Bat
+- id: 17568045
+  name: Hognosed Bat
+- id: 17568046
+  name: Hognosed Bat
+- id: 17568047
+  name: Hognosed Bat
+- id: 17568048
+  name: Hognosed Bat
+- id: 17568049
+  name: Shrieker
+- id: 17568050
+  name: Shrieker
+- id: 17568051
+  name: Shrieker
+- id: 17568052
+  name: Shrieker
+- id: 17568053
+  name: Shrieker
+- id: 17568054
+  name: Shrieker
+- id: 17568055
+  name: Shrieker
+- id: 17568056
+  name: Shrieker
+- id: 17568057
+  name: Will-o'-the-Wisp
+- id: 17568058
+  name: Will-o'-the-Wisp
+- id: 17568059
+  name: Will-o'-the-Wisp
+- id: 17568060
+  name: Clipper
+- id: 17568061
+  name: Clipper
+- id: 17568062
+  name: Clipper
+- id: 17568063
+  name: Jelly
+- id: 17568064
+  name: Goliath Beetle
+- id: 17568065
+  name: Goliath Beetle
+- id: 17568066
+  name: Seeker Bats
+- id: 17568067
+  name: Seeker Bats
+- id: 17568068
+  name: Seeker Bats
+- id: 17568069
+  name: Seeker Bats
+- id: 17568070
+  name: Seeker Bats
+- id: 17568071
+  name: Seeker Bats
+- id: 17568072
+  name: Seeker Bats
+- id: 17568073
+  name: Seeker Bats
+- id: 17568074
+  name: Seeker Bats
+- id: 17568075
+  name: Seeker Bats
+- id: 17568076
+  name: Seeker Bats
+- id: 17568077
+  name: Ancient Bat
+- id: 17568078
+  name: Ancient Bat
+- id: 17568079
+  name: Goliath Beetle
+- id: 17568080
+  name: Goliath Beetle
+- id: 17568081
+  name: Goliath Beetle
+- id: 17568082
+  name: Goliath Beetle
+- id: 17568083
+  name: Stroper Chyme
+- id: 17568084
+  name: Seeker Bats
+- id: 17568085
+  name: Seeker Bats
+- id: 17568086
+  name: Ancient Bat
+- id: 17568087
+  name: Goliath Beetle
+- id: 17568088
+  name: Goliath Beetle
+- id: 17568089
+  name: Seeker Bats
+- id: 17568090
+  name: Seeker Bats
+- id: 17568091
+  name: Goblin Pathfinder
+- id: 17568092
+  name: Goblin's Bats
+- id: 17568093
+  name: Goblin Furrier
+- id: 17568094
+  name: Goblin Smithy
+- id: 17568095
+  name: Goblin Shaman
+- id: 17568096
+  name: Goblin Pathfinder
+- id: 17568097
+  name: Goblin's Bats
+- id: 17568098
+  name: Goblin Furrier
+- id: 17568099
+  name: Goblin Smithy
+- id: 17568100
+  name: Goblin Shaman
+- id: 17568101
+  name: Slash Pine
+- id: 17568102
+  name: Slash Pine
+- id: 17568103
+  name: Slash Pine
+- id: 17568104
+  name: Slash Pine
+- id: 17568105
+  name: Seeker Bats
+- id: 17568106
+  name: Seeker Bats
+- id: 17568107
+  name: Ancient Bat
+- id: 17568108
+  name: Seeker Bats
+- id: 17568109
+  name: Seeker Bats
+- id: 17568110
+  name: Ancient Bat
+- id: 17568111
+  name: Goblin Pathfinder
+- id: 17568112
+  name: Goblin's Bats
+- id: 17568113
+  name: Goblin Furrier
+- id: 17568114
+  name: Goblin Smithy
+- id: 17568115
+  name: Goblin Shaman
+- id: 17568116
+  name: Goblin Pathfinder
+- id: 17568117
+  name: Goblin's Bats
+- id: 17568118
+  name: Goblin Furrier
+- id: 17568119
+  name: Goblin Smithy
+- id: 17568120
+  name: Goblin Shaman
+- id: 17568121
+  name: Ancient Bat
+- id: 17568122
+  name: Ancient Bat
+- id: 17568123
+  name: Ancient Bat
+- id: 17568124
+  name: Stroper
+- id: 17568125
+  name: Stroper
+- id: 17568126
+  name: Stroper
+- id: 17568127
+  name: Morbolger
+- id: 17568128
+  name: Napalm
+- id: 17568129
+  name: Napalm
+- id: 17568130
+  name: Air Elemental
+- id: 17568131
+  name: Water Elemental
+- id: 17568132
+  name: Bombast
+- id: 17568133
+  name: Stroper Chyme
+- id: 17568134
+  name: Polevik
+- id: 17568135
+  name: Gerwitz's Axe
+- id: 17568136
+  name: Gerwitz's Sword
+- id: 17568137
+  name: Gerwitz's Soul
+- id: 17568138
+  name: Necroplasm
+- id: 17568139
+  name: Air Elemental
+- id: 17568140
+  name: Aroma Leech
+- id: 17568141
+  name: Metallic Slime
+- id: 17568142
+  name: Krabimanjaro
+- id: 17568143
+  name: Krabimanjaro
+- id: 17568144
+  name: Krabimanjaro
+- id: 17568147
+  name: ???
+- id: 17568148
+  name: Treasure Casket
+- id: 17568149
+  name: Treasure Casket
+- id: 17568150
+  name: Treasure Casket
+- id: 17568151
+  name: Treasure Casket
+- id: 17568152
+  name: Treasure Casket
+- id: 17568153
+  name: Treasure Casket
+- id: 17568154
+  name: Treasure Casket
+- id: 17568155
+  name: Treasure Casket
+- id: 17568156
+  name: Treasure Casket
+- id: 17568157
+  name: Treasure Casket
+- id: 17568158
+  name: Treasure Casket
+- id: 17568159
+  name: Treasure Casket
+- id: 17568160
+  name: Treasure Casket
+- id: 17568161
+  name: Treasure Casket
+- id: 17568162
+  name: Treasure Casket
+- id: 17568163
+  name: Treasure Casket
+- id: 17568164
+  name: Achieve Master
+- id: 17568165
+  name: Unity Master
+- id: 17568170
+  name: Ruillont
+- id: 17568171
+  name: ???
+- id: 17568172
+  name: ???
+- id: 17568173
+  name: Cermet Door
+- id: 17568174
+  name: Strange Apparatus
+- id: 17568175
+  name: Stalagmite
+- id: 17568176
+  name: ???
+- id: 17568177
+  name: ???
+- id: 17568178
+  name: ???
+- id: 17568179
+  name: Zeid
+- id: 17568180
+  name: Rojaireaut
+- id: 17568181
+  name: ???
+- id: 17568183
+  name: Moogle
+- id: 17568184
+  name: Moogle
+- id: 17568185
+  name: Moogle
+- id: 17568186
+  name: Moogle
+- id: 17568187
+  name: Moogle
+- id: 17568188
+  name: Moogle
+- id: 17568189
+  name: Moogle
+- id: 17568190
+  name: Moogle
+- id: 17568191
+  name: ''
+- id: 17568192
+  name: Treasure Chest
+- id: 17568193
+  name: Ramblix
+- id: 17568194
+  name: Goblin Footprint
+- id: 17568195
+  name: ???
+- id: 17568196
+  name: ''
+- id: 17568197
+  name: ''
+- id: 17568198
+  name: Planar Rift
+- id: 17568199
+  name: Planar Rift
+- id: 17568200
+  name: Planar Rift
+- id: 17568201
+  name: Riftworn Pyxis
+- id: 17568202
+  name: Riftworn Pyxis
+- id: 17568203
+  name: Riftworn Pyxis
+- id: 17568204
+  name: Grounds Tome
+- id: 17568205
+  name: Grounds Tome
+- id: 17568206
+  name: Geomagnetic Fount
+- id: 17568207
+  name: ''
+- id: 17568208
+  name: ''
+- id: 17568209
+  name: ''
+- id: 17568210
+  name: ''
+- id: 17568211
+  name: Hazy Rune
+- id: 17568212
+  name: Survival Guide

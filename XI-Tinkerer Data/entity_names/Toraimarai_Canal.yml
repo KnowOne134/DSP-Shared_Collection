@@ -1,0 +1,827 @@
+names:
+- id: 17469441
+  name: Bigclaw
+- id: 17469442
+  name: Canal Leech
+- id: 17469443
+  name: Rock Crab
+- id: 17469444
+  name: Bloodsucker
+- id: 17469445
+  name: Mousse
+- id: 17469446
+  name: Canal Bats
+- id: 17469447
+  name: Canal Bats
+- id: 17469448
+  name: Canal Bats
+- id: 17469449
+  name: Canal Bats
+- id: 17469450
+  name: Hell Bat
+- id: 17469451
+  name: Hell Bat
+- id: 17469452
+  name: Bigclaw
+- id: 17469453
+  name: Bigclaw
+- id: 17469454
+  name: Fallen Knight
+- id: 17469455
+  name: Canal Bats
+- id: 17469456
+  name: Canal Bats
+- id: 17469457
+  name: Hell Bat
+- id: 17469458
+  name: Hell Bat
+- id: 17469459
+  name: Bigclaw
+- id: 17469460
+  name: Fallen Knight
+- id: 17469461
+  name: Canal Bats
+- id: 17469462
+  name: Canal Bats
+- id: 17469463
+  name: Hell Bat
+- id: 17469464
+  name: Hell Bat
+- id: 17469465
+  name: Bigclaw
+- id: 17469466
+  name: Fallen Knight
+- id: 17469467
+  name: Canal Bats
+- id: 17469468
+  name: Canal Bats
+- id: 17469469
+  name: Hell Bat
+- id: 17469470
+  name: Hell Bat
+- id: 17469471
+  name: Bigclaw
+- id: 17469472
+  name: Bigclaw
+- id: 17469473
+  name: Fallen Knight
+- id: 17469474
+  name: Fallen Knight
+- id: 17469475
+  name: Lich
+- id: 17469476
+  name: Lich
+- id: 17469477
+  name: Canal Bats
+- id: 17469478
+  name: Canal Bats
+- id: 17469479
+  name: Hell Bat
+- id: 17469480
+  name: Hell Bat
+- id: 17469481
+  name: Bigclaw
+- id: 17469482
+  name: Bigclaw
+- id: 17469483
+  name: Fallen Knight
+- id: 17469484
+  name: Canal Bats
+- id: 17469485
+  name: Canal Bats
+- id: 17469486
+  name: Hell Bat
+- id: 17469487
+  name: Hell Bat
+- id: 17469488
+  name: Bigclaw
+- id: 17469489
+  name: Bigclaw
+- id: 17469490
+  name: Fallen Knight
+- id: 17469491
+  name: Canal Bats
+- id: 17469492
+  name: Canal Bats
+- id: 17469493
+  name: Hell Bat
+- id: 17469494
+  name: Hell Bat
+- id: 17469495
+  name: Bigclaw
+- id: 17469496
+  name: Bigclaw
+- id: 17469497
+  name: Fallen Knight
+- id: 17469498
+  name: Canal Bats
+- id: 17469499
+  name: Hell Bat
+- id: 17469500
+  name: Bigclaw
+- id: 17469501
+  name: Bigclaw
+- id: 17469502
+  name: Fallen Knight
+- id: 17469503
+  name: Dark Aspic
+- id: 17469504
+  name: Dark Aspic
+- id: 17469505
+  name: Dark Aspic
+- id: 17469506
+  name: Dark Aspic
+- id: 17469507
+  name: Dark Aspic
+- id: 17469508
+  name: Dark Aspic
+- id: 17469509
+  name: Bloodsucker
+- id: 17469510
+  name: Bloodsucker
+- id: 17469511
+  name: Fallen Knight
+- id: 17469512
+  name: Fallen Knight
+- id: 17469513
+  name: Lich
+- id: 17469514
+  name: Lich
+- id: 17469515
+  name: Girtab
+- id: 17469516
+  name: Magic Sludge
+- id: 17469517
+  name: Hell Bat
+- id: 17469518
+  name: Hell Bat
+- id: 17469519
+  name: Hell Bat
+- id: 17469520
+  name: Hell Bat
+- id: 17469521
+  name: Hell Bat
+- id: 17469522
+  name: Bigclaw
+- id: 17469523
+  name: Bigclaw
+- id: 17469524
+  name: Fallen Knight
+- id: 17469525
+  name: Hell Bat
+- id: 17469526
+  name: Hell Bat
+- id: 17469527
+  name: Hell Bat
+- id: 17469528
+  name: Bigclaw
+- id: 17469529
+  name: Bigclaw
+- id: 17469530
+  name: Fallen Knight
+- id: 17469531
+  name: Hell Bat
+- id: 17469532
+  name: Hell Bat
+- id: 17469533
+  name: Bigclaw
+- id: 17469534
+  name: Fallen Knight
+- id: 17469535
+  name: Dark Aspic
+- id: 17469536
+  name: Bloodsucker
+- id: 17469537
+  name: Bloodsucker
+- id: 17469538
+  name: Hell Bat
+- id: 17469539
+  name: Hell Bat
+- id: 17469540
+  name: Girtab
+- id: 17469541
+  name: Scavenger Crab
+- id: 17469542
+  name: Scavenger Crab
+- id: 17469543
+  name: Scavenger Crab
+- id: 17469544
+  name: Scavenger Crab
+- id: 17469545
+  name: Scavenger Crab
+- id: 17469546
+  name: Scavenger Crab
+- id: 17469547
+  name: Fleshcraver
+- id: 17469548
+  name: Mindcraver
+- id: 17469549
+  name: Fleshcraver
+- id: 17469550
+  name: Fleshcraver
+- id: 17469551
+  name: Mindcraver
+- id: 17469552
+  name: Mindcraver
+- id: 17469553
+  name: Rotten Sod
+- id: 17469554
+  name: Makara
+- id: 17469555
+  name: Makara
+- id: 17469556
+  name: Makara
+- id: 17469557
+  name: Makara
+- id: 17469558
+  name: Makara
+- id: 17469559
+  name: Makara
+- id: 17469560
+  name: Makara
+- id: 17469561
+  name: Makara
+- id: 17469562
+  name: Makara
+- id: 17469563
+  name: Makara
+- id: 17469564
+  name: Makara
+- id: 17469565
+  name: Makara
+- id: 17469566
+  name: Makara
+- id: 17469567
+  name: Makara
+- id: 17469568
+  name: Makara
+- id: 17469569
+  name: Makara
+- id: 17469570
+  name: Makara
+- id: 17469571
+  name: Makara
+- id: 17469572
+  name: Makara
+- id: 17469573
+  name: Makara
+- id: 17469574
+  name: Makara
+- id: 17469575
+  name: Bouncing Ball
+- id: 17469576
+  name: Bouncing Ball
+- id: 17469577
+  name: Bouncing Ball
+- id: 17469578
+  name: Canal Moocher
+- id: 17469579
+  name: Stygian Pugil
+- id: 17469580
+  name: Stygian Pugil
+- id: 17469581
+  name: Stygian Pugil
+- id: 17469582
+  name: Stygian Pugil
+- id: 17469583
+  name: Stygian Pugil
+- id: 17469584
+  name: Stygian Pugil
+- id: 17469585
+  name: Stygian Pugil
+- id: 17469586
+  name: Stygian Pugil
+- id: 17469587
+  name: Oni Carcass
+- id: 17469588
+  name: Makara
+- id: 17469589
+  name: Makara
+- id: 17469590
+  name: Makara
+- id: 17469591
+  name: Makara
+- id: 17469592
+  name: Bloodsucker
+- id: 17469593
+  name: Bloodsucker
+- id: 17469594
+  name: Bloodsucker
+- id: 17469595
+  name: Bloodsucker
+- id: 17469596
+  name: Blackwater Pugil
+- id: 17469597
+  name: Blackwater Pugil
+- id: 17469598
+  name: Blackwater Pugil
+- id: 17469599
+  name: Blackwater Pugil
+- id: 17469600
+  name: Blackwater Pugil
+- id: 17469601
+  name: Blackwater Pugil
+- id: 17469602
+  name: Blackwater Pugil
+- id: 17469603
+  name: Blackwater Pugil
+- id: 17469604
+  name: Plunderer Crab
+- id: 17469605
+  name: Plunderer Crab
+- id: 17469606
+  name: Plunderer Crab
+- id: 17469607
+  name: Plunderer Crab
+- id: 17469608
+  name: Plunderer Crab
+- id: 17469609
+  name: Plunderer Crab
+- id: 17469610
+  name: Plunderer Crab
+- id: 17469611
+  name: Plunderer Crab
+- id: 17469612
+  name: Plunderer Crab
+- id: 17469613
+  name: Blackwater Pugil
+- id: 17469614
+  name: Blackwater Pugil
+- id: 17469615
+  name: Blackwater Pugil
+- id: 17469616
+  name: Blackwater Pugil
+- id: 17469617
+  name: Blackwater Pugil
+- id: 17469618
+  name: Blackwater Pugil
+- id: 17469619
+  name: Blackwater Pugil
+- id: 17469620
+  name: Blackwater Pugil
+- id: 17469621
+  name: Plunderer Crab
+- id: 17469622
+  name: Plunderer Crab
+- id: 17469623
+  name: Plunderer Crab
+- id: 17469624
+  name: Plunderer Crab
+- id: 17469625
+  name: Blackwater Pugil
+- id: 17469626
+  name: Blackwater Pugil
+- id: 17469627
+  name: Blackwater Pugil
+- id: 17469628
+  name: Blackwater Pugil
+- id: 17469629
+  name: Mousse
+- id: 17469630
+  name: Mousse
+- id: 17469631
+  name: Mousse
+- id: 17469632
+  name: Konjac
+- id: 17469633
+  name: Blackwater Pugil
+- id: 17469634
+  name: Blackwater Pugil
+- id: 17469635
+  name: Blackwater Pugil
+- id: 17469636
+  name: Blackwater Pugil
+- id: 17469637
+  name: Deviling Bats
+- id: 17469638
+  name: Deviling Bats
+- id: 17469639
+  name: Sodden Bones
+- id: 17469640
+  name: Sodden Bones
+- id: 17469641
+  name: Drowned Bones
+- id: 17469642
+  name: Drowned Bones
+- id: 17469643
+  name: Starborer
+- id: 17469644
+  name: Starborer
+- id: 17469645
+  name: Starborer
+- id: 17469646
+  name: Starborer
+- id: 17469647
+  name: Starborer
+- id: 17469648
+  name: Starborer
+- id: 17469649
+  name: Starborer
+- id: 17469650
+  name: Deviling Bats
+- id: 17469651
+  name: Deviling Bats
+- id: 17469652
+  name: Sodden Bones
+- id: 17469653
+  name: Sodden Bones
+- id: 17469654
+  name: Drowned Bones
+- id: 17469655
+  name: Drowned Bones
+- id: 17469656
+  name: Sodden Bones
+- id: 17469657
+  name: Sodden Bones
+- id: 17469658
+  name: Drowned Bones
+- id: 17469659
+  name: Drowned Bones
+- id: 17469660
+  name: Rapier Scorpion
+- id: 17469661
+  name: Impish Bats
+- id: 17469662
+  name: Impish Bats
+- id: 17469663
+  name: Impish Bats
+- id: 17469664
+  name: Impish Bats
+- id: 17469665
+  name: Impish Bats
+- id: 17469666
+  name: Hinge Oil
+- id: 17469667
+  name: Hinge Oil
+- id: 17469668
+  name: Hinge Oil
+- id: 17469669
+  name: Hinge Oil
+- id: 17469670
+  name: Deviling Bats
+- id: 17469671
+  name: Deviling Bats
+- id: 17469672
+  name: Sodden Bones
+- id: 17469673
+  name: Sodden Bones
+- id: 17469674
+  name: Drowned Bones
+- id: 17469675
+  name: Drowned Bones
+- id: 17469676
+  name: Sodden Bones
+- id: 17469677
+  name: Sodden Bones
+- id: 17469678
+  name: Drowned Bones
+- id: 17469679
+  name: Drowned Bones
+- id: 17469680
+  name: Rapier Scorpion
+- id: 17469681
+  name: Deviling Bats
+- id: 17469682
+  name: Deviling Bats
+- id: 17469683
+  name: Deviling Bats
+- id: 17469684
+  name: Deviling Bats
+- id: 17469685
+  name: Deviling Bats
+- id: 17469686
+  name: Sodden Bones
+- id: 17469687
+  name: Sodden Bones
+- id: 17469688
+  name: Drowned Bones
+- id: 17469689
+  name: Drowned Bones
+- id: 17469690
+  name: Starborer
+- id: 17469691
+  name: Starborer
+- id: 17469692
+  name: Starborer
+- id: 17469693
+  name: Starborer
+- id: 17469694
+  name: Starborer
+- id: 17469695
+  name: Starborer
+- id: 17469696
+  name: Starborer
+- id: 17469697
+  name: Blackwater Pugil
+- id: 17469698
+  name: Blackwater Pugil
+- id: 17469699
+  name: Blackwater Pugil
+- id: 17469700
+  name: Blackwater Pugil
+- id: 17469701
+  name: Blackwater Pugil
+- id: 17469702
+  name: Blackwater Pugil
+- id: 17469703
+  name: Blackwater Pugil
+- id: 17469704
+  name: Blackwater Pugil
+- id: 17469705
+  name: Blackwater Pugil
+- id: 17469706
+  name: Blackwater Pugil
+- id: 17469707
+  name: Blackwater Pugil
+- id: 17469708
+  name: Blackwater Pugil
+- id: 17469709
+  name: Poroggo Excavator
+- id: 17469710
+  name: Flume Toad
+- id: 17469711
+  name: Flume Toad
+- id: 17469712
+  name: Flume Toad
+- id: 17469713
+  name: Flume Toad
+- id: 17469714
+  name: Flume Toad
+- id: 17469715
+  name: Flume Toad
+- id: 17469716
+  name: Flume Toad
+- id: 17469717
+  name: Flume Toad
+- id: 17469718
+  name: Poroggo Excavator
+- id: 17469719
+  name: Flume Toad
+- id: 17469720
+  name: Flume Toad
+- id: 17469721
+  name: Flume Toad
+- id: 17469722
+  name: Poroggo Excavator
+- id: 17469723
+  name: Flume Toad
+- id: 17469724
+  name: Flume Toad
+- id: 17469725
+  name: Flume Toad
+- id: 17469726
+  name: Flume Toad
+- id: 17469727
+  name: Flume Toad
+- id: 17469728
+  name: Flume Toad
+- id: 17469729
+  name: Flume Toad
+- id: 17469730
+  name: Flume Toad
+- id: 17469731
+  name: Poroggo Excavator
+- id: 17469732
+  name: Flume Toad
+- id: 17469733
+  name: Flume Toad
+- id: 17469734
+  name: Flume Toad
+- id: 17469735
+  name: Stygian Pugil
+- id: 17469736
+  name: Stygian Pugil
+- id: 17469737
+  name: Dire Bat
+- id: 17469738
+  name: Dire Bat
+- id: 17469739
+  name: Doom Mage
+- id: 17469740
+  name: Doom Mage
+- id: 17469741
+  name: Doom Soldier
+- id: 17469742
+  name: Doom Soldier
+- id: 17469743
+  name: Doom Mage
+- id: 17469744
+  name: Doom Mage
+- id: 17469745
+  name: Doom Soldier
+- id: 17469746
+  name: Doom Soldier
+- id: 17469747
+  name: Brazen Bones
+- id: 17469748
+  name: Bouncing Ball
+- id: 17469749
+  name: Bouncing Ball
+- id: 17469750
+  name: Bouncing Ball
+- id: 17469751
+  name: Bouncing Ball
+- id: 17469752
+  name: Dire Bat
+- id: 17469753
+  name: Dire Bat
+- id: 17469754
+  name: Dire Bat
+- id: 17469755
+  name: Dire Bat
+- id: 17469756
+  name: Starmite
+- id: 17469757
+  name: Starmite
+- id: 17469758
+  name: Starmite
+- id: 17469759
+  name: Starmite
+- id: 17469760
+  name: Starmite
+- id: 17469761
+  name: Mimic
+- id: 17469764
+  name: ???
+- id: 17469765
+  name: ???
+- id: 17469766
+  name: ???
+- id: 17469767
+  name: ???
+- id: 17469768
+  name: ???
+- id: 17469769
+  name: ???
+- id: 17469770
+  name: ???
+- id: 17469771
+  name: ???
+- id: 17469772
+  name: Treasure Casket
+- id: 17469773
+  name: Treasure Casket
+- id: 17469774
+  name: Treasure Casket
+- id: 17469775
+  name: Treasure Casket
+- id: 17469776
+  name: Treasure Casket
+- id: 17469777
+  name: Treasure Casket
+- id: 17469778
+  name: Treasure Casket
+- id: 17469779
+  name: Treasure Casket
+- id: 17469780
+  name: Treasure Casket
+- id: 17469781
+  name: Treasure Casket
+- id: 17469782
+  name: Treasure Casket
+- id: 17469783
+  name: Treasure Casket
+- id: 17469784
+  name: Treasure Casket
+- id: 17469785
+  name: Treasure Casket
+- id: 17469786
+  name: Treasure Casket
+- id: 17469787
+  name: Treasure Casket
+- id: 17469788
+  name: Achieve Master
+- id: 17469789
+  name: Unity Master
+- id: 17469794
+  name: EVENTER
+- id: 17469795
+  name: DIRECTOR
+- id: 17469796
+  name: Star Sibyl
+- id: 17469797
+  name: Karaha-Baruha
+- id: 17469798
+  name: Marble Door
+- id: 17469799
+  name: Marble Door
+- id: 17469800
+  name: Marble Door
+- id: 17469801
+  name: a gel
+- id: 17469802
+  name: a gel
+- id: 17469803
+  name: a gel
+- id: 17469804
+  name: a gel
+- id: 17469805
+  name: a gel
+- id: 17469806
+  name: a gel
+- id: 17469807
+  name: a gel
+- id: 17469808
+  name: a gel
+- id: 17469809
+  name: a gel
+- id: 17469810
+  name: a latticed door
+- id: 17469811
+  name: a latticed door
+- id: 17469812
+  name: a latticed door
+- id: 17469813
+  name: Large Stone Door
+- id: 17469814
+  name: Talking Doll
+- id: 17469815
+  name: ???
+- id: 17469816
+  name: ???
+- id: 17469817
+  name: ???
+- id: 17469818
+  name: DEBUG_SWITCH
+- id: 17469820
+  name: Moogle
+- id: 17469821
+  name: Moogle
+- id: 17469822
+  name: Moogle
+- id: 17469823
+  name: Moogle
+- id: 17469824
+  name: Moogle
+- id: 17469825
+  name: Moogle
+- id: 17469826
+  name: Moogle
+- id: 17469827
+  name: Moogle
+- id: 17469828
+  name: Tome of Magic
+- id: 17469829
+  name: Tome of Magic
+- id: 17469830
+  name: Tome of Magic
+- id: 17469831
+  name: Tome of Magic
+- id: 17469832
+  name: Tome of Magic
+- id: 17469833
+  name: Transporter
+- id: 17469834
+  name: ''
+- id: 17469835
+  name: Treasure Coffer
+- id: 17469836
+  name: Ramblix
+- id: 17469837
+  name: Goblin Footprint
+- id: 17469838
+  name: GoalPoint
+- id: 17469839
+  name: GoalPoint
+- id: 17469840
+  name: GoalPoint
+- id: 17469841
+  name: GoalPoint
+- id: 17469842
+  name: GoalPoint
+- id: 17469843
+  name: GoalPoint
+- id: 17469844
+  name: Moogle
+- id: 17469845
+  name: Moogle
+- id: 17469846
+  name: Moogle
+- id: 17469847
+  name: Moogle
+- id: 17469848
+  name: Moogle
+- id: 17469849
+  name: Moogle
+- id: 17469850
+  name: Grounds Tome
+- id: 17469851
+  name: Grounds Tome
+- id: 17469852
+  name: Grounds Tome
+- id: 17469853
+  name: Grounds Tome
+- id: 17469854
+  name: Geomagnetic Fount
+- id: 17469855
+  name: Survival Guide
+- id: 17469856
+  name: 'Home Point #1'
+- id: 17469857
+  name: 'Home Point #2'
+- id: 17469858
+  name: 'Home Point #3'
+- id: 17469859
+  name: 'Home Point #4'
+- id: 17469860
+  name: 'Home Point #5'

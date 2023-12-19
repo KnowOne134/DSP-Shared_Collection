@@ -1,0 +1,809 @@
+names:
+- id: 16990209
+  name: Red Smoocher
+- id: 16990210
+  name: Azoth Apsaras
+- id: 16990211
+  name: Red Osculator
+- id: 16990212
+  name: Kissing Leech
+- id: 16990213
+  name: Mercurial Makara
+- id: 16990214
+  name: Aht Urhgan Attercop
+- id: 16990215
+  name: Aht Urhgan Attercop
+- id: 16990216
+  name: Lesser Colibri
+- id: 16990217
+  name: Lesser Colibri
+- id: 16990218
+  name: Aht Urhgan Attercop
+- id: 16990219
+  name: Aht Urhgan Attercop
+- id: 16990220
+  name: Aht Urhgan Attercop
+- id: 16990221
+  name: Lesser Colibri
+- id: 16990222
+  name: Lesser Colibri
+- id: 16990223
+  name: Fomor Beastmaster
+- id: 16990224
+  name: Fomor's Bats
+- id: 16990225
+  name: Fomor Bard
+- id: 16990226
+  name: Aht Urhgan Attercop
+- id: 16990227
+  name: Aht Urhgan Attercop
+- id: 16990228
+  name: Haunt
+- id: 16990229
+  name: Lesser Colibri
+- id: 16990230
+  name: Lesser Colibri
+- id: 16990231
+  name: Fomor Paladin
+- id: 16990232
+  name: Fomor Beastmaster
+- id: 16990233
+  name: Fomor's Bats
+- id: 16990234
+  name: Ameretat
+- id: 16990235
+  name: Ameretat
+- id: 16990236
+  name: Wajaom Tiger
+- id: 16990237
+  name: Wajaom Tiger
+- id: 16990238
+  name: Lesser Colibri
+- id: 16990239
+  name: Ameretat
+- id: 16990240
+  name: Wajaom Tiger
+- id: 16990241
+  name: Lesser Colibri
+- id: 16990242
+  name: Wajaom Tiger
+- id: 16990243
+  name: Wajaom Tiger
+- id: 16990244
+  name: Lesser Colibri
+- id: 16990245
+  name: Wajaom Tiger
+- id: 16990246
+  name: Fomor Thief
+- id: 16990247
+  name: Fomor Beastmaster
+- id: 16990248
+  name: Fomor's Bats
+- id: 16990249
+  name: Aht Urhgan Attercop
+- id: 16990250
+  name: Aht Urhgan Attercop
+- id: 16990251
+  name: Fomor Thief
+- id: 16990252
+  name: Harvestman
+- id: 16990253
+  name: Lesser Colibri
+- id: 16990254
+  name: Lesser Colibri
+- id: 16990255
+  name: Lesser Colibri
+- id: 16990256
+  name: Lesser Colibri
+- id: 16990257
+  name: Haunt
+- id: 16990258
+  name: Aht Urhgan Attercop
+- id: 16990259
+  name: Aht Urhgan Attercop
+- id: 16990260
+  name: Lesser Colibri
+- id: 16990261
+  name: Aht Urhgan Attercop
+- id: 16990262
+  name: Aht Urhgan Attercop
+- id: 16990263
+  name: Lesser Colibri
+- id: 16990264
+  name: Lesser Colibri
+- id: 16990265
+  name: Lesser Colibri
+- id: 16990266
+  name: Ameretat
+- id: 16990267
+  name: Ameretat
+- id: 16990268
+  name: Treant Sapling
+- id: 16990269
+  name: Treant Sapling
+- id: 16990270
+  name: Treant Sapling
+- id: 16990271
+  name: Aht Urhgan Attercop
+- id: 16990272
+  name: Aht Urhgan Attercop
+- id: 16990273
+  name: Aht Urhgan Attercop
+- id: 16990274
+  name: Aht Urhgan Attercop
+- id: 16990275
+  name: Aht Urhgan Attercop
+- id: 16990276
+  name: Fomor Bard
+- id: 16990277
+  name: Fomor Paladin
+- id: 16990278
+  name: Aht Urhgan Attercop
+- id: 16990279
+  name: Aht Urhgan Attercop
+- id: 16990280
+  name: Lesser Colibri
+- id: 16990281
+  name: Lesser Colibri
+- id: 16990282
+  name: Lesser Colibri
+- id: 16990283
+  name: Lesser Colibri
+- id: 16990284
+  name: Aht Urhgan Attercop
+- id: 16990285
+  name: Aht Urhgan Attercop
+- id: 16990286
+  name: Aht Urhgan Attercop
+- id: 16990287
+  name: Wajaom Tiger
+- id: 16990288
+  name: Wajaom Tiger
+- id: 16990289
+  name: Chigoe
+- id: 16990290
+  name: Chigoe
+- id: 16990291
+  name: Chigoe
+- id: 16990292
+  name: Chigoe
+- id: 16990293
+  name: Chigoe
+- id: 16990294
+  name: Grand Marid
+- id: 16990295
+  name: Grand Marid
+- id: 16990296
+  name: Marid
+- id: 16990297
+  name: Marid
+- id: 16990298
+  name: Marid
+- id: 16990299
+  name: Marid
+- id: 16990300
+  name: Colibri
+- id: 16990301
+  name: Colibri
+- id: 16990302
+  name: Colibri
+- id: 16990303
+  name: Colibri
+- id: 16990304
+  name: Marid
+- id: 16990305
+  name: Marid
+- id: 16990306
+  name: Mahishasura
+- id: 16990307
+  name: Red Kisser
+- id: 16990308
+  name: Red Kisser
+- id: 16990309
+  name: Red Kisser
+- id: 16990310
+  name: Fomor Paladin
+- id: 16990311
+  name: Fomor Bard
+- id: 16990312
+  name: Haunt
+- id: 16990313
+  name: Fomor Thief
+- id: 16990314
+  name: Fomor Paladin
+- id: 16990315
+  name: Colibri
+- id: 16990316
+  name: Colibri
+- id: 16990317
+  name: Colibri
+- id: 16990318
+  name: Colibri
+- id: 16990319
+  name: Troll Surveillant
+- id: 16990320
+  name: Troll's Automaton
+- id: 16990321
+  name: Troll Shieldbearer
+- id: 16990322
+  name: Troll Sabreur
+- id: 16990323
+  name: Troll Surveillant
+- id: 16990324
+  name: Troll's Automaton
+- id: 16990325
+  name: Date Eruca
+- id: 16990326
+  name: Date Eruca
+- id: 16990327
+  name: Date Eruca
+- id: 16990328
+  name: Date Eruca
+- id: 16990329
+  name: Date Eruca
+- id: 16990330
+  name: Colibri
+- id: 16990331
+  name: Colibri
+- id: 16990332
+  name: Colibri
+- id: 16990333
+  name: Colibri
+- id: 16990334
+  name: Colibri
+- id: 16990335
+  name: Colibri
+- id: 16990336
+  name: Colibri
+- id: 16990337
+  name: Treant Sapling
+- id: 16990338
+  name: Treant Sapling
+- id: 16990339
+  name: Treant Sapling
+- id: 16990340
+  name: Wajaom Tiger
+- id: 16990341
+  name: Wajaom Tiger
+- id: 16990342
+  name: Air Elemental
+- id: 16990343
+  name: Treant Sapling
+- id: 16990344
+  name: Treant Sapling
+- id: 16990345
+  name: Treant Sapling
+- id: 16990346
+  name: Olden Treant
+- id: 16990347
+  name: Olden Treant
+- id: 16990348
+  name: Wajaom Tiger
+- id: 16990349
+  name: Wajaom Tiger
+- id: 16990350
+  name: Treant Sapling
+- id: 16990351
+  name: Wajaom Tiger
+- id: 16990352
+  name: Treant Sapling
+- id: 16990353
+  name: Wajaom Tiger
+- id: 16990354
+  name: Olden Treant
+- id: 16990355
+  name: Colorful Treant
+- id: 16990356
+  name: Olden Treant
+- id: 16990357
+  name: Colibri
+- id: 16990358
+  name: Colibri
+- id: 16990359
+  name: Colibri
+- id: 16990360
+  name: Olden Treant
+- id: 16990361
+  name: Olden Treant
+- id: 16990362
+  name: Colorful Treant
+- id: 16990363
+  name: Colibri
+- id: 16990364
+  name: Colibri
+- id: 16990365
+  name: Colibri
+- id: 16990366
+  name: Colibri
+- id: 16990367
+  name: Incubus Bats
+- id: 16990368
+  name: Incubus Bats
+- id: 16990369
+  name: Incubus Bats
+- id: 16990370
+  name: Incubus Bats
+- id: 16990371
+  name: Treant Sapling
+- id: 16990372
+  name: Treant Sapling
+- id: 16990373
+  name: Air Elemental
+- id: 16990374
+  name: Olden Treant
+- id: 16990375
+  name: Colorful Treant
+- id: 16990376
+  name: Emergent Elm
+- id: 16990377
+  name: Treant Sapling
+- id: 16990378
+  name: Treant Sapling
+- id: 16990379
+  name: Treant Sapling
+- id: 16990380
+  name: Treant Sapling
+- id: 16990381
+  name: Olden Treant
+- id: 16990382
+  name: Colorful Treant
+- id: 16990383
+  name: Sea Puk
+- id: 16990384
+  name: Sea Puk
+- id: 16990385
+  name: Sea Puk
+- id: 16990386
+  name: Mamool Ja Stabler
+- id: 16990387
+  name: Mamool Ja's Raptor
+- id: 16990388
+  name: Mamool Ja Infiltrator
+- id: 16990389
+  name: Mamool Ja Mimer
+- id: 16990390
+  name: Mamool Ja Philosopher
+- id: 16990391
+  name: Sea Puk
+- id: 16990392
+  name: Sea Puk
+- id: 16990393
+  name: Sea Puk
+- id: 16990394
+  name: Sea Puk
+- id: 16990395
+  name: Skoffin
+- id: 16990396
+  name: Mamool Ja Pikeman
+- id: 16990397
+  name: Mamool Ja's Wyvern
+- id: 16990398
+  name: Sea Puk
+- id: 16990399
+  name: Skoffin
+- id: 16990400
+  name: Skoffin
+- id: 16990401
+  name: Skoffin
+- id: 16990402
+  name: Air Elemental
+- id: 16990403
+  name: Nis Puk
+- id: 16990404
+  name: Skoffin
+- id: 16990405
+  name: Mamool Ja Stabler
+- id: 16990406
+  name: Mamool Ja's Raptor
+- id: 16990407
+  name: Mamool Ja Lurker
+- id: 16990408
+  name: Mamool Ja Infiltrator
+- id: 16990409
+  name: Mamool Ja Infiltrator
+- id: 16990410
+  name: Mamool Ja Pikeman
+- id: 16990411
+  name: Mamool Ja's Wyvern
+- id: 16990412
+  name: Sea Puk
+- id: 16990413
+  name: Mamool Ja Blusterer
+- id: 16990414
+  name: Sea Puk
+- id: 16990415
+  name: Mamool Ja Blusterer
+- id: 16990416
+  name: Mamool Ja Philosopher
+- id: 16990417
+  name: Plague Chigoe
+- id: 16990418
+  name: Berried Chigoe
+- id: 16990419
+  name: Chigoe's Nit
+- id: 16990420
+  name: Chigoe's Nit
+- id: 16990421
+  name: Chigoe's Nit
+- id: 16990422
+  name: Chigoe's Nit
+- id: 16990423
+  name: Dark Rider
+- id: 16990424
+  name: Dark Bugler
+- id: 16990425
+  name: Dark Bugler
+- id: 16990426
+  name: Dark Bugler
+- id: 16990427
+  name: Dark Esquire
+- id: 16990428
+  name: Dark Esquire
+- id: 16990429
+  name: Dark Esquire
+- id: 16990430
+  name: Mamool Ja Philosopher
+- id: 16990431
+  name: Mamool Ja Blusterer
+- id: 16990432
+  name: Mamool Ja Mimer
+- id: 16990433
+  name: Mamool Ja Blusterer
+- id: 16990434
+  name: Mamool Ja Lurker
+- id: 16990435
+  name: Mamool Ja Stabler
+- id: 16990436
+  name: Mamool Ja's Raptor
+- id: 16990437
+  name: Mamool Ja Stabler
+- id: 16990438
+  name: Mamool Ja's Raptor
+- id: 16990439
+  name: Mamool Ja Infiltrator
+- id: 16990440
+  name: Mamool Ja Pikeman
+- id: 16990441
+  name: Mamool Ja's Wyvern
+- id: 16990442
+  name: Mamool Ja Pikeman
+- id: 16990443
+  name: Mamool Ja's Wyvern
+- id: 16990444
+  name: Greater Colibri
+- id: 16990445
+  name: Greater Colibri
+- id: 16990446
+  name: Wivre
+- id: 16990447
+  name: Greater Colibri
+- id: 16990448
+  name: Greater Colibri
+- id: 16990449
+  name: Greater Colibri
+- id: 16990450
+  name: Greater Colibri
+- id: 16990451
+  name: Greater Colibri
+- id: 16990452
+  name: Greater Colibri
+- id: 16990453
+  name: Wivre
+- id: 16990454
+  name: Greater Colibri
+- id: 16990455
+  name: Greater Colibri
+- id: 16990456
+  name: Wivre
+- id: 16990457
+  name: Greater Colibri
+- id: 16990458
+  name: Greater Colibri
+- id: 16990459
+  name: Wivre
+- id: 16990460
+  name: Wivre
+- id: 16990461
+  name: Greater Colibri
+- id: 16990462
+  name: Greater Colibri
+- id: 16990463
+  name: Greater Colibri
+- id: 16990464
+  name: Wivre
+- id: 16990465
+  name: Greater Colibri
+- id: 16990466
+  name: Wivre
+- id: 16990467
+  name: Greater Colibri
+- id: 16990468
+  name: Greater Colibri
+- id: 16990469
+  name: Greater Colibri
+- id: 16990470
+  name: Wivre
+- id: 16990471
+  name: Greater Colibri
+- id: 16990472
+  name: Greater Colibri
+- id: 16990473
+  name: Lividroot Amooshah
+- id: 16990474
+  name: Dea
+- id: 16990475
+  name: Lamia Immolator
+- id: 16990476
+  name: Lamia Jaeger
+- id: 16990477
+  name: Lamia Commandress
+- id: 16990478
+  name: Lamia's Elemental
+- id: 16990479
+  name: Lamia's Avatar
+- id: 16990480
+  name: Lamia Rover
+- id: 16990481
+  name: Merrow Seafarer
+- id: 16990482
+  name: Merrow Cantatrice
+- id: 16990483
+  name: Merrow Shiranuhi
+- id: 16990484
+  name: Lamia Immolator
+- id: 16990485
+  name: Lamia Jaeger
+- id: 16990486
+  name: Lamia Commandress
+- id: 16990487
+  name: Lamia's Elemental
+- id: 16990488
+  name: Lamia's Avatar
+- id: 16990489
+  name: Lamia Rover
+- id: 16990490
+  name: Merrow Seafarer
+- id: 16990491
+  name: Merrow Cantatrice
+- id: 16990492
+  name: Merrow Shiranuhi
+- id: 16990493
+  name: Lamia Immolator
+- id: 16990494
+  name: Lamia Jaeger
+- id: 16990495
+  name: Lamia Commandress
+- id: 16990496
+  name: Lamia's Elemental
+- id: 16990497
+  name: Lamia's Avatar
+- id: 16990498
+  name: Lamia Rover
+- id: 16990499
+  name: Merrow Seafarer
+- id: 16990500
+  name: Merrow Cantatrice
+- id: 16990501
+  name: Merrow Shiranuhi
+- id: 16990502
+  name: Gespenst
+- id: 16990503
+  name: Gespenst
+- id: 16990504
+  name: Gespenst
+- id: 16990505
+  name: Gespenst
+- id: 16990506
+  name: Assault Draugar
+- id: 16990507
+  name: Assault Draugar
+- id: 16990508
+  name: Assault Draugar
+- id: 16990509
+  name: Assault Draugar
+- id: 16990510
+  name: Assault Draugar
+- id: 16990511
+  name: Assault Draugar
+- id: 16990512
+  name: Assault Draugar
+- id: 16990513
+  name: Draugar's Wyvern
+- id: 16990514
+  name: Assault Draugar
+- id: 16990515
+  name: Draugar's Wyvern
+- id: 16990516
+  name: Assault Bhoot
+- id: 16990517
+  name: Assault Bhoot
+- id: 16990518
+  name: Assault Bhoot
+- id: 16990519
+  name: Assault Bhoot
+- id: 16990520
+  name: Assault Bhoot
+- id: 16990521
+  name: Qutrub Extortionist
+- id: 16990522
+  name: Qutrub Extortionist
+- id: 16990523
+  name: Qutrub Extortionist
+- id: 16990524
+  name: Qutrub Extortionist
+- id: 16990525
+  name: Qutrub Wastrel
+- id: 16990526
+  name: Qutrub Wastrel
+- id: 16990527
+  name: Qutrub Wastrel
+- id: 16990528
+  name: Qutrub Wastrel
+- id: 16990529
+  name: Expunger
+- id: 16990530
+  name: Expunger
+- id: 16990531
+  name: Expunger
+- id: 16990532
+  name: Expunger
+- id: 16990533
+  name: Expunger
+- id: 16990534
+  name: Medusa
+- id: 16990535
+  name: Lamia No.34
+- id: 16990536
+  name: Lamia No.21
+- id: 16990537
+  name: Lamia No.15
+- id: 16990538
+  name: Merrow No.11
+- id: 16990539
+  name: Lamia No.9
+- id: 16990540
+  name: Lamia's Elemental
+- id: 16990541
+  name: Lamia's Elemental
+- id: 16990542
+  name: Lamia's Elemental
+- id: 16990543
+  name: Lamia's Avatar
+- id: 16990544
+  name: Lamia's Avatar
+- id: 16990545
+  name: Lamia's Avatar
+- id: 16990546
+  name: Merrow No.12
+- id: 16990547
+  name: Lamia No.3
+- id: 16990548
+  name: Lamia No.2
+- id: 16990549
+  name: Acrolith
+- id: 16990550
+  name: Acrolith
+- id: 16990551
+  name: Acrolith
+- id: 16990552
+  name: Acrolith
+- id: 16990553
+  name: Acrolith
+- id: 16990554
+  name: Acrolith
+- id: 16990555
+  name: Acrolith
+- id: 16990556
+  name: Acrolith
+- id: 16990557
+  name: Acrolith
+- id: 16990560
+  name: Warhorse Hoofprint
+- id: 16990561
+  name: Warhorse Hoofprint
+- id: 16990562
+  name: Warhorse Hoofprint
+- id: 16990563
+  name: ???
+- id: 16990564
+  name: ???
+- id: 16990565
+  name: Achieve Master
+- id: 16990566
+  name: Unity Master
+- id: 16990568
+  name: ???
+- id: 16990574
+  name: ''
+- id: 16990576
+  name: Moogle
+- id: 16990577
+  name: Moogle
+- id: 16990578
+  name: Moogle
+- id: 16990579
+  name: Moogle
+- id: 16990580
+  name: Moogle
+- id: 16990581
+  name: Moogle
+- id: 16990582
+  name: Moogle
+- id: 16990583
+  name: Moogle
+- id: 16990584
+  name: ''
+- id: 16990585
+  name: ''
+- id: 16990586
+  name: Mamuuja
+- id: 16990587
+  name: Postern
+- id: 16990588
+  name: Heavy Iron Gate
+- id: 16990589
+  name: Runic Seal
+- id: 16990590
+  name: Runic Portal
+- id: 16990591
+  name: Door_1g3
+- id: 16990592
+  name: Door_1g4
+- id: 16990593
+  name: Kamih Mapokhalam
+- id: 16990594
+  name: Hamta-Iramta
+- id: 16990596
+  name: ???
+- id: 16990597
+  name: Alcander
+- id: 16990598
+  name: Tinga-Matonga
+- id: 16990599
+  name: ''
+- id: 16990600
+  name: ???
+- id: 16990601
+  name: ''
+- id: 16990602
+  name: ''
+- id: 16990603
+  name: Daswil
+- id: 16990604
+  name: Ramblix
+- id: 16990605
+  name: Goblin Footprint
+- id: 16990606
+  name: Ahmibi Watchtower
+- id: 16990607
+  name: Harvesting Point
+- id: 16990608
+  name: Harvesting Point
+- id: 16990609
+  name: Harvesting Point
+- id: 16990610
+  name: Harvesting Point
+- id: 16990611
+  name: Harvesting Point
+- id: 16990612
+  name: Harvesting Point
+- id: 16990613
+  name: ''
+- id: 16990614
+  name: ''
+- id: 16990615
+  name: Mythralline Wellspring
+- id: 16990616
+  name: ???
+- id: 16990617
+  name: Moogle
+- id: 16990618
+  name: 'Home Point #1'
+- id: 16990619
+  name: 'Home Point #2'
+- id: 16990620
+  name: 'Home Point #3'
+- id: 16990621
+  name: 'Home Point #4'
+- id: 16990622
+  name: 'Home Point #5'

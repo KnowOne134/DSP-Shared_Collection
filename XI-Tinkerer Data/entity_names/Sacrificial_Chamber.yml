@@ -1,0 +1,741 @@
+names:
+- id: 17444865
+  name: Grav'iton
+- id: 17444866
+  name: Molyb'iton
+- id: 17444867
+  name: Tungs'iton
+- id: 17444868
+  name: Tonberry's Elemental
+- id: 17444869
+  name: Tonberry's Avatar
+- id: 17444870
+  name: Grav'iton
+- id: 17444871
+  name: Molyb'iton
+- id: 17444872
+  name: Tungs'iton
+- id: 17444873
+  name: Tonberry's Elemental
+- id: 17444874
+  name: Tonberry's Avatar
+- id: 17444875
+  name: Grav'iton
+- id: 17444876
+  name: Molyb'iton
+- id: 17444877
+  name: Tungs'iton
+- id: 17444878
+  name: Tonberry's Elemental
+- id: 17444879
+  name: Tonberry's Avatar
+- id: 17444880
+  name: Sable-tongued Gonberry
+- id: 17444881
+  name: Virid-faced Shanberry
+- id: 17444882
+  name: Cyaneous-toed Yallberry
+- id: 17444883
+  name: Vermilion-eared Noberry
+- id: 17444884
+  name: Armoury Crate
+- id: 17444885
+  name: Tonberry's Elemental
+- id: 17444886
+  name: Tonberry's Avatar
+- id: 17444887
+  name: Sable-tongued Gonberry
+- id: 17444888
+  name: Virid-faced Shanberry
+- id: 17444889
+  name: Cyaneous-toed Yallberry
+- id: 17444890
+  name: Vermilion-eared Noberry
+- id: 17444891
+  name: Armoury Crate
+- id: 17444892
+  name: Tonberry's Elemental
+- id: 17444893
+  name: Tonberry's Avatar
+- id: 17444894
+  name: Sable-tongued Gonberry
+- id: 17444895
+  name: Virid-faced Shanberry
+- id: 17444896
+  name: Cyaneous-toed Yallberry
+- id: 17444897
+  name: Vermilion-eared Noberry
+- id: 17444898
+  name: Armoury Crate
+- id: 17444899
+  name: Tonberry's Elemental
+- id: 17444900
+  name: Tonberry's Avatar
+- id: 17444901
+  name: Qull the Fallstopper
+- id: 17444902
+  name: Rauu the Whaleswooner
+- id: 17444903
+  name: Hyohh the Conchblower
+- id: 17444904
+  name: Pevv the Riverleaper
+- id: 17444905
+  name: Armoury Crate
+- id: 17444906
+  name: Sahagin's Wyvern
+- id: 17444907
+  name: Qull the Fallstopper
+- id: 17444908
+  name: Rauu the Whaleswooner
+- id: 17444909
+  name: Hyohh the Conchblower
+- id: 17444910
+  name: Pevv the Riverleaper
+- id: 17444911
+  name: Armoury Crate
+- id: 17444912
+  name: Sahagin's Wyvern
+- id: 17444913
+  name: Qull the Fallstopper
+- id: 17444914
+  name: Rauu the Whaleswooner
+- id: 17444915
+  name: Hyohh the Conchblower
+- id: 17444916
+  name: Pevv the Riverleaper
+- id: 17444917
+  name: Armoury Crate
+- id: 17444918
+  name: Sahagin's Wyvern
+- id: 17444919
+  name: Shantotto
+- id: 17444920
+  name: D. Shantotto
+- id: 17444921
+  name: Shantotto
+- id: 17444922
+  name: D. Shantotto
+- id: 17444923
+  name: Shantotto
+- id: 17444924
+  name: D. Shantotto
+- id: 17444925
+  name: Grievous Gozar
+- id: 17444926
+  name: Zymotic Zuulie
+- id: 17444927
+  name: Puffy Marshmaw
+- id: 17444928
+  name: Slimey Simeon
+- id: 17444929
+  name: Armoury Crate
+- id: 17444930
+  name: Grievous Gozar
+- id: 17444931
+  name: Zymotic Zuulie
+- id: 17444932
+  name: Puffy Marshmaw
+- id: 17444933
+  name: Slimey Simeon
+- id: 17444934
+  name: Armoury Crate
+- id: 17444935
+  name: Grievous Gozar
+- id: 17444936
+  name: Zymotic Zuulie
+- id: 17444937
+  name: Puffy Marshmaw
+- id: 17444938
+  name: Slimey Simeon
+- id: 17444939
+  name: Armoury Crate
+- id: 17444940
+  name: Sable-tongued Gonberry
+- id: 17444941
+  name: Virid-faced Shanberry
+- id: 17444942
+  name: Cyaneous-toed Yallberry
+- id: 17444943
+  name: Vermilion-eared Noberry
+- id: 17444944
+  name: Armoury Crate
+- id: 17444945
+  name: Tonberry's Elemental
+- id: 17444946
+  name: Tonberry's Avatar
+- id: 17444947
+  name: Sable-tongued Gonberry
+- id: 17444948
+  name: Virid-faced Shanberry
+- id: 17444949
+  name: Cyaneous-toed Yallberry
+- id: 17444950
+  name: Vermilion-eared Noberry
+- id: 17444951
+  name: Armoury Crate
+- id: 17444952
+  name: Tonberry's Elemental
+- id: 17444953
+  name: Tonberry's Avatar
+- id: 17444954
+  name: Sable-tongued Gonberry
+- id: 17444955
+  name: Virid-faced Shanberry
+- id: 17444956
+  name: Cyaneous-toed Yallberry
+- id: 17444957
+  name: Vermilion-eared Noberry
+- id: 17444958
+  name: Armoury Crate
+- id: 17444959
+  name: Tonberry's Elemental
+- id: 17444960
+  name: Tonberry's Avatar
+- id: 17444961
+  name: Sable-tongued Gonberry
+- id: 17444962
+  name: Virid-faced Shanberry
+- id: 17444963
+  name: Cyaneous-toed Yallberry
+- id: 17444964
+  name: Vermilion-eared Noberry
+- id: 17444965
+  name: Armoury Crate
+- id: 17444966
+  name: Tonberry's Elemental
+- id: 17444967
+  name: Tonberry's Avatar
+- id: 17444968
+  name: Sable-tongued Gonberry
+- id: 17444969
+  name: Virid-faced Shanberry
+- id: 17444970
+  name: Cyaneous-toed Yallberry
+- id: 17444971
+  name: Vermilion-eared Noberry
+- id: 17444972
+  name: Armoury Crate
+- id: 17444973
+  name: Tonberry's Elemental
+- id: 17444974
+  name: Tonberry's Avatar
+- id: 17444975
+  name: Sable-tongued Gonberry
+- id: 17444976
+  name: Virid-faced Shanberry
+- id: 17444977
+  name: Cyaneous-toed Yallberry
+- id: 17444978
+  name: Vermilion-eared Noberry
+- id: 17444979
+  name: Armoury Crate
+- id: 17444980
+  name: Tonberry's Elemental
+- id: 17444981
+  name: Tonberry's Avatar
+- id: 17444982
+  name: Sable-tongued Gonberry
+- id: 17444983
+  name: Virid-faced Shanberry
+- id: 17444984
+  name: Cyaneous-toed Yallberry
+- id: 17444985
+  name: Vermilion-eared Noberry
+- id: 17444986
+  name: Armoury Crate
+- id: 17444987
+  name: Tonberry's Elemental
+- id: 17444988
+  name: Tonberry's Avatar
+- id: 17444989
+  name: Sable-tongued Gonberry
+- id: 17444990
+  name: Virid-faced Shanberry
+- id: 17444991
+  name: Cyaneous-toed Yallberry
+- id: 17444992
+  name: Vermilion-eared Noberry
+- id: 17444993
+  name: Armoury Crate
+- id: 17444994
+  name: Tonberry's Elemental
+- id: 17444995
+  name: Tonberry's Avatar
+- id: 17444996
+  name: Sable-tongued Gonberry
+- id: 17444997
+  name: Virid-faced Shanberry
+- id: 17444998
+  name: Cyaneous-toed Yallberry
+- id: 17444999
+  name: Vermilion-eared Noberry
+- id: 17445000
+  name: Armoury Crate
+- id: 17445001
+  name: Tonberry's Elemental
+- id: 17445002
+  name: Tonberry's Avatar
+- id: 17445003
+  name: Sable-tongued Gonberry
+- id: 17445004
+  name: Virid-faced Shanberry
+- id: 17445005
+  name: Cyaneous-toed Yallberry
+- id: 17445006
+  name: Vermilion-eared Noberry
+- id: 17445007
+  name: Armoury Crate
+- id: 17445008
+  name: Tonberry's Elemental
+- id: 17445009
+  name: Tonberry's Avatar
+- id: 17445010
+  name: Sable-tongued Gonberry
+- id: 17445011
+  name: Virid-faced Shanberry
+- id: 17445012
+  name: Cyaneous-toed Yallberry
+- id: 17445013
+  name: Vermilion-eared Noberry
+- id: 17445014
+  name: Armoury Crate
+- id: 17445015
+  name: Tonberry's Elemental
+- id: 17445016
+  name: Tonberry's Avatar
+- id: 17445017
+  name: Sable-tongued Gonberry
+- id: 17445018
+  name: Virid-faced Shanberry
+- id: 17445019
+  name: Cyaneous-toed Yallberry
+- id: 17445020
+  name: Vermilion-eared Noberry
+- id: 17445021
+  name: Armoury Crate
+- id: 17445022
+  name: Tonberry's Elemental
+- id: 17445023
+  name: Tonberry's Avatar
+- id: 17445024
+  name: Sable-tongued Gonberry
+- id: 17445025
+  name: Virid-faced Shanberry
+- id: 17445026
+  name: Cyaneous-toed Yallberry
+- id: 17445027
+  name: Vermilion-eared Noberry
+- id: 17445028
+  name: Armoury Crate
+- id: 17445029
+  name: Tonberry's Elemental
+- id: 17445030
+  name: Tonberry's Avatar
+- id: 17445031
+  name: Sable-tongued Gonberry
+- id: 17445032
+  name: Virid-faced Shanberry
+- id: 17445033
+  name: Cyaneous-toed Yallberry
+- id: 17445034
+  name: Vermilion-eared Noberry
+- id: 17445035
+  name: Armoury Crate
+- id: 17445036
+  name: Tonberry's Elemental
+- id: 17445037
+  name: Tonberry's Avatar
+- id: 17445038
+  name: Sable-tongued Gonberry
+- id: 17445039
+  name: Virid-faced Shanberry
+- id: 17445040
+  name: Cyaneous-toed Yallberry
+- id: 17445041
+  name: Vermilion-eared Noberry
+- id: 17445042
+  name: Armoury Crate
+- id: 17445043
+  name: Tonberry's Elemental
+- id: 17445044
+  name: Tonberry's Avatar
+- id: 17445045
+  name: Qull the Fallstopper
+- id: 17445046
+  name: Rauu the Whaleswooner
+- id: 17445047
+  name: Hyohh the Conchblower
+- id: 17445048
+  name: Pevv the Riverleaper
+- id: 17445049
+  name: Armoury Crate
+- id: 17445050
+  name: Sahagin's Wyvern
+- id: 17445051
+  name: Qull the Fallstopper
+- id: 17445052
+  name: Rauu the Whaleswooner
+- id: 17445053
+  name: Hyohh the Conchblower
+- id: 17445054
+  name: Pevv the Riverleaper
+- id: 17445055
+  name: Armoury Crate
+- id: 17445056
+  name: Sahagin's Wyvern
+- id: 17445057
+  name: Qull the Fallstopper
+- id: 17445058
+  name: Rauu the Whaleswooner
+- id: 17445059
+  name: Hyohh the Conchblower
+- id: 17445060
+  name: Pevv the Riverleaper
+- id: 17445061
+  name: Armoury Crate
+- id: 17445062
+  name: Sahagin's Wyvern
+- id: 17445063
+  name: Qull the Fallstopper
+- id: 17445064
+  name: Rauu the Whaleswooner
+- id: 17445065
+  name: Hyohh the Conchblower
+- id: 17445066
+  name: Pevv the Riverleaper
+- id: 17445067
+  name: Armoury Crate
+- id: 17445068
+  name: Sahagin's Wyvern
+- id: 17445069
+  name: Qull the Fallstopper
+- id: 17445070
+  name: Rauu the Whaleswooner
+- id: 17445071
+  name: Hyohh the Conchblower
+- id: 17445072
+  name: Pevv the Riverleaper
+- id: 17445073
+  name: Armoury Crate
+- id: 17445074
+  name: Sahagin's Wyvern
+- id: 17445075
+  name: Qull the Fallstopper
+- id: 17445076
+  name: Rauu the Whaleswooner
+- id: 17445077
+  name: Hyohh the Conchblower
+- id: 17445078
+  name: Pevv the Riverleaper
+- id: 17445079
+  name: Armoury Crate
+- id: 17445080
+  name: Sahagin's Wyvern
+- id: 17445081
+  name: Qull the Fallstopper
+- id: 17445082
+  name: Rauu the Whaleswooner
+- id: 17445083
+  name: Hyohh the Conchblower
+- id: 17445084
+  name: Pevv the Riverleaper
+- id: 17445085
+  name: Armoury Crate
+- id: 17445086
+  name: Sahagin's Wyvern
+- id: 17445087
+  name: Qull the Fallstopper
+- id: 17445088
+  name: Rauu the Whaleswooner
+- id: 17445089
+  name: Hyohh the Conchblower
+- id: 17445090
+  name: Pevv the Riverleaper
+- id: 17445091
+  name: Armoury Crate
+- id: 17445092
+  name: Sahagin's Wyvern
+- id: 17445093
+  name: Qull the Fallstopper
+- id: 17445094
+  name: Rauu the Whaleswooner
+- id: 17445095
+  name: Hyohh the Conchblower
+- id: 17445096
+  name: Pevv the Riverleaper
+- id: 17445097
+  name: Armoury Crate
+- id: 17445098
+  name: Sahagin's Wyvern
+- id: 17445099
+  name: Qull the Fallstopper
+- id: 17445100
+  name: Rauu the Whaleswooner
+- id: 17445101
+  name: Hyohh the Conchblower
+- id: 17445102
+  name: Pevv the Riverleaper
+- id: 17445103
+  name: Armoury Crate
+- id: 17445104
+  name: Sahagin's Wyvern
+- id: 17445105
+  name: Qull the Fallstopper
+- id: 17445106
+  name: Rauu the Whaleswooner
+- id: 17445107
+  name: Hyohh the Conchblower
+- id: 17445108
+  name: Pevv the Riverleaper
+- id: 17445109
+  name: Armoury Crate
+- id: 17445110
+  name: Sahagin's Wyvern
+- id: 17445111
+  name: Qull the Fallstopper
+- id: 17445112
+  name: Rauu the Whaleswooner
+- id: 17445113
+  name: Hyohh the Conchblower
+- id: 17445114
+  name: Pevv the Riverleaper
+- id: 17445115
+  name: Armoury Crate
+- id: 17445116
+  name: Sahagin's Wyvern
+- id: 17445117
+  name: Qull the Fallstopper
+- id: 17445118
+  name: Rauu the Whaleswooner
+- id: 17445119
+  name: Hyohh the Conchblower
+- id: 17445120
+  name: Pevv the Riverleaper
+- id: 17445121
+  name: Armoury Crate
+- id: 17445122
+  name: Sahagin's Wyvern
+- id: 17445123
+  name: Qull the Fallstopper
+- id: 17445124
+  name: Rauu the Whaleswooner
+- id: 17445125
+  name: Hyohh the Conchblower
+- id: 17445126
+  name: Pevv the Riverleaper
+- id: 17445127
+  name: Armoury Crate
+- id: 17445128
+  name: Sahagin's Wyvern
+- id: 17445129
+  name: Qull the Fallstopper
+- id: 17445130
+  name: Rauu the Whaleswooner
+- id: 17445131
+  name: Hyohh the Conchblower
+- id: 17445132
+  name: Pevv the Riverleaper
+- id: 17445133
+  name: Armoury Crate
+- id: 17445134
+  name: Sahagin's Wyvern
+- id: 17445135
+  name: Achieve Master
+- id: 17445136
+  name: Unity Master
+- id: 17445141
+  name: ''
+- id: 17445142
+  name: ''
+- id: 17445143
+  name: Mahogany Door
+- id: 17445144
+  name: Mahogany Door
+- id: 17445145
+  name: Mahogany Door
+- id: 17445146
+  name: Mahogany Door
+- id: 17445147
+  name: Mahogany Door
+- id: 17445152
+  name: Grav'iton
+- id: 17445153
+  name: Tonberi01
+- id: 17445154
+  name: Tonberi02
+- id: 17445155
+  name: Eald'narche
+- id: 17445156
+  name: Kam'lanaut
+- id: 17445157
+  name: Yve'noile
+- id: 17445158
+  name: Maiden01
+- id: 17445159
+  name: Maiden02
+- id: 17445160
+  name: Agent01
+- id: 17445161
+  name: Agent02
+- id: 17445162
+  name: Agent03
+- id: 17445163
+  name: Knight01
+- id: 17445164
+  name: Knight02
+- id: 17445165
+  name: Knight03
+- id: 17445166
+  name: Knight04
+- id: 17445167
+  name: Zilart01
+- id: 17445168
+  name: Zilart02
+- id: 17445169
+  name: Zilart03
+- id: 17445170
+  name: Zilart04
+- id: 17445171
+  name: Zilart05
+- id: 17445172
+  name: Zilart06
+- id: 17445173
+  name: Zilart07
+- id: 17445174
+  name: Zilart08
+- id: 17445175
+  name: Zilart09
+- id: 17445176
+  name: Zilart10
+- id: 17445177
+  name: Zilart11
+- id: 17445178
+  name: Zilart12
+- id: 17445179
+  name: Zilart13
+- id: 17445180
+  name: Zilart14
+- id: 17445181
+  name: Zilart15
+- id: 17445182
+  name: Zilart16
+- id: 17445183
+  name: Zilart17
+- id: 17445184
+  name: Zilart18
+- id: 17445185
+  name: Zilart19
+- id: 17445186
+  name: Zilart20
+- id: 17445187
+  name: Zilart21
+- id: 17445188
+  name: Zilart22
+- id: 17445189
+  name: Zilart23
+- id: 17445190
+  name: Zilart24
+- id: 17445191
+  name: Zilart25
+- id: 17445192
+  name: Zilart26
+- id: 17445193
+  name: Zilart27
+- id: 17445194
+  name: Zilart28
+- id: 17445195
+  name: Zilart29
+- id: 17445196
+  name: Zilart30
+- id: 17445197
+  name: Kuluu01
+- id: 17445198
+  name: Kuluu02
+- id: 17445199
+  name: Kuluu03
+- id: 17445200
+  name: Kuluu04
+- id: 17445201
+  name: Kuluu05
+- id: 17445202
+  name: Kuluu06
+- id: 17445203
+  name: Cermet Door
+- id: 17445205
+  name: Moogle
+- id: 17445206
+  name: Moogle
+- id: 17445207
+  name: Moogle
+- id: 17445208
+  name: Moogle
+- id: 17445209
+  name: Moogle
+- id: 17445210
+  name: Moogle
+- id: 17445211
+  name: Moogle
+- id: 17445212
+  name: Moogle
+- id: 17445213
+  name: Ramblix
+- id: 17445214
+  name: Goblin Footprint
+- id: 17445215
+  name: ''
+- id: 17445216
+  name: ???
+- id: 17445217
+  name: ''
+- id: 17445218
+  name: Shantotto
+- id: 17445219
+  name: Shantotto
+- id: 17445220
+  name: Shantotto
+- id: 17445221
+  name: Aldo
+- id: 17445222
+  name: Yoran-Oran
+- id: 17445223
+  name: '1'
+- id: 17445224
+  name: '2'
+- id: 17445225
+  name: '3'
+- id: 17445226
+  name: '4'
+- id: 17445227
+  name: '5'
+- id: 17445228
+  name: '6'
+- id: 17445229
+  name: '7'
+- id: 17445230
+  name: '8'
+- id: 17445231
+  name: '9'
+- id: 17445232
+  name: '10'
+- id: 17445233
+  name: '11'
+- id: 17445234
+  name: '12'
+- id: 17445235
+  name: '13'
+- id: 17445236
+  name: '14'
+- id: 17445237
+  name: '15'
+- id: 17445238
+  name: '16'
+- id: 17445239
+  name: '17'
+- id: 17445240
+  name: '18'
+- id: 17445241
+  name: '19'
+- id: 17445242
+  name: '20'
+- id: 17445243
+  name: ''

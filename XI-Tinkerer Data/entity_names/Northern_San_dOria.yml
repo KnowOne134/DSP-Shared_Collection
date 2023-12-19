@@ -1,0 +1,907 @@
+names:
+- id: 17723393
+  name: Nonterene
+- id: 17723394
+  name: Trion
+- id: 17723395
+  name: Pieuje
+- id: 17723396
+  name: Claidie
+- id: 17723397
+  name: Guilerme
+- id: 17723398
+  name: Bacherume
+- id: 17723399
+  name: Phaviane
+- id: 17723400
+  name: Sochiene
+- id: 17723401
+  name: Ailbeche
+- id: 17723402
+  name: Exoroche
+- id: 17723403
+  name: Elesca
+- id: 17723404
+  name: Miageau
+- id: 17723405
+  name: Nouveil
+- id: 17723406
+  name: Arnau
+- id: 17723407
+  name: Arnau
+- id: 17723408
+  name: Shamonde
+- id: 17723409
+  name: Abioleget
+- id: 17723410
+  name: Fittesegat
+- id: 17723411
+  name: Prerivon
+- id: 17723412
+  name: Maurine
+- id: 17723413
+  name: Malfine
+- id: 17723414
+  name: Pellimie
+- id: 17723415
+  name: Coullene
+- id: 17723416
+  name: Chasalvige
+- id: 17723417
+  name: Halaviabeau
+- id: 17723418
+  name: Olbergieut
+- id: 17723419
+  name: Morjean
+- id: 17723420
+  name: Morjean
+- id: 17723421
+  name: Rahal
+- id: 17723422
+  name: Oiheaurese
+- id: 17723423
+  name: Yachemidot
+- id: 17723424
+  name: Pagisalis
+- id: 17723425
+  name: Daveille
+- id: 17723426
+  name: Grilau
+- id: 17723427
+  name: Cheupirudaux
+- id: 17723428
+  name: Ulycille
+- id: 17723429
+  name: Amarefice
+- id: 17723430
+  name: Ramua
+- id: 17723431
+  name: Cauzeriste
+- id: 17723432
+  name: Chaupire
+- id: 17723433
+  name: Aurege
+- id: 17723434
+  name: Guilberdrier
+- id: 17723435
+  name: Mevreauche
+- id: 17723436
+  name: Greubaque
+- id: 17723437
+  name: Pinok-Morok
+- id: 17723438
+  name: Beadurinc
+- id: 17723439
+  name: Doggomehr
+- id: 17723440
+  name: Lucretia
+- id: 17723441
+  name: Adaggambe
+- id: 17723442
+  name: Miaux
+- id: 17723443
+  name: Ranchuriome
+- id: 17723444
+  name: Brugaire
+- id: 17723445
+  name: ???
+- id: 17723446
+  name: Arlenne
+- id: 17723447
+  name: Tavourine
+- id: 17723448
+  name: Galahad
+- id: 17723449
+  name: Ishwar
+- id: 17723450
+  name: Arienh
+- id: 17723451
+  name: Emilia
+- id: 17723452
+  name: Helaku
+- id: 17723453
+  name: Shakir
+- id: 17723454
+  name: Baraka
+- id: 17723455
+  name: Danngogg
+- id: 17723456
+  name: Lion
+- id: 17723457
+  name: Lion1
+- id: 17723458
+  name: Lion2
+- id: 17723459
+  name: Kasaroro
+- id: 17723460
+  name: Pikiki
+- id: 17723461
+  name: Heruze-Moruze
+- id: 17723462
+  name: Pala Korin
+- id: 17723463
+  name: Lion
+- id: 17723464
+  name: Abeaule
+- id: 17723465
+  name: Boncort
+- id: 17723466
+  name: Montaube
+- id: 17723467
+  name: Madaline
+- id: 17723468
+  name: Telmoda
+- id: 17723469
+  name: Pepigort
+- id: 17723470
+  name: Rodaillece
+- id: 17723471
+  name: Achantere, T.K.
+- id: 17723472
+  name: Gilipese
+- id: 17723473
+  name: Maurinne
+- id: 17723474
+  name: Dapraugeant
+- id: 17723475
+  name: ''
+- id: 17723476
+  name: ''
+- id: 17723477
+  name: ''
+- id: 17723478
+  name: ''
+- id: 17723479
+  name: ''
+- id: 17723480
+  name: ''
+- id: 17723481
+  name: ''
+- id: 17723482
+  name: ''
+- id: 17723483
+  name: ''
+- id: 17723484
+  name: ''
+- id: 17723485
+  name: Justi
+- id: 17723486
+  name: Pirvidiauce
+- id: 17723487
+  name: Vichuel
+- id: 17723488
+  name: Aivedoir
+- id: 17723489
+  name: Capiria
+- id: 17723490
+  name: Bertenont
+- id: 17723491
+  name: Palguevion
+- id: 17723492
+  name: Antonian
+- id: 17723493
+  name: Eugballion
+- id: 17723494
+  name: Anilla
+- id: 17723495
+  name: Matildie
+- id: 17723496
+  name: Belgidiveau
+- id: 17723497
+  name: Attarena
+- id: 17723498
+  name: Millechuca
+- id: 17723499
+  name: Beriphaule
+- id: 17723500
+  name: Gulemont
+- id: 17723501
+  name: Ilgusin
+- id: 17723502
+  name: Pulloie
+- id: 17723503
+  name: Kuu Mohzolhi
+- id: 17723504
+  name: 'Home Point #1'
+- id: 17723505
+  name: 'Home Point #2'
+- id: 17723506
+  name: 'Home Point #3'
+- id: 17723507
+  name: 'Home Point #4'
+- id: 17723508
+  name: 'Home Point #5'
+- id: 17723509
+  name: Letterare
+- id: 17723510
+  name: Mevaloud
+- id: 17723511
+  name: Phairupegiont
+- id: 17723512
+  name: Anieuvansand
+- id: 17723513
+  name: Giaunne
+- id: 17723514
+  name: Narsaude
+- id: 17723515
+  name: Ronpaurege
+- id: 17723516
+  name: Esqualea
+- id: 17723517
+  name: Taurette
+- id: 17723518
+  name: Fantarviont
+- id: 17723519
+  name: Machella
+- id: 17723520
+  name: Vavegallet
+- id: 17723521
+  name: Icoua
+- id: 17723522
+  name: Shomo Pochachilo
+- id: 17723523
+  name: Morunaude
+- id: 17723524
+  name: Calovour
+- id: 17723525
+  name: Dauperiat
+- id: 17723526
+  name: Vamorcote
+- id: 17723527
+  name: Commojourt
+- id: 17723528
+  name: Lotine
+- id: 17723529
+  name: Mulaujeant
+- id: 17723530
+  name: Moogle
+- id: 17723531
+  name: ''
+- id: 17723532
+  name: ???
+- id: 17723533
+  name: ''
+- id: 17723534
+  name: Moogle
+- id: 17723535
+  name: Symphonic Curator
+- id: 17723536
+  name: Door:Carpenters' Guild
+- id: 17723537
+  name: Door:Carpenters' Guild
+- id: 17723538
+  name: Door:Royal Armoury
+- id: 17723539
+  name: Door:Blacksmiths' Guild
+- id: 17723540
+  name: Door:Blacksmiths' Guild
+- id: 17723541
+  name: Door:"Phoenix Perch"
+- id: 17723542
+  name: Door:Justi's Furniture
+- id: 17723543
+  name: Door:Windurstian Consul
+- id: 17723544
+  name: Door:Jeunoan Consul
+- id: 17723545
+  name: Door:Bastokan Consul
+- id: 17723546
+  name: Door:Reliquary
+- id: 17723547
+  name: Door:Manuscript Room
+- id: 17723548
+  name: Door:Papal Chambers
+- id: 17723549
+  name: Door:"Phoenix Perch"
+- id: 17723550
+  name: Villion
+- id: 17723551
+  name: Maloquedil
+- id: 17723552
+  name: Secodiand
+- id: 17723553
+  name: Gaudylox
+- id: 17723554
+  name: Yevgeny, I.M.
+- id: 17723555
+  name: Chapal-Afal, W.W.
+- id: 17723557
+  name: Moogle
+- id: 17723558
+  name: Moogle
+- id: 17723559
+  name: Moogle
+- id: 17723560
+  name: Moogle
+- id: 17723561
+  name: Moogle
+- id: 17723562
+  name: Moogle
+- id: 17723563
+  name: Moogle
+- id: 17723564
+  name: Moogle
+- id: 17723565
+  name: ''
+- id: 17723566
+  name: Eperdur
+- id: 17723567
+  name: Rainemard
+- id: 17723568
+  name: ''
+- id: 17723569
+  name: Curilla
+- id: 17723570
+  name: ''
+- id: 17723571
+  name: ''
+- id: 17723572
+  name: Ferdechiond
+- id: 17723573
+  name: ''
+- id: 17723574
+  name: ''
+- id: 17723575
+  name: ''
+- id: 17723576
+  name: ''
+- id: 17723577
+  name: ''
+- id: 17723578
+  name: ''
+- id: 17723579
+  name: ''
+- id: 17723580
+  name: Milchupain
+- id: 17723581
+  name: Aramaviont
+- id: 17723582
+  name: Destin
+- id: 17723583
+  name: Vilbert
+- id: 17723584
+  name: Zarnei-Hamnei
+- id: 17723585
+  name: Narcheral
+- id: 17723586
+  name: Jeronne
+- id: 17723587
+  name: Arachagnon
+- id: 17723588
+  name: EVENTER
+- id: 17723589
+  name: Rochefogne
+- id: 17723590
+  name: Tedimout
+- id: 17723591
+  name: Charlaimagnat
+- id: 17723592
+  name: Gulmama
+- id: 17723593
+  name: Castilchat
+- id: 17723594
+  name: ???
+- id: 17723595
+  name: Talking Doll
+- id: 17723596
+  name: Carbuncle
+- id: 17723597
+  name: Jeanvirgaud
+- id: 17723598
+  name: Pontaudarme
+- id: 17723599
+  name: Rochefogne
+- id: 17723600
+  name: ''
+- id: 17723601
+  name: Excenmille
+- id: 17723602
+  name: Alphollon C Meriard
+- id: 17723604
+  name: Trick Shadow
+- id: 17723605
+  name: Trick Specter
+- id: 17723606
+  name: Trick Shade
+- id: 17723607
+  name: Trick Ghost
+- id: 17723608
+  name: Trick Spirit
+- id: 17723609
+  name: Trick Phantom
+- id: 17723610
+  name: Trick Skeleton
+- id: 17723611
+  name: Trick Wight
+- id: 17723612
+  name: Trick Bones
+- id: 17723613
+  name: Trick Ghast
+- id: 17723615
+  name: Goblin Merrymaker
+- id: 17723616
+  name: Goblin Merrymaker
+- id: 17723617
+  name: Goblin Merrymaker
+- id: 17723618
+  name: Goblin Merrymaker
+- id: 17723619
+  name: Goblin Merrymaker
+- id: 17723620
+  name: Goblin Merrymaker
+- id: 17723621
+  name: Goblin Merrymaker
+- id: 17723622
+  name: Goblin Merrymaker
+- id: 17723623
+  name: Goblin Merrymaker
+- id: 17723624
+  name: Goblin Merrymaker
+- id: 17723625
+  name: Trick Flan
+- id: 17723626
+  name: Rondipur
+- id: 17723627
+  name: Macuillie
+- id: 17723628
+  name: Andreas
+- id: 17723629
+  name: Emeige A.M.A.N.
+- id: 17723630
+  name: Wolfgang
+- id: 17723631
+  name: Arenuel
+- id: 17723632
+  name: Falreze
+- id: 17723633
+  name: Shantotto
+- id: 17723634
+  name: Ajido-Marujido
+- id: 17723635
+  name: Volker
+- id: 17723636
+  name: Ayame
+- id: 17723637
+  name: Pursuivant
+- id: 17723638
+  name: Wooden Shutter
+- id: 17723639
+  name: Ulmia
+- id: 17723640
+  name: DIRECTOR
+- id: 17723641
+  name: Chasalvige
+- id: 17723642
+  name: Ulmia
+- id: 17723643
+  name: Shikaree X
+- id: 17723644
+  name: Jufaue
+- id: 17723645
+  name: ???
+- id: 17723646
+  name: Albanus
+- id: 17723647
+  name: Ramua
+- id: 17723648
+  name: Explorer Moogle
+- id: 17723649
+  name: mgtest
+- id: 17723650
+  name: Rendezvous Point
+- id: 17723651
+  name: ''
+- id: 17723652
+  name: ???
+- id: 17723653
+  name: ''
+- id: 17723654
+  name: ''
+- id: 17723655
+  name: Taulenne
+- id: 17723656
+  name: Game Table
+- id: 17723657
+  name: Durogg
+- id: 17723658
+  name: Hunt Registry
+- id: 17723659
+  name: Synergy Engineer
+- id: 17723660
+  name: Synergy Engineer
+- id: 17723661
+  name: Synergy Furnace
+- id: 17723662
+  name: Synergy Furnace
+- id: 17723663
+  name: Synergy Furnace
+- id: 17723664
+  name: Synergy Furnace
+- id: 17723665
+  name: Synergy Enthusiast
+- id: 17723666
+  name: ''
+- id: 17723667
+  name: Halver
+- id: 17723668
+  name: Destin
+- id: 17723669
+  name: Porter Moogle
+- id: 17723671
+  name: Voidwatch Purveyor
+- id: 17723672
+  name: Jeanparmand
+- id: 17723673
+  name: Moogle
+- id: 17723674
+  name: Ake
+- id: 17723675
+  name: Ome
+- id: 17723676
+  name: Moogle
+- id: 17723677
+  name: Valentione Single
+- id: 17723678
+  name: Valentione Single
+- id: 17723679
+  name: Valentione Single
+- id: 17723680
+  name: Valentione Single
+- id: 17723681
+  name: ''
+- id: 17723682
+  name: ''
+- id: 17723683
+  name: ''
+- id: 17723684
+  name: ''
+- id: 17723685
+  name: ''
+- id: 17723686
+  name: ''
+- id: 17723687
+  name: ''
+- id: 17723688
+  name: ''
+- id: 17723689
+  name: ''
+- id: 17723690
+  name: ''
+- id: 17723691
+  name: ''
+- id: 17723692
+  name: ''
+- id: 17723693
+  name: ''
+- id: 17723694
+  name: ''
+- id: 17723695
+  name: ''
+- id: 17723696
+  name: ''
+- id: 17723697
+  name: ''
+- id: 17723698
+  name: ''
+- id: 17723699
+  name: ''
+- id: 17723700
+  name: ''
+- id: 17723701
+  name: Moogle
+- id: 17723702
+  name: Moogle
+- id: 17723703
+  name: ''
+- id: 17723704
+  name: ''
+- id: 17723705
+  name: ''
+- id: 17723706
+  name: ''
+- id: 17723707
+  name: ''
+- id: 17723708
+  name: Eggsperiment B
+- id: 17723709
+  name: Eggsperiment U
+- id: 17723710
+  name: Eggsperiment N
+- id: 17723711
+  name: Eggsperiment N
+- id: 17723712
+  name: Eggsperiment Y
+- id: 17723713
+  name: ''
+- id: 17723714
+  name: Moogle
+- id: 17723715
+  name: Moogle
+- id: 17723716
+  name: ''
+- id: 17723717
+  name: ''
+- id: 17723718
+  name: ''
+- id: 17723719
+  name: ''
+- id: 17723720
+  name: Moogle
+- id: 17723721
+  name: Prince Yahiko
+- id: 17723722
+  name: Princess Amdina
+- id: 17723723
+  name: Loaranne
+- id: 17723724
+  name: ''
+- id: 17723725
+  name: ''
+- id: 17723726
+  name: ''
+- id: 17723727
+  name: ''
+- id: 17723728
+  name: ''
+- id: 17723729
+  name: ''
+- id: 17723730
+  name: ''
+- id: 17723731
+  name: ''
+- id: 17723732
+  name: ''
+- id: 17723733
+  name: ''
+- id: 17723734
+  name: ''
+- id: 17723735
+  name: ''
+- id: 17723736
+  name: ''
+- id: 17723737
+  name: ''
+- id: 17723738
+  name: ''
+- id: 17723739
+  name: ''
+- id: 17723740
+  name: ''
+- id: 17723741
+  name: ''
+- id: 17723742
+  name: ''
+- id: 17723743
+  name: ''
+- id: 17723744
+  name: ''
+- id: 17723745
+  name: ''
+- id: 17723746
+  name: ''
+- id: 17723747
+  name: ''
+- id: 17723748
+  name: ''
+- id: 17723749
+  name: ''
+- id: 17723750
+  name: ''
+- id: 17723751
+  name: ''
+- id: 17723752
+  name: ''
+- id: 17723753
+  name: Moogle
+- id: 17723754
+  name: ???
+- id: 17723755
+  name: Mumor
+- id: 17723756
+  name: Uka Totlihn
+- id: 17723757
+  name: Diva
+- id: 17723758
+  name: Ullegore
+- id: 17723759
+  name: ''
+- id: 17723760
+  name: Foudeel
+- id: 17723761
+  name: Bashraf
+- id: 17723762
+  name: Wahboud
+- id: 17723763
+  name: Tango
+- id: 17723764
+  name: Bongo
+- id: 17723765
+  name: Fandango
+- id: 17723766
+  name: Foudeel
+- id: 17723767
+  name: Mumor
+- id: 17723768
+  name: Mumor
+- id: 17723769
+  name: ''
+- id: 17723770
+  name: ''
+- id: 17723771
+  name: Poseaulloie
+- id: 17723772
+  name: Maryse
+- id: 17723773
+  name: Gertrude
+- id: 17723774
+  name: ''
+- id: 17723775
+  name: ''
+- id: 17723776
+  name: ''
+- id: 17723777
+  name: ''
+- id: 17723778
+  name: ''
+- id: 17723779
+  name: Ensemble Maven
+- id: 17723780
+  name: ''
+- id: 17723781
+  name: Fashionista
+- id: 17723782
+  name: Fashionista
+- id: 17723783
+  name: Fashionista
+- id: 17723784
+  name: Charmealaut
+- id: 17723785
+  name: ''
+- id: 17723786
+  name: ''
+- id: 17723787
+  name: ''
+- id: 17723788
+  name: ''
+- id: 17723789
+  name: ''
+- id: 17723790
+  name: ''
+- id: 17723791
+  name: ''
+- id: 17723792
+  name: ''
+- id: 17723793
+  name: ''
+- id: 17723794
+  name: ''
+- id: 17723795
+  name: ''
+- id: 17723796
+  name: ''
+- id: 17723797
+  name: ''
+- id: 17723798
+  name: ''
+- id: 17723799
+  name: ''
+- id: 17723800
+  name: ''
+- id: 17723801
+  name: ''
+- id: 17723802
+  name: ''
+- id: 17723803
+  name: ''
+- id: 17723804
+  name: ''
+- id: 17723805
+  name: ''
+- id: 17723806
+  name: Moogle
+- id: 17723807
+  name: Moogle
+- id: 17723808
+  name: Moogle
+- id: 17723809
+  name: Moogle
+- id: 17723810
+  name: Moogle
+- id: 17723811
+  name: Moogle
+- id: 17723812
+  name: ''
+- id: 17723813
+  name: ''
+- id: 17723814
+  name: Lilisette
+- id: 17723815
+  name: Bertenont
+- id: 17723816
+  name: Bertenont
+- id: 17723817
+  name: Suspicious Elvaan
+- id: 17723818
+  name: Odyssean Passage
+- id: 17723819
+  name: Trisvain
+- id: 17723820
+  name: Excenmille
+- id: 17723821
+  name: Achieve Master
+- id: 17723822
+  name: Survival Guide
+- id: 17723823
+  name: Unity Master
+- id: 17723824
+  name: ''
+- id: 17723825
+  name: Iroha
+- id: 17723826
+  name: Lion
+- id: 17723827
+  name: Zeid
+- id: 17723828
+  name: ''
+- id: 17723829
+  name: Selh'teus
+- id: 17723830
+  name: Selh'teus
+- id: 17723831
+  name: Selh'teus
+- id: 17723832
+  name: Balamor
+- id: 17723833
+  name: ???
+- id: 17723834
+  name: ''
+- id: 17723835
+  name: ''
+- id: 17723836
+  name: Disjoined One
+- id: 17723837
+  name: Disjoined One
+- id: 17723838
+  name: Disjoined One
+- id: 17723839
+  name: Disjoined One
+- id: 17723840
+  name: Disjoined One
+- id: 17723841
+  name: Disjoined One
+- id: 17723842
+  name: Disjoined One
+- id: 17723843
+  name: Disjoined One
+- id: 17723844
+  name: ''
+- id: 17723845
+  name: ''
+- id: 17723846
+  name: Ephemeral Moogle
+- id: 17723847
+  name: Ephemeral Moogle
+- id: 17723848
+  name: Luren
+- id: 17723849
+  name: Ore Guzzler

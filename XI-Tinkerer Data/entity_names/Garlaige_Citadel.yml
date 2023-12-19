@@ -1,0 +1,879 @@
+names:
+- id: 17596417
+  name: Borer Beetle
+- id: 17596418
+  name: Siege Bat
+- id: 17596419
+  name: Siege Bat
+- id: 17596420
+  name: Borer Beetle
+- id: 17596421
+  name: Siege Bat
+- id: 17596422
+  name: Siege Bat
+- id: 17596423
+  name: Siege Bat
+- id: 17596424
+  name: Siege Bat
+- id: 17596425
+  name: Siege Bat
+- id: 17596426
+  name: Wingrats
+- id: 17596427
+  name: Wingrats
+- id: 17596428
+  name: Wingrats
+- id: 17596429
+  name: Wingrats
+- id: 17596430
+  name: Fallen Evacuee
+- id: 17596431
+  name: Fallen Evacuee
+- id: 17596432
+  name: Fallen Evacuee
+- id: 17596433
+  name: Fallen Evacuee
+- id: 17596434
+  name: Borer Beetle
+- id: 17596435
+  name: Siege Bat
+- id: 17596436
+  name: Siege Bat
+- id: 17596437
+  name: Siege Bat
+- id: 17596438
+  name: Siege Bat
+- id: 17596439
+  name: Puroboros
+- id: 17596440
+  name: Oil Spill
+- id: 17596441
+  name: Oil Spill
+- id: 17596442
+  name: Siege Bat
+- id: 17596443
+  name: Wingrats
+- id: 17596444
+  name: Wingrats
+- id: 17596445
+  name: Siege Bat
+- id: 17596446
+  name: Wingrats
+- id: 17596447
+  name: Wingrats
+- id: 17596448
+  name: Wingrats
+- id: 17596449
+  name: Wingrats
+- id: 17596450
+  name: Fallen Evacuee
+- id: 17596451
+  name: Fallen Evacuee
+- id: 17596452
+  name: Siege Bat
+- id: 17596453
+  name: Puroboros
+- id: 17596454
+  name: Clockwork Pod
+- id: 17596455
+  name: Clockwork Pod
+- id: 17596456
+  name: Borer Beetle
+- id: 17596457
+  name: Siege Bat
+- id: 17596458
+  name: Siege Bat
+- id: 17596459
+  name: Borer Beetle
+- id: 17596460
+  name: Siege Bat
+- id: 17596461
+  name: Siege Bat
+- id: 17596462
+  name: Revenant
+- id: 17596463
+  name: Revenant
+- id: 17596464
+  name: Borer Beetle
+- id: 17596465
+  name: Siege Bat
+- id: 17596466
+  name: Siege Bat
+- id: 17596467
+  name: Borer Beetle
+- id: 17596468
+  name: Siege Bat
+- id: 17596469
+  name: Siege Bat
+- id: 17596470
+  name: Citadel Bats
+- id: 17596471
+  name: Citadel Bats
+- id: 17596472
+  name: Citadel Bats
+- id: 17596473
+  name: Citadel Bats
+- id: 17596474
+  name: Citadel Bats
+- id: 17596475
+  name: Demonic Weapon
+- id: 17596476
+  name: Demonic Weapon
+- id: 17596477
+  name: Fallen Soldier
+- id: 17596478
+  name: Fallen Soldier
+- id: 17596479
+  name: Fallen Soldier
+- id: 17596480
+  name: Fallen Soldier
+- id: 17596481
+  name: Bhuta
+- id: 17596482
+  name: Citadel Bats
+- id: 17596483
+  name: Citadel Bats
+- id: 17596484
+  name: Citadel Bats
+- id: 17596485
+  name: Bhuta
+- id: 17596486
+  name: Demonic Weapon
+- id: 17596487
+  name: Demonic Weapon
+- id: 17596488
+  name: Citadel Bats
+- id: 17596489
+  name: Citadel Bats
+- id: 17596490
+  name: Citadel Bats
+- id: 17596491
+  name: Bhuta
+- id: 17596492
+  name: Demonic Weapon
+- id: 17596493
+  name: Demonic Weapon
+- id: 17596494
+  name: Citadel Bats
+- id: 17596495
+  name: Citadel Bats
+- id: 17596496
+  name: Citadel Bats
+- id: 17596497
+  name: Citadel Bats
+- id: 17596498
+  name: Citadel Bats
+- id: 17596499
+  name: Demonic Weapon
+- id: 17596500
+  name: Demonic Weapon
+- id: 17596501
+  name: Fallen Soldier
+- id: 17596502
+  name: Fallen Soldier
+- id: 17596503
+  name: Fallen Soldier
+- id: 17596504
+  name: Fallen Soldier
+- id: 17596505
+  name: Bhuta
+- id: 17596506
+  name: Old Two-Wings
+- id: 17596507
+  name: Skewer Sam
+- id: 17596508
+  name: Funnel Bats
+- id: 17596509
+  name: Funnel Bats
+- id: 17596510
+  name: Fetid Flesh
+- id: 17596511
+  name: Funnel Bats
+- id: 17596512
+  name: Funnel Bats
+- id: 17596513
+  name: Funnel Bats
+- id: 17596514
+  name: Funnel Bats
+- id: 17596515
+  name: Explosure
+- id: 17596516
+  name: Explosure
+- id: 17596517
+  name: Explosure
+- id: 17596518
+  name: Thunder Elemental
+- id: 17596519
+  name: Earth Elemental
+- id: 17596520
+  name: Hazmat
+- id: 17596521
+  name: Droma
+- id: 17596522
+  name: Droma
+- id: 17596523
+  name: Explosure
+- id: 17596524
+  name: Explosure
+- id: 17596525
+  name: Explosure
+- id: 17596526
+  name: Thunder Elemental
+- id: 17596527
+  name: Earth Elemental
+- id: 17596528
+  name: Droma
+- id: 17596529
+  name: Fallen Officer
+- id: 17596530
+  name: Fallen Officer
+- id: 17596531
+  name: Fallen Officer
+- id: 17596532
+  name: Fallen Officer
+- id: 17596533
+  name: Chandelier
+- id: 17596534
+  name: Funnel Bats
+- id: 17596535
+  name: Funnel Bats
+- id: 17596536
+  name: Fetid Flesh
+- id: 17596537
+  name: Funnel Bats
+- id: 17596538
+  name: Acid Grease
+- id: 17596539
+  name: Acid Grease
+- id: 17596540
+  name: Funnel Bats
+- id: 17596541
+  name: Funnel Bats
+- id: 17596542
+  name: Explosure
+- id: 17596543
+  name: Droma
+- id: 17596544
+  name: Droma
+- id: 17596545
+  name: Fallen Officer
+- id: 17596546
+  name: Fallen Officer
+- id: 17596547
+  name: Explosure
+- id: 17596548
+  name: Explosure
+- id: 17596549
+  name: Fallen Officer
+- id: 17596550
+  name: Fallen Officer
+- id: 17596551
+  name: Droma
+- id: 17596552
+  name: Droma
+- id: 17596553
+  name: Funnel Bats
+- id: 17596554
+  name: Acid Grease
+- id: 17596555
+  name: Acid Grease
+- id: 17596556
+  name: Wraith
+- id: 17596557
+  name: Fallen Officer
+- id: 17596558
+  name: Fallen Officer
+- id: 17596559
+  name: Fallen Officer
+- id: 17596560
+  name: Fallen Officer
+- id: 17596561
+  name: Fallen Officer
+- id: 17596562
+  name: Fallen Officer
+- id: 17596563
+  name: Fallen Officer
+- id: 17596564
+  name: Fallen Officer
+- id: 17596565
+  name: Funnel Bats
+- id: 17596566
+  name: Funnel Bats
+- id: 17596567
+  name: Funnel Bats
+- id: 17596568
+  name: Droma
+- id: 17596569
+  name: Droma
+- id: 17596570
+  name: Explosure
+- id: 17596571
+  name: Fallen Officer
+- id: 17596572
+  name: Fallen Officer
+- id: 17596573
+  name: Explosure
+- id: 17596574
+  name: Acid Grease
+- id: 17596575
+  name: Acid Grease
+- id: 17596576
+  name: Explosure
+- id: 17596577
+  name: Fallen Officer
+- id: 17596578
+  name: Fallen Officer
+- id: 17596579
+  name: Explosure
+- id: 17596580
+  name: Droma
+- id: 17596581
+  name: Droma
+- id: 17596582
+  name: Funnel Bats
+- id: 17596583
+  name: Funnel Bats
+- id: 17596584
+  name: Funnel Bats
+- id: 17596585
+  name: Fallen Officer
+- id: 17596586
+  name: Fallen Officer
+- id: 17596587
+  name: Fallen Officer
+- id: 17596588
+  name: Fallen Officer
+- id: 17596589
+  name: Droma
+- id: 17596590
+  name: Chamber Beetle
+- id: 17596591
+  name: Chamber Beetle
+- id: 17596592
+  name: Chamber Beetle
+- id: 17596593
+  name: Chamber Beetle
+- id: 17596594
+  name: Chamber Beetle
+- id: 17596595
+  name: Chamber Beetle
+- id: 17596596
+  name: Chamber Beetle
+- id: 17596597
+  name: Tainted Flesh
+- id: 17596598
+  name: Tainted Flesh
+- id: 17596599
+  name: Frogamander
+- id: 17596600
+  name: Hellmine
+- id: 17596601
+  name: Hellmine
+- id: 17596602
+  name: Hellmine
+- id: 17596603
+  name: Thunder Elemental
+- id: 17596604
+  name: Earth Elemental
+- id: 17596605
+  name: Over Weapon
+- id: 17596606
+  name: Vault Weapon
+- id: 17596607
+  name: Over Weapon
+- id: 17596608
+  name: Vault Weapon
+- id: 17596609
+  name: Chamber Beetle
+- id: 17596610
+  name: Chamber Beetle
+- id: 17596611
+  name: Chamber Beetle
+- id: 17596612
+  name: Chamber Beetle
+- id: 17596613
+  name: Fallen Major
+- id: 17596614
+  name: Fallen Major
+- id: 17596615
+  name: Fallen Mage
+- id: 17596616
+  name: Fallen Mage
+- id: 17596617
+  name: Wraith
+- id: 17596618
+  name: Over Weapon
+- id: 17596619
+  name: Vault Weapon
+- id: 17596620
+  name: Over Weapon
+- id: 17596621
+  name: Vault Weapon
+- id: 17596622
+  name: Wraith
+- id: 17596623
+  name: Fallen Major
+- id: 17596624
+  name: Fallen Major
+- id: 17596625
+  name: Fallen Mage
+- id: 17596626
+  name: Fallen Mage
+- id: 17596627
+  name: Wraith
+- id: 17596628
+  name: Hovering Hotpot
+- id: 17596629
+  name: Citadel Bats
+- id: 17596630
+  name: Citadel Bats
+- id: 17596631
+  name: Citadel Bats
+- id: 17596632
+  name: Citadel Bats
+- id: 17596633
+  name: Citadel Bats
+- id: 17596634
+  name: Citadel Bats
+- id: 17596635
+  name: Over Weapon
+- id: 17596636
+  name: Over Weapon
+- id: 17596637
+  name: Over Weapon
+- id: 17596638
+  name: Vault Weapon
+- id: 17596639
+  name: Vault Weapon
+- id: 17596640
+  name: Vault Weapon
+- id: 17596641
+  name: Tainted Flesh
+- id: 17596642
+  name: Tainted Flesh
+- id: 17596643
+  name: Guardian Statue
+- id: 17596644
+  name: Warden Beetle
+- id: 17596645
+  name: Warden Beetle
+- id: 17596646
+  name: Warden Beetle
+- id: 17596647
+  name: Donjon Bat
+- id: 17596648
+  name: Donjon Bat
+- id: 17596649
+  name: Donjon Bat
+- id: 17596650
+  name: Warden Beetle
+- id: 17596651
+  name: Warden Beetle
+- id: 17596652
+  name: Warden Beetle
+- id: 17596653
+  name: Donjon Bat
+- id: 17596654
+  name: Donjon Bat
+- id: 17596655
+  name: Kaboom
+- id: 17596656
+  name: Warden Beetle
+- id: 17596657
+  name: Warden Beetle
+- id: 17596658
+  name: Warden Beetle
+- id: 17596659
+  name: Donjon Bat
+- id: 17596660
+  name: Kaboom
+- id: 17596661
+  name: Fortalice Bats
+- id: 17596662
+  name: Fortalice Bats
+- id: 17596663
+  name: Fortalice Bats
+- id: 17596664
+  name: Fortalice Bats
+- id: 17596665
+  name: Warden Beetle
+- id: 17596666
+  name: Warden Beetle
+- id: 17596667
+  name: Donjon Bat
+- id: 17596668
+  name: Donjon Bat
+- id: 17596669
+  name: Fortalice Bats
+- id: 17596670
+  name: Fortalice Bats
+- id: 17596671
+  name: Warden Beetle
+- id: 17596672
+  name: Warden Beetle
+- id: 17596673
+  name: Donjon Bat
+- id: 17596674
+  name: Donjon Bat
+- id: 17596675
+  name: Donjon Bat
+- id: 17596676
+  name: Kaboom
+- id: 17596677
+  name: Warden Beetle
+- id: 17596678
+  name: Warden Beetle
+- id: 17596679
+  name: Donjon Bat
+- id: 17596680
+  name: Donjon Bat
+- id: 17596681
+  name: Kaboom
+- id: 17596682
+  name: Fortalice Bats
+- id: 17596683
+  name: Fortalice Bats
+- id: 17596684
+  name: Fortalice Bats
+- id: 17596685
+  name: Fortalice Bats
+- id: 17596686
+  name: Donjon Bat
+- id: 17596687
+  name: Kaboom
+- id: 17596688
+  name: Fortalice Bats
+- id: 17596689
+  name: Fortalice Bats
+- id: 17596690
+  name: Fortalice Bats
+- id: 17596691
+  name: Warden Beetle
+- id: 17596692
+  name: Kaboom
+- id: 17596693
+  name: Fortalice Bats
+- id: 17596694
+  name: Fortalice Bats
+- id: 17596695
+  name: Fortalice Bats
+- id: 17596696
+  name: Warden Beetle
+- id: 17596697
+  name: Warden Beetle
+- id: 17596698
+  name: Kaboom
+- id: 17596699
+  name: Fortalice Bats
+- id: 17596700
+  name: Fortalice Bats
+- id: 17596701
+  name: Donjon Bat
+- id: 17596702
+  name: Donjon Bat
+- id: 17596703
+  name: Kaboom
+- id: 17596704
+  name: Fortalice Bats
+- id: 17596705
+  name: Fortalice Bats
+- id: 17596706
+  name: Donjon Bat
+- id: 17596707
+  name: Kaboom
+- id: 17596708
+  name: Fortalice Bats
+- id: 17596709
+  name: Fortalice Bats
+- id: 17596710
+  name: Fortalice Bats
+- id: 17596711
+  name: Donjon Bat
+- id: 17596712
+  name: Kaboom
+- id: 17596713
+  name: Fortalice Bats
+- id: 17596714
+  name: Fortalice Bats
+- id: 17596715
+  name: Fortalice Bats
+- id: 17596716
+  name: Wraith
+- id: 17596717
+  name: Wraith
+- id: 17596718
+  name: Wraith
+- id: 17596719
+  name: Wraith
+- id: 17596720
+  name: Serket
+- id: 17596721
+  name: Wraith
+- id: 17596722
+  name: Magic Jug
+- id: 17596723
+  name: Magic Jug
+- id: 17596724
+  name: Magic Jug
+- id: 17596725
+  name: Magic Jug
+- id: 17596726
+  name: Hellmine
+- id: 17596727
+  name: Hellmine
+- id: 17596728
+  name: Mimic
+- id: 17596729
+  name: Light Elemental
+- id: 17596730
+  name: Roly-Poly
+- id: 17596731
+  name: Roly-Poly
+- id: 17596732
+  name: Roly-Poly
+- id: 17596733
+  name: Mephitas
+- id: 17596734
+  name: Mephitas
+- id: 17596735
+  name: Mephitas
+- id: 17596738
+  name: Treasure Casket
+- id: 17596739
+  name: Treasure Casket
+- id: 17596740
+  name: Treasure Casket
+- id: 17596741
+  name: Treasure Casket
+- id: 17596742
+  name: Treasure Casket
+- id: 17596743
+  name: Treasure Casket
+- id: 17596744
+  name: Treasure Casket
+- id: 17596745
+  name: Treasure Casket
+- id: 17596746
+  name: Treasure Casket
+- id: 17596747
+  name: Treasure Casket
+- id: 17596748
+  name: Treasure Casket
+- id: 17596749
+  name: Treasure Casket
+- id: 17596750
+  name: Treasure Casket
+- id: 17596751
+  name: Treasure Casket
+- id: 17596752
+  name: Treasure Casket
+- id: 17596753
+  name: Treasure Casket
+- id: 17596754
+  name: Achieve Master
+- id: 17596755
+  name: Unity Master
+- id: 17596760
+  name: Mashira
+- id: 17596761
+  name: 'Banishing Gate #1'
+- id: 17596762
+  name: Switch#1
+- id: 17596763
+  name: Switch#2
+- id: 17596764
+  name: Switch#3
+- id: 17596765
+  name: Switch#4
+- id: 17596766
+  name: Door Lock#1
+- id: 17596767
+  name: Door Lock#2
+- id: 17596768
+  name: Door Lock#3
+- id: 17596769
+  name: Door Lock#4
+- id: 17596770
+  name: 'Banishing Gate #2'
+- id: 17596771
+  name: Switch#1
+- id: 17596772
+  name: Switch#2
+- id: 17596773
+  name: Switch#3
+- id: 17596774
+  name: Switch#4
+- id: 17596775
+  name: Door Lock#1
+- id: 17596776
+  name: Door Lock#2
+- id: 17596777
+  name: Door Lock#3
+- id: 17596778
+  name: Door Lock#4
+- id: 17596779
+  name: 'Banishing Gate #3'
+- id: 17596780
+  name: Switch#1
+- id: 17596781
+  name: Switch#2
+- id: 17596782
+  name: Switch#3
+- id: 17596783
+  name: Switch#4
+- id: 17596784
+  name: Door Lock#1
+- id: 17596785
+  name: Door Lock#2
+- id: 17596786
+  name: Door Lock#3
+- id: 17596787
+  name: Door Lock#4
+- id: 17596788
+  name: Crematory Hatch
+- id: 17596801
+  name: Cermet Door
+- id: 17596802
+  name: Strange Apparatus
+- id: 17596804
+  name: Moogle
+- id: 17596805
+  name: Moogle
+- id: 17596806
+  name: Moogle
+- id: 17596807
+  name: Moogle
+- id: 17596808
+  name: Moogle
+- id: 17596809
+  name: Moogle
+- id: 17596810
+  name: Moogle
+- id: 17596811
+  name: Moogle
+- id: 17596812
+  name: Treasure Chest
+- id: 17596813
+  name: Treasure Coffer
+- id: 17596814
+  name: ???
+- id: 17596815
+  name: Oaken Box
+- id: 17596816
+  name: Rainemard
+- id: 17596817
+  name: ???
+- id: 17596818
+  name: ???
+- id: 17596819
+  name: ???
+- id: 17596820
+  name: ???
+- id: 17596821
+  name: ???
+- id: 17596822
+  name: ???
+- id: 17596823
+  name: ???
+- id: 17596824
+  name: ???
+- id: 17596825
+  name: ???
+- id: 17596826
+  name: ???
+- id: 17596827
+  name: ???
+- id: 17596828
+  name: ???
+- id: 17596829
+  name: ???
+- id: 17596830
+  name: ???
+- id: 17596831
+  name: ???
+- id: 17596832
+  name: ''
+- id: 17596834
+  name: Wanzo-Unzozo
+- id: 17596835
+  name: Ramblix
+- id: 17596836
+  name: Goblin Footprint
+- id: 17596837
+  name: ''
+- id: 17596838
+  name: ''
+- id: 17596839
+  name: Lycopodium
+- id: 17596840
+  name: ???
+- id: 17596841
+  name: ???
+- id: 17596842
+  name: ???
+- id: 17596843
+  name: ???
+- id: 17596844
+  name: GoalPoint
+- id: 17596845
+  name: GoalPoint
+- id: 17596846
+  name: GoalPoint
+- id: 17596847
+  name: GoalPoint
+- id: 17596848
+  name: GoalPoint
+- id: 17596849
+  name: GoalPoint
+- id: 17596850
+  name: Moogle
+- id: 17596851
+  name: Moogle
+- id: 17596852
+  name: Moogle
+- id: 17596853
+  name: Moogle
+- id: 17596854
+  name: Moogle
+- id: 17596855
+  name: Moogle
+- id: 17596856
+  name: Grounds Tome
+- id: 17596857
+  name: Grounds Tome
+- id: 17596858
+  name: Grounds Tome
+- id: 17596859
+  name: Planar Rift
+- id: 17596860
+  name: Planar Rift
+- id: 17596861
+  name: Planar Rift
+- id: 17596862
+  name: Riftworn Pyxis
+- id: 17596863
+  name: Riftworn Pyxis
+- id: 17596864
+  name: Riftworn Pyxis
+- id: 17596865
+  name: Geomagnetic Fount
+- id: 17596866
+  name: Geomantic Reservoir
+- id: 17596869
+  name: ''
+- id: 17596870
+  name: ''
+- id: 17596871
+  name: ''
+- id: 17596872
+  name: ''
+- id: 17596873
+  name: Hazy Rune
+- id: 17596874
+  name: Survival Guide
+- id: 17596875
+  name: Ethereal Junction
+- id: 17596876
+  name: Ethereal Junction
+- id: 17596877
+  name: Ethereal Junction

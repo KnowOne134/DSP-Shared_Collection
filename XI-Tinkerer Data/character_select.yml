@@ -1,0 +1,27 @@
+lists:
+  0:
+  - string: World
+  1:
+  - string: Race
+  2:
+  - string: Job
+  3:
+  - string: Level
+  4:
+  - string: Area
+  5:
+  - string: 'Face %c '
+  6:
+  - string: 'Hair %s '
+  7:
+  - string: 'Size %s '
+  8:
+  - string: S
+  9:
+  - string: M
+  10:
+  - string: L
+  11:
+  - string: A
+  12:
+  - string: B

@@ -1,0 +1,61 @@
+lists:
+  0:
+  - string: fine patches
+  - string: fine
+  1:
+  - string: sunshine
+  - string: sunny
+  2:
+  - string: clouds
+  - string: cloudy
+  3:
+  - string: fog
+  - string: foggy
+  4:
+  - string: hot spells
+  - string: hot
+  5:
+  - string: heat waves
+  - string: blistering
+  6:
+  - string: rain
+  - string: rainy
+  7:
+  - string: squalls
+  - string: squally
+  8:
+  - string: dust storms
+  - string: dusty
+  9:
+  - string: sand storms
+  - string: sand storms
+  10:
+  - string: winds
+  - string: windy
+  11:
+  - string: gales
+  - string: gales
+  12:
+  - string: snow
+  - string: snowy
+  13:
+  - string: blizzards
+  - string: blizzardy
+  14:
+  - string: thunder
+  - string: thundery
+  15:
+  - string: thunderstorms
+  - string: thunderstorms
+  16:
+  - string: auroras
+  - string: auroras
+  17:
+  - string: stellar glare
+  - string: stellar glare
+  18:
+  - string: gloom
+  - string: gloomy
+  19:
+  - string: darkness
+  - string: dark

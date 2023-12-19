@@ -1,0 +1,775 @@
+names:
+- id: 17235969
+  name: Lost Soul
+- id: 17235970
+  name: Lost Soul
+- id: 17235971
+  name: Lost Soul
+- id: 17235972
+  name: Lost Soul
+- id: 17235973
+  name: Lost Soul
+- id: 17235974
+  name: Lost Soul
+- id: 17235975
+  name: Lost Soul
+- id: 17235976
+  name: Lost Soul
+- id: 17235977
+  name: Lost Soul
+- id: 17235978
+  name: Lost Soul
+- id: 17235979
+  name: Lost Soul
+- id: 17235980
+  name: Lost Soul
+- id: 17235981
+  name: Lost Soul
+- id: 17235982
+  name: Lost Soul
+- id: 17235983
+  name: Etemmu
+- id: 17235984
+  name: Etemmu
+- id: 17235985
+  name: Evil Eye
+- id: 17235986
+  name: Evil Eye
+- id: 17235987
+  name: Shadow Dragon
+- id: 17235988
+  name: Biast
+- id: 17235989
+  name: Ice Elemental
+- id: 17235990
+  name: Cursed Weapon
+- id: 17235991
+  name: Cursed Weapon
+- id: 17235992
+  name: Cursed Weapon
+- id: 17235993
+  name: Cursed Weapon
+- id: 17235994
+  name: Etemmu
+- id: 17235995
+  name: Etemmu
+- id: 17235996
+  name: Dark Elemental
+- id: 17235997
+  name: Lost Soul
+- id: 17235998
+  name: Lost Soul
+- id: 17235999
+  name: Lost Soul
+- id: 17236000
+  name: Lost Soul
+- id: 17236001
+  name: Evil Eye
+- id: 17236002
+  name: Evil Eye
+- id: 17236003
+  name: Ice Elemental
+- id: 17236004
+  name: Cursed Weapon
+- id: 17236005
+  name: Cursed Weapon
+- id: 17236006
+  name: Lost Soul
+- id: 17236007
+  name: Lost Soul
+- id: 17236008
+  name: Lost Soul
+- id: 17236009
+  name: Lost Soul
+- id: 17236010
+  name: Etemmu
+- id: 17236011
+  name: Etemmu
+- id: 17236012
+  name: Evil Eye
+- id: 17236013
+  name: Evil Eye
+- id: 17236014
+  name: Ice Elemental
+- id: 17236015
+  name: Demon Pawn
+- id: 17236016
+  name: Lost Soul
+- id: 17236017
+  name: Lost Soul
+- id: 17236018
+  name: Lost Soul
+- id: 17236019
+  name: Lost Soul
+- id: 17236020
+  name: Etemmu
+- id: 17236021
+  name: Etemmu
+- id: 17236022
+  name: Evil Eye
+- id: 17236023
+  name: Evil Eye
+- id: 17236024
+  name: Ice Elemental
+- id: 17236025
+  name: Cursed Weapon
+- id: 17236026
+  name: Cursed Weapon
+- id: 17236027
+  name: Barbaric Weapon
+- id: 17236028
+  name: Lost Soul
+- id: 17236029
+  name: Lost Soul
+- id: 17236030
+  name: Lost Soul
+- id: 17236031
+  name: Lost Soul
+- id: 17236032
+  name: Etemmu
+- id: 17236033
+  name: Etemmu
+- id: 17236034
+  name: Evil Eye
+- id: 17236035
+  name: Evil Eye
+- id: 17236036
+  name: Ice Elemental
+- id: 17236037
+  name: Demon Pawn
+- id: 17236038
+  name: Demon Pawn
+- id: 17236039
+  name: Demon Pawn
+- id: 17236040
+  name: Demon Pawn
+- id: 17236041
+  name: Lost Soul
+- id: 17236042
+  name: Lost Soul
+- id: 17236043
+  name: Lost Soul
+- id: 17236044
+  name: Lost Soul
+- id: 17236045
+  name: Timeworn Warrior
+- id: 17236046
+  name: Lost Soul
+- id: 17236047
+  name: Lost Soul
+- id: 17236048
+  name: Lost Soul
+- id: 17236049
+  name: Lost Soul
+- id: 17236050
+  name: Etemmu
+- id: 17236051
+  name: Etemmu
+- id: 17236052
+  name: Etemmu
+- id: 17236053
+  name: Dark Elemental
+- id: 17236054
+  name: Lost Soul
+- id: 17236055
+  name: Lost Soul
+- id: 17236056
+  name: Lost Soul
+- id: 17236057
+  name: Lost Soul
+- id: 17236058
+  name: Etemmu
+- id: 17236059
+  name: Ereshkigal
+- id: 17236060
+  name: Evil Eye
+- id: 17236061
+  name: Evil Eye
+- id: 17236062
+  name: Ice Elemental
+- id: 17236063
+  name: Blizzard Gigas
+- id: 17236064
+  name: Graupel Gigas
+- id: 17236065
+  name: Frost Gigas
+- id: 17236066
+  name: Gigas's Tiger
+- id: 17236067
+  name: Hail Gigas
+- id: 17236068
+  name: Blizzard Gigas
+- id: 17236069
+  name: Graupel Gigas
+- id: 17236070
+  name: Frost Gigas
+- id: 17236071
+  name: Gigas's Tiger
+- id: 17236072
+  name: Hail Gigas
+- id: 17236073
+  name: Evil Eye
+- id: 17236074
+  name: Evil Eye
+- id: 17236075
+  name: Ice Elemental
+- id: 17236076
+  name: Blizzard Gigas
+- id: 17236077
+  name: Graupel Gigas
+- id: 17236078
+  name: Frost Gigas
+- id: 17236079
+  name: Gigas's Tiger
+- id: 17236080
+  name: Hail Gigas
+- id: 17236081
+  name: Blizzard Gigas
+- id: 17236082
+  name: Graupel Gigas
+- id: 17236083
+  name: Frost Gigas
+- id: 17236084
+  name: Gigas's Tiger
+- id: 17236085
+  name: Hail Gigas
+- id: 17236086
+  name: Evil Eye
+- id: 17236087
+  name: Evil Eye
+- id: 17236088
+  name: Ice Elemental
+- id: 17236089
+  name: Blizzard Gigas
+- id: 17236090
+  name: Graupel Gigas
+- id: 17236091
+  name: Frost Gigas
+- id: 17236092
+  name: Gigas's Tiger
+- id: 17236093
+  name: Hail Gigas
+- id: 17236094
+  name: Dark Elemental
+- id: 17236095
+  name: Blizzard Gigas
+- id: 17236096
+  name: Graupel Gigas
+- id: 17236097
+  name: Frost Gigas
+- id: 17236098
+  name: Gigas's Tiger
+- id: 17236099
+  name: Hail Gigas
+- id: 17236100
+  name: Blizzard Gigas
+- id: 17236101
+  name: Graupel Gigas
+- id: 17236102
+  name: Frost Gigas
+- id: 17236103
+  name: Gigas's Tiger
+- id: 17236104
+  name: Hail Gigas
+- id: 17236105
+  name: Dark Elemental
+- id: 17236106
+  name: Blizzard Gigas
+- id: 17236107
+  name: Graupel Gigas
+- id: 17236108
+  name: Frost Gigas
+- id: 17236109
+  name: Gigas's Tiger
+- id: 17236110
+  name: Hail Gigas
+- id: 17236111
+  name: Evil Eye
+- id: 17236112
+  name: Evil Eye
+- id: 17236113
+  name: Lost Soul
+- id: 17236114
+  name: Lost Soul
+- id: 17236115
+  name: Evil Eye
+- id: 17236116
+  name: Demon Pawn
+- id: 17236117
+  name: Demon Wizard
+- id: 17236118
+  name: Demon Knight
+- id: 17236119
+  name: Demon Pawn
+- id: 17236120
+  name: Demon Wizard
+- id: 17236121
+  name: Demon Knight
+- id: 17236122
+  name: Evil Eye
+- id: 17236123
+  name: Evil Eye
+- id: 17236124
+  name: Ice Elemental
+- id: 17236125
+  name: Demon Pawn
+- id: 17236126
+  name: Demon Wizard
+- id: 17236127
+  name: Demon Knight
+- id: 17236128
+  name: Dark Elemental
+- id: 17236129
+  name: Demon Pawn
+- id: 17236130
+  name: Demon Wizard
+- id: 17236131
+  name: Demon Knight
+- id: 17236132
+  name: Demon Pawn
+- id: 17236133
+  name: Demon Wizard
+- id: 17236134
+  name: Demon Knight
+- id: 17236135
+  name: Evil Eye
+- id: 17236136
+  name: Evil Eye
+- id: 17236137
+  name: Ice Elemental
+- id: 17236138
+  name: Demon Pawn
+- id: 17236139
+  name: Demon Wizard
+- id: 17236140
+  name: Demon Knight
+- id: 17236141
+  name: Demon Pawn
+- id: 17236142
+  name: Demon Wizard
+- id: 17236143
+  name: Demon Knight
+- id: 17236144
+  name: Evil Eye
+- id: 17236145
+  name: Evil Eye
+- id: 17236146
+  name: Duke Focalor
+- id: 17236147
+  name: Demon Pawn
+- id: 17236148
+  name: Demon Pawn
+- id: 17236149
+  name: Evil Eye
+- id: 17236150
+  name: Demon Pawn
+- id: 17236151
+  name: Demon Knight
+- id: 17236152
+  name: Demon Pawn
+- id: 17236153
+  name: Demon Wizard
+- id: 17236154
+  name: Demon Knight
+- id: 17236155
+  name: Demon Warlock
+- id: 17236156
+  name: Demon's Elemental
+- id: 17236157
+  name: Demon Wizard
+- id: 17236158
+  name: Demon Knight
+- id: 17236159
+  name: Demon Warlock
+- id: 17236160
+  name: Demon's Elemental
+- id: 17236161
+  name: Lost Soul
+- id: 17236162
+  name: Lost Soul
+- id: 17236163
+  name: Lost Soul
+- id: 17236164
+  name: Lost Soul
+- id: 17236165
+  name: Lost Soul
+- id: 17236166
+  name: Lost Soul
+- id: 17236167
+  name: Lost Soul
+- id: 17236168
+  name: Lost Soul
+- id: 17236169
+  name: Lost Soul
+- id: 17236170
+  name: Lost Soul
+- id: 17236171
+  name: Etemmu
+- id: 17236172
+  name: Etemmu
+- id: 17236173
+  name: Etemmu
+- id: 17236174
+  name: Evil Eye
+- id: 17236175
+  name: Evil Eye
+- id: 17236176
+  name: Evil Eye
+- id: 17236177
+  name: Evil Eye
+- id: 17236178
+  name: Evil Eye
+- id: 17236179
+  name: Evil Eye
+- id: 17236180
+  name: Shadow Eye
+- id: 17236181
+  name: Demon Pawn
+- id: 17236182
+  name: Demon Pawn
+- id: 17236183
+  name: Demon Wizard
+- id: 17236184
+  name: Demon Pawn
+- id: 17236185
+  name: Demon Knight
+- id: 17236186
+  name: Demon Pawn
+- id: 17236187
+  name: Demon Pawn
+- id: 17236188
+  name: Demon Pawn
+- id: 17236189
+  name: Demon Wizard
+- id: 17236190
+  name: Demon Pawn
+- id: 17236191
+  name: Demon Pawn
+- id: 17236192
+  name: Demon Knight
+- id: 17236193
+  name: Demon Pawn
+- id: 17236194
+  name: Demon Wizard
+- id: 17236195
+  name: Demon Knight
+- id: 17236196
+  name: Evil Eye
+- id: 17236197
+  name: Demon Wizard
+- id: 17236198
+  name: Demon Knight
+- id: 17236199
+  name: Demon Wizard
+- id: 17236200
+  name: Demon Knight
+- id: 17236201
+  name: Chaos Elemental
+- id: 17236202
+  name: Boreal Hound
+- id: 17236203
+  name: Boreal Coeurl
+- id: 17236204
+  name: Boreal Tiger
+- id: 17236205
+  name: Koenigstiger
+- id: 17236206
+  name: Hobgoblin Warrior
+- id: 17236207
+  name: Hobgoblin White Mage
+- id: 17236208
+  name: Hobgoblin Black Mage
+- id: 17236209
+  name: Hobgoblin Red Mage
+- id: 17236210
+  name: Hobgoblin Thief
+- id: 17236211
+  name: Hobgoblin Dark Knight
+- id: 17236212
+  name: Hobgoblin Ranger
+- id: 17236213
+  name: Hobgoblin Beastmaster
+- id: 17236214
+  name: Goblin's Tiger
+- id: 17236215
+  name: Gigas Warrior
+- id: 17236216
+  name: Gigas Monk
+- id: 17236217
+  name: Gigas Beastmaster
+- id: 17236218
+  name: Gigas Ranger
+- id: 17236219
+  name: Gigas's Tiger
+- id: 17236220
+  name: Demon Wizard
+- id: 17236221
+  name: Demon Wizard
+- id: 17236222
+  name: Demon Knight
+- id: 17236223
+  name: Demon Knight
+- id: 17236224
+  name: Demon Wizard
+- id: 17236225
+  name: Demon Wizard
+- id: 17236226
+  name: Demon Knight
+- id: 17236227
+  name: Demon Knight
+- id: 17236228
+  name: Demon Aristocrat
+- id: 17236229
+  name: Kulili
+- id: 17236230
+  name: Yilbegan
+- id: 17236231
+  name: Lord Ruthven
+- id: 17236232
+  name: Feuerunke
+- id: 17236233
+  name: Erebus
+- id: 17236234
+  name: Gjenganger
+- id: 17236235
+  name: Gjenganger
+- id: 17236236
+  name: Gjenganger
+- id: 17236237
+  name: Gjenganger
+- id: 17236238
+  name: Gorehound
+- id: 17236239
+  name: Gorehound
+- id: 17236240
+  name: Gorehound
+- id: 17236241
+  name: Gorehound
+- id: 17236242
+  name: Beist
+- id: 17236243
+  name: Beist
+- id: 17236244
+  name: Beist
+- id: 17236245
+  name: Rousing Raaz
+- id: 17236246
+  name: Rapturous Raaz
+- id: 17236247
+  name: Rhapsodic Raaz
+- id: 17236248
+  name: Beastmaster
+- id: 17236254
+  name: Treasure Casket
+- id: 17236255
+  name: Treasure Casket
+- id: 17236256
+  name: Treasure Casket
+- id: 17236257
+  name: Treasure Casket
+- id: 17236258
+  name: Treasure Casket
+- id: 17236259
+  name: Treasure Casket
+- id: 17236260
+  name: Treasure Casket
+- id: 17236261
+  name: Treasure Casket
+- id: 17236262
+  name: Treasure Casket
+- id: 17236263
+  name: Treasure Casket
+- id: 17236264
+  name: Treasure Casket
+- id: 17236265
+  name: Treasure Casket
+- id: 17236266
+  name: Treasure Casket
+- id: 17236267
+  name: Treasure Casket
+- id: 17236268
+  name: Treasure Casket
+- id: 17236269
+  name: Treasure Casket
+- id: 17236270
+  name: Treasure Coffer
+- id: 17236271
+  name: Achieve Master
+- id: 17236272
+  name: Unity Master
+- id: 17236278
+  name: ???
+- id: 17236279
+  name: DEBUG BOSS BREAKER
+- id: 17236281
+  name: Moogle
+- id: 17236282
+  name: Moogle
+- id: 17236283
+  name: Moogle
+- id: 17236284
+  name: Moogle
+- id: 17236285
+  name: Moogle
+- id: 17236286
+  name: Moogle
+- id: 17236287
+  name: Moogle
+- id: 17236288
+  name: Moogle
+- id: 17236289
+  name: Jeantelas, R.K.
+- id: 17236290
+  name: Kaya, I.M.
+- id: 17236291
+  name: Magumo-Yagimo, W.W.
+- id: 17236292
+  name: ''
+- id: 17236293
+  name: ''
+- id: 17236294
+  name: ''
+- id: 17236295
+  name: ''
+- id: 17236296
+  name: Pilcha, R.K.
+- id: 17236297
+  name: Heavy Bear, I.M.
+- id: 17236298
+  name: Tememe, W.W.
+- id: 17236299
+  name: Pelogrant
+- id: 17236300
+  name: ''
+- id: 17236301
+  name: ''
+- id: 17236302
+  name: ''
+- id: 17236303
+  name: ''
+- id: 17236304
+  name: Telepoint
+- id: 17236305
+  name: Dimensional Portal
+- id: 17236306
+  name: Shattered Telepoint
+- id: 17236307
+  name: ???
+- id: 17236308
+  name: ???
+- id: 17236309
+  name: ???
+- id: 17236310
+  name: Perennial Snow
+- id: 17236311
+  name: ???
+- id: 17236312
+  name: ???
+- id: 17236313
+  name: Semih Lafihna
+- id: 17236314
+  name: Syu Befrathi
+- id: 17236315
+  name: Yow Rabntah
+- id: 17236316
+  name: TIGER
+- id: 17236317
+  name: ???
+- id: 17236318
+  name: DEBUG_SWITCH
+- id: 17236319
+  name: EFFECTER
+- id: 17236320
+  name: Carbuncle
+- id: 17236321
+  name: Talking Doll
+- id: 17236322
+  name: Beastmen's Banner
+- id: 17236323
+  name: Ramblix
+- id: 17236324
+  name: Goblin Footprint
+- id: 17236325
+  name: ''
+- id: 17236326
+  name: Raogrimm
+- id: 17236327
+  name: ''
+- id: 17236328
+  name: Trail Markings
+- id: 17236329
+  name: Ulrich
+- id: 17236330
+  name: Francmage
+- id: 17236331
+  name: Iru-Kuiru
+- id: 17236332
+  name: Yow Rabntah
+- id: 17236333
+  name: Cornelia
+- id: 17236334
+  name: ''
+- id: 17236335
+  name: Raogrimm
+- id: 17236336
+  name: ???
+- id: 17236337
+  name: Diabolos
+- id: 17236338
+  name: Diabolos
+- id: 17236339
+  name: Diabolos
+- id: 17236341
+  name: Luck Rune
+- id: 17236342
+  name: Cavernous Maw
+- id: 17236343
+  name: ???
+- id: 17236344
+  name: ''
+- id: 17236345
+  name: ''
+- id: 17236346
+  name: Schultz
+- id: 17236347
+  name: ''
+- id: 17236348
+  name: Indescript Markings
+- id: 17236349
+  name: Field Manual
+- id: 17236350
+  name: Field Manual
+- id: 17236351
+  name: Field Parchment
+- id: 17236352
+  name: Ethereal Junction
+- id: 17236353
+  name: Ethereal Junction
+- id: 17236354
+  name: Ethereal Junction
+- id: 17236355
+  name: Mogball-Local
+- id: 17236356
+  name: Mog-Tablet
+- id: 17236357
+  name: Stooge Moogle
+- id: 17236358
+  name: Option One
+- id: 17236359
+  name: Option Two
+- id: 17236360
+  name: Option Three
+- id: 17236361
+  name: Summoner
+- id: 17236362
+  name: Summoner
+- id: 17236363
+  name: ''
+- id: 17236364
+  name: Alberic
+- id: 17236365
+  name: ''
+- id: 17236366
+  name: Geomantic Reservoir
+- id: 17236369
+  name: Survival Guide

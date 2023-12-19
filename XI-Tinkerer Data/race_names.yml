@@ -1,0 +1,19 @@
+lists:
+  0:
+  - string: Hume Male
+  1:
+  - string: Hume Female
+  2:
+  - string: Elvaan Male
+  3:
+  - string: Elvaan Female
+  4:
+  - string: Tarutaru Male
+  5:
+  - string: Tarutaru Female
+  6:
+  - string: Mithra Female
+  7:
+  - string: Galka Male
+  8:
+  - string: Unknown

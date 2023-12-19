@@ -1,0 +1,595 @@
+names:
+- id: 17006593
+  name: Excaliace
+- id: 17006594
+  name: Arrapago Crab
+- id: 17006595
+  name: Arrapago Crab
+- id: 17006596
+  name: Arrapago Crab
+- id: 17006597
+  name: Arrapago Crab
+- id: 17006598
+  name: Arrapago Crab
+- id: 17006599
+  name: Arrapago Crab
+- id: 17006600
+  name: Arrapago Crab
+- id: 17006601
+  name: Arrapago Crab
+- id: 17006602
+  name: Arrapago Crab
+- id: 17006603
+  name: Debaucher
+- id: 17006604
+  name: Periqia Pugil
+- id: 17006605
+  name: Periqia Pugil
+- id: 17006606
+  name: Periqia Pugil
+- id: 17006607
+  name: Periqia Pugil
+- id: 17006608
+  name: Periqia Pugil
+- id: 17006609
+  name: Periqia Pugil
+- id: 17006610
+  name: Debaucher
+- id: 17006611
+  name: Debaucher
+- id: 17006612
+  name: Putrid Immortal Guard
+- id: 17006613
+  name: Putrid Immortal Guard
+- id: 17006614
+  name: Batteilant Bhoot
+- id: 17006615
+  name: Batteilant Bhoot
+- id: 17006616
+  name: Darkling Draugar
+- id: 17006617
+  name: Draconic Draugar
+- id: 17006618
+  name: Draugar's Wyvern
+- id: 17006619
+  name: Darkling Draugar
+- id: 17006620
+  name: Darkling Draugar
+- id: 17006621
+  name: Draconic Draugar
+- id: 17006622
+  name: Draugar's Wyvern
+- id: 17006623
+  name: Draconic Draugar
+- id: 17006624
+  name: Draugar's Wyvern
+- id: 17006625
+  name: Batteilant Bhoot
+- id: 17006626
+  name: Batteilant Bhoot
+- id: 17006627
+  name: Darkling Draugar
+- id: 17006628
+  name: Draconic Draugar
+- id: 17006629
+  name: Draugar's Wyvern
+- id: 17006630
+  name: Darkling Draugar
+- id: 17006631
+  name: Draconic Draugar
+- id: 17006632
+  name: Draugar's Wyvern
+- id: 17006633
+  name: Darkling Draugar
+- id: 17006634
+  name: Darkling Draugar
+- id: 17006635
+  name: Cursed Chigoe
+- id: 17006636
+  name: Cursed Chigoe
+- id: 17006637
+  name: Cursed Chigoe
+- id: 17006638
+  name: Cursed Chigoe
+- id: 17006639
+  name: Cursed Chigoe
+- id: 17006640
+  name: Cursed Chigoe
+- id: 17006641
+  name: Cursed Chigoe
+- id: 17006642
+  name: Cursed Chigoe
+- id: 17006643
+  name: Cursed Chigoe
+- id: 17006644
+  name: Cursed Chigoe
+- id: 17006645
+  name: Cursed Chigoe
+- id: 17006646
+  name: Cursed Chigoe
+- id: 17006647
+  name: Cursed Chigoe
+- id: 17006648
+  name: Cursed Chigoe
+- id: 17006649
+  name: Cursed Chigoe
+- id: 17006650
+  name: Experimental Undead
+- id: 17006651
+  name: Experimental Undead
+- id: 17006652
+  name: Experimental Undead
+- id: 17006653
+  name: Experimental Undead
+- id: 17006654
+  name: Experimental Undead
+- id: 17006655
+  name: Experimental Undead
+- id: 17006656
+  name: Experimental Undead
+- id: 17006657
+  name: Experimental Undead
+- id: 17006658
+  name: Black Baron
+- id: 17006659
+  name: Periqia Pugil
+- id: 17006660
+  name: Periqia Pugil
+- id: 17006661
+  name: Periqia Pugil
+- id: 17006662
+  name: Periqia Pugil
+- id: 17006663
+  name: Periqia Pugil
+- id: 17006664
+  name: Lamia Necromancer
+- id: 17006665
+  name: Lamia Toxophilite
+- id: 17006666
+  name: Lamia Chaukidar
+- id: 17006667
+  name: Lamia Fatedealer
+- id: 17006668
+  name: Lamia Necromancer
+- id: 17006669
+  name: Lamia Toxophilite
+- id: 17006670
+  name: Lamia Chaukidar
+- id: 17006671
+  name: Lamia Fatedealer
+- id: 17006672
+  name: Lamia Necromancer
+- id: 17006673
+  name: Lamia Toxophilite
+- id: 17006674
+  name: Lamia Chaukidar
+- id: 17006675
+  name: Lamia Fatedealer
+- id: 17006676
+  name: Lamia Necromancer
+- id: 17006677
+  name: Lamia Toxophilite
+- id: 17006678
+  name: Lamia Chaukidar
+- id: 17006679
+  name: Chigoe Breeder
+- id: 17006680
+  name: Chigoe Breeder
+- id: 17006681
+  name: Chigoe Breeder
+- id: 17006682
+  name: Augmented Chigoe
+- id: 17006683
+  name: Augmented Chigoe
+- id: 17006684
+  name: Augmented Chigoe
+- id: 17006685
+  name: Augmented Chigoe
+- id: 17006686
+  name: Augmented Chigoe
+- id: 17006687
+  name: Augmented Chigoe
+- id: 17006688
+  name: Augmented Chigoe
+- id: 17006689
+  name: Augmented Chigoe
+- id: 17006690
+  name: Augmented Chigoe
+- id: 17006691
+  name: Augmented Chigoe
+- id: 17006692
+  name: Augmented Chigoe
+- id: 17006693
+  name: Augmented Chigoe
+- id: 17006694
+  name: Augmented Chigoe
+- id: 17006695
+  name: Augmented Chigoe
+- id: 17006696
+  name: Augmented Chigoe
+- id: 17006697
+  name: Augmented Chigoe
+- id: 17006698
+  name: Augmented Chigoe
+- id: 17006699
+  name: Augmented Chigoe
+- id: 17006700
+  name: Augmented Chigoe
+- id: 17006701
+  name: Augmented Chigoe
+- id: 17006702
+  name: Augmented Chigoe
+- id: 17006703
+  name: Augmented Chigoe
+- id: 17006704
+  name: Augmented Chigoe
+- id: 17006705
+  name: Augmented Chigoe
+- id: 17006706
+  name: Augmented Chigoe
+- id: 17006707
+  name: Augmented Chigoe
+- id: 17006708
+  name: Augmented Chigoe
+- id: 17006709
+  name: Augmented Chigoe
+- id: 17006710
+  name: Augmented Chigoe
+- id: 17006711
+  name: Augmented Chigoe
+- id: 17006712
+  name: Augmented Chigoe
+- id: 17006713
+  name: Augmented Chigoe
+- id: 17006714
+  name: Augmented Chigoe
+- id: 17006715
+  name: Augmented Chigoe
+- id: 17006716
+  name: Augmented Chigoe
+- id: 17006717
+  name: Qiqirn Mine
+- id: 17006718
+  name: Qiqirn Mine
+- id: 17006719
+  name: Qiqirn Mine
+- id: 17006720
+  name: Qiqirn Mine
+- id: 17006721
+  name: Qiqirn Mine
+- id: 17006722
+  name: Qiqirn Mine
+- id: 17006723
+  name: Qiqirn Mine
+- id: 17006724
+  name: Qiqirn Mine
+- id: 17006725
+  name: Qiqirn Mine
+- id: 17006726
+  name: Qiqirn Mine
+- id: 17006727
+  name: Qiqirn Mine
+- id: 17006728
+  name: Qiqirn Mine
+- id: 17006729
+  name: Qiqirn Mine
+- id: 17006730
+  name: Qiqirn Mine
+- id: 17006731
+  name: Qiqirn Mine
+- id: 17006732
+  name: Qiqirn Miner
+- id: 17006733
+  name: Qiqirn Miner
+- id: 17006734
+  name: Qiqirn Miner
+- id: 17006735
+  name: Qiqirn Miner
+- id: 17006736
+  name: Qiqirn Miner
+- id: 17006737
+  name: Qiqirn Miner
+- id: 17006738
+  name: Qiqirn Miner
+- id: 17006739
+  name: Qutrub
+- id: 17006740
+  name: Qutrub
+- id: 17006741
+  name: Qutrub
+- id: 17006742
+  name: Qutrub
+- id: 17006743
+  name: Qutrub
+- id: 17006744
+  name: Merrow Shadowdancer
+- id: 17006745
+  name: Merrow Shadowdancer
+- id: 17006746
+  name: Merrow Shadowdancer
+- id: 17006747
+  name: Merrow Shadowdancer
+- id: 17006748
+  name: Merrow Shadowdancer
+- id: 17006749
+  name: Merrow No.16
+- id: 17006750
+  name: Karazahm
+- id: 17006751
+  name: Lamia No.14
+- id: 17006752
+  name: Umarid
+- id: 17006753
+  name: Lamia No.17
+- id: 17006754
+  name: K23H1-LAMIA
+- id: 17006755
+  name: K23H1-LAMIA
+- id: 17006756
+  name: K23H1-LAMIA
+- id: 17006757
+  name: K23H1-LAMIA
+- id: 17006758
+  name: K23H1-LAMIA
+- id: 17006759
+  name: K23H1-LAMIA
+- id: 17006760
+  name: K23H1-LAMIA
+- id: 17006761
+  name: K23H1-LAMIA
+- id: 17006762
+  name: K23H1-LAMIA
+- id: 17006763
+  name: K23H1-LAMIA
+- id: 17006764
+  name: Maymun 33
+- id: 17006765
+  name: Maymun 09
+- id: 17006766
+  name: Maymun 74
+- id: 17006767
+  name: Maymun 53
+- id: 17006768
+  name: Maymun 21
+- id: 17006769
+  name: Maymun 27
+- id: 17006770
+  name: Wight
+- id: 17006771
+  name: Wight
+- id: 17006772
+  name: Wight
+- id: 17006773
+  name: Wight
+- id: 17006774
+  name: Wight
+- id: 17006775
+  name: Wight
+- id: 17006776
+  name: Wight
+- id: 17006777
+  name: Wight
+- id: 17006778
+  name: Wight
+- id: 17006779
+  name: Wight
+- id: 17006780
+  name: Wight
+- id: 17006781
+  name: Wight
+- id: 17006782
+  name: Wight
+- id: 17006783
+  name: Wight
+- id: 17006784
+  name: Wight
+- id: 17006785
+  name: Wight
+- id: 17006786
+  name: Wight
+- id: 17006787
+  name: Wight
+- id: 17006788
+  name: Wight
+- id: 17006789
+  name: Wight
+- id: 17006790
+  name: Wight
+- id: 17006791
+  name: Wight
+- id: 17006792
+  name: Wight
+- id: 17006793
+  name: Wight
+- id: 17006794
+  name: Wight
+- id: 17006795
+  name: Wight
+- id: 17006796
+  name: Wight
+- id: 17006797
+  name: Wight
+- id: 17006798
+  name: Wight
+- id: 17006799
+  name: Wight
+- id: 17006800
+  name: Wight
+- id: 17006801
+  name: King Goldemar
+- id: 17006802
+  name: Bloody Daggers
+- id: 17006803
+  name: Bloody Daggers
+- id: 17006804
+  name: Demonic Rod
+- id: 17006805
+  name: Living Staves
+- id: 17006806
+  name: Cursed Axe
+- id: 17006807
+  name: Magic Shields
+- id: 17006809
+  name: Ancient Lockbox
+- id: 17006810
+  name: Rune of Release
+- id: 17006811
+  name: Ryaaf
+- id: 17006812
+  name: Balarahb
+- id: 17006813
+  name: Rhagmakah
+- id: 17006814
+  name: Bridge Switch
+- id: 17006815
+  name: Bridge Switch
+- id: 17006816
+  name: Bridge Switch
+- id: 17006817
+  name: Bridge Switch
+- id: 17006822
+  name: Adeeha
+- id: 17006823
+  name: Achieve Master
+- id: 17006829
+  name: ''
+- id: 17006831
+  name: Moogle
+- id: 17006832
+  name: Moogle
+- id: 17006833
+  name: Moogle
+- id: 17006834
+  name: Moogle
+- id: 17006835
+  name: Moogle
+- id: 17006836
+  name: Moogle
+- id: 17006837
+  name: Moogle
+- id: 17006838
+  name: Moogle
+- id: 17006839
+  name: DOOR_MASTER
+- id: 17006840
+  name: Door_1k1
+- id: 17006841
+  name: Door_1k2
+- id: 17006842
+  name: Door_1k3
+- id: 17006843
+  name: Door_1k4
+- id: 17006844
+  name: Door_1k5
+- id: 17006845
+  name: Door_1k6
+- id: 17006846
+  name: Door_1k7
+- id: 17006847
+  name: Door_1k8
+- id: 17006848
+  name: Door_1k9
+- id: 17006849
+  name: Door_1ka
+- id: 17006850
+  name: Door_1kb
+- id: 17006851
+  name: Door_1kc
+- id: 17006852
+  name: Door_1kd
+- id: 17006853
+  name: Door_1ke
+- id: 17006854
+  name: Door_1kf
+- id: 17006855
+  name: Door_1kg
+- id: 17006856
+  name: Door_1kh
+- id: 17006857
+  name: Door_1ki
+- id: 17006858
+  name: Door_1kj
+- id: 17006859
+  name: Door_1kk
+- id: 17006860
+  name: Door_1kl
+- id: 17006861
+  name: Door_1km
+- id: 17006862
+  name: Door_1kn
+- id: 17006863
+  name: Door_1ko
+- id: 17006864
+  name: Door_1kp
+- id: 17006865
+  name: Door_1kq
+- id: 17006866
+  name: Door_1kr
+- id: 17006867
+  name: Door_1ks
+- id: 17006868
+  name: Door_1kt
+- id: 17006869
+  name: Door_1ku
+- id: 17006870
+  name: Door_1kv
+- id: 17006871
+  name: Door_1kw
+- id: 17006872
+  name: Iron Gate
+- id: 17006873
+  name: Iron Gate
+- id: 17006874
+  name: Iron Gate
+- id: 17006875
+  name: Iron Gate
+- id: 17006876
+  name: Iron Gate
+- id: 17006877
+  name: Iron Gate
+- id: 17006878
+  name: Iron Gate
+- id: 17006879
+  name: Iron Gate
+- id: 17006880
+  name: Iron Gate
+- id: 17006881
+  name: Iron Gate
+- id: 17006882
+  name: Iron Gate
+- id: 17006883
+  name: Iron Gate
+- id: 17006884
+  name: Iron Gate
+- id: 17006885
+  name: Iron Gate
+- id: 17006886
+  name: Iron Gate
+- id: 17006887
+  name: Iron Gate
+- id: 17006888
+  name: Hanging Bridge
+- id: 17006889
+  name: Hanging Bridge
+- id: 17006890
+  name: Hanging Bridge
+- id: 17006891
+  name: Hanging Bridge
+- id: 17006892
+  name: Hanging Bridge
+- id: 17006893
+  name: Hanging Bridge
+- id: 17006894
+  name: Hanging Bridge
+- id: 17006895
+  name: Hanging Bridge
+- id: 17006896
+  name: Hanging Bridge
+- id: 17006897
+  name: Hanging Bridge
+- id: 17006898
+  name: Hanging Bridge
+- id: 17006899
+  name: Hanging Bridge
+- id: 17006900
+  name: ''

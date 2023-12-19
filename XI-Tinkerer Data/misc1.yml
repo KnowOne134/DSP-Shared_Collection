@@ -1,0 +1,38 @@
+lists:
+  0:
+  - string: Failed to carry out user file operations.
+  1:
+  - string: Failed to read data.
+  2:
+  - string: Checking the size of the files to download and
+  3:
+  - string: the available space on your hard disk drive.
+  4:
+  - string: Please enter a name (or press the numeric keypad's + key to have a name auto-generated for you). Names over 8 letters long will be truncated in some game windows, so short names are recommended.
+  5:
+  - string: That feature is currently unavailable.
+  6:
+  - string: "Reset the settings file stored on your \nhard disk drive that contains %s's \nmacros and map markers etc., to its initial state?"
+  7:
+  - string: dummy
+  8:
+  - string: dummy
+  9:
+  - string: |-
+      Please be sure to install and register
+      FINAL FANTASY XI: Rise of the Zilart.
+      You may experience problems if the expansion pack is not
+      properly installed and registered.
+  10:
+  - string: |-
+      Please be sure to install and register both
+      FINAL FANTASY XI: Rise of the Zilart and
+      FINAL FANTASY XI: Chains of Promathia.
+      You may experience problems if the expansion
+      packs are not properly installed and registered.
+  11:
+  - string: To delete your character, hold down
+  12:
+  - string: the L3 button or the "D" key and
+  13:
+  - string: select the "Delete" button.

@@ -1,0 +1,479 @@
+names:
+- id: 17649665
+  name: Goblin Poacher
+- id: 17649666
+  name: Goblin Robber
+- id: 17649667
+  name: Goblin Reaper
+- id: 17649668
+  name: Labyrinth Leech
+- id: 17649669
+  name: Labyrinth Leech
+- id: 17649670
+  name: Labyrinth Leech
+- id: 17649671
+  name: Air Elemental
+- id: 17649672
+  name: Labyrinth Leech
+- id: 17649673
+  name: Labyrinth Leech
+- id: 17649674
+  name: Cockatrice
+- id: 17649675
+  name: Cockatrice
+- id: 17649676
+  name: Goblin Poacher
+- id: 17649677
+  name: Goblin Trader
+- id: 17649678
+  name: Goblin's Leech
+- id: 17649679
+  name: Goblin Robber
+- id: 17649680
+  name: Goblin Reaper
+- id: 17649681
+  name: Cockatrice
+- id: 17649682
+  name: Cockatrice
+- id: 17649683
+  name: Mushussu
+- id: 17649684
+  name: Cockatrice
+- id: 17649685
+  name: Cockatrice
+- id: 17649686
+  name: Cockatrice
+- id: 17649687
+  name: Cockatrice
+- id: 17649688
+  name: Goblin Miner
+- id: 17649689
+  name: Goblin Bouncer
+- id: 17649690
+  name: Goblin Hunter
+- id: 17649691
+  name: Cockatrice
+- id: 17649692
+  name: Cockatrice
+- id: 17649693
+  name: Mysticmaker Profblix
+- id: 17649694
+  name: Goblin Enchanter
+- id: 17649695
+  name: Goblin Hunter
+- id: 17649696
+  name: Cockatrice
+- id: 17649697
+  name: Cockatrice
+- id: 17649698
+  name: Cockatrice
+- id: 17649699
+  name: Cockatrice
+- id: 17649700
+  name: Cockatrice
+- id: 17649701
+  name: Mushussu
+- id: 17649702
+  name: Cockatrice
+- id: 17649703
+  name: Goblin Miner
+- id: 17649704
+  name: Goblin Bouncer
+- id: 17649705
+  name: Cockatrice
+- id: 17649706
+  name: Goblin Enchanter
+- id: 17649707
+  name: Goblin Hunter
+- id: 17649708
+  name: Flying Manta
+- id: 17649709
+  name: Cockatrice
+- id: 17649710
+  name: Goblin Enchanter
+- id: 17649711
+  name: Flying Manta
+- id: 17649712
+  name: Goblin Miner
+- id: 17649713
+  name: Air Elemental
+- id: 17649714
+  name: Mushussu
+- id: 17649715
+  name: Mushussu
+- id: 17649716
+  name: Goblin Enchanter
+- id: 17649717
+  name: Goblin Hunter
+- id: 17649718
+  name: Goblin Miner
+- id: 17649719
+  name: Goblin Bouncer
+- id: 17649720
+  name: Goblin Enchanter
+- id: 17649721
+  name: Goblin Hunter
+- id: 17649722
+  name: Goblin Miner
+- id: 17649723
+  name: Goblin Bouncer
+- id: 17649724
+  name: Goblin Enchanter
+- id: 17649725
+  name: Air Elemental
+- id: 17649726
+  name: Goblin Miner
+- id: 17649727
+  name: Goblin Bouncer
+- id: 17649728
+  name: Mushussu
+- id: 17649729
+  name: Goblin Miner
+- id: 17649730
+  name: Flying Manta
+- id: 17649731
+  name: Lord of Onzozo
+- id: 17649732
+  name: Goblin Hunter
+- id: 17649733
+  name: Goblin Bouncer
+- id: 17649734
+  name: Cockatrice
+- id: 17649735
+  name: Mushussu
+- id: 17649736
+  name: Cockatrice
+- id: 17649737
+  name: Mushussu
+- id: 17649738
+  name: Cockatrice
+- id: 17649739
+  name: Mushussu
+- id: 17649740
+  name: Cockatrice
+- id: 17649741
+  name: Cockatrice
+- id: 17649742
+  name: Mushussu
+- id: 17649743
+  name: Mushussu
+- id: 17649744
+  name: Mushussu
+- id: 17649745
+  name: Mushussu
+- id: 17649746
+  name: Mushussu
+- id: 17649747
+  name: Cockatrice
+- id: 17649748
+  name: Goblin Bouncer
+- id: 17649749
+  name: Air Elemental
+- id: 17649750
+  name: Goblin Miner
+- id: 17649751
+  name: Goblin Hunter
+- id: 17649752
+  name: Goblin Enchanter
+- id: 17649753
+  name: Goblin Bouncer
+- id: 17649754
+  name: Goblin Miner
+- id: 17649755
+  name: Flying Manta
+- id: 17649756
+  name: Mushussu
+- id: 17649757
+  name: Mushussu
+- id: 17649758
+  name: Flying Manta
+- id: 17649759
+  name: Flying Manta
+- id: 17649760
+  name: Flying Manta
+- id: 17649761
+  name: Peg Powler
+- id: 17649762
+  name: Flying Manta
+- id: 17649763
+  name: Flying Manta
+- id: 17649764
+  name: Goblin Hunter
+- id: 17649765
+  name: Goblin Bouncer
+- id: 17649766
+  name: Flying Manta
+- id: 17649767
+  name: Goblin Miner
+- id: 17649768
+  name: Goblin Enchanter
+- id: 17649769
+  name: Flying Manta
+- id: 17649770
+  name: Flying Manta
+- id: 17649771
+  name: Goblin Miner
+- id: 17649772
+  name: Goblin Enchanter
+- id: 17649773
+  name: Flying Manta
+- id: 17649774
+  name: Flying Manta
+- id: 17649775
+  name: Goblin Hunter
+- id: 17649776
+  name: Goblin Bouncer
+- id: 17649777
+  name: Water Elemental
+- id: 17649778
+  name: Torama
+- id: 17649779
+  name: Torama
+- id: 17649780
+  name: Torama
+- id: 17649781
+  name: Air Elemental
+- id: 17649782
+  name: Torama
+- id: 17649783
+  name: Labyrinth Manticore
+- id: 17649784
+  name: Narasimha
+- id: 17649785
+  name: Water Elemental
+- id: 17649786
+  name: Torama
+- id: 17649787
+  name: Labyrinth Manticore
+- id: 17649788
+  name: Air Elemental
+- id: 17649789
+  name: Torama
+- id: 17649790
+  name: Labyrinth Manticore
+- id: 17649791
+  name: Goblin Bouncer
+- id: 17649792
+  name: Goblin Hunter
+- id: 17649793
+  name: Goblin Hunter
+- id: 17649794
+  name: Goblin Miner
+- id: 17649795
+  name: Hellion
+- id: 17649796
+  name: Flying Manta
+- id: 17649797
+  name: Tainted Flesh
+- id: 17649798
+  name: Goblin Bouncer
+- id: 17649799
+  name: Goblin Enchanter
+- id: 17649800
+  name: Goblin Miner
+- id: 17649801
+  name: Goblin Miner
+- id: 17649802
+  name: Goblin Enchanter
+- id: 17649803
+  name: Goblin Bouncer
+- id: 17649804
+  name: Goblin Enchanter
+- id: 17649805
+  name: Goblin Hunter
+- id: 17649806
+  name: Goblin Hunter
+- id: 17649807
+  name: Air Elemental
+- id: 17649808
+  name: Flying Manta
+- id: 17649809
+  name: Water Elemental
+- id: 17649810
+  name: Tainted Flesh
+- id: 17649811
+  name: Torama
+- id: 17649812
+  name: Torama
+- id: 17649813
+  name: Torama
+- id: 17649814
+  name: Torama
+- id: 17649815
+  name: Torama
+- id: 17649816
+  name: Torama
+- id: 17649817
+  name: Torama
+- id: 17649818
+  name: Soulstealer Skullnix
+- id: 17649819
+  name: Torama
+- id: 17649820
+  name: Torama
+- id: 17649821
+  name: Labyrinth Manticore
+- id: 17649822
+  name: Ose
+- id: 17649823
+  name: Torama
+- id: 17649824
+  name: Torama
+- id: 17649825
+  name: Goblin Alchemist
+- id: 17649826
+  name: Labyrinth Manticore
+- id: 17649827
+  name: Wyvern
+- id: 17649828
+  name: Water Elemental
+- id: 17649829
+  name: Goblin Alchemist
+- id: 17649830
+  name: Water Elemental
+- id: 17649831
+  name: Goblin Bandit
+- id: 17649832
+  name: Goblin Shepherd
+- id: 17649833
+  name: Goblin's Leech
+- id: 17649834
+  name: Goblin Mercenary
+- id: 17649835
+  name: Water Elemental
+- id: 17649836
+  name: Goblin Alchemist
+- id: 17649837
+  name: Goblin Bandit
+- id: 17649838
+  name: Goblin Shepherd
+- id: 17649839
+  name: Goblin's Leech
+- id: 17649840
+  name: Goblin Mercenary
+- id: 17649841
+  name: Water Elemental
+- id: 17649842
+  name: Goblin Bandit
+- id: 17649843
+  name: Goblin Shepherd
+- id: 17649844
+  name: Goblin's Leech
+- id: 17649845
+  name: Goblin Mercenary
+- id: 17649846
+  name: Water Elemental
+- id: 17649847
+  name: Babaulas
+- id: 17649848
+  name: Babaulas
+- id: 17649849
+  name: Babaulas
+- id: 17649850
+  name: Boribaba
+- id: 17649851
+  name: Boribaba
+- id: 17649852
+  name: Babaulas
+- id: 17649853
+  name: Babaulas
+- id: 17649854
+  name: Babaulas
+- id: 17649855
+  name: Babaulas
+- id: 17649856
+  name: Boribaba
+- id: 17649857
+  name: Boribaba
+- id: 17649858
+  name: Air Elemental
+- id: 17649859
+  name: Water Elemental
+- id: 17649860
+  name: Ubume
+- id: 17649861
+  name: Megapod Megalops
+- id: 17649862
+  name: Voso
+- id: 17649863
+  name: Voso
+- id: 17649864
+  name: Voso
+- id: 17649866
+  name: ???
+- id: 17649867
+  name: Treasure Casket
+- id: 17649868
+  name: Treasure Casket
+- id: 17649869
+  name: Treasure Casket
+- id: 17649870
+  name: Treasure Casket
+- id: 17649871
+  name: Treasure Casket
+- id: 17649872
+  name: Treasure Casket
+- id: 17649873
+  name: Treasure Casket
+- id: 17649874
+  name: Treasure Casket
+- id: 17649875
+  name: Treasure Casket
+- id: 17649876
+  name: Treasure Casket
+- id: 17649877
+  name: Treasure Casket
+- id: 17649878
+  name: Treasure Casket
+- id: 17649879
+  name: Treasure Casket
+- id: 17649880
+  name: Treasure Casket
+- id: 17649881
+  name: Treasure Casket
+- id: 17649882
+  name: Treasure Casket
+- id: 17649883
+  name: Achieve Master
+- id: 17649884
+  name: Unity Master
+- id: 17649889
+  name: ''
+- id: 17649890
+  name: ''
+- id: 17649892
+  name: Moogle
+- id: 17649893
+  name: Moogle
+- id: 17649894
+  name: Moogle
+- id: 17649895
+  name: Moogle
+- id: 17649896
+  name: Moogle
+- id: 17649897
+  name: Moogle
+- id: 17649898
+  name: Moogle
+- id: 17649899
+  name: Moogle
+- id: 17649900
+  name: Treasure Chest
+- id: 17649901
+  name: ???
+- id: 17649902
+  name: Grounds Tome
+- id: 17649903
+  name: Grounds Tome
+- id: 17649904
+  name: Grounds Tome
+- id: 17649905
+  name: Geomagnetic Fount
+- id: 17649906
+  name: Survival Guide
+- id: 17649907
+  name: Ethereal Junction
+- id: 17649908
+  name: Ethereal Junction
+- id: 17649909
+  name: Ethereal Junction

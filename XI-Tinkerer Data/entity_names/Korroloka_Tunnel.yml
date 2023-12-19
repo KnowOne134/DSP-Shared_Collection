@@ -1,0 +1,875 @@
+names:
+- id: 17485825
+  name: Snipper
+- id: 17485826
+  name: Snipper
+- id: 17485827
+  name: Greater Pugil
+- id: 17485828
+  name: Greater Pugil
+- id: 17485829
+  name: Kraken
+- id: 17485830
+  name: Land Worm
+- id: 17485831
+  name: Land Worm
+- id: 17485832
+  name: Seeker Bats
+- id: 17485833
+  name: Land Worm
+- id: 17485834
+  name: Land Worm
+- id: 17485835
+  name: Land Worm
+- id: 17485836
+  name: Seeker Bats
+- id: 17485837
+  name: Land Worm
+- id: 17485838
+  name: Land Worm
+- id: 17485839
+  name: Seeker Bats
+- id: 17485840
+  name: Land Worm
+- id: 17485841
+  name: Land Worm
+- id: 17485842
+  name: Seeker Bats
+- id: 17485843
+  name: Land Worm
+- id: 17485844
+  name: Land Worm
+- id: 17485845
+  name: Seeker Bats
+- id: 17485846
+  name: Land Worm
+- id: 17485847
+  name: Land Worm
+- id: 17485848
+  name: Thread Leech
+- id: 17485849
+  name: Huge Spider
+- id: 17485850
+  name: Huge Spider
+- id: 17485851
+  name: Huge Spider
+- id: 17485852
+  name: Combat
+- id: 17485853
+  name: Jelly
+- id: 17485854
+  name: Thread Leech
+- id: 17485855
+  name: Huge Spider
+- id: 17485856
+  name: Huge Spider
+- id: 17485857
+  name: Huge Spider
+- id: 17485858
+  name: Combat
+- id: 17485859
+  name: Jelly
+- id: 17485860
+  name: Thread Leech
+- id: 17485861
+  name: Huge Spider
+- id: 17485862
+  name: Huge Spider
+- id: 17485863
+  name: Combat
+- id: 17485864
+  name: Jelly
+- id: 17485865
+  name: Thread Leech
+- id: 17485866
+  name: Huge Spider
+- id: 17485867
+  name: Huge Spider
+- id: 17485868
+  name: Combat
+- id: 17485869
+  name: Thunder Elemental
+- id: 17485870
+  name: Jelly
+- id: 17485871
+  name: Thread Leech
+- id: 17485872
+  name: Huge Spider
+- id: 17485873
+  name: Huge Spider
+- id: 17485874
+  name: Combat
+- id: 17485875
+  name: Jelly
+- id: 17485876
+  name: Thread Leech
+- id: 17485877
+  name: Huge Spider
+- id: 17485878
+  name: Huge Spider
+- id: 17485879
+  name: Combat
+- id: 17485880
+  name: Jelly
+- id: 17485881
+  name: Sea Monk
+- id: 17485882
+  name: Thread Leech
+- id: 17485883
+  name: Thread Leech
+- id: 17485884
+  name: Thread Leech
+- id: 17485885
+  name: Huge Spider
+- id: 17485886
+  name: Combat
+- id: 17485887
+  name: Jelly
+- id: 17485888
+  name: Thread Leech
+- id: 17485889
+  name: Thread Leech
+- id: 17485890
+  name: Huge Spider
+- id: 17485891
+  name: Huge Spider
+- id: 17485892
+  name: Combat
+- id: 17485893
+  name: Combat
+- id: 17485894
+  name: Jelly
+- id: 17485895
+  name: Thread Leech
+- id: 17485896
+  name: Thread Leech
+- id: 17485897
+  name: Huge Spider
+- id: 17485898
+  name: Huge Spider
+- id: 17485899
+  name: Combat
+- id: 17485900
+  name: Combat
+- id: 17485901
+  name: Thunder Elemental
+- id: 17485902
+  name: Jelly
+- id: 17485903
+  name: Greater Pugil
+- id: 17485904
+  name: Clipper
+- id: 17485905
+  name: Thread Leech
+- id: 17485906
+  name: Thread Leech
+- id: 17485907
+  name: Huge Spider
+- id: 17485908
+  name: Huge Spider
+- id: 17485909
+  name: Combat
+- id: 17485910
+  name: Combat
+- id: 17485911
+  name: Jelly
+- id: 17485912
+  name: Thread Leech
+- id: 17485913
+  name: Huge Spider
+- id: 17485914
+  name: Huge Spider
+- id: 17485915
+  name: Combat
+- id: 17485916
+  name: Jelly
+- id: 17485917
+  name: Land Worm
+- id: 17485918
+  name: Land Worm
+- id: 17485919
+  name: Land Worm
+- id: 17485920
+  name: Land Worm
+- id: 17485921
+  name: Land Worm
+- id: 17485922
+  name: Seeker Bats
+- id: 17485923
+  name: Land Worm
+- id: 17485924
+  name: Land Worm
+- id: 17485925
+  name: Seeker Bats
+- id: 17485926
+  name: Land Worm
+- id: 17485927
+  name: Land Worm
+- id: 17485928
+  name: Seeker Bats
+- id: 17485929
+  name: Land Worm
+- id: 17485930
+  name: Land Worm
+- id: 17485931
+  name: Seeker Bats
+- id: 17485932
+  name: Land Worm
+- id: 17485933
+  name: Land Worm
+- id: 17485934
+  name: Seeker Bats
+- id: 17485935
+  name: Seeker Bats
+- id: 17485936
+  name: Land Worm
+- id: 17485937
+  name: Land Worm
+- id: 17485938
+  name: Seeker Bats
+- id: 17485939
+  name: Seeker Bats
+- id: 17485940
+  name: Seeker Bats
+- id: 17485941
+  name: Seeker Bats
+- id: 17485942
+  name: Seeker Bats
+- id: 17485943
+  name: Seeker Bats
+- id: 17485944
+  name: Seeker Bats
+- id: 17485945
+  name: Jelly
+- id: 17485946
+  name: Sea Monk
+- id: 17485947
+  name: Greater Pugil
+- id: 17485948
+  name: Clipper
+- id: 17485949
+  name: Greater Pugil
+- id: 17485950
+  name: Clipper
+- id: 17485951
+  name: Greater Pugil
+- id: 17485952
+  name: Clipper
+- id: 17485953
+  name: Seeker Bats
+- id: 17485954
+  name: Seeker Bats
+- id: 17485955
+  name: Seeker Bats
+- id: 17485956
+  name: Seeker Bats
+- id: 17485957
+  name: Seeker Bats
+- id: 17485958
+  name: Seeker Bats
+- id: 17485959
+  name: Seeker Bats
+- id: 17485960
+  name: Seeker Bats
+- id: 17485961
+  name: Seeker Bats
+- id: 17485962
+  name: Seeker Bats
+- id: 17485963
+  name: Seeker Bats
+- id: 17485964
+  name: Seeker Bats
+- id: 17485965
+  name: Jelly
+- id: 17485966
+  name: Jelly
+- id: 17485967
+  name: Water Elemental
+- id: 17485968
+  name: Jelly
+- id: 17485969
+  name: Jelly
+- id: 17485970
+  name: Water Elemental
+- id: 17485971
+  name: Seeker Bats
+- id: 17485972
+  name: Seeker Bats
+- id: 17485973
+  name: Seeker Bats
+- id: 17485974
+  name: Seeker Bats
+- id: 17485975
+  name: Seeker Bats
+- id: 17485976
+  name: Seeker Bats
+- id: 17485977
+  name: Combat
+- id: 17485978
+  name: Combat
+- id: 17485979
+  name: Sea Monk
+- id: 17485980
+  name: Cargo Crab Colin
+- id: 17485981
+  name: Seeker Bats
+- id: 17485982
+  name: Seeker Bats
+- id: 17485983
+  name: Seeker Bats
+- id: 17485984
+  name: Combat
+- id: 17485985
+  name: Combat
+- id: 17485986
+  name: Combat
+- id: 17485987
+  name: Seeker Bats
+- id: 17485988
+  name: Seeker Bats
+- id: 17485989
+  name: Combat
+- id: 17485990
+  name: Combat
+- id: 17485991
+  name: Seeker Bats
+- id: 17485992
+  name: Combat
+- id: 17485993
+  name: Combat
+- id: 17485994
+  name: Jelly
+- id: 17485995
+  name: Water Elemental
+- id: 17485996
+  name: Seeker Bats
+- id: 17485997
+  name: Seeker Bats
+- id: 17485998
+  name: Jammer Leech
+- id: 17485999
+  name: Jammer Leech
+- id: 17486000
+  name: Jammer Leech
+- id: 17486001
+  name: Greater Pugil
+- id: 17486002
+  name: Clipper
+- id: 17486003
+  name: Greater Pugil
+- id: 17486004
+  name: Clipper
+- id: 17486005
+  name: Seeker Bats
+- id: 17486006
+  name: Seeker Bats
+- id: 17486007
+  name: Land Worm
+- id: 17486008
+  name: Land Worm
+- id: 17486009
+  name: Land Worm
+- id: 17486010
+  name: Land Worm
+- id: 17486011
+  name: Land Worm
+- id: 17486012
+  name: Combat
+- id: 17486013
+  name: Combat
+- id: 17486014
+  name: Combat
+- id: 17486015
+  name: Land Worm
+- id: 17486016
+  name: Land Worm
+- id: 17486017
+  name: Land Worm
+- id: 17486018
+  name: Land Worm
+- id: 17486019
+  name: Seeker Bats
+- id: 17486020
+  name: Seeker Bats
+- id: 17486021
+  name: Seeker Bats
+- id: 17486022
+  name: Seeker Bats
+- id: 17486023
+  name: Greater Pugil
+- id: 17486024
+  name: Greater Pugil
+- id: 17486025
+  name: Greater Pugil
+- id: 17486026
+  name: Sea Monk
+- id: 17486027
+  name: Huge Spider
+- id: 17486028
+  name: Huge Spider
+- id: 17486029
+  name: Huge Spider
+- id: 17486030
+  name: Huge Spider
+- id: 17486031
+  name: Falcatus Aranei
+- id: 17486032
+  name: Huge Spider
+- id: 17486033
+  name: Huge Spider
+- id: 17486034
+  name: Huge Spider
+- id: 17486035
+  name: Huge Spider
+- id: 17486036
+  name: Huge Spider
+- id: 17486037
+  name: Huge Spider
+- id: 17486038
+  name: Jelly
+- id: 17486039
+  name: Clipper
+- id: 17486040
+  name: Clipper
+- id: 17486041
+  name: Clipper
+- id: 17486042
+  name: Clipper
+- id: 17486043
+  name: Clipper
+- id: 17486044
+  name: Clipper
+- id: 17486045
+  name: Clipper
+- id: 17486046
+  name: Clipper
+- id: 17486047
+  name: Clipper
+- id: 17486048
+  name: Clipper
+- id: 17486049
+  name: Greater Pugil
+- id: 17486050
+  name: Greater Pugil
+- id: 17486051
+  name: Greater Pugil
+- id: 17486052
+  name: Greater Pugil
+- id: 17486053
+  name: Greater Pugil
+- id: 17486054
+  name: Greater Pugil
+- id: 17486055
+  name: Greater Pugil
+- id: 17486056
+  name: Greater Pugil
+- id: 17486057
+  name: Greater Pugil
+- id: 17486058
+  name: Greater Pugil
+- id: 17486059
+  name: Seeker Bats
+- id: 17486060
+  name: Seeker Bats
+- id: 17486061
+  name: Seeker Bats
+- id: 17486062
+  name: Seeker Bats
+- id: 17486063
+  name: Seeker Bats
+- id: 17486064
+  name: Seeker Bats
+- id: 17486065
+  name: Seeker Bats
+- id: 17486066
+  name: Seeker Bats
+- id: 17486067
+  name: Jelly
+- id: 17486068
+  name: Jelly
+- id: 17486069
+  name: Sea Monk
+- id: 17486070
+  name: Greater Pugil
+- id: 17486071
+  name: Clipper
+- id: 17486072
+  name: Greater Pugil
+- id: 17486073
+  name: Clipper
+- id: 17486074
+  name: Greater Pugil
+- id: 17486075
+  name: Clipper
+- id: 17486076
+  name: Seeker Bats
+- id: 17486077
+  name: Seeker Bats
+- id: 17486078
+  name: Clipper
+- id: 17486079
+  name: Clipper
+- id: 17486080
+  name: Thread Leech
+- id: 17486081
+  name: Clipper
+- id: 17486082
+  name: Clipper
+- id: 17486083
+  name: Thread Leech
+- id: 17486084
+  name: Thread Leech
+- id: 17486085
+  name: Clipper
+- id: 17486086
+  name: Clipper
+- id: 17486087
+  name: Thread Leech
+- id: 17486088
+  name: Thread Leech
+- id: 17486089
+  name: Sea Monk
+- id: 17486090
+  name: Greater Pugil
+- id: 17486091
+  name: Clipper
+- id: 17486092
+  name: Greater Pugil
+- id: 17486093
+  name: Clipper
+- id: 17486094
+  name: Greater Pugil
+- id: 17486095
+  name: Clipper
+- id: 17486096
+  name: Thread Leech
+- id: 17486097
+  name: Lacerator
+- id: 17486098
+  name: Lacerator
+- id: 17486099
+  name: Lacerator
+- id: 17486100
+  name: Lacerator
+- id: 17486101
+  name: Lacerator
+- id: 17486102
+  name: Lacerator
+- id: 17486103
+  name: Spool Leech
+- id: 17486104
+  name: Spool Leech
+- id: 17486105
+  name: Spool Leech
+- id: 17486106
+  name: Spool Leech
+- id: 17486107
+  name: Spool Leech
+- id: 17486108
+  name: Spool Leech
+- id: 17486109
+  name: Spool Leech
+- id: 17486110
+  name: Lacerator
+- id: 17486111
+  name: Thread Leech
+- id: 17486112
+  name: Thread Leech
+- id: 17486113
+  name: Thread Leech
+- id: 17486114
+  name: Thread Leech
+- id: 17486115
+  name: Bogy
+- id: 17486116
+  name: Thread Leech
+- id: 17486117
+  name: Thread Leech
+- id: 17486118
+  name: Bogy
+- id: 17486119
+  name: Bogy
+- id: 17486120
+  name: Thread Leech
+- id: 17486121
+  name: Thread Leech
+- id: 17486122
+  name: Thread Leech
+- id: 17486123
+  name: Bogy
+- id: 17486124
+  name: Bogy
+- id: 17486125
+  name: Bogy
+- id: 17486126
+  name: Bogy
+- id: 17486127
+  name: Bogy
+- id: 17486128
+  name: Bogy
+- id: 17486129
+  name: Dame Blanche
+- id: 17486130
+  name: Water Elemental
+- id: 17486131
+  name: Lacerator
+- id: 17486132
+  name: Lacerator
+- id: 17486133
+  name: Lacerator
+- id: 17486134
+  name: Lacerator
+- id: 17486135
+  name: Lacerator
+- id: 17486136
+  name: Lacerator
+- id: 17486137
+  name: Lacerator
+- id: 17486138
+  name: Lacerator
+- id: 17486139
+  name: Lacerator
+- id: 17486140
+  name: Spool Leech
+- id: 17486141
+  name: Spool Leech
+- id: 17486142
+  name: Lacerator
+- id: 17486143
+  name: Lacerator
+- id: 17486144
+  name: Combat
+- id: 17486145
+  name: Combat
+- id: 17486146
+  name: Combat
+- id: 17486147
+  name: Combat
+- id: 17486148
+  name: Combat
+- id: 17486149
+  name: Combat
+- id: 17486150
+  name: Combat
+- id: 17486151
+  name: Combat
+- id: 17486152
+  name: Combat
+- id: 17486153
+  name: Combat
+- id: 17486154
+  name: Combat
+- id: 17486155
+  name: Combat
+- id: 17486156
+  name: Combat
+- id: 17486157
+  name: Combat
+- id: 17486158
+  name: Combat
+- id: 17486159
+  name: Combat
+- id: 17486160
+  name: Combat
+- id: 17486161
+  name: Combat
+- id: 17486162
+  name: Combat
+- id: 17486163
+  name: Combat
+- id: 17486164
+  name: Combat
+- id: 17486165
+  name: Combat
+- id: 17486166
+  name: Gigas Stonemason
+- id: 17486167
+  name: Gigas Stonecarrier
+- id: 17486168
+  name: Gigas Stonegrinder
+- id: 17486169
+  name: Gigas Foreman
+- id: 17486170
+  name: Gigas's Spider
+- id: 17486171
+  name: Thoon
+- id: 17486172
+  name: Gigas Stonemason
+- id: 17486173
+  name: Gigas Stonecarrier
+- id: 17486174
+  name: Gigas Stonegrinder
+- id: 17486175
+  name: Gigas Foreman
+- id: 17486176
+  name: Gigas's Spider
+- id: 17486177
+  name: Gigas Stonemason
+- id: 17486178
+  name: Gigas Stonecarrier
+- id: 17486179
+  name: Gigas Stonegrinder
+- id: 17486180
+  name: Gigas Foreman
+- id: 17486181
+  name: Gigas's Spider
+- id: 17486182
+  name: Gigas Stonemason
+- id: 17486183
+  name: Gigas Stonecarrier
+- id: 17486184
+  name: Gigas Stonegrinder
+- id: 17486185
+  name: Gigas Foreman
+- id: 17486186
+  name: Gigas's Spider
+- id: 17486187
+  name: Korroloka Leech
+- id: 17486188
+  name: Korroloka Leech
+- id: 17486189
+  name: Korroloka Leech
+- id: 17486190
+  name: Morion Worm
+- id: 17486191
+  name: Metallic Slime
+- id: 17486192
+  name: Goblin Bounty Hunter
+- id: 17486193
+  name: Goblin Bounty Hunter
+- id: 17486194
+  name: Goblin Bounty Hunter
+- id: 17486195
+  name: Goblin Bounty Hunter
+- id: 17486196
+  name: Goblin Bounty Hunter
+- id: 17486197
+  name: Goblin Bounty Hunter
+- id: 17486198
+  name: Goblin Bounty Hunter
+- id: 17486199
+  name: Goblin Bounty Hunter
+- id: 17486200
+  name: Goblin Bounty Hunter
+- id: 17486201
+  name: Goblin Bounty Hunter
+- id: 17486202
+  name: Goblin Bounty Hunter
+- id: 17486203
+  name: Goblin Bounty Hunter
+- id: 17486204
+  name: Goblin Bounty Hunter
+- id: 17486205
+  name: Goblin Bounty Hunter
+- id: 17486206
+  name: Goblin Bounty Hunter
+- id: 17486207
+  name: Goblin Bounty Hunter
+- id: 17486208
+  name: Goblin Bounty Hunter
+- id: 17486209
+  name: Goblin Bounty Hunter
+- id: 17486210
+  name: Goblin Bounty Hunter
+- id: 17486213
+  name: ???
+- id: 17486214
+  name: ''
+- id: 17486215
+  name: Treasure Casket
+- id: 17486216
+  name: Treasure Casket
+- id: 17486217
+  name: Treasure Casket
+- id: 17486218
+  name: Treasure Casket
+- id: 17486219
+  name: Treasure Casket
+- id: 17486220
+  name: Treasure Casket
+- id: 17486221
+  name: Treasure Casket
+- id: 17486222
+  name: Treasure Casket
+- id: 17486223
+  name: Treasure Casket
+- id: 17486224
+  name: Treasure Casket
+- id: 17486225
+  name: Treasure Casket
+- id: 17486226
+  name: Treasure Casket
+- id: 17486227
+  name: Treasure Casket
+- id: 17486228
+  name: Treasure Casket
+- id: 17486229
+  name: Treasure Casket
+- id: 17486230
+  name: Treasure Casket
+- id: 17486231
+  name: Achieve Master
+- id: 17486232
+  name: Unity Master
+- id: 17486237
+  name: ''
+- id: 17486238
+  name: ???
+- id: 17486239
+  name: Giant Clam
+- id: 17486240
+  name: Giant Clam
+- id: 17486241
+  name: Giant Clam
+- id: 17486242
+  name: Giant Clam
+- id: 17486243
+  name: ''
+- id: 17486245
+  name: Moogle
+- id: 17486246
+  name: Moogle
+- id: 17486247
+  name: Moogle
+- id: 17486248
+  name: Moogle
+- id: 17486249
+  name: Moogle
+- id: 17486250
+  name: Moogle
+- id: 17486251
+  name: Moogle
+- id: 17486252
+  name: Moogle
+- id: 17486253
+  name: Excavation Point
+- id: 17486254
+  name: Excavation Point
+- id: 17486255
+  name: Excavation Point
+- id: 17486256
+  name: Excavation Point
+- id: 17486257
+  name: Excavation Point
+- id: 17486258
+  name: Excavation Point
+- id: 17486259
+  name: ???
+- id: 17486260
+  name: ''
+- id: 17486261
+  name: Ramblix
+- id: 17486262
+  name: Goblin Footprint
+- id: 17486263
+  name: Grounds Tome
+- id: 17486264
+  name: Grounds Tome
+- id: 17486265
+  name: Grounds Tome
+- id: 17486266
+  name: Grounds Tome
+- id: 17486267
+  name: Geomagnetic Fount
+- id: 17486268
+  name: Survival Guide

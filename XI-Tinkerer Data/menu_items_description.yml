@@ -1,0 +1,2033 @@
+lists:
+  0:
+  - string: Select a Linkshell, Pearlsack, or Linkpearl.
+  1:
+  - string: Activate Linkshell item and participate in its chat channel.
+  2:
+  - string: Deactivate Linkshell item and quit its chat channel.
+  3:
+  - string: Select an item.
+  4:
+  - string: Select target to use item on.
+  5:
+  - string: Select item to move.
+  6:
+  - string: Select item to switch with the first. (Selecting the same item stack will separate one of the items from the stack.)
+  7:
+  - string: Select materials for synthesis.
+  8:
+  - string: Select a spell or song to move.
+  9:
+  - string: Select a spell or song to switch places with.
+  10:
+  - string: Select an ability to move.
+  11:
+  - string: Select an ability to switch places with.
+  12:
+  - string: Move item from Mog Safe to your inventory.
+  13:
+  - string: Select item in Mog Safe to move.
+  14:
+  - string: Select furniture to place in your room.
+  15:
+  - string: Invite selected character to join your party.
+  16:
+  - string: Search current region for characters who are seeking parties.
+  17:
+  - string: Send a Knock Message.
+  18:
+  - string: Chat with selected character privately using "Tell."
+  19:
+  - string: Add condition to search.
+  20:
+  - string: Select area to search.
+  21:
+  - string: Search all areas.
+  22:
+  - string: Open input window. Press right directional button to change chat modes.
+  23:
+  - string: Chat in "tell" mode. Press right directional button to change chat modes.
+  24:
+  - string: Display abilities and skills listed by type.
+  25:
+  - string: Use magic. Press right directional button to list spells and songs by type.
+  26:
+  - string: Use an item.
+  27:
+  - string: Distribute currently pooled treasure among party members.
+  28:
+  - string: Acquire currently pooled treasure.
+  29:
+  - string: Examine target's equipment.
+  30:
+  - string: Estimate target's relative strength.
+  31:
+  - string: Start auto-attack.
+  32:
+  - string: Cancel auto-attack.
+  33:
+  - string: Call for help.
+  34:
+  - string: Cast a fishing line.
+  35:
+  - string: Make your chocobo dig a hole.
+  36:
+  - string: Dismount.
+  37:
+  - string: Select a target to auto-attack.
+  38:
+  - string: Trade with target.
+  39:
+  - string: Dismount and attack.
+  40:
+  - string: View map of current area.
+  41:
+  - string: Open the Mog House menu.
+  42:
+  - string: You cannot open the Mog House menu while in another person's Mog House.
+  43:
+  - string: Change jobs.
+  44:
+  - string: Toggle display of this category of friends.
+  45:
+  - string: Select target to trade with.
+  46:
+  - string: Select target to attack with ranged weapon.
+  47:
+  - string: Purchase merchandise.
+  48:
+  - string: Sell merchandise.
+  49:
+  - string: Set the going price of merchandise in your bazaar.
+  50:
+  - string: Edit the message in your comment box. Three lines of up to 40 letters per line are available.
+  51:
+  - string: Select an item from the guild's buy list.
+  52:
+  - string: After specifying recipient, place items in empty slots to send them to recipient's delivery box.
+  53:
+  - string: You may be able to cancel deliveries if the recipients have not yet collected the items from their delivery box.
+  54:
+  - string: Select the merchandise you wish to place on auction.
+  55:
+  - string: Set the reserve price.
+  56:
+  - string: Place this merchandise on auction?
+  57:
+  - string: Select the item you wish to bid for.
+  58:
+  - string: Specify your bid.
+  59:
+  - string: Place this bid?
+  60:
+  - string: Successful sale in progress. Please wait a little while before trying to reconfirm.
+  61:
+  - string: Merchandise being returned. Please wait a little while before trying to reconfirm.
+  62:
+  - string: Merchandise sold and proceeds from sale sent. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  63:
+  - string: Merchandise returned. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  64:
+  - string: Merchandise sold and proceeds collected from delivery box. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  65:
+  - string: Merchandise returned and collected from delivery box. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  66:
+  - string: Trading closed on merchandise. Press the confirm button to acknowledge receipt and remove merchandise from list.
+  67:
+  - string: Merchandise currently on auction. Press the confirm button to remove from auction.
+  68:
+  - string: This merchandise is on auction in another country and cannot be removed from auction here.
+  69:
+  - string: |-
+      Stop tracking current target
+      and proceed with wide area scan?
+  70:
+  - string: Return to Home Point?
+  71:
+  - string: |-
+      Log out or
+      cancel current
+      logout process?
+  72:
+  - string: Log out?
+  73:
+  - string: Cancel current logout process?
+  74:
+  - string: |-
+      Temporarily log out to
+      PlayOnline or cancel
+      temporary logout process?
+  75:
+  - string: Temporarily log out to PlayOnline?
+  76:
+  - string: Cancel temporary logout process?
+  77:
+  - string: Dismount?
+  78:
+  - string: 'Title: '
+  79:
+  - string: Select target of spell.
+  80:
+  - string: Sort list?
+  81:
+  - string: Select target of ability.
+  82:
+  - string: Suppress all "say" lines.
+  83:
+  - string: Suppress all "shout" lines.
+  84:
+  - string: Suppress lines describing your attacks and their damage.
+  85:
+  - string: Suppress lines describing your missed attacks.
+  86:
+  - string: Suppress lines describing damage you receive.
+  87:
+  - string: Suppress lines describing attacks you evade.
+  88:
+  - string: Suppress lines describing party members' attacks and their damage.
+  89:
+  - string: Suppress lines describing party members' missed attacks.
+  90:
+  - string: Suppress lines describing damage taken by party members.
+  91:
+  - string: Suppress lines describing attacks party members evade.
+  92:
+  - string: Suppress lines describing attacks and damage done by people other than you or your party members.
+  93:
+  - string: Suppress lines describing missed attacks made by people other than you or your party members.
+  94:
+  - string: Suppress all lines describing the activation of spells and abilities.
+  95:
+  - string: Suppress all lines describing the resulting effects of spells and abilities.
+  96:
+  - string: Accept Tractor?
+  97:
+  - string: Form an alliance with another party.
+  98:
+  - string: Search current region.
+  99:
+  - string: Move item from Storage to your inventory.
+  100:
+  - string: San d'Oria
+  101:
+  - string: Bastok
+  102:
+  - string: Windurst
+  103:
+  - string: Dismount and attack.
+  104:
+  - string: Make your chocobo dig a hole.
+  105:
+  - string: Open input window. Press right directional button to change chat modes.
+  106:
+  - string: Make your chocobo dig a hole.
+  107:
+  - string: Invite selected character to join your party.
+  108:
+  - string: Examine target's equipment and merchandise.
+  109:
+  - string: Select area to search.
+  110:
+  - string: Search for warriors.
+  111:
+  - string: Search for monks.
+  112:
+  - string: Search for white mages.
+  113:
+  - string: Search for black mages.
+  114:
+  - string: Search for red mages.
+  115:
+  - string: Search for thieves.
+  116:
+  - string: Search for paladins.
+  117:
+  - string: Search for dark knights.
+  118:
+  - string: Search for beastmasters.
+  119:
+  - string: Search for bards.
+  120:
+  - string: Search for rangers.
+  121:
+  - string: Newcomers under level 10.
+  122:
+  - string: Adventurers between levels 11 to 20.
+  123:
+  - string: Adventurers between levels 21 to 30.
+  124:
+  - string: Adventurers between levels 31 to 40.
+  125:
+  - string: Adventurers between levels 41 to 50.
+  126:
+  - string: Adventurers between levels 51 to 60.
+  127:
+  - string: Adventurers between levels 61 to 70.
+  128:
+  - string: Adventurers between levels 71 to 80.
+  129:
+  - string: Adventurers between levels 81 to 90.
+  130:
+  - string: High-end adventurers between levels 91 and 99.
+  131:
+  - string: Search for San d'Orians.
+  132:
+  - string: Search for Bastokers.
+  133:
+  - string: Search for Windurstians.
+  134:
+  - string: Search for Humes.
+  135:
+  - string: Search for Elvaan.
+  136:
+  - string: Search for Tarutaru.
+  137:
+  - string: Search for Mithra.
+  138:
+  - string: Search for Galka.
+  139:
+  - string: Looking for party or party members to raise job levels.
+  140:
+  - string: Looking for party or party members to go on missions or quests.
+  141:
+  - string: Looking for linkshells or linkshell members.
+  142:
+  - string: Looking for party or party members to participate in battle content.
+  143:
+  - string: Default to ROMAJI input.
+  144:
+  - string: Default to KANA input.
+  145:
+  - string: Normal input method for full-sized keyboards.
+  146:
+  - string: Specialized input method for compact keyboards without numeric keypads.
+  147:
+  - string: Use standard software keyboard.
+  148:
+  - string: Use compact software keyboard.
+  149:
+  - string: Set normal conversion method to shortcut button.
+  150:
+  - string: Set complementary conversion method to shortcut button.
+  151:
+  - string: Assign keys for movement, cursor, and camera controls. (Compact keyboard only)
+  152:
+  - string: Assign keys for shortcut commands.
+  153:
+  - string: Return key assignments to default settings.
+  154:
+  - string: Specialized input method for compact keyboards without numeric keypads.
+  155:
+  - string: Automatically lock on to target at the start of battle.
+  156:
+  - string: Do not automatically lock on to target.
+  157:
+  - string: Play music in stereo.
+  158:
+  - string: Play music in monaural sound.
+  159:
+  - string: Set the volume of sound effects.
+  160:
+  - string: Set the volume of the background music.
+  161:
+  - string: Set the level of screen flicker reduction.
+  162:
+  - string: Red gamma adjustment.
+  163:
+  - string: Green gamma adjustment.
+  164:
+  - string: Blue gamma adjustment.
+  165:
+  - string: Display damage in the log window only.
+  166:
+  - string: Display damage on the game screen and in the log window.
+  167:
+  - string: Make FINAL FANTASY XI character data public for party searches and Friend List searches.
+  168:
+  - string: Hide FINAL FANTASY XI character data from Friend List searches.
+  169:
+  - string: Turn on the DUALSHOCK©2 analog controller vibration function.
+  170:
+  - string: Turn off the DUALSHOCK©2 analog controller vibration function.
+  171:
+  - string: Adjust the strength of the vibration function.
+  172:
+  - string: Set display to standard TV screen size.
+  173:
+  - string: Set display to wide-screen TV size.
+  174:
+  - string: Display damage as pop-up graphics on the game screen only. Damage will not be shown in the log window.
+  175:
+  - string: Adjust the screen's brightness.
+  176:
+  - string: Display detailed character shadows.
+  177:
+  - string: Display simple character shadows to improve frame rate.
+  178:
+  - string: Remove character shadows to improve frame rate.
+  179:
+  - string: Display particle effects for changes in weather etc.
+  180:
+  - string: Remove particle effects to improve frame rate.
+  181:
+  - string: Limit the number of characters shown on screen to improve frame rate.
+  182:
+  - string: Filter out words that could be interpreted as offensive.
+  183:
+  - string: Automatically disconnect from server after specified time.
+  184:
+  - string: Automatically adjust log window's size to match amount of text.
+  185:
+  - string: Fix log window to set size.
+  186:
+  - string: Set maximum number of lines to eight.
+  187:
+  - string: Set maximum number of lines to seven.
+  188:
+  - string: Set maximum number of lines to six.
+  189:
+  - string: Set minimum number of lines to seven.
+  190:
+  - string: Set minimum number of lines to six.
+  191:
+  - string: Set minimum number of lines to five.
+  192:
+  - string: Set minimum number of lines to four.
+  193:
+  - string: Set minimum number of lines to three.
+  194:
+  - string: Set minimum number of lines to two.
+  195:
+  - string: Set minimum number of lines to one.
+  196:
+  - string: Set minimum number of lines to zero.
+  197:
+  - string: Set the time interval for automatic log window adjustment.
+  198:
+  - string: Set window pattern to type one. (Default)
+  199:
+  - string: Set window pattern to type two.
+  200:
+  - string: Set window pattern to type three.
+  201:
+  - string: Set window pattern to type four.
+  202:
+  - string: Set window pattern to type five.
+  203:
+  - string: Set window pattern to type six.
+  204:
+  - string: Set window pattern to type seven.
+  205:
+  - string: Set window pattern to type eight.
+  206:
+  - string: Adjust the distance of the back clipping plane of the 3D view.
+  207:
+  - string: Display footstep effects such as footprints and ripples.
+  208:
+  - string: Remove footstep effects to increase frame rate.
+  209:
+  - string: Limit character animation rate to maintain frame rate.
+  210:
+  - string: Use normal input method for full-size keyboards.
+  211:
+  - string: Use specialized input method for compact keyboards without numeric keypads.
+  212:
+  - string: Adjust the background screen proportions to match your monitor's aspect ratio. Recommended for monitors with an aspect ratio other than 4:3.
+  213:
+  - string: Use cursor as point of reference for movement.
+  214:
+  - string: Use your character as point of reference for movement.
+  215:
+  - string: The camera will rotate when the mouse pointer is moved to the edge of the screen.
+  216:
+  - string: The camera will not rotate when the mouse pointer is moved to the edge of the screen.
+  217:
+  - string: Allows unrestricted movement of the third-person camera.
+  218:
+  - string: Locks the third-person camera behind your character.
+  219:
+  - string: Reset third-person camera controls to the default setting.
+  220:
+  - string: Invert third-person camera controls on the Y axis.
+  221:
+  - string: Invert third-person camera controls on the X axis.
+  222:
+  - string: Reset first-person camera controls to the default setting.
+  223:
+  - string: Invert first-person camera controls on the Y axis.
+  224:
+  - string: Invert first-person camera controls on the X axis.
+  225:
+  - string: Adjust the keyboard settings.
+  226:
+  - string: Adjust in-game settings exclusive to FINAL FANTASY XI.
+  227:
+  - string: Adjust the filter settings for text in the log window.
+  228:
+  - string: Adjust the color of different types of text in the log window.
+  229:
+  - string: Adjust log window settings.
+  230:
+  - string: Adjust miscellaneous settings for FINAL FANTASY XI.
+  231:
+  - string: Adjust the mouse and camera settings.
+  232:
+  - string: Adjust global options that affect all of PlayOnline.
+  233:
+  - string: Adjust other miscellaneous settings for FINAL FANTASY XI.
+  234:
+  - string: Set the font colors for general chatting.
+  235:
+  - string: Set the font colors for actions that affect you.
+  236:
+  - string: Set the font colors for actions that affect others.
+  237:
+  - string: Set the font colors for system messages.
+  238:
+  - string: Return all font colors to their initial settings.
+  239:
+  - string: Reset all log windows to their initial settings?
+  240:
+  - string: Wait for someone to revive you within the time limit, or give up and return to your camp.
+  241:
+  - string: Wait for someone to revive you within the time limit, or give up and return to your current home point.
+  242:
+  - string: Dispose of item?
+  243:
+  - string: Main Weapon (Single-handed, two-handed, and hand-to-hand weapons)
+  244:
+  - string: Head (Helms, hats, etc.)
+  245:
+  - string: Body (Robes, suits of mail, and other body armor)
+  246:
+  - string: Back (Capes, mantles, etc.)
+  247:
+  - string: Sub-weapon (Single-handed weapons, shields, etc.)
+  248:
+  - string: Neck (Necklaces, collars, etc.)
+  249:
+  - string: Hands (Gauntlets, gloves, etc.)
+  250:
+  - string: Waist (Belts, obi, etc.)
+  251:
+  - string: Ranged Weapon (Bows, guns, instruments, fishing rods, etc.)
+  252:
+  - string: Left Ear (Earrings, etc.)
+  253:
+  - string: Left hand ring (Rings, etc.)
+  254:
+  - string: Legs (Trousers, subligaria, etc.)
+  255:
+  - string: Ammunition (Arrows, throwing weapons, fish bait, etc.)
+  256:
+  - string: Right Ear (Earrings, etc.)
+  257:
+  - string: Right hand ring (Rings, etc.)
+  258:
+  - string: Feet (Greaves, boots, and other footwear)
+  259:
+  - string: Edit Friend List.
+  260:
+  - string: View PlayOnline messages.
+  261:
+  - string: This function is unavailable.
+  262:
+  - string: Change your online status.
+  263:
+  - string: Change your privacy level.
+  264:
+  - string: Chat with friend in "tell" mode.
+  265:
+  - string: Send friend a PlayOnline message.
+  266:
+  - string: View received PlayOnline messages.
+  267:
+  - string: View away message.
+  268:
+  - string: Set the number of items.
+  269:
+  - string: Automatically rearrange items.
+  270:
+  - string: Manually rearrange items.
+  271:
+  - string: Use item.
+  272:
+  - string: Dispose of item.
+  273:
+  - string: Set your main job.
+  274:
+  - string: Set your support job.
+  275:
+  - string: Select the job you want to change to.
+  276:
+  - string: Select an ability.
+  277:
+  - string: Assign keys for movement, cursor, and camera controls. (Only when using compact keyboard.)
+  278:
+  - string: Assign keys for shortcut commands.
+  279:
+  - string: View bonuses and other traits of current jobs.
+  280:
+  - string: Activate special abilities of current jobs.
+  281:
+  - string: Use TP to perform special attacks associated with equipped weapon type.
+  282:
+  - string: Attack current target with ranged weapon.
+  283:
+  - string: Give a name to your linkshell group.
+  284:
+  - string: Dispose of this linkshell.
+  285:
+  - string: Send a chat message directly to this member.
+  286:
+  - string: Give a name to the linkshell group. Once set it cannot be changed.
+  287:
+  - string: Set linkshell group color.
+  288:
+  - string: Name linkshell group with these settings.
+  289:
+  - string: Cancel naming.
+  290:
+  - string: Activate link and participate in linkshell chat.
+  291:
+  - string: Dispose of this linkshell item.
+  292:
+  - string: Display members currently linked to this group.
+  293:
+  - string: Create a linkpearl.
+  294:
+  - string: Select a linkshell item.
+  295:
+  - string: 'Make this member an administrator. '
+  296:
+  - string: Remove this member from linkshell group.
+  297:
+  - string: Remove administrator privileges and return to normal member.
+  298:
+  - string: Press the confirm button to display full-screen log window.
+  299:
+  - string: ''
+  300:
+  - string: Cast lots on the treasure you want.
+  301:
+  - string: Cast lots to decide who receives this treasure.
+  302:
+  - string: Forfeit claim on this treasure. Even if you cast lots on a treasure, you can still pass on it afterwards.
+  303:
+  - string: View list of white magic.
+  304:
+  - string: View list of black magic.
+  305:
+  - string: View list of bard songs.
+  306:
+  - string: View list of ninjutsu.
+  307:
+  - string: View list of summoning magic.
+  308:
+  - string: Mark map.
+  309:
+  - string: Use job ability to do wide area scan for enemies.
+  310:
+  - string: Track target.
+  311:
+  - string: Narrow down range and restart remote scan.
+  312:
+  - string: Set marker.
+  313:
+  - string: Set conditions and search.
+  314:
+  - string: Display map centered around selected marker.
+  315:
+  - string: Place/remove selected marker.
+  316:
+  - string: Rename selected marker.
+  317:
+  - string: Delete macro button content.
+  318:
+  - string: Paste macro button content from temporary memory.
+  319:
+  - string: Delete current command line.
+  320:
+  - string: Paste command line from temporary memory.
+  321:
+  - string: View status.
+  322:
+  - string: Equip weapons and armor.
+  323:
+  - string: View spell and song lists.
+  324:
+  - string: View current inventory.
+  325:
+  - string: View job abilities, weapon skills, etc.
+  326:
+  - string: Organize party settings.
+  327:
+  - string: Trade items or money with current target.
+  328:
+  - string: Search for other players according to various conditions.
+  329:
+  - string: Set up and equip linkshell items.
+  330:
+  - string: Use the PlayOnline viewer's Friend List functions.
+  331:
+  - string: View the balance of power for each region.
+  332:
+  - string: View a map of the current area.
+  333:
+  - string: Reply to sender.
+  334:
+  - string: Add sender to Ignore List.
+  335:
+  - string: Leave PlayOnline message as unread.
+  336:
+  - string: End PlayOnline message viewer and return.
+  337:
+  - string: Allow your handle to be added to this person's Friend List, and add this person's handle to your Friend List.
+  338:
+  - string: Accept having your handle added to this person's Friend List.
+  339:
+  - string: Decline having your handle added to this person's Friend List.
+  340:
+  - string: This function is unavailable.
+  341:
+  - string: Add this person to your Ignore List.
+  342:
+  - string: Leave PlayOnline message unread.
+  343:
+  - string: This function is unavailable.
+  344:
+  - string: Send PlayOnline message.
+  345:
+  - string: Cancel PlayOnline message.
+  346:
+  - string: Automatically rearrange spells and songs by type.
+  347:
+  - string: Manually rearrange spells and songs.
+  348:
+  - string: Select area to exit to.
+  349:
+  - string: Leave items in the care of your moogle.
+  350:
+  - string: Use the delivery system.
+  351:
+  - string: Change main and support jobs.
+  352:
+  - string: Specify the price.
+  353:
+  - string: Cast spell.
+  354:
+  - string: Sort spells.
+  355:
+  - string: Leave items in the extra storage space of your Mog House furniture.
+  356:
+  - string: Grow plants in flowerpots.
+  357:
+  - string: Rearrange the furniture in your Mog House.
+  358:
+  - string: .
+  359:
+  - string: Use an ability.
+  360:
+  - string: Use magic. Press right directional button to list spells and songs by type.
+  361:
+  - string: Cast a fishing line.
+  362:
+  - string: Online
+  363:
+  - string: Away
+  364:
+  - string: Busy
+  365:
+  - string: Invisible
+  366:
+  - string: 'Lv. 1:  Friends playing FINAL FANTASY XI.'
+  367:
+  - string: 'Lv. 2: All friends on your Friend List.'
+  368:
+  - string: 'Lv. 3: Everyone who has you on their Friend List.'
+  369:
+  - string: Check on how this plant is growing.
+  370:
+  - string: Sow seeds into this flowerpot.
+  371:
+  - string: Return.
+  372:
+  - string: Dry the plants and flowers growing in this flowerpot.
+  373:
+  - string: Abandon current attempt at gardening and dispose of flowerpot's contents.
+  374:
+  - string: Check on how this plant is growing.
+  375:
+  - string: Nourish this plant with a crystal.
+  376:
+  - string: Gather this plant's yields.
+  377:
+  - string: Select the items or money you wish to send.
+  378:
+  - string: Send selected items to recipient's Mog House.
+  379:
+  - string: Cancel.
+  380:
+  - string: Select an item from the delivery box.
+  381:
+  - string: Take item out of delivery box.
+  382:
+  - string: Dispose of item from delivery box.
+  383:
+  - string: Return item to sender.
+  384:
+  - string: Toggle party flag.
+  385:
+  - string: Search for members to form a party.
+  386:
+  - string: Make yourself available for automatic party formation.
+  387:
+  - string: Set party language.
+  388:
+  - string: View party member details.
+  389:
+  - string: Check treasure distribution setting.
+  390:
+  - string: Leave party.
+  391:
+  - string: Add a new member to party.
+  392:
+  - string: Set treasure distribution method.
+  393:
+  - string: Transfer leadership to another party member.
+  394:
+  - string: Remove member from party.
+  395:
+  - string: Disband party.
+  396:
+  - string: Dissolve current alliance with other party.
+  397:
+  - string: Prefer Japanese-speaking parties.
+  398:
+  - string: Prefer English-speaking parties.
+  399:
+  - string: Prefer French-speaking parties.
+  400:
+  - string: Turn off party flag.
+  401:
+  - string: Check treasure distribution setting.
+  402:
+  - string: Form an alliance with another party.
+  403:
+  - string: Temporarily pool all treasure and have members cast lots over ownership of each item.
+  404:
+  - string: Select a representative to collect all treasure and to decide on ownership of each item.
+  405:
+  - string: Accept invitation.
+  406:
+  - string: Decline invitation.
+  407:
+  - string: Accept revival.
+  408:
+  - string: Decline revival.
+  409:
+  - string: Place a piece of furniture in your Mog House.
+  410:
+  - string: Clear away all furnishings from this floor of your Mog House.
+  411:
+  - string: Quit rearranging the furniture.
+  412:
+  - string: Move furniture.
+  413:
+  - string: Clear away furniture.
+  414:
+  - string: Clear away all furnishings from this floor of your Mog House.
+  415:
+  - string: Clear away all furnishings on this floor.
+  416:
+  - string: Check your delivery box.
+  417:
+  - string: Read your mail.
+  418:
+  - string: Enter the minimum level to search.
+  419:
+  - string: Enter the maximum level to search.
+  420:
+  - string: Begin search.
+  421:
+  - string: Cancel search.
+  422:
+  - string: Enter handle to search.
+  423:
+  - string: Enter handle ID to search.
+  424:
+  - string: Enter PlayOnline e-mail address to search.
+  425:
+  - string: Enter name to search.
+  426:
+  - string: Chat in "tell" mode.
+  427:
+  - string: Send a PlayOnline message.
+  428:
+  - string: 'Invite to join your party. '
+  429:
+  - string: Refine search by area.
+  430:
+  - string: Refine search by character name.
+  431:
+  - string: Refine search by job.
+  432:
+  - string: Refine search by allegiance.
+  433:
+  - string: Refine search by race.
+  434:
+  - string: Refine search by level.
+  435:
+  - string: Refine search by mission rank.
+  436:
+  - string: Refine search by Friend List.
+  437:
+  - string: Refine search by current linkshell group.
+  438:
+  - string: Refine search by search comment.
+  439:
+  - string: Search for samurai.
+  440:
+  - string: Search for ninja.
+  441:
+  - string: Search for dragoons.
+  442:
+  - string: Search for summoners.
+  443:
+  - string: Search for people with mission rank one.
+  444:
+  - string: Search for people with mission rank two.
+  445:
+  - string: Search for people with mission rank three.
+  446:
+  - string: Search for people with mission rank four.
+  447:
+  - string: Search for people with mission rank five.
+  448:
+  - string: Search for people with mission rank six.
+  449:
+  - string: Search for people with mission rank seven.
+  450:
+  - string: Search for people with mission rank eight.
+  451:
+  - string: Search for people with mission rank nine.
+  452:
+  - string: Search for people with mission rank ten.
+  453:
+  - string: Search for people by area.
+  454:
+  - string: Search for people by name.
+  455:
+  - string: Search for people by job.
+  456:
+  - string: Search for people by allegiance.
+  457:
+  - string: Search for people by race.
+  458:
+  - string: Search for people by level.
+  459:
+  - string: Search for people by mission rank.
+  460:
+  - string: Search for people on your Friend List.
+  461:
+  - string: Search for people in your current linkshell group.
+  462:
+  - string: Search for people by comment.
+  463:
+  - string: Edit your search comment.
+  464:
+  - string: Purchase this merchandise?
+  465:
+  - string: Cancel purchase.
+  466:
+  - string: Sell this merchandise?
+  467:
+  - string: Cancel sale.
+  468:
+  - string: View list of current missions.
+  469:
+  - string: View list of current quests.
+  470:
+  - string: View list of key items. Key items cannot be traded or dropped.
+  471:
+  - string: View contents of Mog House, Mog Case, and other such storage.
+  472:
+  - string: Select merchandise from your inventory to place on sale in your bazaar.
+  473:
+  - string: Edit equipment sets and the user-defined macros in your macro palettes.
+  474:
+  - string: Change the game's options.
+  475:
+  - string: Search for solutions to past problems or report new instances of trouble.
+  476:
+  - string: Display total time spent in Vana'diel.
+  477:
+  - string: Display current time in Vana'diel and on Earth. Also toggles the on-screen clock and weekday display.
+  478:
+  - string: Quit FINAL FANTASY XI and return to title screen.
+  479:
+  - string: Log out from FINAL FANTASY XI and PlayOnline.
+  480:
+  - string: View your profile including current allegiance and title.
+  481:
+  - string: View all job levels achieved so far.
+  482:
+  - string: View current combat skills.
+  483:
+  - string: View current magic skills.
+  484:
+  - string: View current craft skills.
+  485:
+  - string: Enter recipient's name.
+  486:
+  - string: Is recipient's name correct?
+  487:
+  - string: Cancel.
+  488:
+  - string: Select a text category.
+  489:
+  - string: Set RGB color values.
+  490:
+  - string: Change color to new RGB values.
+  491:
+  - string: Cancel color adjustment.
+  492:
+  - string: Select the items you wish to synthesize.
+  493:
+  - string: Synthesize this combination of items.
+  494:
+  - string: Cancel synthesis.
+  495:
+  - string: Return to list of merchandise on auction.
+  496:
+  - string: Sort by highest damage rating.
+  497:
+  - string: Sort by shortest delay.
+  498:
+  - string: Sort by highest required level.
+  499:
+  - string: Narrow down list to weapons usable by current job.
+  500:
+  - string: Narrow down list to weapons usable by your race.
+  501:
+  - string: View bonuses and other traits of current jobs.
+  502:
+  - string: Activate special abilities of current jobs.
+  503:
+  - string: Use TP to perform special attacks associated with equipped weapon type.
+  504:
+  - string: Attack current target with ranged weapon.
+  505:
+  - string: Issue command to pet monster.
+  506:
+  - string: Activate special abilities of current jobs.
+  507:
+  - string: Use TP to perform special attacks associated with equipped weapon type.
+  508:
+  - string: Manually rearrange abilities.
+  509:
+  - string: Sort by highest defense rating.
+  510:
+  - string: Sort by elemental resistance.
+  511:
+  - string: Narrow down list to armor usable by current job.
+  512:
+  - string: Narrow down list to armor usable by your race.
+  513:
+  - string: Change auto-attack target.
+  514:
+  - string: Estimate opponent's relative strength.
+  515:
+  - string: View all merchandise up for auction.
+  516:
+  - string: Place unwanted items on auction.
+  517:
+  - string: Check your items currently placed on auction.
+  518:
+  - string: View weapons on auction.
+  519:
+  - string: View armor on auction.
+  520:
+  - string: View magic scrolls on auction.
+  521:
+  - string: View medicines on auction.
+  522:
+  - string: View furnishings on auction.
+  523:
+  - string: View synthesis materials on auction.
+  524:
+  - string: View food on auction.
+  525:
+  - string: View crystals on auction.
+  526:
+  - string: View other miscellaneous items on auction.
+  527:
+  - string: View recent sales data for this merchandise.
+  528:
+  - string: Place a bid on this merchandise.
+  529:
+  - string: Rearrange the order of listed items.
+  530:
+  - string: Remove merchandise from auction.
+  531:
+  - string: View ammunition on auction.
+  532:
+  - string: View fishing gear on auction.
+  533:
+  - string: View pet items on auction.
+  534:
+  - string: Shields, etc.
+  535:
+  - string: Helms, hats, and other headwear.
+  536:
+  - string: Necklaces, collars, and other neckwear.
+  537:
+  - string: Robes, suits of mail, and other body armor.
+  538:
+  - string: Gauntlets, gloves, and other wear for the hands and forearms.
+  539:
+  - string: Belts, obi, etc.
+  540:
+  - string: Trousers, subligars, and other legwear.
+  541:
+  - string: Greaves, boots, and other footwear.
+  542:
+  - string: Capes, mantles, etc.
+  543:
+  - string: Earrings, etc.
+  544:
+  - string: Rings, etc.
+  545:
+  - string: View meals on auction.
+  546:
+  - string: View ingredients on auction.
+  547:
+  - string: View fish on auction.
+  548:
+  - string: Sales data for the last ten transactions of selected merchandise.
+  549:
+  - string: View miscellaneous items on auction.
+  550:
+  - string: View beastman-made items on auction.
+  551:
+  - string: View cards on auction.
+  552:
+  - string: View ninja tools on auction.
+  553:
+  - string: View cursed items on auction.
+  554:
+  - string: Select an item to bid on.
+  555:
+  - string: Display white magic scrolls.
+  556:
+  - string: Display black magic scrolls.
+  557:
+  - string: Display sheet music for bard songs.
+  558:
+  - string: Display ninjutsu scrolls.
+  559:
+  - string: Display summoning pacts.
+  560:
+  - string: View smithing materials on auction.
+  561:
+  - string: View goldsmithing materials on auction.
+  562:
+  - string: View clothcraft materials on auction.
+  563:
+  - string: View leatherworking materials on auction.
+  564:
+  - string: View bonecraft materials on auction.
+  565:
+  - string: View woodworking materials on auction.
+  566:
+  - string: View alchemy materials on auction.
+  567:
+  - string: View meat and egg dishes on auction.
+  568:
+  - string: View seafood dishes on auction.
+  569:
+  - string: View vegetable dishes on auction.
+  570:
+  - string: View soups on auction.
+  571:
+  - string: View bread and rice dishes on auction.
+  572:
+  - string: View sweets on auction.
+  573:
+  - string: View drinks on auction.
+  574:
+  - string: Knuckles, claws, and other hand-to-hand weapons.
+  575:
+  - string: Daggers, knives, etc.
+  576:
+  - string: One-handed swords.
+  577:
+  - string: Two-handed swords.
+  578:
+  - string: One-handed axes.
+  579:
+  - string: Two-handed axes.
+  580:
+  - string: Two-handed scythes.
+  581:
+  - string: Two-handed polearms.
+  582:
+  - string: One-handed katana.
+  583:
+  - string: Two-handed katana.
+  584:
+  - string: One-handed clubs, maces, etc.
+  585:
+  - string: Two-handed staves, poles, etc,
+  586:
+  - string: Bows, guns, and other ranged weapons.
+  587:
+  - string: Musical instruments.
+  588:
+  - string: Arrows, bullets, throwing weapons, tackle, etc.
+  589:
+  - string: Reorder list of abilities.
+  590:
+  - string: Select merchandise to put on sale and set its unit price.
+  591:
+  - string: Edit the message in your comment box.
+  592:
+  - string: Remove registered person from blacklist.
+  593:
+  - string: Delete from blacklist.
+  594:
+  - string: Set the types of text to be filtered from the log window.
+  595:
+  - string: Set your default chat mode.
+  596:
+  - string: Search the area at your feet for a Petra.
+  597:
+  - string: Obtain information on the location of the nearest Rook.
+  598:
+  - string: Temporarily increases movement speed.
+  599:
+  - string: Remove onscreen battle effects to improve frame rate.
+  600:
+  - string: Return to camp?
+  601:
+  - string: Mentors have no affiliation with SQUARE ENIX. As such, we ask that you interact with them at your own discretion.
+  602:
+  - string: Search for people who have entered, or are currently participating in Ballista.
+  603:
+  - string: Refine search to people who have entered, or are currently participating in Ballista.
+  604:
+  - string: Change the equipment on your mannequin.
+  605:
+  - string: 'Remove all equipment from your mannequin. '
+  606:
+  - string: Specialize your character by trading merit points for various skill and attribute adjustments.
+  607:
+  - string: Displays the list of adjustable categories.
+  608:
+  - string: Switch between experience point and merit point accumulation.
+  609:
+  - string: Select the category you would like to adjust.
+  610:
+  - string: Defeating enemies will earn you experience points.
+  611:
+  - string: Defeating enemies will earn you limit points which are exchanged for merit points.
+  612:
+  - string: Use merit points to raise various skills and attributes.
+  613:
+  - string: Lower previously raised skills and attributes. Merit points will not be reimbursed
+  614:
+  - string: Shut down?
+  615:
+  - string: Clear away all furniture?
+  616:
+  - string: Looking to buy, sell, or trade items.
+  617:
+  - string: Comments concerning item synthesis.
+  618:
+  - string: Miscellaneous comments.
+  619:
+  - string: Looking for party.
+  620:
+  - string: Looking for party members.
+  621:
+  - string: Want to sell items.
+  622:
+  - string: Want to buy items.
+  623:
+  - string: Looking to join a linkshell.
+  624:
+  - string: Recruiting linkshell members.
+  625:
+  - string: Miscellaneous comments.
+  626:
+  - string: Talk to fellow.
+  627:
+  - string: Disband with fellow.
+  628:
+  - string: Turn on the controller vibration function.
+  629:
+  - string: Adjust the camera settings.
+  630:
+  - string: Turn off the controller vibration function.
+  631:
+  - string: Shut down?
+  632:
+  - string: Cancel shut down process?
+  633:
+  - string: Leave more items in the care of your moogle.
+  634:
+  - string: Search for blue mages.
+  635:
+  - string: Search for corsairs.
+  636:
+  - string: Search for puppetmasters.
+  637:
+  - string: View list of blue magic. Exceeding certain values (8/16/24) allows the bestowal of Job Trait effects.
+  638:
+  - string: Move item from Mog Locker to your inventory.
+  639:
+  - string: Display corsair dice.
+  640:
+  - string: View content of Mog Safe. Items can only be removed or stored when inside your Mog House or Rent-a-Room.
+  641:
+  - string: View content of Storage. Items can only be removed or stored when inside your Mog House.
+  642:
+  - string: View content of Mog Locker. Items can only be removed or stored when inside your Mog House.
+  643:
+  - string: Set blue magic spells.
+  644:
+  - string: Equip weapons and armor.
+  645:
+  - string: Customize automaton.
+  646:
+  - string: Select a head.
+  647:
+  - string: Select a frame.
+  648:
+  - string: Select an attachment.
+  649:
+  - string: Narrow down list of attachments by elemental type.
+  650:
+  - string: Narrow down list of blue magic spells by monster family.
+  651:
+  - string: Set blue magic spells. The set numbers are assigned colors for level restriction reference. (Lv.20/30/40/50/60/70/80/90)
+  652:
+  - string: View automaton parts on auction.
+  653:
+  - string: Prefer German-speaking parties.
+  654:
+  - string: Able to speak languages other than those listed above.
+  655:
+  - string: View weapon grips on auction.
+  656:
+  - string: View content of Mog Locker. Items can only be removed or stored when in registered areas.
+  657:
+  - string: Search for dancers.
+  658:
+  - string: Search for scholars.
+  659:
+  - string: Copy macro button content into temporary memory.
+  660:
+  - string: Copy current command line into temporary memory.
+  661:
+  - string: Edit macro book.
+  662:
+  - string: Edit name of macro book.
+  663:
+  - string: Copy macro book.
+  664:
+  - string: Paste macro book.
+  665:
+  - string: Delete macro book.
+  666:
+  - string: Open your Mog House to party and alliance members.
+  667:
+  - string: Close your Mog House to visitors.
+  668:
+  - string: Copy macro set.
+  669:
+  - string: Paste macro set.
+  670:
+  - string: Delete macro set.
+  671:
+  - string: Automatically sort items as they enter your inventory.
+  672:
+  - string: Disable the autosort function, and opt to manually sort your inventory.
+  673:
+  - string: Synchronize the levels of all characters in a party to match that of a designated party member.
+  674:
+  - string: Please select the player to whom you would like to synchronize your level.
+  675:
+  - string: Remove your level synchronization.
+  676:
+  - string: Narrow down list of Maze Runes by type.
+  677:
+  - string: Please select a Maze Voucher.
+  678:
+  - string: Please select a Maze Rune.
+  679:
+  - string: This Maze Rune cannot be used with the current Maze Voucher.
+  680:
+  - string: Remove or store items in your Mog Satchel.
+  681:
+  - string: Looking for friends.
+  682:
+  - string: Remove or store items in your Mog Sack.
+  683:
+  - string: Set maximum number of lines.
+  684:
+  - string: Set minimum number of lines.
+  685:
+  - string: Adjust column width.
+  686:
+  - string: New input method supporting scroll wheel and keyboard/mouse combination controls.
+  687:
+  - string: Adjust the size of the macro palette.
+  688:
+  - string: Shift macro palette to the right during combat.
+  689:
+  - string: Lock macro palette to the right at all times.
+  690:
+  - string: View maps of other areas.
+  691:
+  - string: Search for geomancers.
+  692:
+  - string: Search for rune fencers.
+  693:
+  - string: Display monster skills and abilities.
+  694:
+  - string: End this bout of Monstrosity?
+  695:
+  - string: Retry in the same area?
+  696:
+  - string: Set icon pattern to type one.
+  697:
+  - string: Set icon pattern to type two. (Default)
+  698:
+  - string: View list of geomancy.
+  699:
+  - string: Display geomancer luopans.
+  700:
+  - string: Customize monster.
+  701:
+  - string: Choose the species of monster you will possess.
+  702:
+  - string: Select faculties.
+  703:
+  - string: Select a monster name.
+  704:
+  - string: View all attributes achieved so far for this monster.
+  705:
+  - string: Use TP to activate Monster Skills.
+  706:
+  - string: Activate special abilities of current monster.
+  707:
+  - string: Narrow down list of monsters by family.
+  708:
+  - string: Search for people who have entered, or are currently participating in Monstrosity.
+  709:
+  - string: Please note that your experience points will be reset upon performing this action. Proceed?
+  710:
+  - string: Display opening/closing visual effects for windows.
+  711:
+  - string: Do not display opening/closing visual effects for windows.
+  712:
+  - string: Display PC armor graphics normally.
+  713:
+  - string: Display armor graphics of PCs other than yourself statically to enhance computing performance.
+  714:
+  - string: Remove or store items in your Mog Case.
+  715:
+  - string: Receive items.
+  716:
+  - string: Send items.
+  717:
+  - string: Search for monipulators ready to be engaged in belligerency.
+  718:
+  - string: Display a list of Trust magic.
+  719:
+  - string: Release an alter ego under your service.
+  720:
+  - string: Displays the currencies earned from various pieces of content.
+  721:
+  - string: Currencies
+  722:
+  - string: Currency earned from participating in Conquest as a citizen of the Kingdom of San d'Oria.
+  723:
+  - string: Currency earned from participating in Conquest as a citizen of the Republic of Bastok.
+  724:
+  - string: Currency earned from participating in Conquest as a citizen of the Federation of Windurst.
+  725:
+  - string: The number of Beastmen's Seals stored with Shami in Port Jeuno.
+  726:
+  - string: The number of Kindred's Seals stored with Shami in Port Jeuno.
+  727:
+  - string: The number of Kindred's Crests stored with Shami in Port Jeuno.
+  728:
+  - string: The number of High Kindred's Crests stored with Shami in Port Jeuno.
+  729:
+  - string: The number of Sacred Kindred's Crests stored with Shami in Port Jeuno.
+  730:
+  - string: The amount of Ancient Beastcoins stored with Sagheera in Port Jeuno.
+  731:
+  - string: Currency earned from participating in Fields of Valor and Grounds of Valor. Redeemable at all "Field Manuals" or "Grounds Tomes."
+  732:
+  - string: Currency earned from completing hunts. Redeemable at all "Hunt Registries."
+  733:
+  - string: 'Currency earned by fulfilling Fishermen''s Guild contracts. Applicable NPC: "Fennella."'
+  734:
+  - string: 'Currency earned by fulfilling Carpenters'' Guild contracts. Applicable NPC: "Andreas."'
+  735:
+  - string: 'Currency earned by fulfilling Blacksmiths'' Guild contracts. Applicable NPC: "Macuillie."'
+  736:
+  - string: 'Currency earned by fulfilling Goldsmiths'' Guild contracts. Applicable NPC: "Ellard."'
+  737:
+  - string: 'Currency earned by fulfilling Weavers'' Guild contracts. Applicable NPC: "Hauh Colphioh."'
+  738:
+  - string: 'Currency earned by fulfilling Tanners'' Guild contracts. Applicable NPC: "Alivatand."'
+  739:
+  - string: 'Currency earned by fulfilling Boneworkers'' Guild contracts. Applicable NPC: "Samigo-Pormigo."'
+  740:
+  - string: 'Currency earned by fulfilling Alchemists'' Guild contracts. Applicable NPC: "Hemewmew."'
+  741:
+  - string: 'Currency earned by fulfilling Culinarians'' Guild contracts. Applicable NPC: "Qhum Knaidjn."'
+  742:
+  - string: 'Ponzes of cinder yielded from successful synergy attempts. Applicable NPC: "Synergy Engineers."'
+  743:
+  - string: 'The amount of charged fire fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  744:
+  - string: 'The amount of charged ice fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  745:
+  - string: 'The amount of charged wind fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  746:
+  - string: 'The amount of charged earth fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  747:
+  - string: 'The amount of charged lightning fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  748:
+  - string: 'The amount of charged water fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  749:
+  - string: 'The amount of charged light fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  750:
+  - string: 'The amount of charged dark fewell for use in synergy. Applicable NPCs: "Synergy Engineers."'
+  751:
+  - string: 'Currency earned from participating in Ballista. Applicable NPCs: "Tillecoe," "Marshal," "Pursuivant."'
+  752:
+  - string: 'Currency earned from participating in the fellow system. Applicable NPC: "Ajahkeem."'
+  753:
+  - string: 'Currency earned from participating as a member of the San d''Oria team in Chocobo Racing. Applicable NPCs: "Collione," "Palabelle."'
+  754:
+  - string: 'Currency earned from participating as a member of the Bastok team in Chocobo Racing. Applicable NPCs: "Keturah," "Gavoroi."'
+  755:
+  - string: 'Currency earned from participating as a member of the Windurst team in Chocobo Racing. Applicable NPCs: "Bwi Kaghonsa," "Robino-Mobino."'
+  756:
+  - string: 'Currency earned from participating in Meeble Burrows. Applicable NPCs: "Burrow Investigators."'
+  757:
+  - string: 'Currency earned from participating in Meeble Burrows. Applicable NPCs: "Utrig," "Sokrov."'
+  758:
+  - string: 'Currency earned from participating in Meeble Burrows. Applicable NPCs: "Utrig," "Sokrov."'
+  759:
+  - string: 'Currency earned from participating in Meeble Burrows. Applicable NPCs: "Utrig," "Sokrov."'
+  760:
+  - string: 'Currency earned from participating in Moblin Maze Mongers. Applicable NPC: "Chatnachoq."'
+  761:
+  - string: 'Currency earned as a monipulator in Monstrosity. Applicable NPC: "Teyrnon."'
+  762:
+  - string: 'Currency earned as a gladiator in Monstrosity. Applicable NPCs: "Suspicious Elvaan," "Suspicious Galka," "Suspicious Tarutaru."'
+  763:
+  - string: 'Currency earned from participating in Legion. Applicable NPC: "Saarlan."'
+  764:
+  - string: 'Currency earned from participating in Records of Eminence. Applicable NPCs: "Rolandienne," "Isakoth," "Fhelm Jobeizat," "Eternal Flame."'
+  765:
+  - string: 'Currency earned in Mog Gardens. Applicable NPC: "Green Thumb Moogle."'
+  766:
+  - string: Currency earned while performing certain feats under the effects of Sanction in the Empire of Aht Urhgan.
+  767:
+  - string: 'Currency earned from participating in Assault. Applicable NPC: "Yahsra."'
+  768:
+  - string: 'Currency earned from participating in Assault. Applicable NPC: "Isdebaaq."'
+  769:
+  - string: 'Currency earned from participating in Assault. Applicable NPC: "Famad."'
+  770:
+  - string: 'Currency earned from participating in Assault. Applicable NPC: "Lageegee."'
+  771:
+  - string: 'Currency earned from participating in Assault. Applicable NPC: "Bhoy Yhupplo."'
+  772:
+  - string: 'Currency earned from participating in either Nyzul Isle Investigation or Nyzul Isle Uncharted Region. Applicable NPCs: "Sorrowful Sage," "Berangere."'
+  773:
+  - string: 'Currency earned from participating in content that features the enemy Pandemonium Warden. Applicable NPC: "Sanraku."'
+  774:
+  - string: 'Currency earned from participating in Pankration. Applicable NPC: "Zandjarl."'
+  775:
+  - string: 'Currency earned from participating in Einherjar. Applicable NPC: "Kilusha."'
+  776:
+  - string: Currency earned from participating in Campaign as a member of the Allied Armies during the Shadowreign era.
+  777:
+  - string: Currency earned from participating in the Sacred City of Adoulin's colonization efforts.
+  778:
+  - string: Currency earned by trading crystals to "waypoints" in the Sacred City of Adoulin and its environs.
+  779:
+  - string: 'Currency earned from participating in skirmishes as part of the Sacred City of Adoulin''s colonization effort. Applicable NPCs: "Ornery Dhole," "Oston," "Divainy-Gamainy."'
+  780:
+  - string: The number of lebondopt wings stored with Lola in Eastern Adoulin.
+  781:
+  - string: The number of pulchridopt wings stored with Lola in Eastern Adoulin.
+  782:
+  - string: 'Currency earned from participating in Delve. Applicable NPC: "Forri-Porri."'
+  783:
+  - string: Currency used by the Voidwatch.
+  784:
+  - string: 'Currency earned by travelling to Abyssea and participating in Bastion. Applicable NPCs: "Bastion Prefects."'
+  785:
+  - string: Currency earned by travelling to Abyssea and participating in Dominion. Applicable NPCs："Dominion Tacticians."
+  786:
+  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  787:
+  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  788:
+  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  789:
+  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  790:
+  - string: Currency earned from vanquishing notorious monsters in Dominion. Applicable NPCs："Dominion Tacticians."
+  791:
+  - string: Currency earned from ordering mazes in Moblin Maze Mongers, the amount of which increases the more time passes after ordering a maze.
+  792:
+  - string: Items needed to participate in Meeble Burrows. They slowly replenish with the passage of time.
+  793:
+  - string: Items needed to participate in Assault. They slowly replenish with the passage of time.
+  794:
+  - string: Items needed to participate in Campaign operations. They slowly replenish with the passage of time.
+  795:
+  - string: Items needed to participate in coalition assignments. They slowly replenish with the passage of time.
+  796:
+  - string: Items needed to enter the various Abyssean locales. They slowly replenish with the passage of time.
+  797:
+  - string: Items needed to call forth Voidwalkers. They slowly replenish with the passage of time.
+  798:
+  - string: Items needed to call forth creatures in Provenance. They slowly replenish with the passage of time.
+  799:
+  - string: Displays the list of jobs to which you may apply job points.
+  800:
+  - string: Select the job for which you wish to expend job points.
+  801:
+  - string: Remove or store items in your Mog Wardrobe.
+  802:
+  - string: Select a form of storage.
+  803:
+  - string: Display equipment in your inventory.
+  804:
+  - string: Display equipment in your Mog Wardrobe.
+  805:
+  - string: View alchemy materials 2 on auction.
+  806:
+  - string: View miscellaneous items 2 on auction.
+  807:
+  - string: Use the targeting function.
+  808:
+  - string: Refine search by instinct cost.
+  809:
+  - string: The total of your points earned from Gobbie mystery boxes.
+  810:
+  - string: 'The number of copper vouchers for the A.M.A.N.-sponsored Records of Eminence stored with the following NPCs: "Rolandienne," "Isakoth," "Fhelm Jobeizat," "Eternal Flame."'
+  811:
+  - string: The number of bloodshed plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  812:
+  - string: The number of umbrage plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  813:
+  - string: The number of ritualistic plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  814:
+  - string: The number of tutelary plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  815:
+  - string: The number of primacy plans stored with Mrohk Sahjuuli in Aht Urhgan Whitegate.
+  816:
+  - string: View the list of synthesis-related options.
+  817:
+  - string: Register %s as a favorite synthesis item.
+  818:
+  - string: No longer have %s recognized as a favorite synthesis item.
+  819:
+  - string: Expend crystals and synthesize items.
+  820:
+  - string: View the list of previously synthesized items.
+  821:
+  - string: Looking for party or party members to participate in battle content.
+  822:
+  - string: Looking for party or party members to go on missions or quests.
+  823:
+  - string: Looking to buy or sell items.
+  824:
+  - string: Looking for linkshells or linkshell members.
+  825:
+  - string: Looking for friends.
+  826:
+  - string: Looking to craft or find a crafter.
+  827:
+  - string: Looking to join a linkshell.
+  828:
+  - string: Looking for linkshell members.
+  829:
+  - string: Edit the user-defined macros in your macro palettes.
+  830:
+  - string: Edit equipment sets.
+  831:
+  - string: Edit this equipment set.
+  832:
+  - string: Name this equipment set.
+  833:
+  - string: Temporarily copy set.
+  834:
+  - string: Paste copied set.
+  835:
+  - string: Delete set.
+  836:
+  - string: Overwrite this set with the equipment you are currently wearing.
+  837:
+  - string: Equip this set.
+  838:
+  - string: Rearrange the party list.
+  839:
+  - string: The number of ghastly stones stored with Divainy-Gamainy in Western Adoulin.
+  840:
+  - string: The number of ghastly stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  841:
+  - string: The number of ghastly stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  842:
+  - string: The number of verdigris stones stored with Divainy-Gamainy in Western Adoulin.
+  843:
+  - string: The number of verdigris stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  844:
+  - string: The number of verdigris stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  845:
+  - string: The number of wailing stones stored with Divainy-Gamainy in Western Adoulin.
+  846:
+  - string: The number of wailing stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  847:
+  - string: The number of wailing stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  848:
+  - string: The number of snowslit stones stored with Divainy-Gamainy in Western Adoulin.
+  849:
+  - string: The number of snowslit stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  850:
+  - string: The number of snowslit stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  851:
+  - string: The number of snowtip stones stored with Divainy-Gamainy in Western Adoulin.
+  852:
+  - string: The number of snowtip stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  853:
+  - string: The number of snowtip stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  854:
+  - string: The number of snowdim stones stored with Divainy-Gamainy in Western Adoulin.
+  855:
+  - string: The number of snowdim stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  856:
+  - string: The number of snowdim stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  857:
+  - string: The number of snoworb stones stored with Divainy-Gamainy in Western Adoulin.
+  858:
+  - string: The number of snoworb stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  859:
+  - string: The number of snoworb stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  860:
+  - string: The number of leafslit stones stored with Divainy-Gamainy in Western Adoulin.
+  861:
+  - string: The number of leafslit stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  862:
+  - string: The number of leafslit stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  863:
+  - string: The number of leaftip stones stored with Divainy-Gamainy in Western Adoulin.
+  864:
+  - string: The number of leaftip stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  865:
+  - string: The number of leaftip stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  866:
+  - string: The number of leafdim stones stored with Divainy-Gamainy in Western Adoulin.
+  867:
+  - string: The number of leafdim stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  868:
+  - string: The number of leafdim stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  869:
+  - string: The number of leaforb stones stored with Divainy-Gamainy in Western Adoulin.
+  870:
+  - string: The number of leaforb stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  871:
+  - string: The number of leaforb stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  872:
+  - string: The number of duskslit stones stored with Divainy-Gamainy in Western Adoulin.
+  873:
+  - string: The number of duskslit stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  874:
+  - string: The number of duskslit stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  875:
+  - string: The number of dusktip stones stored with Divainy-Gamainy in Western Adoulin.
+  876:
+  - string: The number of dusktip stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  877:
+  - string: The number of dusktip stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  878:
+  - string: The number of duskdim stones stored with Divainy-Gamainy in Western Adoulin.
+  879:
+  - string: The number of duskdim stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  880:
+  - string: The number of duskdim stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  881:
+  - string: The number of duskorb stones stored with Divainy-Gamainy in Western Adoulin.
+  882:
+  - string: The number of duskorb stones +1 stored with Divainy-Gamainy in Western Adoulin.
+  883:
+  - string: The number of duskorb stones +2 stored with Divainy-Gamainy in Western Adoulin.
+  884:
+  - string: Select a language to limit your search to.
+  885:
+  - string: Display a list of items related to Unity Concord.
+  886:
+  - string: Display information about your Unity.
+  887:
+  - string: Display information about Unity rankings.
+  888:
+  - string: Display the members logged in to the designated Unity.
+  889:
+  - string: Designate a Unity and perform a search.
+  890:
+  - string: Designate a Unity and limit your search.
+  891:
+  - string: Select the Unity you belong to.
+  892:
+  - string: Select a Unity.
+  893:
+  - string: Currency earned from participation in Unity Concord.
+  894:
+  - string: Adjust shared window settings.
+  895:
+  - string: Adjust individual window settings.
+  896:
+  - string: Display separate log windows.
+  897:
+  - string: Display only one log window.
+  898:
+  - string: Display timestamps in the log window(s).
+  899:
+  - string: Stop displaying timestamps in the log window(s).
+  900:
+  - string: Designate which messages appear in which window. Only active when multiple log windows are displayed.
+  901:
+  - string: Designate which chat-related logs appear in which window. Only active when multiple log windows are displayed.
+  902:
+  - string: Desginate which messages related to yourself appear in which window. Only active when multiple log windows are displayed.
+  903:
+  - string: Display which messages related to entites other than yourself appear in which window. Only active when multiple log windows are displayed.
+  904:
+  - string: Desginate which system-related messages appear in which window. Only active when multiple windows are displayed.
+  905:
+  - string: Designate which logs appear in which window. Only active when multiple windows are displayed.
+  906:
+  - string: Reset log window settings to the default state.
+  907:
+  - string: Select items to be displayed in the log.
+  908:
+  - string: Search for a designated player.
+  909:
+  - string: Target a designated player. The command will fail if they are out of range.
+  910:
+  - string: Set maximum number of lines to 5.
+  911:
+  - string: Set maximum number of lines to 4.
+  912:
+  - string: Search for people in your current linkshell 2 group.
+  913:
+  - string: Refine search by current linkshell 2 group.
+  914:
+  - string: Separate the log window into an upper and lower version.
+  915:
+  - string: Separate the log window into a left and right version.
+  916:
+  - string: Adjust further miscellaneous settings for FINAL FANTASY XI.
+  917:
+  - string: Display weapon effects.
+  918:
+  - string: Remove weapon effects to improve speed and performance.
+  919:
+  - string: Fix the look of your own equipment.
+  920:
+  - string: Set the look of your own equipment to match that which is worn.
+  921:
+  - string: Set appearance of own equipment to that of this item set.
+  922:
+  - string: Relinquish the right to cast lots on all spoils for which you have not yet done so.
+  923:
+  - string: The number of mellidopt wings stored with Lorissa in Yorcia Weald.
+  924:
+  - string: Display time stamps down to the minute in the log window.
+  925:
+  - string: Display time stamps down to the second in the log window.
+  926:
+  - string: Display the Friend List and the Emote List.
+  927:
+  - string: Manually rearrange emotes.
+  928:
+  - string: Display the Emote List.
+  929:
+  - string: Display graphics delineating areas of effect when displaying the subtarget of abilities and spells.
+  930:
+  - string: Hide display of graphics delineating areas of effect.
+  931:
+  - string: Select emote to move.
+  932:
+  - string: Select emote to switch with the first.
+  933:
+  - string: Move item from Mog Safe 2 to your inventory.
+  934:
+  - string: Select item in Mog Safe to move.
+  935:
+  - string: View content of Mog Safe. Items can only be removed or stored when inside your Mog House.
+  936:
+  - string: Change house style.
+  937:
+  - string: Select house style.
+  938:
+  - string: Select furnishing from your Mog Safe.
+  939:
+  - string: Select furnishing from your Mog Safe 2.
+  940:
+  - string: 'The number of pinches of fine powder gleaned from adventures in Eschan areas and Reisenjima. Applicable NPCs: "Affi," "Nolan," "Dremi," "Oseem," "Shiftrix."'
+  941:
+  - string: 'The number of perfectly spherical objects obtained in Eschan areas and Reisenjima. Applicable NPC: "Nolan."'
+  942:
+  - string: Display a visual effect on targets effected by the target, subtarget, and area of effect cursors.
+  943:
+  - string: Hide the target visual effect.
+  944:
+  - string: Display party member status icons.
+  945:
+  - string: Hide party member status icons.
+  946:
+  - string: Display status icon timers.
+  947:
+  - string: Hide status icon timers.
+  948:
+  - string: Enable camera collision on Mog House furniture.
+  949:
+  - string: Disable camera collision on Mog House furniture.
+  950:
+  - string: Focus-target a party member.
+  951:
+  - string: Enter request acceptance mode.
+  952:
+  - string: Stop waiting for requests.
+  953:
+  - string: Display players currently requesting to join.
+  954:
+  - string: Express desire to join another's party.
+  955:
+  - string: Cancel request to join another's party.
+  956:
+  - string: Delete request history.
+  957:
+  - string: Delete current request from history.
+  958:
+  - string: Set audio alert for when you have been invited to a party.
+  959:
+  - string: Turn off audio alerts for party invitations (default).
+  960:
+  - string: Play sound 1 when invited to a party.
+  961:
+  - string: Play sound 2 when invited to a party.
+  962:
+  - string: Play sound 3 when invited to a party.
+  963:
+  - string: Play sound 4 when invited to a party.
+  964:
+  - string: Play sound 5 when invited to a party.
+  965:
+  - string: Play sound 6 when invited to a party.
+  966:
+  - string: Play sound 7 when invited to a party.
+  967:
+  - string: Search for players currently requesting to join.
+  968:
+  - string: Refine search by requesting players.
+  969:
+  - string: Select an item from the inventory and then use the left macro button or the Ctrl key while highlighting another item to compare them.
+  970:
+  - string: The number of Rem's Tale chapters 1 stored with Monisette in Port Jeuno.
+  971:
+  - string: The number of Rem's Tale chapters 2 stored with Monisette in Port Jeuno.
+  972:
+  - string: The number of Rem's Tale chapters 3 stored with Monisette in Port Jeuno.
+  973:
+  - string: The number of Rem's Tale chapters 4 stored with Monisette in Port Jeuno.
+  974:
+  - string: The number of Rem's Tale chapters 5 stored with Monisette in Port Jeuno.
+  975:
+  - string: The number of Rem's Tale chapters 6 stored with Monisette in Port Jeuno.
+  976:
+  - string: The number of Rem's Tale chapters 7 stored with Monisette in Port Jeuno.
+  977:
+  - string: The number of Rem's Tale chapters 8 stored with Monisette in Port Jeuno.
+  978:
+  - string: The number of Rem's Tale chapters 9 stored with Monisette in Port Jeuno.
+  979:
+  - string: The number of Rem's Tale chapters 10 stored with Monisette in Port Jeuno.
+  980:
+  - string: 'Currency earned from trading in unwanted equipment to the A.M.A.N. Applicable NPC: "A.M.A.N. Reclaimer."'
+  981:
+  - string: The number of pellucid stones stored with Oseem in Norg.
+  982:
+  - string: The number of fern stones stored with Oseem in Norg.
+  983:
+  - string: The number of taupe stones stored with Oseem in Norg.
+  984:
+  - string: The amount of merit points you have converted into lovely potpourri.
+  985:
+  - string: Adjust yet more miscellaneous settings for FINAL FANTASY XI.
+  986:
+  - string: Disable software keyboard.
+  987:
+  - string: View miscellaneous items 3 on auction.
+  988:
+  - string: Sort items by category when organizing them.
+  989:
+  - string: Sort items by name when organizing them and stacking them when possible.
+  990:
+  - string: Remove or store items in your second Mog Wardrobe.
+  991:
+  - string: Remove or store items in your third Mog Wardrobe.
+  992:
+  - string: Remove or store items in your fourth Mog Wardrobe.
+  993:
+  - string: Display equipment in your second Mog Wardrobe.
+  994:
+  - string: Display equipment in your third Mog Wardrobe.
+  995:
+  - string: Display equipment in your fourth Mog Wardrobe.
+  996:
+  - string: Call forth your mount.
+  997:
+  - string: Rearrange your mounts.
+  998:
+  - string: Select a mount to move.
+  999:
+  - string: Select a mount to switch with the first.
+  1000:
+  - string: The number of login points you possess.
+  1001:
+  - string: The number of fire crystals stored with ephemeral moogles.
+  1002:
+  - string: The number of ice crystals stored with ephemeral moogles.
+  1003:
+  - string: The number of wind crystals stored with ephemeral moogles.
+  1004:
+  - string: The number of earth crystals stored with ephemeral moogles.
+  1005:
+  - string: The number of lightning crystals stored with ephemeral moogles.
+  1006:
+  - string: The number of water crystals stored with ephemeral moogles.
+  1007:
+  - string: The number of light crystals stored with ephemeral moogles.
+  1008:
+  - string: The number of dark crystals stored with ephemeral moogles.
+  1009:
+  - string: 'The number of hallmarks obtained through participation in Ambuscade. This value resets every version update. Applicable NPC: "Gorpa-Masorpa."'
+  1010:
+  - string: 'The running total of hallmarks obtained through participation in Ambuscade. This value resets every version update. Applicable NPC: "Gorpa-Masorpa."'
+  1011:
+  - string: 'The number of badges of gallantry obtained through participation in Ambuscade while in a group with other players. This value resets every version update. Applicable NPC: "Gorpa-Masorpa."'

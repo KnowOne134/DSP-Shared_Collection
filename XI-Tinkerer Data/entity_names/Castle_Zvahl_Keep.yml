@@ -1,0 +1,667 @@
+names:
+- id: 17440769
+  name: Demon Pawn
+- id: 17440770
+  name: Evil Eye
+- id: 17440771
+  name: Evil Eye
+- id: 17440772
+  name: Evil Eye
+- id: 17440773
+  name: Demon Wizard
+- id: 17440774
+  name: Evil Eye
+- id: 17440775
+  name: Demon Knight
+- id: 17440776
+  name: Evil Eye
+- id: 17440777
+  name: Demon Warlock
+- id: 17440778
+  name: Demon's Elemental
+- id: 17440779
+  name: Evil Eye
+- id: 17440780
+  name: Goblin Poacher
+- id: 17440781
+  name: Goblin Trader
+- id: 17440782
+  name: Goblin's Bat
+- id: 17440783
+  name: Goblin Robber
+- id: 17440784
+  name: Goblin Reaper
+- id: 17440785
+  name: Goblin Poacher
+- id: 17440786
+  name: Goblin Trader
+- id: 17440787
+  name: Goblin's Bat
+- id: 17440788
+  name: Goblin Robber
+- id: 17440789
+  name: Goblin Reaper
+- id: 17440790
+  name: Goblin Poacher
+- id: 17440791
+  name: Goblin Trader
+- id: 17440792
+  name: Goblin's Bat
+- id: 17440793
+  name: Goblin Robber
+- id: 17440794
+  name: Goblin Reaper
+- id: 17440795
+  name: Goblin Poacher
+- id: 17440796
+  name: Goblin Trader
+- id: 17440797
+  name: Goblin's Bat
+- id: 17440798
+  name: Goblin Robber
+- id: 17440799
+  name: Goblin Reaper
+- id: 17440800
+  name: Goblin Hunter
+- id: 17440801
+  name: Goblin Bouncer
+- id: 17440802
+  name: Goblin Enchanter
+- id: 17440803
+  name: Goblin Hunter
+- id: 17440804
+  name: Goblin Bouncer
+- id: 17440805
+  name: Goblin Enchanter
+- id: 17440806
+  name: Goblin Hunter
+- id: 17440807
+  name: Goblin Bouncer
+- id: 17440808
+  name: Goblin Enchanter
+- id: 17440809
+  name: Goblin Hunter
+- id: 17440810
+  name: Goblin Bouncer
+- id: 17440811
+  name: Goblin Enchanter
+- id: 17440812
+  name: Goblin Hunter
+- id: 17440813
+  name: Goblin Bouncer
+- id: 17440814
+  name: Goblin Enchanter
+- id: 17440815
+  name: Goblin Hunter
+- id: 17440816
+  name: Goblin Bouncer
+- id: 17440817
+  name: Goblin Enchanter
+- id: 17440818
+  name: Goblin Hunter
+- id: 17440819
+  name: Goblin Bouncer
+- id: 17440820
+  name: Goblin Enchanter
+- id: 17440821
+  name: Goblin Hunter
+- id: 17440822
+  name: Goblin Bouncer
+- id: 17440823
+  name: Goblin Enchanter
+- id: 17440824
+  name: Goblin Hunter
+- id: 17440825
+  name: Goblin Bouncer
+- id: 17440826
+  name: Goblin Enchanter
+- id: 17440827
+  name: Orcish Bowshooter
+- id: 17440828
+  name: Orcish Footsoldier
+- id: 17440829
+  name: Orcish Gladiator
+- id: 17440830
+  name: Orcish Trooper
+- id: 17440831
+  name: Orcish Bowshooter
+- id: 17440832
+  name: Orcish Footsoldier
+- id: 17440833
+  name: Orcish Gladiator
+- id: 17440834
+  name: Orcish Trooper
+- id: 17440835
+  name: Orcish Bowshooter
+- id: 17440836
+  name: Orcish Footsoldier
+- id: 17440837
+  name: Orcish Gladiator
+- id: 17440838
+  name: Orcish Trooper
+- id: 17440839
+  name: Orcish Bowshooter
+- id: 17440840
+  name: Orcish Footsoldier
+- id: 17440841
+  name: Orcish Gladiator
+- id: 17440842
+  name: Orcish Trooper
+- id: 17440843
+  name: Orcish Bowshooter
+- id: 17440844
+  name: Orcish Footsoldier
+- id: 17440845
+  name: Orcish Gladiator
+- id: 17440846
+  name: Orcish Trooper
+- id: 17440847
+  name: Orcish Veteran
+- id: 17440848
+  name: Orcish Predator
+- id: 17440849
+  name: Orcish Zerker
+- id: 17440850
+  name: Orcish Warchief
+- id: 17440851
+  name: Orcish Veteran
+- id: 17440852
+  name: Orcish Predator
+- id: 17440853
+  name: Orcish Zerker
+- id: 17440854
+  name: Orcish Warchief
+- id: 17440855
+  name: Orcish Veteran
+- id: 17440856
+  name: Orcish Predator
+- id: 17440857
+  name: Orcish Zerker
+- id: 17440858
+  name: Orcish Warchief
+- id: 17440859
+  name: Orcish Veteran
+- id: 17440860
+  name: Orcish Predator
+- id: 17440861
+  name: Orcish Zerker
+- id: 17440862
+  name: Orcish Warchief
+- id: 17440863
+  name: Orcish Veteran
+- id: 17440864
+  name: Orcish Predator
+- id: 17440865
+  name: Orcish Zerker
+- id: 17440866
+  name: Orcish Warchief
+- id: 17440867
+  name: Orcish Veteran
+- id: 17440868
+  name: Orcish Predator
+- id: 17440869
+  name: Orcish Zerker
+- id: 17440870
+  name: Orcish Warchief
+- id: 17440871
+  name: Orcish Veteran
+- id: 17440872
+  name: Orcish Predator
+- id: 17440873
+  name: Orcish Zerker
+- id: 17440874
+  name: Orcish Warchief
+- id: 17440875
+  name: Evil Eye
+- id: 17440876
+  name: Evil Eye
+- id: 17440877
+  name: Evil Eye
+- id: 17440878
+  name: Evil Eye
+- id: 17440879
+  name: Elder Quadav
+- id: 17440880
+  name: Iron Quadav
+- id: 17440881
+  name: Spinel Quadav
+- id: 17440882
+  name: Emerald Quadav
+- id: 17440883
+  name: Elder Quadav
+- id: 17440884
+  name: Iron Quadav
+- id: 17440885
+  name: Spinel Quadav
+- id: 17440886
+  name: Emerald Quadav
+- id: 17440887
+  name: Elder Quadav
+- id: 17440888
+  name: Iron Quadav
+- id: 17440889
+  name: Spinel Quadav
+- id: 17440890
+  name: Emerald Quadav
+- id: 17440891
+  name: Elder Quadav
+- id: 17440892
+  name: Iron Quadav
+- id: 17440893
+  name: Spinel Quadav
+- id: 17440894
+  name: Emerald Quadav
+- id: 17440895
+  name: Elder Quadav
+- id: 17440896
+  name: Iron Quadav
+- id: 17440897
+  name: Spinel Quadav
+- id: 17440898
+  name: Emerald Quadav
+- id: 17440899
+  name: Steel Quadav
+- id: 17440900
+  name: Mythril Quadav
+- id: 17440901
+  name: Gold Quadav
+- id: 17440902
+  name: Topaz Quadav
+- id: 17440903
+  name: Steel Quadav
+- id: 17440904
+  name: Mythril Quadav
+- id: 17440905
+  name: Gold Quadav
+- id: 17440906
+  name: Topaz Quadav
+- id: 17440907
+  name: Steel Quadav
+- id: 17440908
+  name: Mythril Quadav
+- id: 17440909
+  name: Gold Quadav
+- id: 17440910
+  name: Topaz Quadav
+- id: 17440911
+  name: Steel Quadav
+- id: 17440912
+  name: Mythril Quadav
+- id: 17440913
+  name: Gold Quadav
+- id: 17440914
+  name: Topaz Quadav
+- id: 17440915
+  name: Yagudo Zealot
+- id: 17440916
+  name: Yagudo Conquistador
+- id: 17440917
+  name: Yagudo Lutenist
+- id: 17440918
+  name: Yagudo Prior
+- id: 17440919
+  name: Yagudo Zealot
+- id: 17440920
+  name: Yagudo Conquistador
+- id: 17440921
+  name: Yagudo Lutenist
+- id: 17440922
+  name: Yagudo Prior
+- id: 17440923
+  name: Yagudo Zealot
+- id: 17440924
+  name: Yagudo Conquistador
+- id: 17440925
+  name: Yagudo Lutenist
+- id: 17440926
+  name: Yagudo Prior
+- id: 17440927
+  name: Yagudo Zealot
+- id: 17440928
+  name: Yagudo Conquistador
+- id: 17440929
+  name: Yagudo Lutenist
+- id: 17440930
+  name: Yagudo Prior
+- id: 17440931
+  name: Yagudo Zealot
+- id: 17440932
+  name: Yagudo Conquistador
+- id: 17440933
+  name: Yagudo Lutenist
+- id: 17440934
+  name: Yagudo Prior
+- id: 17440935
+  name: Yagudo Sentinel
+- id: 17440936
+  name: Yagudo Chanter
+- id: 17440937
+  name: Yagudo Inquisitor
+- id: 17440938
+  name: Yagudo Abbot
+- id: 17440939
+  name: Yagudo Sentinel
+- id: 17440940
+  name: Yagudo Chanter
+- id: 17440941
+  name: Yagudo Inquisitor
+- id: 17440942
+  name: Yagudo Abbot
+- id: 17440943
+  name: Yagudo Sentinel
+- id: 17440944
+  name: Yagudo Chanter
+- id: 17440945
+  name: Yagudo Inquisitor
+- id: 17440946
+  name: Yagudo Abbot
+- id: 17440947
+  name: Evil Eye
+- id: 17440948
+  name: Evil Eye
+- id: 17440949
+  name: Evil Eye
+- id: 17440950
+  name: Evil Eye
+- id: 17440951
+  name: Demon Pawn
+- id: 17440952
+  name: Demon Pawn
+- id: 17440953
+  name: Demon Pawn
+- id: 17440954
+  name: Morbid Eye
+- id: 17440955
+  name: Morbid Eye
+- id: 17440956
+  name: Morbid Eye
+- id: 17440957
+  name: Morbid Eye
+- id: 17440958
+  name: Demon Pawn
+- id: 17440959
+  name: Demon Knight
+- id: 17440960
+  name: Demon Warlock
+- id: 17440961
+  name: Demon's Elemental
+- id: 17440962
+  name: Demon Wizard
+- id: 17440963
+  name: Baron Vapula
+- id: 17440964
+  name: Demon Wizard
+- id: 17440965
+  name: Demon Pawn
+- id: 17440966
+  name: Demon Warlock
+- id: 17440967
+  name: Demon's Elemental
+- id: 17440968
+  name: Demon Knight
+- id: 17440969
+  name: Count Bifrons
+- id: 17440970
+  name: Demon Wizard
+- id: 17440971
+  name: Demon Pawn
+- id: 17440972
+  name: Demon Knight
+- id: 17440973
+  name: Demon Warlock
+- id: 17440974
+  name: Demon's Elemental
+- id: 17440975
+  name: Viscount Morax
+- id: 17440976
+  name: Demon's Elemental
+- id: 17440977
+  name: Demon's Avatar
+- id: 17440978
+  name: Demon Pawn
+- id: 17440979
+  name: Demon Pawn
+- id: 17440980
+  name: Demon Pawn
+- id: 17440981
+  name: Demon Pawn
+- id: 17440982
+  name: Demon Pawn
+- id: 17440983
+  name: Demon Pawn
+- id: 17440984
+  name: Demon Pawn
+- id: 17440985
+  name: Demon Pawn
+- id: 17440986
+  name: Baronet Romwe
+- id: 17440987
+  name: Deadly Iris
+- id: 17440988
+  name: Deadly Iris
+- id: 17440989
+  name: Demon Pawn
+- id: 17440990
+  name: Demon Wizard
+- id: 17440991
+  name: Demon Knight
+- id: 17440992
+  name: Demon Warlock
+- id: 17440993
+  name: Demon's Elemental
+- id: 17440994
+  name: Demon Pawn
+- id: 17440995
+  name: Demon Wizard
+- id: 17440996
+  name: Demon Knight
+- id: 17440997
+  name: Demon Warlock
+- id: 17440998
+  name: Demon's Elemental
+- id: 17440999
+  name: Deadly Iris
+- id: 17441000
+  name: Deadly Iris
+- id: 17441001
+  name: Deadly Iris
+- id: 17441002
+  name: Deadly Iris
+- id: 17441003
+  name: Demon Pawn
+- id: 17441004
+  name: Demon Wizard
+- id: 17441005
+  name: Demon Warlock
+- id: 17441006
+  name: Demon's Elemental
+- id: 17441007
+  name: Demon Knight
+- id: 17441008
+  name: Demon Warlock
+- id: 17441009
+  name: Demon's Elemental
+- id: 17441010
+  name: Demon Knight
+- id: 17441011
+  name: Demon Wizard
+- id: 17441012
+  name: Achieve Master
+- id: 17441013
+  name: Unity Master
+- id: 17441018
+  name: Iron Bar Gate
+- id: 17441019
+  name: Iron Bar Gate
+- id: 17441020
+  name: Iron Bar Gate
+- id: 17441021
+  name: Iron Bar Gate
+- id: 17441022
+  name: Ore Door
+- id: 17441023
+  name: Ore Door
+- id: 17441024
+  name: Iron Bar Gate
+- id: 17441025
+  name: Iron Bar Gate
+- id: 17441026
+  name: Ore Door
+- id: 17441027
+  name: Iron Bar Gate
+- id: 17441028
+  name: Ore Door
+- id: 17441029
+  name: Ore Door
+- id: 17441030
+  name: Ore Door
+- id: 17441031
+  name: Ore Door
+- id: 17441032
+  name: Ore Door
+- id: 17441033
+  name: Ore Door
+- id: 17441034
+  name: Iron Bar Gate
+- id: 17441035
+  name: Iron Bar Gate
+- id: 17441036
+  name: Ore Door
+- id: 17441037
+  name: Ore Door
+- id: 17441038
+  name: Ore Door
+- id: 17441039
+  name: Iron Bar Gate
+- id: 17441040
+  name: Ore Door
+- id: 17441041
+  name: Ore Door
+- id: 17441042
+  name: Ore Door
+- id: 17441043
+  name: Iron Bar Gate
+- id: 17441044
+  name: Iron Bar Gate
+- id: 17441045
+  name: Iron Bar Gate
+- id: 17441046
+  name: Iron Bar Gate
+- id: 17441047
+  name: Iron Bar Gate
+- id: 17441048
+  name: Iron Bar Gate
+- id: 17441049
+  name: Ore Door
+- id: 17441050
+  name: Ore Door
+- id: 17441051
+  name: Iron Bar Gate
+- id: 17441052
+  name: Iron Bar Gate
+- id: 17441053
+  name: Iron Bar Gate
+- id: 17441054
+  name: Ore Door
+- id: 17441055
+  name: Ore Door
+- id: 17441056
+  name: Ore Door
+- id: 17441057
+  name: Ore Door
+- id: 17441058
+  name: Iron Bar Gate
+- id: 17441059
+  name: Iron Bar Gate
+- id: 17441060
+  name: Iron Bar Gate
+- id: 17441061
+  name: Iron Bar Gate
+- id: 17441062
+  name: Ore Door
+- id: 17441063
+  name: Ore Door
+- id: 17441064
+  name: Ore Door
+- id: 17441065
+  name: Iron Bar Gate
+- id: 17441066
+  name: Ore Door
+- id: 17441067
+  name: Ore Door
+- id: 17441068
+  name: Ore Door
+- id: 17441069
+  name: ''
+- id: 17441070
+  name: ''
+- id: 17441071
+  name: ''
+- id: 17441072
+  name: ''
+- id: 17441073
+  name: ''
+- id: 17441074
+  name: ''
+- id: 17441075
+  name: ''
+- id: 17441076
+  name: ''
+- id: 17441077
+  name: ''
+- id: 17441078
+  name: Talking Doll
+- id: 17441080
+  name: Moogle
+- id: 17441081
+  name: Moogle
+- id: 17441082
+  name: Moogle
+- id: 17441083
+  name: Moogle
+- id: 17441084
+  name: Moogle
+- id: 17441085
+  name: Moogle
+- id: 17441086
+  name: Moogle
+- id: 17441087
+  name: Moogle
+- id: 17441088
+  name: Treasure Chest
+- id: 17441089
+  name: Ramblix
+- id: 17441090
+  name: Goblin Footprint
+- id: 17441091
+  name: Ominous Pillar
+- id: 17441092
+  name: Craggy Pillar
+- id: 17441093
+  name: Craggy Pillar
+- id: 17441094
+  name: Craggy Pillar
+- id: 17441095
+  name: Craggy Pillar
+- id: 17441096
+  name: Stooge Moogle
+- id: 17441097
+  name: Kupatete
+- id: 17441098
+  name: Kupignol
+- id: 17441099
+  name: Kupuckl
+- id: 17441100
+  name: Kupert
+- id: 17441101
+  name: Geomagnetic Fount
+- id: 17441102
+  name: 'Home Point #1'
+- id: 17441103
+  name: 'Home Point #2'
+- id: 17441104
+  name: 'Home Point #3'
+- id: 17441105
+  name: 'Home Point #4'
+- id: 17441106
+  name: 'Home Point #5'
