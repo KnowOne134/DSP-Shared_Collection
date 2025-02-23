@@ -1,0 +1,49 @@
+lists:
+  0:
+  - string: east
+  1:
+  - string: southeast
+  2:
+  - string: south
+  3:
+  - string: southwest
+  4:
+  - string: west
+  5:
+  - string: northwest
+  6:
+  - string: north
+  7:
+  - string: northeast
+  8:
+  - string: N
+  9:
+  - string: NNE
+  10:
+  - string: NE
+  11:
+  - string: ENE
+  12:
+  - string: E
+  13:
+  - string: ESE
+  14:
+  - string: SE
+  15:
+  - string: SSE
+  16:
+  - string: S
+  17:
+  - string: SSW
+  18:
+  - string: SW
+  19:
+  - string: WSW
+  20:
+  - string: W
+  21:
+  - string: WNW
+  22:
+  - string: NW
+  23:
+  - string: NNW

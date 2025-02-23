@@ -1,0 +1,25 @@
+lists:
+  0:
+  - string: New Moon
+  1:
+  - string: Waxing Crescent
+  2:
+  - string: Waxing Crescent
+  3:
+  - string: First Quarter Moon
+  4:
+  - string: Waxing Gibbous
+  5:
+  - string: Waxing Gibbous
+  6:
+  - string: Full Moon
+  7:
+  - string: Waning Gibbous
+  8:
+  - string: Waning Gibbous
+  9:
+  - string: Last Quarter Moon
+  10:
+  - string: Waning Crescent
+  11:
+  - string: Waning Crescent

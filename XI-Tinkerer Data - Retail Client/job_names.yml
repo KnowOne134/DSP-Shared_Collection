@@ -1,0 +1,65 @@
+lists:
+  0:
+  - string: None
+  1:
+  - string: Warrior
+  2:
+  - string: Monk
+  3:
+  - string: White Mage
+  4:
+  - string: Black Mage
+  5:
+  - string: Red Mage
+  6:
+  - string: Thief
+  7:
+  - string: Paladin
+  8:
+  - string: Dark Knight
+  9:
+  - string: Beastmaster
+  10:
+  - string: Bard
+  11:
+  - string: Ranger
+  12:
+  - string: Samurai
+  13:
+  - string: Ninja
+  14:
+  - string: Dragoon
+  15:
+  - string: Summoner
+  16:
+  - string: Blue Mage
+  17:
+  - string: Corsair
+  18:
+  - string: Puppetmaster
+  19:
+  - string: Dancer
+  20:
+  - string: Scholar
+  21:
+  - string: Geomancer
+  22:
+  - string: Rune Fencer
+  23:
+  - string: ???
+  24:
+  - string: '888'
+  25:
+  - string: '999'
+  26:
+  - string: AAA
+  27:
+  - string: BBB
+  28:
+  - string: CCC
+  29:
+  - string: DDD
+  30:
+  - string: EEE
+  31:
+  - string: FFF

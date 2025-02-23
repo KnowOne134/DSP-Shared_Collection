@@ -1,0 +1,317 @@
+names:
+- id: 17924098
+  name: Achieve Master
+- id: 17924100
+  name: Unity Master
+- id: 17924124
+  name: ''
+- id: 17924125
+  name: Green Thumb Moogle
+- id: 17924126
+  name: Mog Dinghy
+- id: 17924127
+  name: Mog Dinghy
+- id: 17924128
+  name: Garden Furrow
+- id: 17924129
+  name: 'Garden Furrow #2'
+- id: 17924130
+  name: 'Garden Furrow #3'
+- id: 17924131
+  name: Arboreal Grove
+- id: 17924132
+  name: Arboreal Grove
+- id: 17924133
+  name: 'Arboreal Grove #2'
+- id: 17924134
+  name: 'Arboreal Grove #2'
+- id: 17924135
+  name: 'Arboreal Grove #3'
+- id: 17924136
+  name: 'Arboreal Grove #3'
+- id: 17924137
+  name: 'Arboreal Grove #4'
+- id: 17924138
+  name: 'Arboreal Grove #4'
+- id: 17924139
+  name: Mineral Vein
+- id: 17924140
+  name: Mineral Vein
+- id: 17924141
+  name: 'Mineral Vein #2'
+- id: 17924142
+  name: 'Mineral Vein #2'
+- id: 17924143
+  name: 'Mineral Vein #3'
+- id: 17924144
+  name: 'Mineral Vein #3'
+- id: 17924145
+  name: 'Mineral Vein #4'
+- id: 17924146
+  name: 'Mineral Vein #4'
+- id: 17924147
+  name: Pond Dredger
+- id: 17924148
+  name: ''
+- id: 17924149
+  name: Coastal Fishing Net
+- id: 17924150
+  name: Flotsam
+- id: 17924151
+  name: Plant00
+- id: 17924152
+  name: Plant01
+- id: 17924153
+  name: Plant02
+- id: 17924154
+  name: Plant03
+- id: 17924155
+  name: PlantFurn00
+- id: 17924156
+  name: PlantFurn01
+- id: 17924157
+  name: PlantFurn02
+- id: 17924158
+  name: PlantFurn03
+- id: 17924159
+  name: Plant10
+- id: 17924160
+  name: Plant11
+- id: 17924161
+  name: Plant12
+- id: 17924162
+  name: Plant13
+- id: 17924163
+  name: PlantFurn10
+- id: 17924164
+  name: PlantFurn11
+- id: 17924165
+  name: PlantFurn12
+- id: 17924166
+  name: PlantFurn13
+- id: 17924167
+  name: Plant20
+- id: 17924168
+  name: Plant21
+- id: 17924169
+  name: Plant22
+- id: 17924170
+  name: Plant23
+- id: 17924171
+  name: PlantFurn20
+- id: 17924172
+  name: PlantFurn21
+- id: 17924173
+  name: PlantFurn22
+- id: 17924174
+  name: PlantFurn23
+- id: 17924175
+  name: Debug Moogle
+- id: 17924176
+  name: DIRECTOR
+- id: 17924177
+  name: ''
+- id: 17924178
+  name: KANI01
+- id: 17924179
+  name: KANI02
+- id: 17924180
+  name: KANI03
+- id: 17924181
+  name: KANI04
+- id: 17924182
+  name: KANI05
+- id: 17924183
+  name: Kuyin Hathdenna
+- id: 17924184
+  name: Susuroon
+- id: 17924185
+  name: Yeestog
+- id: 17924186
+  name: Yeestog
+- id: 17924187
+  name: Chacharoon
+- id: 17924188
+  name: DIRECTOR2
+- id: 17924189
+  name: Monsieur Kupont
+- id: 17924190
+  name: Kupivolo
+- id: 17924191
+  name: The Great Kupellion
+- id: 17924192
+  name: '01'
+- id: 17924193
+  name: '02'
+- id: 17924194
+  name: '03'
+- id: 17924195
+  name: '04'
+- id: 17924196
+  name: '1'
+- id: 17924197
+  name: '2'
+- id: 17924198
+  name: '3'
+- id: 17924199
+  name: '4'
+- id: 17924200
+  name: Atelloune
+- id: 17924201
+  name: DIRECTOR3
+- id: 17924202
+  name: Kuyin Hathdenna
+- id: 17924203
+  name: Susuroon
+- id: 17924204
+  name: Yeestog
+- id: 17924205
+  name: ''
+- id: 17924206
+  name: Crabauble
+- id: 17924207
+  name: Ramblix
+- id: 17924208
+  name: Goblin Footprint
+- id: 17924209
+  name: Crabauble
+- id: 17924210
+  name: Garden Strongbox
+- id: 17924211
+  name: Bulging Crate
+- id: 17924213
+  name: Moogle
+- id: 17924214
+  name: Moogle
+- id: 17924215
+  name: Moogle
+- id: 17924216
+  name: Moogle
+- id: 17924217
+  name: Moogle
+- id: 17924218
+  name: Moogle
+- id: 17924219
+  name: Moogle
+- id: 17924220
+  name: Moogle
+- id: 17924221
+  name: Porter Moogle
+- id: 17924223
+  name: ''
+- id: 17924224
+  name: ''
+- id: 17924225
+  name: ''
+- id: 17924226
+  name: ''
+- id: 17924227
+  name: ''
+- id: 17924228
+  name: ''
+- id: 17924229
+  name: Chacharoon
+- id: 17924230
+  name: Chacharoon
+- id: 17924231
+  name: Breeding Monster
+- id: 17924232
+  name: Breeding Monster01
+- id: 17924233
+  name: Breeding Monster02
+- id: 17924234
+  name: Breeding Monster03
+- id: 17924235
+  name: Breeding Monster00
+- id: 17924236
+  name: Ephemeral Moogle
+- id: 17924237
+  name: ''
+- id: 17924238
+  name: Mandragora Assistant
+- id: 17924239
+  name: ''
+- id: 17924240
+  name: ''
+- id: 17924241
+  name: ''
+- id: 17924242
+  name: ''
+- id: 17924243
+  name: ''
+- id: 17924244
+  name: ''
+- id: 17924245
+  name: ''
+- id: 17924246
+  name: ''
+- id: 17924247
+  name: ''
+- id: 17924248
+  name: ''
+- id: 17924249
+  name: ''
+- id: 17924250
+  name: ''
+- id: 17924251
+  name: ''
+- id: 17924252
+  name: ''
+- id: 17924253
+  name: ''
+- id: 17924254
+  name: ''
+- id: 17924255
+  name: ''
+- id: 17924256
+  name: ''
+- id: 17924257
+  name: ''
+- id: 17924258
+  name: ''
+- id: 17924259
+  name: ''
+- id: 17924260
+  name: ''
+- id: 17924261
+  name: ''
+- id: 17924262
+  name: ''
+- id: 17924263
+  name: ''
+- id: 17924264
+  name: ''
+- id: 17924265
+  name: ''
+- id: 17924266
+  name: ''
+- id: 17924267
+  name: ''
+- id: 17924268
+  name: ''
+- id: 17924269
+  name: ''
+- id: 17924270
+  name: ''
+- id: 17924271
+  name: ''
+- id: 17924272
+  name: ''
+- id: 17924273
+  name: ''
+- id: 17924274
+  name: ''
+- id: 17924275
+  name: ''
+- id: 17924276
+  name: ''
+- id: 17924277
+  name: ''
+- id: 17924278
+  name: ''
+- id: 17924279
+  name: ''
+- id: 17924280
+  name: ''
+- id: 17924281
+  name: ''

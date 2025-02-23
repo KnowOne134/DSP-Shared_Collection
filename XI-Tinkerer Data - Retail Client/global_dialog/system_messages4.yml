@@ -1,0 +1,1634 @@
+entries:
+  0: dummy${prompt}
+  1: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[hits/hit] ${choice-definite-entity: 1}[the /]${entity-target} for ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}'
+  2: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  3: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[starts/start] casting ${spell-alt: 1}.${prompt}'
+  4: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] out of range.${prompt}'
+  5: 'Unable to see ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  6: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[defeats/defeat] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  7: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}
+  8: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} experience point${choice-plurality-number: 0}[/s].${prompt}'
+  9: '${color-alt: 121}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[attains/attain] level ${number-alt: 0}!${prompt}'
+  10: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[loses/lose] ${number-alt: 0} experience point${choice-plurality-number: 0}[/s].${prompt}'
+  11: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[falls/fall] to level ${number-alt: 0}.${prompt}'
+  12: |-
+    Cannot attack.
+    Your target is already claimed.${prompt}
+  13: |-
+    Debug Message:
+    　${entity-source}: ${entity-target} is now invincible.${prompt}
+  14: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] attack is countered by ${choice-definite-entity: 1}[the /]${entity-target}. ${number-alt: 3} of ${choice-definite-entity: 1}[the /]${entity-source}${choice-plurality-entity: 1}[''s/''] shadows ${choice-plurality-number: 3}[absorbs/absorb] the damage and ${choice-plurality-number: 3}[disappears/disappear].${prompt}'
+  15: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[misses/miss] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  16: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] casting is interrupted.${prompt}'
+  17: Unable to cast spells at this time.${prompt}
+  18: Unable to cast spells at this time.${prompt}
+  19: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[calls/call] for help!${prompt}'
+  20: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[falls/fall] to the ground.${prompt}'
+  21: No experience points gained.${prompt}
+  22: You cannot call for help at this time.${prompt}
+  23: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[learns/learn] a new spell!${prompt}'
+  24: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}'
+  25: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} MP.${prompt}'
+  26: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] HP and MP.${prompt}'
+  27: |-
+    Debug Message:
+    Cannot execute command.
+    No (BTCALC) command in ATEL source.${prompt}
+  28: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 1[2]}.${prompt}'
+  29: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[is/are] paralyzed.${prompt}'
+  30: '${choice-definite-entity: 1}[The /]${entity-target} anticipates the attack.${prompt}'
+  31: '${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] shadows ${choice-plurality-number: 1}[absorbs/absorb] the damage and ${choice-plurality-number: 1}[disappears/disappear].${prompt}'
+  32: '${choice-definite-entity: 1}[The /]${entity-target} dodges the attack.${prompt}'
+  33: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] attack is countered by ${choice-definite-entity: 1}[the /]${entity-target}. ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[takes/take] ${number-alt: 3} points of damage.${prompt}'
+  34: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[does/do] not have enough MP to cast ${spell-alt: 0}.${prompt}'
+  35: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[lacks/lack] the ninja tools to cast ${spell-alt: 0}.${prompt}'
+  36: 'You lose sight of ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  37: You are too far from the battle to gain experience.${prompt}
+  38: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${sys-msg-3: 0} skill rises 0.${number-alt: 1} points.${prompt}'
+  39: 'You need the Dual Wield ability to equip the ${item-singular-alt: 0[2]} as a sub-weapon.${prompt}'
+  40: 'You cannot use ${spell-alt: 0} in this area.${prompt}'
+  41: '${entity-source}: Status ailment check (${number-alt: 0}）Cannot rest at this time.${prompt}'
+  42: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  43: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[readies/ready] ${skill-alt: 1}.${prompt}'
+  44: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] spikes deal ${number-alt: 3} point${choice-plurality-number: 3}[/s] of damage to ${choice-definite-entity: 0}[the /]${entity-source}.${prompt}'
+  45: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[learns/learn] "${skill-alt: 0}"!${prompt}'
+  46: |-
+    Debug Message:
+    Current POP number: (${number-alt: 0})${prompt}
+  47: '${choice-definite-entity: 0}[The /]${entity-source} cannot cast ${spell-alt: 0}.${prompt}'
+  48: '${spell-alt: 0} cannot be cast on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  49: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[is/are] unable to cast spells.${prompt}'
+  50: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[earns/earn] a merit point! (Total: ${number-alt: 0})${prompt}'
+  51: --Out of sight--${prompt}
+  52: |-
+    ${entity-target} gives up chasing ${entity-source}.
+    ---Find Path Error---${prompt}
+  53: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${sys-msg-3: 0} skill reaches level ${number-alt: 1}.${prompt}'
+  54: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} Besieged point${choice-plurality-number: 1}[/s].${prompt}'
+  55: Unable to use item.${prompt}
+  56: Unable to use item.${prompt}
+  57: Job changed.${prompt}
+  58: Invalid job number.${prompt}
+  59: You do not have access to specified job yet.${prompt}
+  60: You do not have access to support jobs yet.${prompt}
+  61: You cannot have the same job as both main and support jobs.${prompt}
+  62: 'The ${item-singular-alt: 0[2]} fails to activate.${prompt}'
+  63: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[misses/miss] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  64: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] no longer ${status-effect-adjective: 1[2]}.${prompt}'
+  65: 'You are not carrying any Petras. You cannot use the ${item-singular-alt: 0[2]}.${prompt}'
+  66: 'Debug: Resisted spell!${prompt}'
+  67: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[scores/score] a critical hit!
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  68: 'Debug: Casting interrupted!${prompt}'
+  69: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} blocks ${choice-definite-entity: 0}[the /]${entity-source}${choice-plurality-entity: 0}[''s/''] attack with ${choice-target-gender}[his/her] shield.${prompt}'
+  70: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} parries ${choice-definite-entity: 0}[the /]${entity-source}${choice-plurality-entity: 0}[''s/''] attack with ${choice-target-gender}[his/her] weapon.${prompt}'
+  71: '${choice-definite-entity: 0}[The /]${entity-source} cannot perform that action.${prompt}'
+  72: 'That action cannot be performed on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  73: 'Debug: ${entity-target}''s status is now ${status-effect-adjective: 0[2]}.${prompt}'
+  74: 'Debug: ${entity-target} ${choice-plurality-entity: 1}[recovers/recover] from ${status-effect-noun: 0[2]}.${prompt}'
+  75: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] ${spell-alt: 0} has no effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  76: No valid target within area of effect.${prompt}
+  77: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Sange.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  78: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] too far away.${prompt}'
+  79: 'Debug: ${entity-target} ${choice-plurality-entity: 1}[uses/use] Double Attack(${number-alt: 0}％).${prompt}'
+  80: 'Debug: ${entity-target} ${choice-plurality-entity: 1}[uses/use] Triple Attack(${number-alt: 0}％).${prompt}'
+  81: 'Debug: Battle Debug No. (${number-alt: 0}) used on ${entity-target}.${prompt}'
+  82: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}!${prompt}
+  83: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} successfully ${choice-plurality-entity: 0}[removes/remove] ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]}.${prompt}
+  84: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[is/are] paralyzed.${prompt}'
+  85: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[resists/resist] the spell.${prompt}
+  86: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}, but ${choice-definite-entity: 1}[the /]${entity-target} ${choice-plurality-entity: 1}[is/are] outside the area of effect.${prompt}'
+  87: Unable to use job ability.${prompt}
+  88: Unable to use job ability.${prompt}
+  89: Unable to use weapon skill.${prompt}
+  90: Unable to use weapon skill.${prompt}
+  91: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[does/do] not have any ${item-plural-alt: 0[2]}.${prompt}'
+  92: 'Cannot use the ${item-singular-alt: 0[2]} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  93: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[vanishes/vanish].${prompt}
+  94: '${color-alt: 123}You must wait longer to perform that action.${prompt}'
+  95: 'You cannot learn ${spell-alt: 0}. You do not meet the job or level requirements.${prompt}'
+  96: 'You already know ${spell-alt: 0}.${prompt}'
+  97: '${choice-definite-entity: 1}[The /]${entity-target} was defeated by ${choice-definite-entity: 0}[the /]${entity-source}.${prompt}'
+  98: 'You obtain ${article} ${item-article-alt: 0[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  99: '${entity-source}>${entity-target}: ${number-alt: 0}, ${number-alt: 1}${prompt}'
+  100: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.${prompt}'
+  101: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.${prompt}'
+  102: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}
+  103: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}
+  104: Unable to use item. You do not meet the level requirement.${prompt}
+  105: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 1} experience point${choice-plurality-number: 1}[/s].${prompt}'
+  106: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[is/are] intimidated by ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] presence.${prompt}'
+  107: '${color-alt: 123}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] temporarily unable to access support job abilities.${prompt}'
+  108: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Pet's powers increase!${prompt}
+  109: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    Pet's powers increase!${prompt}
+  110: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  111: 'You cannot use ${item-plural-alt: 0[2]} while medicated.${prompt}'
+  112: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] doom counter is now down to ${number-alt: 0}.${prompt}'
+  113: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[falls/fall] to the ground.${prompt}
+  114: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0} on ${choice-definite-entity: 1}[the /]${entity-target}, but the spell fails to take effect.${prompt}'
+  115: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Attacks are enhanced but defense weakens.${prompt}
+  116: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] attacks are enhanced.${prompt}
+  117: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Defense is enhanced but attacks weaken.${prompt}
+  118: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Accuracy is enhanced but evasion is impaired.${prompt}
+  119: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  120: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] accuracy is enhanced.${prompt}
+  121: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] evasion is enhanced.${prompt}
+  122: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[recovers/recover] ${number-alt: 1} HP.${prompt}
+  123: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} successfully ${choice-plurality-entity: 0}[removes/remove] ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]}.${prompt}
+  124: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[achieves/achieve] Gate Breach status!${prompt}'
+  125: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} steals ${article} ${item-article-alt: 1[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  126: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] movement speed increases.${prompt}
+  127: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}
+  128: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 0[2]} and cannot perform that action.${prompt}'
+  129: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[mugs/mug] ${gil: 1} from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  130: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 0[2]} for making an equipment change.${prompt}'
+  131: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] fortified against undead.${prompt}
+  132: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] spikes drain ${number-alt: 3} HP from ${choice-definite-entity: 0}[the /]${entity-source}.${prompt}'
+  133: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[steals/steal] ${number-alt: 1} ${choice-plurality-number: 1}[Petra/Petras] from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  134: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] fortified against arcana.${prompt}
+  135: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  136: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] now under ${choice-definite-entity: 0}[the /]${entity-source}${choice-plurality-entity: 0}['s/'] control.${prompt}
+  137: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[fails/fail] to charm ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  138: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] friendlier.${prompt}
+  139: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}, but ${choice-plurality-entity: 0}[finds/find] nothing.${prompt}'
+  140: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}, and ${choice-plurality-entity: 0}[finds/find] ${article} ${item-article-alt: 1[2]}.${prompt}'
+  141: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}
+  142: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Accuracy Down and Evasion Down.${prompt}
+  143: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Ranged attacks become more accurate.${prompt}
+  144: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Accuracy Down and Evasion Down.${prompt}
+  145: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Accuracy Down and Evasion Down.${prompt}'
+  146: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Accuracy Boost and Evasion Boost.${prompt}
+  147: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Accuracy Boost and Evasion Boost.${prompt}'
+  148: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] fortified against demons.${prompt}
+  149: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] fortified against demons.${prompt}'
+  150: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] fortified against dragons.${prompt}
+  151: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] fortified against dragons.${prompt}'
+  152: 'Additional effect: ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[recovers/recover] ${number-alt: 2} MP.${prompt}'
+  153: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[fails/fail] to steal from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  154: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] out of range.${prompt}'
+  155: You cannot perform that action on the specified target.${prompt}
+  156: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}. No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  157: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Barrage.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  158: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}, but ${choice-plurality-entity: 0}[misses/miss].${prompt}'
+  159: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]} effect disappears!${prompt}
+  160: 'Additional effect: ${status-effect-noun: 2[2]}.${prompt}'
+  161: 'Additional effect: ${number-alt: 2} HP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  162: 'Additional effect: ${number-alt: 2} MP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  163: 'Additional effect: ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}'
+  164: 'Additional effect: ${status-effect-noun: 2[2]}.${prompt}'
+  165: 'Additional effect: ${number-alt: 2} TP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  166: 'Additional effect: ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] the effect of ${status-effect-noun: 2[2]}.${prompt}'
+  167: 'Additional effect: ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[recovers/recover] ${number-alt: 2} HP.${prompt}'
+  168: 'Additional effect: ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${status-effect-noun: 2[2]} effect disappears!${prompt}'
+  169: 'Additional effect: Warp!${prompt}'
+  170: |-
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have high evasion and defense.${prompt}
+  171: |-
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have high evasion.${prompt}
+  172: |-
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have high evasion but low defense.${prompt}
+  173: |-
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have high defense.${prompt}
+  174: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.${prompt}'
+  175: |-
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have low defense.${prompt}
+  176: |-
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have low evasion but high defense.${prompt}
+  177: |-
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have low evasion.${prompt}
+  178: |-
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[seems/seem] ${sys-msg-3: 1}.
+    ${choice-plurality-entity: 1}[It/They] ${choice-plurality-entity: 1}[seems/seem] to have low evasion and defense.${prompt}
+  179: |-
+    ${entity-target}:
+    　hit-eva(${number-alt: 0}) => ${number-alt: 1}%${prompt}
+  180: '　str-vit(${number-alt: 0}) dmg-adj(${number-alt: 1})${prompt}'
+  181: '　atk-def(${number-alt: 0}) ofs-adj%(${number-alt: 1})${prompt}'
+  182: |-
+    ${entity-target}:
+    　MonNo(${number-alt: 0})-Lev(${number-alt: 1})${prompt}
+  183: |-
+    　HIT-EVA(${number-alt: 0})
+    　ATK-DEF(${number-alt: 1})${prompt}
+  184: '  ${entity-source}:ALLIANCE SUM=${number-alt: 0}/LEV=${number-alt: 1}${prompt}'
+  185: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  186: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  187: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${number-alt: 1} HP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  188: '${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}, but ${choice-plurality-entity: 0}[misses/miss] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  189: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  190: '${choice-definite-entity: 0}[The /]${entity-source} cannot use that weapon ability.${prompt}'
+  191: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[is/are] unable to use weapon skills.${prompt}'
+  192: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[does/do] not have enough TP.${prompt}'
+  193: '${skill-alt: 0} cannot be used against that target.${prompt}'
+  194: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  195: |2-
+      ${entity-target}:
+        TOTAL ALLIANCE SUM=${number-alt: 0}/LEV=${number-alt: 1}${prompt}
+  196: 'Skillchain! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}'
+  197: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}, but ${choice-definite-entity: 1}[the /]${entity-target} ${choice-plurality-entity: 1}[resists/resist].
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  198: '${color-alt: 123}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] too far away.${prompt}'
+  199: That action requires a shield.${prompt}
+  200: 'Time left until next use: (${countdown-seconds: 0})${prompt}'
+  201: 'Current time: (${countdown-seconds: 0})${prompt}'
+  202: 'Time left: (${countdown-seconds: 0})${prompt}'
+  203: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 0[2]}.${prompt}'
+  204: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] no longer ${status-effect-adjective: 0[2]}.${prompt}'
+  205: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 0[2]}.${prompt}'
+  206: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${status-effect-noun: 0[2]} effect wears off.${prompt}'
+  207: '　HP / HPMax:${number-alt: 0}/${number-alt: 1}${prompt}'
+  208: '　MP / MPMax:${number-alt: 0}/${number-alt: 1}${prompt}'
+  209: '　TP:${number-alt: 0}%${prompt}'
+  210: '${choice-definite-entity: 0}[The /]${entity-source} cannot charm ${choice-definite-entity: 1}[the /]${entity-target}!${prompt}'
+  211: 'It would be very difficult for ${choice-definite-entity: 0}[the /]${entity-source} to charm ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  212: 'It would be difficult for ${choice-definite-entity: 0}[the /]${entity-source} to charm ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  213: '${choice-definite-entity: 0}[The /]${entity-source} might be able to charm ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  214: '${choice-definite-entity: 0}[The /]${entity-source} should be able to charm ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  215: That action requires a pet.${prompt}
+  216: You do not have an appropriate ranged weapon equipped.${prompt}
+  217: 'You cannot see ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  218: You move and interrupt your aim.${prompt}
+  219: 'You cannot see ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  220: You move and interrupt your aim.${prompt}
+  221: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] pet is released.${prompt}
+  222: '${choice-definite-entity: 1}[The /]${entity-target} isn''t selling anything.${prompt}'
+  223: 'Skillchain: ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}'
+  224: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} MP.${prompt}
+  225: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${number-alt: 1} MP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  226: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${number-alt: 1} TP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  227: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${number-alt: 1} HP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  228: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${number-alt: 1} MP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  229: 'Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} additional point${choice-plurality-number: 2}[/s] of damage.${prompt}'
+  230: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  231: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] effects disappear${choice-plurality-number: 1}[s/]!${prompt}
+  232: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] drawn in!${prompt}'
+  233: You are ineligible to attack that target.${prompt}
+  234: 'Auto-targeting ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  235: That is someone's pet.${prompt}
+  236: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}
+  237: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  238: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}
+  239: '　Size: ${number-alt: 0}${prompt}'
+  240: '${choice-definite-entity: 0}[The /]${entity-source} tries to hide, but is spotted by ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  241: '${choice-definite-entity: 0}[The /]${entity-source} hides!${prompt}'
+  242: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}
+  243: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  244: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[fails/fail] to mug ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  245: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Eagle Eye Shot, but ${choice-plurality-entity: 0}[misses/miss] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  246: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] full.${prompt}'
+  247: '${choice-definite-entity: 0}[The /]${entity-source} can''t eat the ${item-singular-alt: 0[2]}.${prompt}'
+  248: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] attack has no effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  249: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] strength is impossible to gauge!${prompt}'
+  250: Reraise takes effect!${prompt}
+  251: '${color-alt: 123}The effect of ${status-effect-noun: 0[2]} is about to wear off.${prompt}'
+  252: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} casts ${spell-alt: 0}.
+    Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  253: |-
+    ${color-alt: 121}EXP chain #${number-alt: 1}!
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} experience point${choice-plurality-number: 0}[/s].${prompt}
+  254: 'Current enmity: ${number-alt: 0}${prompt}'
+  255: 'DEBUG: ${entity-target}>${number-alt: 0}% chance of success.${prompt}'
+  256: |-
+    ${color-alt: 121}In this flower pot:
+     Seeds sown: ${item-singular-alt: 0[2]}${prompt}
+  257: '${color-alt: 121} Crystal used: none${prompt}'
+  258: '${color-alt: 121} Crystal used: ${item-singular-alt: 0[2]}${prompt}'
+  259: |-
+    ${color-alt: 121} First crystal used: ${item-singular-alt: 0[2]}
+     Second crystal used: ${item-singular-alt: 1[2]}${prompt}
+  260: |-
+    ${color-alt: 121} First crystal used: none
+     Second crystal used: ${item-singular-alt: 0[2]}${prompt}
+  261: |-
+    ${color-alt: 121} First crystal used: ${item-singular-alt: 0[2]}
+     Second crystal used: none${prompt}
+  262: |-
+    ${color-alt: 121} First crystal used: none
+     Second crystal used: none${prompt}
+  263: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}'
+  264: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}'
+  265: 'Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}'
+  266: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 1[2]}.${prompt}'
+  267: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}'
+  268: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  269: 'Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}'
+  270: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}'
+  271: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}
+  272: 'Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}'
+  273: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[vanishes/vanish]!${prompt}'
+  274: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    Magic Burst! ${number-alt: 1} HP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  275: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    Magic Burst! ${number-alt: 1} MP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  276: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} MP.${prompt}'
+  277: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}'
+  278: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}'
+  279: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}'
+  280: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 1[2]}.${prompt}'
+  281: '${number-alt: 1} HP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  282: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[evades/evade].${prompt}'
+  283: 'No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  284: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[resists/resist] the effects of the spell!${prompt}'
+  285: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] attacks are enhanced.${prompt}'
+  286: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] fortified against undead.${prompt}'
+  287: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] fortified against arcana.${prompt}'
+  288: |-
+    Skillchain: Light.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  289: |-
+    Skillchain: Darkness.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  290: |-
+    Skillchain: Gravitation.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  291: |-
+    Skillchain: Fragmentation.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  292: |-
+    Skillchain: Distortion.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  293: |-
+    Skillchain: Fusion.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  294: |-
+    Skillchain: Compression.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  295: |-
+    Skillchain: Liquefaction.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  296: |-
+    Skillchain: Induration.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  297: |-
+    Skillchain: Reverberation.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  298: |-
+    Skillchain: Transfixion.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  299: |-
+    Skillchain: Scission.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  300: |-
+    Skillchain: Detonation.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  301: |-
+    Skillchain: Impaction.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  302: |-
+    Skillchain: Cosmic Elucidation.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  303: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Divine Seal.${prompt}'
+  304: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Elemental Seal.${prompt}'
+  305: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Trick Attack.${prompt}'
+  306: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}
+  307: That action requires a two-handed weapon.${prompt}
+  308: '${color-alt: 123}Unable to use the ${item-singular-alt: 0[2]}. ${entity-target}''s inventory is full.${prompt}'
+  309: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  310: '${color-alt: 123}${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] ${sys-msg-3: 0} skill drops 0.${number-alt: 1} points!${prompt}'
+  311: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[covers/cover] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  312: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] attempt to cover has no effect.${prompt}'
+  313: |-
+    ${color-alt: 123}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] out of range.
+    Unable to cast ${spell-alt: 0}.${prompt}
+  314: |-
+    ${color-alt: 123}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] level is currently restricted to ${number-alt: 0}.
+    Equipment affected by the level restriction will be adjusted accordingly.${prompt}
+  315: '${choice-definite-entity: 0}[The /]${entity-source} already ${choice-plurality-entity: 0}[has/have] a pet.${prompt}'
+  316: '${color-alt: 123}That action cannot be used in this area.${prompt}'
+  317: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  318: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}
+  319: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[gains/gain] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  320: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  321: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]} effect wears off.${prompt}
+  322: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]} effect wears off.${prompt}
+  323: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  324: '${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}, but ${choice-plurality-entity: 0}[misses/miss] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  325: You are charmed by an enemy and unable to act.${prompt}
+  326: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[readies/ready] ${ability: 1}.${prompt}'
+  327: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[starts/start] casting ${spell-alt: 1} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  328: '${color-alt: 123}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] too far away.${prompt}'
+  329: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] STR is drained.${prompt}
+  330: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] DEX is drained.${prompt}
+  331: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] VIT is drained.${prompt}
+  332: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] AGI is drained.${prompt}
+  333: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] INT is drained.${prompt}
+  334: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] MND is drained.${prompt}
+  335: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] CHR is drained.${prompt}
+  336: No effect on that pet.${prompt}
+  337: You do not have the necessary item equipped to call a beast.${prompt}
+  338: You cannot summon avatars here.${prompt}
+  339: Your mount senses a hostile presence and refuses to come to your side.${prompt}
+  340: '${color-alt: 123}You must equip your main weapon first to use Dual Wield.${prompt}'
+  341: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]} effect disappears!${prompt}
+  342: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]} effect disappears!${prompt}
+  343: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${status-effect-noun: 1[2]} effect disappears!${prompt}'
+  344: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${status-effect-noun: 1[2]} effect disappears!${prompt}'
+  345: '${color-alt: 123}You cannot heal while you have an avatar summoned.${prompt}'
+  346: You must summon an avatar to use that command.${prompt}
+  347: You must have pet food equipped to use that command.${prompt}
+  348: You cannot call wyverns here.${prompt}
+  349: You cannot call beasts here.${prompt}
+  350: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] no longer ${status-effect-adjective: 1[2]}.${prompt}'
+  351: '${unknown-84: 0}The remedy removes ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] status ailments.${prompt}'
+  352: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] ranged attack hits ${choice-definite-entity: 1}[the /]${entity-target} for ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}'
+  353: |-
+    ${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}['s/'] ranged attack scores a critical hit!
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  354: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] ranged attack misses.${prompt}'
+  355: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] ranged attack has no effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  356: Cannot execute command. Your inventory is full.${prompt}
+  357: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[regains/regain] ${number-alt: 1} HP.${prompt}'
+  358: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[regains/regain] ${number-alt: 1} MP.${prompt}'
+  359: '${choice-definite-entity: 1}[The /]${entity-target} narrowly ${choice-plurality-entity: 1}[escapes/escape] impending doom.${prompt}'
+  360: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    All of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] abilities are recharged.${prompt}
+  361: '${unknown-84: 0}All of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] abilities are recharged.${prompt}'
+  362: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] TP is reduced to ${number-alt: 1}.${prompt}
+  363: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] TP is reduced to ${number-alt: 1}.${prompt}'
+  364: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}All of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] status parameters are boosted.${prompt}
+  365: '${unknown-84: 0}All of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] status parameters are boosted.${prompt}'
+  366: '${number-alt: 1} MP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  367: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} HP.${prompt}'
+  368: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[earns/earn] a merit point! (Total: ${number-alt: 0})${prompt}'
+  369: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] attributes ${choice-plurality-number: 1}[is/are] drained.${prompt}
+  370: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${number-alt: 1} status ${choice-plurality-number: 1}[effect is/effects are] drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  371: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} limit point${choice-plurality-number: 0}[/s].${prompt}'
+  372: |-
+    Limit chain #${number-alt: 1}!
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} limit point${choice-plurality-number: 0}[/s].${prompt}
+  373: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[hits/hit] ${choice-definite-entity: 1}[the /]${entity-target}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} hit point${choice-plurality-number: 1}[/s]!${prompt}
+  374: 'Striking ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] armor causes ${choice-definite-entity: 0}[the /]${entity-source} to become ${status-effect-adjective: 3[2]}.${prompt}'
+  375: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  376: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[obtains/obtain] ${article} ${item-article-alt: 1[2]}.${prompt}
+  377: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[obtains/obtain] ${item-plural-alt: 1[2]}.${prompt}
+  378: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]} effect disappears!${prompt}
+  379: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  380: 'Your ${unknown: 0x7FB000} modification has risen to level ${number-alt: 1}.${prompt}'
+  381: '${color-alt: 123}Your ${unknown: 0x7FB000} modification has dropped to level ${number-alt: 1}.${prompt}'
+  382: |-
+    ${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}['s/'] ranged attack hits ${choice-definite-entity: 1}[the /]${entity-target}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 1} hit point${choice-plurality-number: 1}[/s]!${prompt}
+  383: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] spikes restore ${number-alt: 3} HP to ${choice-definite-entity: 0}[the /]${entity-source}.${prompt}'
+  384: 'Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} HP.${prompt}'
+  385: |-
+    Skillchain: Light.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  386: |-
+    Skillchain: Darkness.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  387: |-
+    Skillchain: Gravitation.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  388: |-
+    Skillchain: Fragmentation.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  389: |-
+    Skillchain: Distortion.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  390: |-
+    Skillchain: Fusion.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  391: |-
+    Skillchain: Compression.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  392: |-
+    Skillchain: Liquefaction.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  393: |-
+    Skillchain: Induration.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  394: |-
+    Skillchain: Reverberation.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  395: |-
+    Skillchain: Transfixion.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  396: |-
+    Skillchain: Scission.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  397: |-
+    Skillchain: Detonation.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  398: |-
+    Skillchain: Impaction.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  399: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    All of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] Petras vanish!${prompt}
+  400: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] status ailments disappear${choice-plurality-number: 1}[s/]!${prompt}
+  401: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] effects disappear${choice-plurality-number: 1}[s/]!${prompt}
+  402: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] magic defense is enhanced.${prompt}
+  403: '${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] attributes ${choice-plurality-number: 1}[is/are] drained.${prompt}'
+  404: '${unknown-84: 0}${number-alt: 1} status ${choice-plurality-number: 1}[effect is/effects are] drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  405: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] effects disappear${choice-plurality-number: 1}[s/]!${prompt}
+  406: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[falls/fall] to the ground.${prompt}
+  407: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] TP is reduced.${prompt}
+  408: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${unknown-84: 0}No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  409: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] TP is increased to ${number-alt: 1}.${prompt}
+  410: No target available. Unable to use item.${prompt}
+  411: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[attempts/attempt] to use the ${item-singular-alt: 0[2]}, but ${choice-plurality-entity: 0}[lacks/lack] the required number of Ballista Points.
+    You currently have ${number-alt: 1} Ballista ${choice-plurality-number: 1}[Point/Points].${prompt}
+  412: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  413: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  414: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Magic Attack Boost and Magic Defense Boost.${prompt}
+  415: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Magic Attack Boost and Magic Defense Boost.${prompt}'
+  416: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Magic Attack Boost and Magic Defense Boost.${prompt}
+  417: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] attributes ${choice-plurality-number: 1}[is/are] drained.${prompt}
+  418: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0} on ${choice-definite-entity: 1}[the /]${entity-target}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] target switches to ${choice-definite-entity: 0}[the /]${entity-source}!${prompt}
+  419: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[learns/learn] ${spell-alt: 0}!${prompt}'
+  420: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}. The total comes to ${number-alt: 1}!
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${ability: 0}.${prompt}
+  421: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${ability: 0}.${prompt}'
+  422: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}. The total comes to ${number-alt: 1}!
+    No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  423: 'No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  424: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Double-Up.
+    The total for ${ability: 0} increases to ${number-alt: 1}!
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${ability: 0}.${prompt}
+  425: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Double-Up.
+    The total for ${ability: 0} increases to ${number-alt: 1}!
+    No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  426: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] Double-Up.
+    Bust!
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[loses/lose] the effect of ${ability: 0}.${prompt}
+  427: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[loses/lose] the effect of ${ability: 0}.${prompt}'
+  428: There are no rolls eligible for Double-Up. Unable to use ability.${prompt}
+  429: 'The same roll is already active on ${choice-definite-entity: 0}[the /]${entity-source}.${prompt}'
+  430: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    1 of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] magic effects is drained.${prompt}
+  431: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] TP is reduced.${prompt}
+  432: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Accuracy Boost and Evasion Boost.${prompt}
+  433: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Magic Attack Boost and Magic Defense Boost.${prompt}
+  434: You cannot customize an activated automaton.${prompt}
+  435: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}!
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] abilities are recharged.${prompt}
+  436: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] abilities are recharged.${prompt}'
+  437: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}!
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] abilities are recharged.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] TP is increased.${prompt}
+  438: |-
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] abilities are recharged.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] TP is increased.${prompt}
+  439: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}!
+    All of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] abilities are recharged.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[regains/regain] MP.${prompt}
+  440: |-
+    All of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] abilities are recharged.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[regains/regain] MP.${prompt}
+  441: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${ability: 0}.${prompt}
+  442: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[learns/learn] a new ability!${prompt}'
+  443: 'You cannot learn ${ability: 0}. You do not meet the job or level requirements.${prompt}'
+  444: 'You already know ${ability: 0}.${prompt}'
+  445: '${color-alt: 141}You cannot use items at this time.${prompt}'
+  446: '${color-alt: 141}You cannot attack that target.${prompt}'
+  447: '${color-alt: 141}You are provoked and unable to change your target.${prompt}'
+  448: '${color-alt: 141}Time allowed in Dynamis has been extended by ${number-alt: 0} ${choice-plurality-number: 0}[minute/minutes].${prompt}'
+  449: |-
+    ${color-alt: 141}----== WARNING ==----
+    Time remaining in Dynamis: ${number-alt: 0} ${choice-plurality-number: 0}[minute/minutes].${prompt}
+  450: 'WATCH${number-alt: 0} ${entity-target}:${number-alt: 1}${prompt}'
+  451: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[regains/regain] ${number-alt: 1} MP.${prompt}
+  452: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[regains/regain] ${number-alt: 1} TP.${prompt}
+  453: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[steals/steal] the effect of ${status-effect-noun: 1[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  454: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${number-alt: 1} TP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  455: 'Debug : Fishing skill check: ${item-singular-alt: 0[2]} : 難易度${number-alt: 1}${prompt}'
+  456: 'Debug : Level Restriction on. PetType ${number-alt: 0}/ID ${number-alt: 1}${prompt}'
+  457: 'Debug : Level restriction off. PetType ${number-alt: 0}/ID ${number-alt: 1}${prompt}'
+  458: 'Debug : Dif - Now > ${number-alt: 0}  RATE ${number-alt: 1}/1000${prompt}'
+  459: 'Self-destruct check: skipping calculation of ${entity-target}''s self-destruct process md_no${number-alt: 0}/cmd_arg${number-alt: 1}！${prompt}'
+  460: 'EXP Check: ${entity-source} > ${entity-target} XP:${number-alt: 0}/LvUp${number-alt: 1} ${prompt}'
+  461: '${entity-target}:STR ${number-alt: 0}/${number-alt: 1}${prompt}'
+  462: '${entity-target}:DEX ${number-alt: 0}/${number-alt: 1}${prompt}'
+  463: '${entity-target}:VIT ${number-alt: 0}/${number-alt: 1}${prompt}'
+  464: '${entity-target}:AGI ${number-alt: 0}/${number-alt: 1}${prompt}'
+  465: '${entity-target}:INT ${number-alt: 0}/${number-alt: 1}${prompt}'
+  466: '${entity-target}:MND ${number-alt: 0}/${number-alt: 1}${prompt}'
+  467: '${entity-target}:CHR ${number-alt: 0}/${number-alt: 1}${prompt}'
+  468: 'Wyvern: JobLv<${number-alt: 0}>  TaskLv<${number-alt: 1}>${prompt}'
+  469: 'ID: Master<${number-alt: 0}>  Pet<${number-alt: 1}>${prompt}'
+  470: 'Wyvern routine type: Master<${number-alt: 0}>  Pet<${number-alt: 1}>${prompt}'
+  471: 'Avatar type: Master<${number-alt: 0}>  Pet<${number-alt: 1}>${prompt}'
+  472: 'Avatar MP: Master<${number-alt: 0}>  Pet<${number-alt: 1}>${prompt}'
+  473: 'Avatar HP: Master<${number-alt: 0}>  Pet<${number-alt: 1}>${prompt}'
+  474: 'Avatar level: Master<${number-alt: 0}>  Pet<${number-alt: 1}>${prompt}'
+  475: 'Avatar No.: Master<${number-alt: 0}>  Pet<${number-alt: 1}>${prompt}'
+  476: 'Probability of ${entity-target} dropping ${item-singular-alt: 0[2]}: ${number-alt: 1}/10000${prompt}'
+  477: '${color-alt: 123}Unable to target ${choice-definite-entity: 1}[the /]${entity-target}. You have not received the level cap status.${prompt}'
+  478: 'Height differential between ${entity-source} and ${entity-target}: ${number-alt: 0}mm.${prompt}'
+  479: Damage taken.${prompt}
+  480: '   Number of Targets (${number-alt: 0})  Damage (${number-alt: 1})${prompt}'
+  481: 'Overall: Number of Attacks (${number-alt: 0})  Misses (${number-alt: 1})${prompt}'
+  482: '   Number of Targets (${number-alt: 0})  Damage (${number-alt: 1})${prompt}'
+  483: 'Ranged Attack: Number of Attacks (${number-alt: 0})  Misses (${number-alt: 1})${prompt}'
+  484: '   Number of Targets (${number-alt: 0})  Damage (${number-alt: 1})${prompt}'
+  485: 'JA: Number of Attacks (${number-alt: 0})  Misses (${number-alt: 1})${prompt}'
+  486: '   Number of Targets (${number-alt: 0})  Damage (${number-alt: 1})${prompt}'
+  487: 'Weapon Skill: Number of Attacks (${number-alt: 0})  Misses (${number-alt: 1})${prompt}'
+  488: '   Number of Targets (${number-alt: 0})  Damage(${number-alt: 1})${prompt}'
+  489: 'Spell: Number of Attacks (${number-alt: 0})  Misses (${number-alt: 1})${prompt}'
+  490: '   Number of Targets (${number-alt: 0})  Damage(${number-alt: 1})${prompt}'
+  491: 'AA: Number of Attacks (${number-alt: 0})  Misses (${number-alt: 1})${prompt}'
+  492: 'Time: ${number-alt: 0}${prompt}'
+  493: ${entity-source}'s log${prompt}
+  494: '揮発キャップ:${number-alt: 0}　蓄積キャップ:${number-alt: 1}${prompt}'
+  495: '${entity-source}の生産:${sys-msg-3: 0}>成功確率${number-alt: 1}%${prompt}'
+  496: '${entity-source}の生産:${sys-msg-3: 0}>スキル上昇${number-alt: 1}%${prompt}'
+  497: '楽器ボーナス${entity-source} : 効果+${number-alt: 0}/時間+${number-alt: 1}%${prompt}'
+  498: だまし討ち ${entity-source} > ${entity-target}${prompt}
+  499: 'Hate : ${entity-source}>${entity-target} ${number-alt: 0}/${number-alt: 1}${prompt}'
+  500: 'バグ報告to松井 ${entity-source}:CODE ${number-alt: 0}/${number-alt: 1}${prompt}'
+  501: 'StatusGet(${entity-target}:${number-alt: 0}/${number-alt: 1})${prompt}'
+  502: 'StatusSet(${entity-target}:${number-alt: 0}/${number-alt: 1})${prompt}'
+  503: '${entity-target}: Skillchain Element ${number-alt: 0}(${number-alt: 1})${prompt}'
+  504: '${entity-target}:経験値チェーンボーナス(${number-alt: 0}チェーン、${number-alt: 1}%)${prompt}'
+  505: '${entity-target}:同盟キャンペーン(${number-alt: 0})。敵国支配地域(${number-alt: 1})。${prompt}'
+  506: '${entity-target}:同盟キャンペーン(${number-alt: 0})。友軍支配地域(${number-alt: 1})。${prompt}'
+  507: '${entity-target}:選択されたセット番号=${number-alt: 0}/生産個数ランダム分=${number-alt: 1}${prompt}'
+  508: '${entity-target}:詠唱中断確率${number-alt: 0}%,PS${number-alt: 1}${prompt}'
+  509: '${entity-target}:< ${number-alt: 0}/${number-alt: 1} >${prompt}'
+  510: 'DEBUG:${entity-target}>${sys-msg-3: 1} = ${number-alt: 0}%${prompt}'
+  511: 'DEBUG:${entity-target}>${number-alt: 0}%の成功確率(${number-alt: 1})。${prompt}'
+  512: '${color-alt: 123}You must have a two-handed weapon equipped in the main weapon slot in order to equip a grip.${prompt}'
+  513: '${color-alt: 123}This grip is not compatible with the two-handed weapon you currently have equipped.${prompt}'
+  514: 'You do not have the proper items equipped to use the ${item-singular-alt: 0[2]}.${prompt}'
+  515: '${entity-source} has successfully recorded the target''s image onto ${article} ${item-article-alt: 1[2]}.${prompt}'
+  516: ${entity-source} was unable to capture the target's image.${prompt}
+  517: 'The ${item-singular-alt: 0[2]} cannot be used on that target.${prompt}'
+  518: 'The ${item-singular-alt: 0[2]} cannot be used while under the effect of Invisible or Sneak.${prompt}'
+  519: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Lethargic Daze (lv.${number-alt: 1}).${prompt}
+  520: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Sluggish Daze (lv.${number-alt: 1}).${prompt}
+  521: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Weakened Daze (lv.${number-alt: 1}).${prompt}
+  522: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage and is stunned.${prompt}
+  523: 'The same effect is already active on ${choice-definite-entity: 0}[the /]${entity-source}.${prompt}'
+  524: You have not earned enough finishing moves to perform that action.${prompt}
+  525: '${ability: 0} can only be performed during battle.${prompt}'
+  526: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Enmity is stolen from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  527: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Ranged attack power and speed are increased. Melee attack power and speed are reduced.${prompt}
+  528: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Enmity is transferred to ${choice-definite-entity: 0}[the /]${entity-source}${choice-plurality-entity: 0}['s/'] pet.${prompt}
+  529: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] chainbound.${prompt}
+  530: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] petrification counter is now down to ${number-alt: 0}.${prompt}'
+  531: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] no longer ${status-effect-adjective: 0[2]}.${prompt}'
+  532: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Sneak and Invisible.${prompt}
+  533: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] Accuracy is drained.${prompt}
+  534: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] Attack is drained.${prompt}
+  535: '${choice-definite-entity: 1}[The /]${entity-target} retaliates. ${number-alt: 3} of ${choice-definite-entity: 1}[the /]${entity-source}${choice-plurality-entity: 1}[''s/''] shadows ${choice-plurality-number: 3}[absorbs/absorb] the damage and ${choice-plurality-number: 3}[disappears/disappear].${prompt}'
+  536: '${choice-definite-entity: 1}[The /]${entity-target} retaliates. ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[takes/take] ${number-alt: 3} points of damage.${prompt}'
+  537: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] TP is increased to ${number-alt: 1}%.${prompt}'
+  538: A protective energy absorbs the malice of your enemy!${prompt}
+  539: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[regains/regain] HP.${prompt}
+  540: |-
+    Level Sync activated. Your level has been restricted to ${number-alt: 1}.
+    Equipment affected by the level restriction will be adjusted accordingly.
+    Experience points will become unavailable for all party members should the Level Sync designee stray too far from the enemy.${prompt}
+  541: |-
+    Level Sync could not be activated.
+    The designated player is below level 10.${prompt}
+  542: |-
+    Level Sync could not be activated.
+    The designated player is in a different area.${prompt}
+  543: |-
+    Level Sync could not be activated.
+    One or more party members are currently under the effect of a status which prevents synchronization.${prompt}
+  544: 'Level synchronization will be removed in ${number-alt: 1} seconds.${prompt}'
+  545: |-
+    No experience points gained...
+    The Level Sync designee is either too far from the enemy, or unconscious.${prompt}
+  546: 'Your ${status-effect-noun: 1[2]} effect duration has been extended.${prompt}'
+  547: This ability can only be used on targets under the effect of a helix.${prompt}
+  548: The party member you have selected is incapable of receiving experience points, and as such cannot be a Level Sync designee.${prompt}
+  549: |-
+    No experience points gained...
+    The Level Sync designee is incapable of receiving experience points.${prompt}
+  550: |-
+    Level Sync will be deactivated in ${number-alt: 1} seconds.
+    One or more party members have received the effect of a status which prevents synchronization.${prompt}
+  551: |-
+    Level Sync will be deactivated in ${number-alt: 1} seconds.
+    The party leader or the Level Sync designee has left the area.${prompt}
+  552: |-
+    Level Sync will be deactivated in ${number-alt: 1} seconds.
+    Less than two party members fulfill the requirements for Level Sync.${prompt}
+  553: |-
+    Level Sync will be deactivated in ${number-alt: 1} seconds.
+    The party leader has removed synchronization, or the Level Sync designee has left the party.${prompt}
+  554: |-
+    Level Sync will be deactivated in ${number-alt: 1} seconds.
+    The Level Sync designee has fallen below level 10.${prompt}
+  555: |-
+    Level Sync will be deactivated in ${number-alt: 1} seconds.
+    A party member has undergone a job change.${prompt}
+  556: |-
+    Level Sync will be deactivated in ${number-alt: 1} seconds.
+    The Level Sync designee is incapable of receiving experience points.${prompt}
+  557: '${unknown-84: 0}${entity-target} receives ${number-alt: 1} ${choice-plurality-number: 1}[piece/pieces] of alexandrite.${prompt}'
+  558: 'You defeated a designated target. (Progress: ${number-alt: 0}/${number-alt: 1})${prompt}'
+  559: You have successfully completed the training regime.${prompt}
+  560: '${entity-source} uses ${ability: 0}. Finishing ${choice-plurality-number: 1}[move/moves] now ${number-alt: 1}.${prompt}'
+  561: "Unable to perform that action. \nYour have already earned the maximum number of finishing moves.${prompt}"
+  562: The status parameters of ${entity-target} have increased.${prompt}
+  563: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[destroys/destroy] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  564: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[were/was] destroyed.${prompt}'
+  565: '${entity-target} obtains ${gil: 0}.${prompt}'
+  566: '${entity-target} obtains ${number-alt: 0} ${choice-plurality-number: 0}[tab/tabs]. (Total: ${number-alt: 1})${prompt}'
+  567: '${entity-source} stowed away ${article} ${item-article-alt: 1[2]} in ${choice-source-gender}[his/her] tattered Maze Monger pouch.${prompt}'
+  568: 'Your tattered Maze Monger pouch already contains ${article} ${item-article-alt: 1[2]} and cannot hold another.${prompt}'
+  569: '${color-alt: 123}Your current status prevents you from using that ability.${prompt}'
+  570: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] status ailments disappear${choice-plurality-number: 1}[s/]!${prompt}
+  571: '${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] status ailments disappear${choice-plurality-number: 1}[s/]!${prompt}'
+  572: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[absorbs/absorb] ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] status ailments.${prompt}
+  573: |-
+    ${color-alt: 123}${entity-source} or an alliance member is participating in a union.
+    Ineligible to obtain treasure from this enemy.${prompt}
+  574: ${entity-source}'s pet is currently unable to perform that action.${prompt}
+  575: ${entity-source}'s pet does not have enough TP to perform that action.${prompt}
+  576: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] ranged attack hits ${choice-definite-entity: 1}[the /]${entity-target} squarely for ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage!${prompt}'
+  577: '${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}[''s/''] ranged attack strikes true, pummeling ${choice-definite-entity: 1}[the /]${entity-target} for ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage!${prompt}'
+  578: |-
+    Hunt objective fulfilled!
+    Please report to a hunt registry to collect your reward.${prompt}
+  579: |-
+    Unable to use the ${item-singular-alt: 0[2]}.
+    Party leaders or those not in a party cannot use ${article} ${item-article-alt: 0[2]}.${prompt}
+  580: |-
+    Unable to use the ${item-singular-alt: 0[2]}.
+    The party leader is in either an area beyond warping range or a place you have yet to visit.${prompt}
+  581: |-
+    Unable to cast ${spell-alt: 0}.
+    Astral Flow must be in effect to cast this spell.${prompt}
+  582: '${entity-source} obtains ${gil: 1}.${prompt}'
+  583: 'Trial ${number-alt: 0}: ${number-alt: 1} ${choice-plurality-number: 1}[objective remains/objectives remain].${prompt}'
+  584: |-
+    You have completed Trial ${number-alt: 0}.
+    Report your success to a Magian Moogle.${prompt}
+  585: "${entity-source} uses ${ability: 0}. \n${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] enmity towards ${entity-source} is ${number-alt: 1}%.${prompt}"
+  586: 'Towards ${choice-definite-entity: 1}[the /]${entity-target} is ${number-alt: 1}%.${prompt}'
+  587: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[regains/regain] ${number-alt: 1} HP.${prompt}'
+  588: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[regains/regain] ${number-alt: 1} MP.${prompt}'
+  589: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[have/has] been healed of ${number-alt: 1} status ailment${choice-plurality-number: 1}[/s].${prompt}'
+  590: 'You can now perform ${skill-alt: 0}.${prompt}'
+  591: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Bewildered Daze (lv.${number-alt: 1}).${prompt}
+  592: '${choice-definite-entity: 1}[The /]${entity-target} attempts to counter ${choice-definite-entity: 0}[the /]${entity-source}''s attack, but misses.${prompt}'
+  593: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} steals ${article} ${item-article-alt: 1[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.
+    Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Attack Down.${prompt}
+  594: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} steals ${article} ${item-article-alt: 1[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.
+    Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Defense Down.${prompt}
+  595: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} steals ${article} ${item-article-alt: 1[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.
+    Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Magic Atk. Down.${prompt}
+  596: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} steals ${article} ${item-article-alt: 1[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.
+    Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Magic Def. Down.${prompt}
+  597: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} steals ${article} ${item-article-alt: 1[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.
+    Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Evasion Down.${prompt}
+  598: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} steals ${article} ${item-article-alt: 1[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.
+    Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Accuracy Down.${prompt}
+  599: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} steals ${article} ${item-article-alt: 1[2]} from ${choice-definite-entity: 1}[the /]${entity-target}.
+    Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] afflicted with Slow.${prompt}
+  600: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[eats/eat] ${article} ${item-article-alt: 0[2]}.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[finds/find] ${article} ${item-article-alt: 1[2]} inside!${prompt}
+  601: |-
+    Objective fulfilled!
+    Please report to a Dominion Sergeant to collect your reward.${prompt}
+  602: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${ability: 0}.${prompt}
+  603: 'Additional effect: Treasure Hunter effectiveness against ${choice-definite-entity: 1}[the /]${entity-target} increases to ${number-alt: 2}.${prompt}'
+  604: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[eats/eat] ${article} ${item-article-alt: 0[2]}, but finds nothing inside...${prompt}'
+  605: 'Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[falls/fall] to the ground.${prompt}'
+  606: |-
+    ${choice-definite-entity: 0}[The /]${entity-source}${choice-plurality-entity: 0}['s/'] absorbs ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] counter.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[recovers/recover] ${number-alt: 3} HP.${prompt}
+  607: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] status ailments disappear${choice-plurality-number: 1}[s/]!${prompt}
+  608: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Treasure Hunter effectiveness against ${choice-definite-entity: 1}[the /]${entity-target} increases to ${number-alt: 1}.${prompt}
+  609: 'Prowess attained: Increased treasure casket discovery.${prompt}'
+  610: 'Prowess attained: Increased combat and magic skill gain.${prompt}'
+  611: 'Prowess attained: Increased crystal yield.${prompt}'
+  612: 'Prowess attained: Treasure Hunter bonus.${prompt}'
+  613: 'Prowess attained: Increased attack speed.${prompt}'
+  614: 'Prowess attained: Increased HP and MP.${prompt}'
+  615: 'Prowess attained: Enhanced accuracy and ranged accuracy.${prompt}'
+  616: 'Prowess attained: Enhanced attack and ranged attack.${prompt}'
+  617: 'Prowess attained: Enhanced magic accuracy and magic attack.${prompt}'
+  618: 'Prowess attained: Enhanced "Cure" potency.${prompt}'
+  619: 'Prowess attained: Increased weapon skill damage.${prompt}'
+  620: 'Prowess attained: "Killer" effects bonus.${prompt}'
+  621: ${prompt}
+  622: ${prompt}
+  623: ${prompt}
+  624: ${prompt}
+  625: 'Prowess boosted: Increased treasure casket discovery.${prompt}'
+  626: 'Prowess boosted: Increased combat and magic skill gain.${prompt}'
+  627: 'Prowess boosted: Increased crystal yield.${prompt}'
+  628: 'Prowess boosted: Treasure Hunter bonus.${prompt}'
+  629: 'Prowess boosted: Increased attack speed.${prompt}'
+  630: 'Prowess boosted: Increased HP and MP.${prompt}'
+  631: 'Prowess boosted: Enhanced accuracy and ranged accuracy.${prompt}'
+  632: 'Prowess boosted: Enhanced attack and ranged attack.${prompt}'
+  633: 'Prowess boosted: Enhanced magic accuracy and magic attack.${prompt}'
+  634: 'Prowess boosted: Enhanced "Cure" potency.${prompt}'
+  635: 'Prowess boosted: Increased weapon skill damage.${prompt}'
+  636: 'Prowess boosted: "Killer" effects bonus.${prompt}'
+  637: ${prompt}
+  638: ${prompt}
+  639: ${prompt}
+  640: ${prompt}
+  641: 'Additional effect: 1 of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] attributes is drained.${prompt}'
+  642: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[absorbs/absorb] ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] status benefits.${prompt}
+  643: Your current training regime will begin anew!${prompt}
+  644: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] status effects are removed.${prompt}
+  645: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}
+  646: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[falls/fall] to the ground.${prompt}
+  647: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${ability: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]} effect disappears!${prompt}
+  648: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[leads/lead] the casting of ${spell-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  649: |-
+    A member of another party is readying ${spell-alt: 0} against your target.
+    You cannot cast the same spell at this time.${prompt}
+  650: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[leads/lead] the casting of ${spell-alt: 0}.
+    Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  651: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[leads/lead] the casting of ${spell-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  652: 'Additional effect: ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[loses/lose] ${number-alt: 2} TP.${prompt}'
+  653: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    →${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[resists/resist] the spell.
+    →Immunobreak!${prompt}
+  654: |-
+    →${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[resists/resist] the spell.
+    →Immunobreak!${prompt}
+  655: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[casts/cast] ${spell-alt: 0}.
+    →${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} completely ${choice-plurality-entity: 1}[resists/resist] the spell.${prompt}
+  656: '→${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} completely ${choice-plurality-entity: 1}[resists/resist] the spell.${prompt}'
+  657: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    →All enmity is transferred to ${entity-target}.${prompt}
+  658: '${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}, but ${choice-plurality-entity: 0}[misses/miss] ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  659: 'No effect on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  660: The same effect is already active on that luopan!${prompt}
+  661: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[has/have] already placed a luopan. Unable to use ability.${prompt}'
+  662: This action requires a luopan.${prompt}
+  663: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    The luopan's HP consumption rate has been reduced.${prompt}
+  664: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    The effects of the luopan and its HP consumption rate have increased.${prompt}
+  665: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[has/have] a pet. Unable to use ability.${prompt}'
+  666: This action requires the ability Rune Enchantment.${prompt}
+  667: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Accuracy and evasion are enhanced.${prompt}
+  668: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Vallation, reducing damage taken from certain elemental magic spells.${prompt}
+  669: 'Magic damage of a certain element is reduced for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  670: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} can now absorb magic damage of a certain element.${prompt}
+  671: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} now ${choice-plurality-entity: 1}[has/have] enhanced resistance.${prompt}
+  672: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of Gambit, reducing defense against magic of a certain element.${prompt}
+  673: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[obtains/obtain] ${number-alt: 1} ${choice-plurality-number: 1}[corpuscle/corpuscles] of mweya plasm.${prompt}'
+  674: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}, and ${choice-plurality-entity: 0}[finds/find] ${number-alt: 2} ${item-plural-alt: 1[2]}.${prompt}'
+  675: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[readies/ready] ${skill-alt: 1}.${prompt}'
+  676: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] movement speed increases.${prompt}'
+  677: You are now able to possess a new monster!${prompt}
+  678: You have learned a new instinct!${prompt}
+  679: '${choice-definite-entity: 0}[The /]${entity-source} will return to the Feretory in: ${number-alt: 1}.${prompt}'
+  680: A newfound puissance courses through your veins.${prompt}
+  681: Your muscles ripple with an immensely powerful and invigorating force.${prompt}
+  682: Your puissance withers slightly.${prompt}
+  683: 'You have claimed ${choice-definite-entity: 1}[the /]${entity-target}!${prompt}'
+  684: '${choice-definite-entity: 1}[The /]${entity-target} has been claimed!${prompt}'
+  685: 'The enemy you are battling will no longer be claimed in: ${number-alt: 0}.${prompt}'
+  686: The enemy you were battling is no longer claimed.${prompt}
+  687: '${choice-definite-entity: 0}[The /]${entity-source} captured ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  688: '${choice-definite-entity: 0}[The /]${entity-source} has fled!${prompt}'
+  689: '${choice-definite-entity: 0}[The /]${entity-source} captured ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  690: 'You have completed the following Records of Eminence objective: ${roe: 0[2]}.${prompt}'
+  691: This objective may be repeated, and can be cancelled from the menu.${prompt}
+  692: 'You receive ${number-alt: 0} ${choice-plurality-number: 0}[spark/sparks] of eminence, and now possess a total of ${number-alt: 1}.${prompt}'
+  693: '${color-alt: 121}As a special bonus for your valiant efforts, you have been awarded ${article} ${item-article-alt: 0[2]}!${prompt}'
+  694: '${color-alt: 121}As a special bonus for your valiant efforts, you have been awarded ${number-alt: 0} ${choice-plurality-number: 0}[spark/sparks] of eminence!${prompt}'
+  695: |-
+    ${color-alt: 123}Unable to receive special bonus.
+    Make room in your inventory and receive your reward from the Records of Eminence menu.${prompt}
+  696: |-
+    ${color-alt: 123}You have yet to receive certain special bonuses from objectives you have completed.
+    Make room in your inventory and receive your rewards from the Records of Eminence menu.${prompt}
+  697: 'Records of Eminence: ${roe: 0[2]}.${prompt}'
+  698: 'Progress: ${number-alt: 0}/${number-alt: 1}.${prompt}'
+  699: A new objective has been added!${prompt}
+  700: You are unable to use Trust magic at this time.${prompt}
+  701: There's no time to do that now!${prompt}
+  702: ${prompt}
+  703: ${prompt}
+  704: 'You have undertaken “${roe: 0[2]}.”${prompt}'
+  705: 'You have undertaken the limited-time Records of Eminence challenge “${roe: 0[2]}.”${prompt}'
+  706: '${color-alt: 121}You have obtained ${keyitem-with-article: 0[2]} as a special reward!${prompt}'
+  707: 'As a first-time bonus, you receive ${number-alt: 0} ${choice-plurality-number: 0}[spark/sparks] of eminence for a total of ${number-alt: 1}!${prompt}'
+  708: 'This place is now known as a location that brings memories flooding back to ${choice-definite-entity: 0}[the /]${entity-source}.${prompt}'
+  709: '${color-alt: 121}As a special bonus for your valiant efforts, you have been awarded the following: ${item-singular-alt: 0[2]} x${number-alt: 1}!${prompt}'
+  710: You are cleared to fulfill this objective once again.${prompt}
+  711: '(${entity-source}) ${ally-dialog: 0[2]}${prompt}'
+  712: 'Primary Accuracy: ${number-alt: 0} / Primary Attack: ${number-alt: 1}.${prompt}'
+  713: 'Auxiliary Accuracy: ${number-alt: 0} / Auxiliary Attack: ${number-alt: 1}.${prompt}'
+  714: 'Ranged Accuracy: ${number-alt: 0} / Ranged Attack: ${number-alt: 1}.${prompt}'
+  715: 'Evasion: ${number-alt: 0} / Defense: ${number-alt: 1}.${prompt}'
+  716: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[starts/start] casting ${skill-alt: 1}.${prompt}'
+  717: You cannot call forth alter egos here.${prompt}
+  718: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} capacity point${choice-plurality-number: 0}[/s].${prompt}'
+  719: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[earns/earn] a job point! (Total: ${number-alt: 0})${prompt}'
+  720: 'Your ${title-alt: 0} modification has risen to level ${number-alt: 1}.${prompt}'
+  721: 'You receive a bonus of ${number-alt: 0} fishing guild point${choice-plurality-number: 0}[/s]!${prompt}'
+  722: 'You receive a bonus of ${number-alt: 0} woodworking guild point${choice-plurality-number: 0}[/s]!${prompt}'
+  723: 'You receive a bonus of ${number-alt: 0} smithing guild point${choice-plurality-number: 0}[/s]!${prompt}'
+  724: 'You receive a bonus of ${number-alt: 0} goldsmithing guild point${choice-plurality-number: 0}[/s]!${prompt}'
+  725: 'You receive a bonus of ${number-alt: 0} clothcraft guild point${choice-plurality-number: 0}[/s]!${prompt}'
+  726: 'You receive a bonus of ${number-alt: 0} leathercraft guild point${choice-plurality-number: 0}[/s]!${prompt}'
+  727: 'You receive a bonus of ${number-alt: 0} bonecraft guild point${choice-plurality-number: 0}[/s]!${prompt}'
+  728: 'You receive a bonus of ${number-alt: 0} alchemy guild point${choice-plurality-number: 0}[/s]!${prompt}'
+  729: 'You receive a bonus of ${number-alt: 0} cooking guild point${choice-plurality-number: 0}[/s]!${prompt}'
+  730: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] TP is reduced to ${number-alt: 1}.${prompt}
+  731: 'Average item level: ${number-alt: 0}.${prompt}'
+  732: |-
+    Skillchain: Universal Enlightenment.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  733: ${entity-target}:${prompt}
+  734: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  735: |-
+    Capacity chain #${number-alt: 1}!
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} capacity point${choice-plurality-number: 0}[/s].${prompt}
+  736: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${number-alt: 1} HP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  737: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${unknown-84: 0}${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] magic effects is drained.${prompt}
+  738: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.${prompt}'
+  739: '${unknown-84: 0}${entity-target} receives ${number-alt: 1} magical effect${choice-plurality-number: 1}[/s].${prompt}'
+  740: '${entity-target}:< ${unknown: 0x7F9700}/${unknown: 0x7F9701} >${prompt}'
+  741: 'You receive ${number-alt: 0} Unity accolade${choice-plurality-number: 0}[/s] for a total of ${number-alt: 1}!${prompt}'
+  742: You are currently unable to undertake this objective.${prompt}
+  743: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] enmity decreases.${prompt}
+  744: '${unity: 0[2], 1[2]}${prompt}'
+  745: Your automaton exceeds one or more elemental capacity values and cannot be activated.${prompt}
+  746: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${number-alt: 1} TP drained from ${unknown-84: 0}${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  747: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    Magic Burst! ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}
+  748: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    Magic Burst! ${number-alt: 1} HP drained from ${unknown-84: 0}${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  749: 'Magic Burst! ${number-alt: 1} HP drained from ${unknown-84: 0}${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  750: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    Magic Burst! ${number-alt: 1} MP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  751: 'Magic Burst! ${number-alt: 1} MP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  752: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    Magic Burst! ${number-alt: 1} TP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  753: 'Magic Burst! ${number-alt: 1} TP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  754: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] ${status-effect-adjective: 1[2]}.${prompt}
+  755: |-
+    ${unknown-84: 0}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    Magic Burst! ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  756: '${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] spikes cause ${choice-definite-entity: 1}[the /]${entity-target} to fall to the ground.${prompt}'
+  757: '${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[''s/''] effects disappear${choice-plurality-number: 1}[s/]!${prompt}'
+  758: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${article} ${item-article-alt: 0[2]}.
+    →Obtained key item: ${keyitem: 1[2]}.${prompt}
+  759: 'You already have key item: ${keyitem: 1[2]}.${prompt}'
+  760: '${color-alt: 123}You are only able to possess one ${item-singular-alt: 0[2]} and thus are unable to receive your just reward. Clear out your inventory and receive the item from the Records of Eminence Menu.${prompt}'
+  761: '${color-alt: 123}You were unable to receive your just reward because you need ${number-alt: 0} free space${choice-plurality-number: 0}[/s] in your inventory. Clear out your bags and receive your item${choice-plurality-number: 0}[/s] from the Records of Eminence Menu.${prompt}'
+  762: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}All of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] status parameters are boosted.${prompt}
+  763: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} uses ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[ has/s have] grown noticeably bored.${prompt}
+  764: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} uses ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[ feels/s feel] the Fever!${prompt}
+  765: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} uses ${article} ${item-article-alt: 0[2]}.
+    ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[ obtains/s obtained] ${number-alt: 1} escha silt.${prompt}
+  766: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} uses ${article} ${item-article-alt: 0[2]}.
+    ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}[ obtains/s obtained] ${number-alt: 1} escha bead${choice-plurality-number: 1}[/s].${prompt}
+  767: |-
+    Skillchain: Radiance.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  768: |-
+    Skillchain: Umbra.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 2} point${choice-plurality-number: 2}[/s] of damage.${prompt}
+  769: |-
+    Skillchain: Radiance.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  770: |-
+    Skillchain: Umbra.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[recovers/recover] ${number-alt: 2} hit point${choice-plurality-number: 2}[/s]!${prompt}
+  771: Congratulations! Your deeds of valor will ring throughout the ages, providing inspiration for generations to come.${prompt}
+  772: '${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[stands/stand] resolute thanks to the power of the bonds that tie you!${prompt}'
+  773: 'You are unable to call forth your mount because your main job level is not at least ${number-alt: 0}.${prompt}'
+  774: '${color-alt: 121}You already possess that item and are unable to receive your just reward!${prompt}'
+  775: A new objective has been added in the Contents > Content (Ambuscade) Records of Eminence category!${prompt}
+  776: 'Additional effect:${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[is/are] chainbound.${prompt}'
+  777: You cannot mount at this time.${prompt}
+  778: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} uses ${skill-alt: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} copies ${number-alt: 1} magical effect${choice-plurality-number: 1}[/s] from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  779: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} uses ${skill-alt: 0}.
+    A barrier begins to pulsate around ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  780: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} uses ${skill-alt: 0}.
+    ${choice-definite-entity: 0}[The /]${entity-source} takes aim at ${choice-definite-entity: 1}[the /]${entity-target}!${prompt}
+  781: '${choice-definite-entity: 1}[The /]${entity-target} retaliates, absorbing ${number-alt: 3} TP from ${choice-definite-entity: 0}[the /]${entity-source}.${prompt}'
+  782: 'The bonus condition for increasing the Craftsmanship has changed to ${augment: 0[2]}!${prompt}'
+  783: The Craftsmanship bonus conditions have disappeared!${prompt}
+  784: 'Craftsmanship has increased by ${number-alt: 0}.${number-alt: 1}%!${prompt}'
+  785: 'Craftsmanship has increased by ${number-alt: 0}.0${number-alt: 1}%!${prompt}'
+  786: 'Craftsmanship has increased to ${number-alt: 1}%!${prompt}'
+  787: '${choice-definite-entity: 1}[The /]${entity-target} has had the fun sucked out of them!${prompt}'
+  788: '${choice-definite-entity: 1}[The /]${entity-target} no longer recalls what fun is...${prompt}'
+  789: 'dmgfix(${number-alt: 0})${prompt}'
+  790: 'The ${item-singular-alt: 0[2]} contains ${gil: 1}.${prompt}'
+  791: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] ${number-alt: 1} mote${choice-plurality-number: 1}[/s] of paradise.${prompt}
+  792: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${spell-alt: 0}.
+    ${number-alt: 1} of ${choice-definite-entity: 1}[the /]${entity-target}${choice-plurality-entity: 1}['s/'] effects disappear${choice-plurality-number: 1}[s/]!${prompt}
+  793: 'You find ${number-alt: 2} ${item-singular-alt: 1[2]}.${prompt}'
+  794: 'You find ${number-alt: 2} ${item-plural-alt: 1[2]}.${prompt}'
+  795: '${color-alt: 121}You receive ${number-alt: 0} deeds of heroism, for a total of ${number-alt: 1}!${prompt}'
+  796: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] potpourri for a total of ${number-alt: 0}!${prompt}'
+  797: '${color-alt: 121}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[attains/attain] level ${number-alt: 0}!${prompt}'
+  798: '${choice-definite-entity: 0}[The /]${entity-source}''s ${ability: 0} overload chance is ${number-alt: 1}%.${prompt}'
+  799: |-
+    ${choice-definite-entity: 0}[The /]${entity-source}'s ${ability: 0} overload chance is ${number-alt: 1}%.
+    ${choice-definite-entity: 0}[The /]${entity-source} is overloaded!${prompt}
+  800: '${status-effect-noun: 0[2]} activates. ${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[takes/take] ${number-alt: 1} point${choice-plurality-number: 1}[/s] of damage.${prompt}'
+  801: 'You cannot use the ${item-singular-alt: 0[2]} until the ${status-effect-noun: 1[2]} effect expires.${prompt}'
+  802: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    ${number-alt: 1} HP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  803: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Magic Burst! ${number-alt: 1} HP drained from ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}
+  804: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${ability: 0}.
+    Magic Burst! ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target} ${choice-plurality-entity: 1}[receives/receive] the effect of ${status-effect-noun: 1[2]}.${prompt}
+  805: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] ${status-effect-noun: 1[2]} effect disappears!${prompt}
+  806: '${unknown-84: 0}${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}[''s/''] ${status-effect-noun: 1[2]} effect disappears!${prompt}'
+  807: '${choice-definite-entity: 1}[The /]${entity-target} receive${choice-plurality-entity: 1}[s/] ${number-alt: 1} job point${choice-plurality-number: 1}[/s].${prompt}'
+  808: '${choice-definite-entity: 1}[The /]${entity-target} was unable to use that because they cannot hold any more.${prompt}'
+  809: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} exemplar point${choice-plurality-number: 0}[/s].${prompt}'
+  810: |-
+    Master chain #${number-alt: 1}!
+    ${color-alt: 121}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} exemplar point${choice-plurality-number: 0}[/s].${prompt}
+  811: '${color-alt: 121}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[attains/attain] master level ${number-alt: 0}!${prompt}'
+  812: 'Master Level: ${number-alt: 0} (${number-alt: 1} experience)${prompt}'
+  813: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[falls/fall] to master level ${number-alt: 0}.${prompt}'
+  814: |-
+    Level Sync activated. Your master level has been restricted to ${number-alt: 1}.
+    Experience points will become unavailable for all party members should the Level Sync designee stray too far from the enemy.${prompt}
+  815: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} is knocked back far into the distance!${prompt}
+  816: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} will expire in ${number-alt: 1}.${prompt}
+  817: '${choice-definite-entity: 1}[The /]${entity-target} will expire in ${number-alt: 1}.${prompt}'
+  818: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    Countdown complete. ${choice-definite-entity: 1}[The /]${entity-target} expires.${prompt}
+  819: 'Countdown complete. ${choice-definite-entity: 1}[The /]${entity-target} expires.${prompt}'
+  820: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} sacrifices themselves to protect the bearer of the Prime Weapon.${prompt}
+  821: '${choice-definite-entity: 1}[The /]${entity-target} sacrifices themselves to protect the bearer of the Prime Weapon.${prompt}'
+  822: '${color-alt: 121}${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 1} exemplar point${choice-plurality-number: 1}[/s].${prompt}'
+  823: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 0} plaudit${choice-plurality-number: 0}[/s].${prompt}'
+  824: '${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[gains/gain] ${number-alt: 1} moogle segment${choice-plurality-number: 1}[/s].${prompt}'
+  825: ${prompt}
+  826: ${prompt}
+  827: ${prompt}
+  828: ${prompt}
+  829: ${prompt}
+  830: ${prompt}
+  831: ${prompt}
+  832: ${prompt}
+  833: ${prompt}
+  834: ${prompt}
+  835: ${prompt}
+  836: ${prompt}
+  837: ${prompt}
+  838: ${prompt}
+  839: ${prompt}
+  840: ${prompt}
+  841: ${prompt}
+  842: ${prompt}
+  843: ${prompt}
+  844: ${prompt}
+  845: ${prompt}
+  846: ${prompt}
+  847: ${prompt}
+  848: ${prompt}
+  849: ${prompt}
+  850: ${prompt}
+  851: ${prompt}
+  852: ${prompt}
+  853: ${prompt}
+  854: ${prompt}
+  855: ${prompt}
+  856: ${prompt}
+  857: ${prompt}
+  858: ${prompt}
+  859: ${prompt}
+  860: ${prompt}
+  861: ${prompt}
+  862: ${prompt}
+  863: ${prompt}
+  864: ${prompt}
+  865: ${prompt}
+  866: ${prompt}
+  867: ${prompt}
+  868: ${prompt}
+  869: ${prompt}
+  870: ${prompt}
+  871: ${prompt}
+  872: ${prompt}
+  873: ${prompt}
+  874: ${prompt}
+  875: ${prompt}
+  876: ${prompt}
+  877: ${prompt}
+  878: ${prompt}
+  879: ${prompt}
+  880: ${prompt}
+  881: ${prompt}
+  882: ${prompt}
+  883: ${prompt}
+  884: ${prompt}
+  885: ${prompt}
+  886: ${prompt}
+  887: ${prompt}
+  888: ${prompt}
+  889: ${prompt}
+  890: ${prompt}
+  891: ${prompt}
+  892: ${prompt}
+  893: ${prompt}
+  894: ${prompt}
+  895: ${prompt}
+  896: ${prompt}
+  897: ${prompt}
+  898: ${prompt}
+  899: ${prompt}
+  900: ${prompt}
+  901: ${prompt}
+  902: ${prompt}
+  903: ${prompt}
+  904: ${prompt}
+  905: ${prompt}
+  906: ${prompt}
+  907: ${prompt}
+  908: ${prompt}
+  909: ${prompt}
+  910: ${prompt}
+  911: ${prompt}
+  912: ${prompt}
+  913: ${prompt}
+  914: ${prompt}
+  915: ${prompt}
+  916: ${prompt}
+  917: ${prompt}
+  918: ${prompt}
+  919: ${prompt}
+  920: ${prompt}
+  921: ${prompt}
+  922: ${prompt}
+  923: ${prompt}
+  924: ${prompt}
+  925: ${prompt}
+  926: ${prompt}
+  927: ${prompt}
+  928: ${prompt}
+  929: ${prompt}
+  930: ${prompt}
+  931: ${prompt}
+  932: ${prompt}
+  933: ${prompt}
+  934: ${prompt}
+  935: ${prompt}
+  936: ${prompt}
+  937: ${prompt}
+  938: ${prompt}
+  939: ${prompt}
+  940: ${prompt}
+  941: ${prompt}
+  942: ${prompt}
+  943: ${prompt}
+  944: ${prompt}
+  945: ${prompt}
+  946: ${prompt}
+  947: ${prompt}
+  948: ${prompt}
+  949: ${prompt}
+  950: ${prompt}
+  951: ${prompt}
+  952: ${prompt}
+  953: ${prompt}
+  954: ${prompt}
+  955: ${prompt}
+  956: ${prompt}
+  957: ${prompt}
+  958: ${prompt}
+  959: ${prompt}
+  960: ${prompt}
+  961: ${prompt}
+  962: ${prompt}
+  963: ${prompt}
+  964: ${prompt}
+  965: ${prompt}
+  966: ${prompt}
+  967: ${prompt}
+  968: ${prompt}
+  969: ${prompt}
+  970: ${prompt}
+  971: ${prompt}
+  972: ${prompt}
+  973: ${prompt}
+  974: ${prompt}
+  975: ${prompt}
+  976: ${prompt}
+  977: ${prompt}
+  978: ${prompt}
+  979: ${prompt}
+  980: ${prompt}
+  981: ${prompt}
+  982: ${prompt}
+  983: ${prompt}
+  984: ${prompt}
+  985: ${prompt}
+  986: ${prompt}
+  987: ${prompt}
+  988: ${prompt}
+  989: ${prompt}
+  990: ${prompt}
+  991: ${prompt}
+  992: ${prompt}
+  993: ${prompt}
+  994: ${prompt}
+  995: ${prompt}
+  996: ${prompt}
+  997: ${prompt}
+  998: ${prompt}
+  999: ${prompt}
+  1000: ${prompt}
+  1001: ${prompt}
+  1002: ${prompt}
+  1003: ${prompt}
+  1004: ${prompt}
+  1005: ${prompt}
+  1006: ${prompt}
+  1007: ${prompt}
+  1008: ${prompt}
+  1009: ${prompt}
+  1010: ${prompt}
+  1011: ${prompt}
+  1012: ${prompt}
+  1013: ${prompt}
+  1014: ${prompt}
+  1015: ${prompt}
+  1016: ${prompt}
+  1017: ${prompt}
+  1018: ${prompt}
+  1019: ${prompt}
+  1020: ${prompt}
+  1021: '${color-alt: 121}Flower-viewing time!${prompt}'
+  1022: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target} is ready for flower viewing!${prompt}
+  1023: |-
+    ${choice-definite-entity: 0}[The /]${entity-source} ${choice-plurality-entity: 0}[uses/use] ${skill-alt: 0}.
+    ${choice-definite-entity: 1}[The /]${entity-target}${choice-plurality-entity: 1}['s/'] attacks and defenses are enhanced.${prompt}

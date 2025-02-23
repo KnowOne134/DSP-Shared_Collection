@@ -1,0 +1,17 @@
+lists:
+  0:
+  - string: Firesday
+  1:
+  - string: Earthsday
+  2:
+  - string: Watersday
+  3:
+  - string: Windsday
+  4:
+  - string: Iceday
+  5:
+  - string: Lightningday
+  6:
+  - string: Lightsday
+  7:
+  - string: Darksday

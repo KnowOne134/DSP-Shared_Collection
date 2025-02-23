@@ -1,0 +1,1047 @@
+lists:
+  0:
+  - string: 'All Races '
+  1:
+  - string: 'All ♂ '
+  2:
+  - string: 'All ♀ '
+  3:
+  - string: 'Ｈ '
+  4:
+  - string: 'Ｈ♂ '
+  5:
+  - string: 'Ｈ♀ '
+  6:
+  - string: 'Ｅ '
+  7:
+  - string: 'Ｅ♂ '
+  8:
+  - string: 'Ｅ♀ '
+  9:
+  - string: 'Ｔ '
+  10:
+  - string: 'Ｔ♂ '
+  11:
+  - string: 'Ｔ♀ '
+  12:
+  - string: 'Ｇ '
+  13:
+  - string: 'Ｍ '
+  14:
+  - string: '[Head]'
+  15:
+  - string: '[Body]'
+  16:
+  - string: '[Legs]'
+  17:
+  - string: '[Hands]'
+  18:
+  - string: '[Ring]'
+  19:
+  - string: '[Ear]'
+  20:
+  - string: '[Neck]'
+  21:
+  - string: '[Back]'
+  22:
+  - string: '[Waist]'
+  23:
+  - string: '[Feet]'
+  24:
+  - string: (Hand-to-Hand)
+  25:
+  - string: (Dagger)
+  26:
+  - string: (Sword)
+  27:
+  - string: (Great Sword)
+  28:
+  - string: (Axe)
+  29:
+  - string: (Great Axe)
+  30:
+  - string: (Scythe)
+  31:
+  - string: (Polearm)
+  32:
+  - string: (Katana)
+  33:
+  - string: (Great Katana)
+  34:
+  - string: (Club)
+  35:
+  - string: (Staff)
+  36:
+  - string: (Archery)
+  37:
+  - string: (Marksmanship)
+  38:
+  - string: (Throwing)
+  39:
+  - string: (String Instr.)
+  40:
+  - string: (Wind Instr.)
+  41:
+  - string: (Handbell)
+  42:
+  - string: (Fishing Tackle)
+  43:
+  - string: Yes
+  44:
+  - string: No
+  45:
+  - string: Cancel trade transaction?
+  46:
+  - string: 'Moogle: Heading outside, kupo?'
+  47:
+  - string: Exit your Mog House?
+  48:
+  - string: Sow seeds?
+  49:
+  - string: Dry out this plant?
+  50:
+  - string: Nourish the plant with this crystal?
+  51:
+  - string: Gather current plant yields?
+  52:
+  - string: Throw this away?
+  53:
+  - string: Dispose of what is currently growing?
+  54:
+  - string: 'Current:'
+  55:
+  - string: 'Completed:'
+  56:
+  - string: Not allowed under current allegiance.
+  57:
+  - string: No current missions.
+  58:
+  - string: No completed missions.
+  59:
+  - string: Current
+  60:
+  - string: Completed
+  61:
+  - string: Sort items?
+  62:
+  - string: Dispose of item?
+  63:
+  - string: Aquans
+  64:
+  - string: Amorphs
+  65:
+  - string: Arcana
+  66:
+  - string: Undead
+  67:
+  - string: Vermin
+  68:
+  - string: Demons
+  69:
+  - string: Dragons
+  70:
+  - string: Birds
+  71:
+  - string: Beasts
+  72:
+  - string: Plantoids
+  73:
+  - string: Lizards
+  74:
+  - string: Luminians
+  75:
+  - string: Luminions
+  76:
+  - string: Beastmen
+  77:
+  - string: Elementals
+  78:
+  - string: Empty
+  79:
+  - string: Vorageans
+  80:
+  - string: Archaics
+  81:
+  - string: Elementals
+  82:
+  - string: Magical
+  83:
+  - string: Physical
+  84:
+  - string: ' '
+  85:
+  - string: No Linkshell
+  86:
+  - string: Level
+  87:
+  - string: EXP
+  88:
+  - string: NEXTLevel
+  89:
+  - string: Lv
+  90:
+  - string: NEXT
+  91:
+  - string: ','
+  92:
+  - string: S
+  93:
+  - string: R
+  94:
+  - string: J
+  95:
+  - string: E
+  96:
+  - string: G
+  97:
+  - string: F
+  98:
+  - string: 'Hall of An: 18 combatants'
+  99:
+  - string: 'Hall of An: 36 combatants'
+  100:
+  - string: 'Hall of Ki: 18 combatants'
+  101:
+  - string: 'Hall of Ki: 36 combatants'
+  102:
+  - string: 'Hall of Im: 18 combatants'
+  103:
+  - string: 'Hall of Im: 36 combatants'
+  104:
+  - string: 'Hall of Muru: 18 combatants'
+  105:
+  - string: 'Hall of Muru: 36 combatants'
+  106:
+  - string: 'Hall of Mul: 18 combatants'
+  107:
+  - string: 'Hall of Mul: 36 combatants'
+  108:
+  - string: Records of Eminence
+  109:
+  - string: Current
+  110:
+  - string: Objective List
+  111:
+  - string: Set objective?
+  112:
+  - string: This objective cannot be undertaken again.
+  113:
+  - string: 'Up to fifteen objectives may be set at once. '
+  114:
+  - string: No current objectives.
+  115:
+  - string: Remove objective?
+  116:
+  - string: "Your progress will be reset if you cancel this objective. \nAre you sure?"
+  117:
+  - string: Receive rewards?
+  118:
+  - string: "You cannot obtain the item. \nTry again after sorting your inventory."
+  119:
+  - string: An error has occurred.
+  120:
+  - string: Sparks
+  121:
+  - string: Unity Accolades
+  122:
+  - string: Deeds
+  123:
+  - string: ' Spa.'
+  124:
+  - string: ' EXP'
+  125:
+  - string: ' CAP'
+  126:
+  - string: ' Acc.'
+  127:
+  - string: Notice
+  128:
+  - string: A new Records of Eminence event is underway for a limited time only! Look to the Quests menu for details.
+  129:
+  - string: Number Required
+  130:
+  - string: Number Completed
+  131:
+  - string: 'Rewards:'
+  132:
+  - string: (Not Repeatable)
+  133:
+  - string: RoE
+  134:
+  - string: New Records of Eminence objectives are available.
+  135:
+  - string: No objectives are available at this time.
+  136:
+  - string: Conquest Points (San d'Oria)
+  137:
+  - string: Conquest Points (Bastok)
+  138:
+  - string: Conquest Points (Windurst)
+  139:
+  - string: Beastmen's Seals Stored
+  140:
+  - string: Kindred's Seals Stored
+  141:
+  - string: Kindred's Crests Stored
+  142:
+  - string: High Kindred's Crests Stored
+  143:
+  - string: Sacred Kindred's Crests Stored
+  144:
+  - string: Ancient Beastcoins Stored
+  145:
+  - string: Valor Points
+  146:
+  - string: Scylds
+  147:
+  - string: Guild Points (Fishing)
+  148:
+  - string: Guild Points (Woodworking)
+  149:
+  - string: Guild Points (Smithing)
+  150:
+  - string: Guild Points (Goldsmithing)
+  151:
+  - string: Guild Points (Weaving)
+  152:
+  - string: Guild Points (Leathercraft)
+  153:
+  - string: Guild Points (Bonecraft)
+  154:
+  - string: Guild Points (Alchemy)
+  155:
+  - string: Guild Points (Cooking)
+  156:
+  - string: Cinders
+  157:
+  - string: Synergy Fewell (Fire)
+  158:
+  - string: Synergy Fewell (Ice)
+  159:
+  - string: Synergy Fewell (Wind)
+  160:
+  - string: Synergy Fewell (Earth)
+  161:
+  - string: Synergy Fewell (Lightning)
+  162:
+  - string: Synergy Fewell (Water)
+  163:
+  - string: Synergy Fewell (Light)
+  164:
+  - string: Synergy Fewell (Dark)
+  165:
+  - string: Ballista Points
+  166:
+  - string: Fellow Points
+  167:
+  - string: Chocobucks (San d'Oria Team)
+  168:
+  - string: Chocobucks (Bastok Team)
+  169:
+  - string: Chocobucks (Windurst Team)
+  170:
+  - string: Research Marks
+  171:
+  - string: Wizened Tunnel Worms
+  172:
+  - string: Wizened Morion Worms
+  173:
+  - string: Wizened Phantom Worms
+  174:
+  - string: Moblin Marbles
+  175:
+  - string: Infamy
+  176:
+  - string: Prestige
+  177:
+  - string: Legion Points
+  178:
+  - string: Sparks of Eminence
+  179:
+  - string: Shining Stars
+  180:
+  - string: Imperial Standing
+  181:
+  - string: Assault Points (L. Sanctum)
+  182:
+  - string: Assault Points (M.J.T.G.)
+  183:
+  - string: Assault Points (L. Cavern)
+  184:
+  - string: Assault Points (Periqia)
+  185:
+  - string: Assault Points (Ilrusi Atoll)
+  186:
+  - string: Tokens
+  187:
+  - string: Zeni
+  188:
+  - string: Jettons
+  189:
+  - string: Therion Ichor
+  190:
+  - string: Allied Notes
+  191:
+  - string: Bayld
+  192:
+  - string: Kinetic Units
+  193:
+  - string: Obsidian Fragments
+  194:
+  - string: Lebondopt Wings Stored
+  195:
+  - string: Pulchridopt Wings Stored
+  196:
+  - string: Mweya Plasm Corpuscles
+  197:
+  - string: Cruor
+  198:
+  - string: Resistance Credits
+  199:
+  - string: Dominion Notes
+  200:
+  - string: 5th Echelon Battle Trophies
+  201:
+  - string: 4th Echelon Battle Trophies
+  202:
+  - string: 3rd Echelon Battle Trophies
+  203:
+  - string: 2nd Echelon Battle Trophies
+  204:
+  - string: 1st Echelon Battle Trophies
+  205:
+  - string: Cave Conservation Points
+  206:
+  - string: Moblin Pheromone Sacks
+  207:
+  - string: Imperial Army I.D. Tags
+  208:
+  - string: Op Credits
+  209:
+  - string: Coalition Imprimaturs
+  210:
+  - string: Traverser Stones
+  211:
+  - string: Voidstones
+  212:
+  - string: Kupofried's Corundums
+  213:
+  - string: Daily Tally
+  214:
+  - string: Copper A.M.A.N. Vouchers Stored
+  215:
+  - string: Bloodshed Plans Stored
+  216:
+  - string: Umbrage Plans Stored
+  217:
+  - string: Ritualistic Plans Stored
+  218:
+  - string: Tutelary Plans Stored
+  219:
+  - string: Primacy Plans Stored
+  220:
+  - string: H-to-H
+  221:
+  - string: Daggers
+  222:
+  - string: Swords
+  223:
+  - string: Great Swords
+  224:
+  - string: Axes
+  225:
+  - string: Great Axes
+  226:
+  - string: Scythes
+  227:
+  - string: Polearms
+  228:
+  - string: Katana
+  229:
+  - string: Great Katana
+  230:
+  - string: Clubs
+  231:
+  - string: Staves
+  232:
+  - string: Ranged
+  233:
+  - string: Instruments
+  234:
+  - string: Ammo/Misc.
+  235:
+  - string: Shields
+  236:
+  - string: Head
+  237:
+  - string: Neck
+  238:
+  - string: Body
+  239:
+  - string: Hands
+  240:
+  - string: Waist
+  241:
+  - string: Legs
+  242:
+  - string: Feet
+  243:
+  - string: Back
+  244:
+  - string: Earrings
+  245:
+  - string: Rings
+  246:
+  - string: White Magic
+  247:
+  - string: Black Magic
+  248:
+  - string: Songs
+  249:
+  - string: Ninjutsu
+  250:
+  - string: Summoning
+  251:
+  - string: Dice
+  252:
+  - string: Geomancy
+  253:
+  - string: Medicines
+  254:
+  - string: Furnishings
+  255:
+  - string: Smithing
+  256:
+  - string: Goldsmithing
+  257:
+  - string: Clothcraft
+  258:
+  - string: Leathercraft
+  259:
+  - string: Bonecraft
+  260:
+  - string: Woodworking
+  261:
+  - string: Alchemy
+  262:
+  - string: Meat/Eggs
+  263:
+  - string: Seafood
+  264:
+  - string: Vegetables
+  265:
+  - string: Soups
+  266:
+  - string: Bread/Rice
+  267:
+  - string: Sweets
+  268:
+  - string: Drinks
+  269:
+  - string: Ingredients
+  270:
+  - string: Fishing
+  271:
+  - string: Crystals
+  272:
+  - string: Misc.
+  273:
+  - string: Beast-made
+  274:
+  - string: Cards
+  275:
+  - string: Ninja Tools
+  276:
+  - string: Cursed Items
+  277:
+  - string: Automaton
+  278:
+  - string: Ammunition
+  279:
+  - string: Fishing
+  280:
+  - string: Pet Items
+  281:
+  - string: Grips
+  282:
+  - string: Misc. 2
+  283:
+  - string: Alchemy 2
+  284:
+  - string: Misc. 3
+  285:
+  - string: New wares!
+  286:
+  - string: ''
+  287:
+  - string: ''
+  288:
+  - string: ''
+  289:
+  - string: ''
+  290:
+  - string: ''
+  291:
+  - string: ''
+  292:
+  - string: ''
+  293:
+  - string: ''
+  294:
+  - string: ''
+  295:
+  - string: ''
+  296:
+  - string: ''
+  297:
+  - string: ''
+  298:
+  - string: ''
+  299:
+  - string: ''
+  300:
+  - string: ''
+  301:
+  - string: ''
+  302:
+  - string: ''
+  303:
+  - string: ''
+  304:
+  - string: ''
+  305:
+  - string: ''
+  306:
+  - string: ''
+  307:
+  - string: ''
+  308:
+  - string: ''
+  309:
+  - string: ''
+  310:
+  - string: ''
+  311:
+  - string: ''
+  312:
+  - string: ''
+  313:
+  - string: ''
+  314:
+  - string: ''
+  315:
+  - string: ''
+  316:
+  - string: ''
+  317:
+  - string: ''
+  318:
+  - string: ''
+  319:
+  - string: ''
+  320:
+  - string: ''
+  321:
+  - string: ''
+  322:
+  - string: ''
+  323:
+  - string: ''
+  324:
+  - string: ''
+  325:
+  - string: ''
+  326:
+  - string: ''
+  327:
+  - string: ''
+  328:
+  - string: ''
+  329:
+  - string: ''
+  330:
+  - string: ''
+  331:
+  - string: ''
+  332:
+  - string: ''
+  333:
+  - string: ''
+  334:
+  - string: ''
+  335:
+  - string: ''
+  336:
+  - string: ''
+  337:
+  - string: ''
+  338:
+  - string: ''
+  339:
+  - string: ''
+  340:
+  - string: ''
+  341:
+  - string: ''
+  342:
+  - string: ''
+  343:
+  - string: ''
+  344:
+  - string: ''
+  345:
+  - string: ''
+  346:
+  - string: ''
+  347:
+  - string: ''
+  348:
+  - string: ''
+  349:
+  - string: 'Set #%d equipped.'
+  350:
+  - string: Ghastly Stones Stored
+  351:
+  - string: Ghastly Stones +1 Stored
+  352:
+  - string: Ghastly Stones +2 Stored
+  353:
+  - string: Verdigris Stones Stored
+  354:
+  - string: Verdigris Stones +1 Stored
+  355:
+  - string: Verdigris Stones +2 Stored
+  356:
+  - string: Wailing Stones Stored
+  357:
+  - string: Wailing Stones +1 Stored
+  358:
+  - string: Wailing Stones +2 Stored
+  359:
+  - string: Snowslit Stones Stored
+  360:
+  - string: Snowslit Stones +1 Stored
+  361:
+  - string: Snowslit Stones +2 Stored
+  362:
+  - string: Snowtip Stones Stored
+  363:
+  - string: Snowtip Stones +1 Stored
+  364:
+  - string: Snowtip Stones +2 Stored
+  365:
+  - string: Snowdim Stones Stored
+  366:
+  - string: Snowdim Stones +1 Stored
+  367:
+  - string: Snowdim Stones +2 Stored
+  368:
+  - string: Snoworb Stones Stored
+  369:
+  - string: Snoworb Stones +1 Stored
+  370:
+  - string: Snoworb Stones +2 Stored
+  371:
+  - string: Leafslit Stones Stored
+  372:
+  - string: Leafslit Stones +1 Stored
+  373:
+  - string: Leafslit Stones +2 Stored
+  374:
+  - string: Leaftip Stones Stored
+  375:
+  - string: Leaftip Stones +1 Stored
+  376:
+  - string: Leaftip Stones +2 Stored
+  377:
+  - string: Leafdim Stones Stored
+  378:
+  - string: Leafdim Stones +1 Stored
+  379:
+  - string: Leafdim Stones +2 Stored
+  380:
+  - string: Leaforb Stones Stored
+  381:
+  - string: Leaforb Stones +1 Stored
+  382:
+  - string: Leaforb Stones +2 Stored
+  383:
+  - string: Duskslit Stones Stored
+  384:
+  - string: Duskslit Stones +1 Stored
+  385:
+  - string: Duskslit Stones +2 Stored
+  386:
+  - string: Dusktip Stones Stored
+  387:
+  - string: Dusktip Stones +1 Stored
+  388:
+  - string: Dusktip Stones +2 Stored
+  389:
+  - string: Duskdim Stones Stored
+  390:
+  - string: Duskdim Stones +1 Stored
+  391:
+  - string: Duskdim Stones +2 Stored
+  392:
+  - string: Duskorb Stones Stored
+  393:
+  - string: Duskorb Stones +1 Stored
+  394:
+  - string: Duskorb Stones +2 Stored
+  395:
+  - string: Unity Information
+  396:
+  - string: Ranking Information
+  397:
+  - string: 'Current Unity:'
+  398:
+  - string: 'Ranking Results:'
+  399:
+  - string: 'Partial Ranking Results:'
+  400:
+  - string: Ranking Results
+  401:
+  - string: Partial Ranking Results
+  402:
+  - string: None
+  403:
+  - string: Pieuje
+  404:
+  - string: Ayame
+  405:
+  - string: Invincible Shield
+  406:
+  - string: Apururu
+  407:
+  - string: Maat
+  408:
+  - string: Aldo
+  409:
+  - string: Jakoh Wahcondalo
+  410:
+  - string: Naja Salaheem
+  411:
+  - string: Flaviria
+  412:
+  - string: Yoran-Oran
+  413:
+  - string: Sylvie
+  414:
+  - string: ''
+  415:
+  - string: ''
+  416:
+  - string: ''
+  417:
+  - string: ''
+  418:
+  - string: No Unity
+  419:
+  - string: Pieuje
+  420:
+  - string: Ayame
+  421:
+  - string: Invincible Shield
+  422:
+  - string: Apururu
+  423:
+  - string: Maat
+  424:
+  - string: Aldo
+  425:
+  - string: Jakoh Wahcondalo
+  426:
+  - string: Naja Salaheem
+  427:
+  - string: Flaviria
+  428:
+  - string: Yoran-Oran
+  429:
+  - string: Sylvie
+  430:
+  - string: ''
+  431:
+  - string: ''
+  432:
+  - string: ''
+  433:
+  - string: ''
+  434:
+  - string: --
+  435:
+  - string: '1'
+  436:
+  - string: '2'
+  437:
+  - string: '3'
+  438:
+  - string: '%d'
+  439:
+  - string: 'Unity chat settings:'
+  440:
+  - string: Active
+  441:
+  - string: Inactive
+  442:
+  - string: Unity
+  443:
+  - string: Unity Accolades
+  444:
+  - string: Su%d
+  445:
+  - string: Mellidopt Wings Stored
+  446:
+  - string: San d'Orian style
+  447:
+  - string: Bastokan style
+  448:
+  - string: Windurstian style
+  449:
+  - string: Mog Patio
+  450:
+  - string: No changes
+  451:
+  - string: Make changes?
+  452:
+  - string: 'Personal Evaluation:'
+  453:
+  - string: Partial Personal Evaluation
+  454:
+  - string: Escha Silt
+  455:
+  - string: Escha Beads
+  456:
+  - string: Appearance locked to equipment set %d.
+  457:
+  - string: Rem's Tale Chapters 1 Stored
+  458:
+  - string: Rem's Tale Chapters 2 Stored
+  459:
+  - string: Rem's Tale Chapters 3 Stored
+  460:
+  - string: Rem's Tale Chapters 4 Stored
+  461:
+  - string: Rem's Tale Chapters 5 Stored
+  462:
+  - string: Rem's Tale Chapters 6 Stored
+  463:
+  - string: Rem's Tale Chapters 7 Stored
+  464:
+  - string: Rem's Tale Chapters 8 Stored
+  465:
+  - string: Rem's Tale Chapters 9 Stored
+  466:
+  - string: Rem's Tale Chapters 10 Stored
+  467:
+  - string: Reclamation Marks
+  468:
+  - string: Pellucid Stones Stored
+  469:
+  - string: Fern Stones Stored
+  470:
+  - string: Taupe Stones Stored
+  471:
+  - string: Potpourri
+  472:
+  - string: Login Points
+  473:
+  - string: Fire Crystals Stored
+  474:
+  - string: Ice Crystals Stored
+  475:
+  - string: Wind Crystals Stored
+  476:
+  - string: Earth Crystals Stored
+  477:
+  - string: Lightning Crystals Stored
+  478:
+  - string: Water Crystals Stored
+  479:
+  - string: Light Crystals Stored
+  480:
+  - string: Dark Crystals Stored
+  481:
+  - string: Hallmarks
+  482:
+  - string: Total Hallmarks
+  483:
+  - string: Badges of Gallantry
+  484:
+  - string: Deeds
+  485:
+  - string: Crafter Points
+  486:
+  - string: Fire Crystals Set
+  487:
+  - string: Ice Crystals Set
+  488:
+  - string: Wind Crystals Set
+  489:
+  - string: Earth Crystals Set
+  490:
+  - string: Lightning Crystals Set
+  491:
+  - string: Water Crystals Set
+  492:
+  - string: Light Crystals Set
+  493:
+  - string: Dark Crystals Set
+  494:
+  - string: MC-I-SR01s Set
+  495:
+  - string: MC-I-SR02s Set
+  496:
+  - string: MC-I-SR03s Set
+  497:
+  - string: Liquefactions Spheres Set
+  498:
+  - string: Induration Spheres Set
+  499:
+  - string: Detonation Spheres Set
+  500:
+  - string: Scission Spheres Set
+  501:
+  - string: Impaction Spheres Set
+  502:
+  - string: Reverberation Spheres Set
+  503:
+  - string: Transfixion Spheres Set
+  504:
+  - string: Compression Spheres Set
+  505:
+  - string: Fusion Spheres Set
+  506:
+  - string: Distortion Spheres Set
+  507:
+  - string: Fragmentation Spheres Set
+  508:
+  - string: Gravitation Spheres Set
+  509:
+  - string: Light Spheres Set
+  510:
+  - string: Darkness Spheres Set
+  511:
+  - string: Silver A.M.A.N. Vouchers Stored
+  512:
+  - string: Mystical Canteens
+  513:
+  - string: Domain Points
+  514:
+  - string: Domain Points Earned Today
+  515:
+  - string: M. Level
+  516:
+  - string: Exemplar Points
+  517:
+  - string: Next M. Level
+  518:
+  - string: Gallimaufry
+  519:
+  - string: Mog Segments
+  520:
+  - string: Vana՚Bout
+  521:
+  - string: Plaudits
+  522:
+  - string: Imperial Standing accolades

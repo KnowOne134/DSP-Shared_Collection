@@ -1,0 +1,1025 @@
+entries:
+  0: KO
+  1: weakness
+  2: sleep
+  3: poison
+  4: paralysis
+  5: blindness
+  6: silence
+  7: petrification
+  8: disease
+  9: curse
+  10: stun
+  11: bind
+  12: weight
+  13: slow
+  14: charm
+  15: doom
+  16: amnesia
+  17: charm
+  18: ST18
+  19: ST19
+  20: ST20
+  21: ST21
+  22: ST22
+  23: ST23
+  24: ST24
+  25: ST25
+  26: ST26
+  27: ST27
+  28: terror
+  29: mute
+  30: bane
+  31: plague
+  32: Flee
+  33: Haste
+  34: Blaze Spikes
+  35: Ice Spikes
+  36: Blink
+  37: Stoneskin
+  38: Shock Spikes
+  39: Aquaveil
+  40: Protect
+  41: Shell
+  42: Regen
+  43: Refresh
+  44: Mighty Strikes
+  45: Boost
+  46: Hundred Fists
+  47: Manafont
+  48: Chainspell
+  49: Perfect Dodge
+  50: Invincible
+  51: Blood Weapon
+  52: Soul Voice
+  53: Eagle Eye Shot
+  54: Meikyo Shisui
+  55: Astral Flow
+  56: Berserk
+  57: Defender
+  58: Aggressor
+  59: Focus
+  60: Dodge
+  61: Counterstance
+  62: Sentinel
+  63: Souleater
+  64: Last Resort
+  65: Sneak Attack
+  66: Copy Image
+  67: Third Eye
+  68: Warcry
+  69: Invisible
+  70: Deodorize
+  71: Sneak
+  72: Sharpshot
+  73: Barrage
+  74: Holy Circle
+  75: Arcane Circle
+  76: Hide
+  77: Camouflage
+  78: Divine Seal
+  79: Elemental Seal
+  80: STR Boost
+  81: DEX Boost
+  82: VIT Boost
+  83: AGI Boost
+  84: INT Boost
+  85: MND Boost
+  86: CHR Boost
+  87: Trick Attack
+  88: Max HP Boost
+  89: Max MP Boost
+  90: Accuracy Boost
+  91: Attack Boost
+  92: Evasion Boost
+  93: Defense Boost
+  94: Enfire
+  95: Enblizzard
+  96: Enaero
+  97: Enstone
+  98: Enthunder
+  99: Enwater
+  100: Barfire
+  101: Barblizzard
+  102: Baraero
+  103: Barstone
+  104: Barthunder
+  105: Barwater
+  106: Barsleep
+  107: Barpoison
+  108: Barparalyze
+  109: Barblind
+  110: Barsilence
+  111: Barpetrify
+  112: Barvirus
+  113: Reraise
+  114: Cover
+  115: Unlimited Shot
+  116: Phalanx
+  117: Warding Circle
+  118: Ancient Circle
+  119: STR Boost
+  120: DEX Boost
+  121: VIT Boost
+  122: AGI Boost
+  123: INT Boost
+  124: MND Boost
+  125: CHR Boost
+  126: Spirit Surge
+  127: Costume
+  128: Burn
+  129: Frost
+  130: Choke
+  131: Rasp
+  132: Shock
+  133: Drown
+  134: Dia
+  135: Bio
+  136: STR Down
+  137: DEX Down
+  138: VIT Down
+  139: AGI Down
+  140: INT Down
+  141: MND Down
+  142: CHR Down
+  143: Level Restriction
+  144: Max HP Down
+  145: Max MP Down
+  146: Accuracy Down
+  147: Attack Down
+  148: Evasion Down
+  149: Defense Down
+  150: Physical Shield
+  151: Arrow Shield
+  152: Magic Shield
+  153: Damage Spikes
+  154: Shining Ruby
+  155: medicine
+  156: Flash
+  157: SJ Restriction
+  158: Provoke
+  159: penalty
+  160: preparations
+  161: Sprint
+  162: enchantment
+  163: Azure Lore
+  164: Chain Affinity
+  165: Burst Affinity
+  166: Overdrive
+  167: Magic Def. Down
+  168: Inhibit TP
+  169: Potency
+  170: Regain
+  171: Pax
+  172: Intension
+  173: ST173
+  174: ST174
+  175: ST175
+  176: ST176
+  177: ST177
+  178: ST178
+  179: ST179
+  180: ST180
+  181: ST181
+  182: ST182
+  183: ST183
+  184: ST184
+  185: ST185
+  186: ST186
+  187: ST187
+  188: ST188
+  189: Magic Shield
+  190: Magic Atk. Boost
+  191: Magic Def. Boost
+  192: Requiem
+  193: Lullaby
+  194: Elegy
+  195: Paeon
+  196: Ballad
+  197: Minne
+  198: Minuet
+  199: Madrigal
+  200: Prelude
+  201: Mambo
+  202: Aubade
+  203: Pastoral
+  204: Hum
+  205: Fantasia
+  206: Operetta
+  207: Capriccio
+  208: Serenade
+  209: Round
+  210: Gavotte
+  211: Fugue
+  212: Rhapsody
+  213: Aria
+  214: March
+  215: Etude
+  216: Carol
+  217: Threnody
+  218: Hymnus
+  219: Mazurka
+  220: Sirvente
+  221: Dirge
+  222: (Bard Song 31)
+  223: (Bard Song 32)
+  224: ST224
+  225: ST225
+  226: ST226
+  227: ST227
+  228: ST228
+  229: ST229
+  230: ST230
+  231: ST231
+  232: (N/A)
+  233: Auto-Regen
+  234: Auto-Refresh
+  235: Fishing Imagery
+  236: Woodworking Imagery
+  237: Smithing Imagery
+  238: Goldsmithing Imagery
+  239: Clothcraft Imagery
+  240: Leathercraft Imagery
+  241: Bonecraft Imagery
+  242: Alchemy Imagery
+  243: Cooking Imagery
+  244: (Imagery)
+  245: (Imagery)
+  246: (Imagery)
+  247: (Imagery)
+  248: (Imagery)
+  249: Dedication
+  250: EF Badge
+  251: Food
+  252: Chocobo
+  253: Signet
+  254: Battlefield
+  255: (None)
+  256: Sanction
+  257: Besieged
+  258: Illusion
+  259: encumbrance
+  260: Obliviscence
+  261: impairment
+  262: Omerta
+  263: debilitation
+  264: (None)
+  265: (None)
+  266: (None)
+  267: (None)
+  268: (None)
+  269: (None)
+  270: (None)
+  271: (None)
+  272: (None)
+  273: (None)
+  274: (None)
+  275: (None)
+  276: (None)
+  277: (None)
+  278: (None)
+  279: (None)
+  280: (None)
+  281: (None)
+  282: (None)
+  283: (None)
+  284: (None)
+  285: (None)
+  286: (None)
+  287: (None)
+  288: (None)
+  289: (None)
+  290: (None)
+  291: (None)
+  292: (None)
+  293: (None)
+  294: (None)
+  295: (None)
+  296: (None)
+  297: (None)
+  298: (None)
+  299: Overload
+  300: Fire Maneuver
+  301: Ice Maneuver
+  302: Wind Maneuver
+  303: Earth Maneuver
+  304: Thunder Maneuver
+  305: Water Maneuver
+  306: Light Maneuver
+  307: Dark Maneuver
+  308: Double-Up Chance
+  309: Bust
+  310: Fighter's Roll
+  311: Monk's Roll
+  312: Healer's Roll
+  313: Wizard's Roll
+  314: Warlock's Roll
+  315: Rogue's Roll
+  316: Gallant's Roll
+  317: Chaos Roll
+  318: Beast Roll
+  319: Choral Roll
+  320: Hunter's Roll
+  321: Samurai Roll
+  322: Ninja Roll
+  323: Drachen Roll
+  324: Evoker's Roll
+  325: Magus's Roll
+  326: Corsair's Roll
+  327: Puppet Roll
+  328: (None)
+  329: (None)
+  330: (None)
+  331: (None)
+  332: (None)
+  333: (None)
+  334: (None)
+  335: (None)
+  336: (None)
+  337: (None)
+  338: (None)
+  339: (None)
+  340: Warrior's Charge
+  341: Formless Strikes
+  342: Assassin's Charge
+  343: Feint
+  344: Fealty
+  345: Dark Seal
+  346: Diabolic Eye
+  347: Nightingale
+  348: Troubadour
+  349: Killer Instinct
+  350: Stealth Shot
+  351: Flashy Shot
+  352: Sange
+  353: Hasso
+  354: Seigan
+  355: (None)
+  356: (None)
+  357: (None)
+  358: (None)
+  359: (None)
+  360: (None)
+  361: (None)
+  362: (None)
+  363: (None)
+  364: (None)
+  365: (None)
+  366: (None)
+  367: (None)
+  368: (None)
+  369: (None)
+  370: (None)
+  371: (None)
+  372: (None)
+  373: (None)
+  374: (None)
+  375: (None)
+  376: (None)
+  377: (None)
+  378: (None)
+  379: (None)
+  380: (None)
+  381: (None)
+  382: (None)
+  383: (None)
+  384: (None)
+  385: (None)
+  386: (None)
+  387: (None)
+  388: (None)
+  389: (None)
+  390: (None)
+  391: (None)
+  392: (None)
+  393: (None)
+  394: (None)
+  395: (None)
+  396: (None)
+  397: (None)
+  398: (None)
+  399: (None)
+  400: (None)
+  401: (None)
+  402: (None)
+  403: (None)
+  404: (None)
+  405: (None)
+  406: (None)
+  407: (None)
+  408: (None)
+  409: (None)
+  410: (None)
+  411: (None)
+  412: (None)
+  413: (None)
+  414: (None)
+  415: (None)
+  416: (None)
+  417: (None)
+  418: (None)
+  419: (None)
+  420: (None)
+  421: (None)
+  422: (None)
+  423: (None)
+  424: (None)
+  425: (None)
+  426: (None)
+  427: (None)
+  428: (None)
+  429: (None)
+  430: (None)
+  431: (None)
+  432: (None)
+  433: (None)
+  434: (None)
+  435: (None)
+  436: (None)
+  437: (None)
+  438: (None)
+  439: (None)
+  440: (None)
+  441: (None)
+  442: (None)
+  443: (None)
+  444: (None)
+  445: (None)
+  446: (None)
+  447: (None)
+  448: (None)
+  449: (None)
+  450: (None)
+  451: (None)
+  452: (None)
+  453: (None)
+  454: (None)
+  455: (None)
+  456: (None)
+  457: (None)
+  458: (None)
+  459: (None)
+  460: (None)
+  461: (None)
+  462: (None)
+  463: (None)
+  464: (None)
+  465: (None)
+  466: (None)
+  467: (None)
+  468: (None)
+  469: (None)
+  470: (None)
+  471: (None)
+  472: (None)
+  473: (None)
+  474: (None)
+  475: (None)
+  476: (None)
+  477: (None)
+  478: (None)
+  479: (None)
+  480: (None)
+  481: (None)
+  482: (None)
+  483: (None)
+  484: (None)
+  485: (None)
+  486: (None)
+  487: (None)
+  488: (None)
+  489: (None)
+  490: (None)
+  491: (None)
+  492: (None)
+  493: (None)
+  494: (None)
+  495: (None)
+  496: (None)
+  497: (None)
+  498: (None)
+  499: (None)
+  500: (None)
+  501: (None)
+  502: (None)
+  503: (None)
+  504: (None)
+  505: (None)
+  506: (None)
+  507: (None)
+  508: (None)
+  509: (None)
+  510: (None)
+  511: (None)
+  512: KO'd
+  513: weakened
+  514: asleep
+  515: poisoned
+  516: paralyzed
+  517: blinded
+  518: silenced
+  519: petrified
+  520: diseased
+  521: cursed
+  522: stunned
+  523: bound
+  524: weighed down
+  525: slowed
+  526: charmed
+  527: doomed
+  528: amnesia
+  529: charmed
+  530: ST18
+  531: ST19
+  532: ST20
+  533: ST21
+  534: ST22
+  535: ST23
+  536: ST24
+  537: ST25
+  538: ST26
+  539: ST27
+  540: terrorized
+  541: muted
+  542: baned
+  543: plagued
+  544: Flee
+  545: Haste
+  546: Blaze Spikes
+  547: Ice Spikes
+  548: Blink
+  549: Stoneskin
+  550: Shock Spikes
+  551: Aquaveil
+  552: Protect
+  553: Shell
+  554: Regen
+  555: Refresh
+  556: Mighty Strikes
+  557: Boost
+  558: Hundred Fists
+  559: Manafont
+  560: Chainspell
+  561: Perfect Dodge
+  562: Invincible
+  563: Blood Weapon
+  564: Soul Voice
+  565: Eagle Eye Shot
+  566: Meikyo Shisui
+  567: Astral Flow
+  568: Berserk
+  569: Defender
+  570: Aggressor
+  571: Focus
+  572: Dodge
+  573: Counterstance
+  574: Sentinel
+  575: Souleater
+  576: Last Resort
+  577: Sneak Attack
+  578: Copy Image
+  579: Third Eye
+  580: Warcry
+  581: Invisible
+  582: Deodorize
+  583: Sneak
+  584: Sharpshot
+  585: Barrage
+  586: Holy Circle
+  587: Arcane Circle
+  588: Hide
+  589: Camouflage
+  590: Divine Seal
+  591: Elemental Seal
+  592: STR Boost
+  593: DEX Boost
+  594: VIT Boost
+  595: AGI Boost
+  596: INT Boost
+  597: MND Boost
+  598: CHR Boost
+  599: Trick Attack
+  600: Max HP Boost
+  601: Max MP Boost
+  602: Accuracy Boost
+  603: Attack Boost
+  604: Evasion Boost
+  605: Defense Boost
+  606: Enfire
+  607: Enblizzard
+  608: Enaero
+  609: Enstone
+  610: Enthunder
+  611: Enwater
+  612: Barfire
+  613: Barblizzard
+  614: Baraero
+  615: Barstone
+  616: Barthunder
+  617: Barwater
+  618: Barsleep
+  619: Barpoison
+  620: Barparalyze
+  621: Barblind
+  622: Barsilence
+  623: Barpetrify
+  624: Barvirus
+  625: Reraise
+  626: Cover
+  627: Unlimited Shot
+  628: Phalanx
+  629: Warding Circle
+  630: Ancient Circle
+  631: STR Boost
+  632: DEX Boost
+  633: VIT Boost
+  634: AGI Boost
+  635: INT Boost
+  636: MND Boost
+  637: CHR Boost
+  638: Spirit Surge
+  639: Costume
+  640: Burn
+  641: Frost
+  642: Choke
+  643: Rasp
+  644: Shock
+  645: Drown
+  646: Dia
+  647: Bio
+  648: STR Down
+  649: DEX Down
+  650: VIT Down
+  651: AGI Down
+  652: INT Down
+  653: MND Down
+  654: CHR Down
+  655: Level Restriction
+  656: Max HP Down
+  657: Max MP Down
+  658: Accuracy Down
+  659: Attack Down
+  660: Evasion Down
+  661: Defense Down
+  662: Physical Shield
+  663: Arrow Shield
+  664: Magic Shield
+  665: Damage Spikes
+  666: Shining Ruby
+  667: medicated
+  668: blinded
+  669: SJ Restriction
+  670: provoked
+  671: penalized
+  672: preparing for battle
+  673: Sprint
+  674: enchanted
+  675: Azure Lore
+  676: Chain Affinity
+  677: Burst Affinity
+  678: Overdrive
+  679: Magic Def. Down
+  680: Inhibit TP
+  681: ST169
+  682: ST170
+  683: ST171
+  684: ST172
+  685: ST173
+  686: ST174
+  687: ST175
+  688: ST176
+  689: ST177
+  690: ST178
+  691: ST179
+  692: ST180
+  693: ST181
+  694: ST182
+  695: ST183
+  696: ST184
+  697: ST185
+  698: ST186
+  699: ST187
+  700: ST188
+  701: Magic Shield
+  702: Magic Atk. Boost
+  703: Magic Def. Boost
+  704: Requiem
+  705: Lullaby
+  706: Elegy
+  707: Paeon
+  708: Ballad
+  709: Minne
+  710: Minuet
+  711: Madrigal
+  712: Prelude
+  713: Mambo
+  714: Aubade
+  715: Pastoral
+  716: Hum
+  717: Fantasia
+  718: Operetta
+  719: Capriccio
+  720: Serenade
+  721: Round
+  722: Gavotte
+  723: Fugue
+  724: Rhapsody
+  725: Aria
+  726: March
+  727: Etude
+  728: Carol
+  729: Threnody
+  730: Hymnus
+  731: Mazurka
+  732: Sirvente
+  733: Dirge
+  734: (Bard Song 31)
+  735: (Bard Song 32)
+  736: ST224
+  737: ST225
+  738: ST226
+  739: ST227
+  740: ST228
+  741: ST229
+  742: ST230
+  743: ST231
+  744: (N/A)
+  745: Auto-Regen
+  746: Auto-Refresh
+  747: Fishing Imagery
+  748: Woodworking Imagery
+  749: Smithing Imagery
+  750: Goldsmithing Imagery
+  751: Clothcraft Imagery
+  752: Leathercraft Imagery
+  753: Bonecraft Imagery
+  754: Alchemy Imagery
+  755: Cooking Imagery
+  756: (Imagery)
+  757: (Imagery)
+  758: (Imagery)
+  759: (Imagery)
+  760: (Imagery)
+  761: Dedication
+  762: EF Badge
+  763: Food
+  764: Chocobo
+  765: Signet
+  766: Battlefield
+  767: (None)
+  768: Sanction
+  769: Besieged
+  770: Illusion
+  771: (None)
+  772: (None)
+  773: (None)
+  774: (None)
+  775: (None)
+  776: (None)
+  777: (None)
+  778: (None)
+  779: (None)
+  780: (None)
+  781: (None)
+  782: (None)
+  783: (None)
+  784: (None)
+  785: (None)
+  786: (None)
+  787: (None)
+  788: (None)
+  789: (None)
+  790: (None)
+  791: (None)
+  792: (None)
+  793: (None)
+  794: (None)
+  795: (None)
+  796: (None)
+  797: (None)
+  798: (None)
+  799: (None)
+  800: (None)
+  801: (None)
+  802: (None)
+  803: (None)
+  804: (None)
+  805: (None)
+  806: (None)
+  807: (None)
+  808: (None)
+  809: (None)
+  810: (None)
+  811: Overloaded
+  812: Fire Maneuver
+  813: Ice Maneuver
+  814: Wind Maneuver
+  815: Earth Maneuver
+  816: Thunder Maneuver
+  817: Water Maneuver
+  818: Light Maneuver
+  819: Dark Maneuver
+  820: Double-Up Chance
+  821: Bust
+  822: Fighter's Roll
+  823: Monk's Roll
+  824: Healer's Roll
+  825: Wizard's Roll
+  826: Warlock's Roll
+  827: Rogue's Roll
+  828: Gallant's Roll
+  829: Chaos Roll
+  830: Beast Roll
+  831: Choral Roll
+  832: Hunter's Roll
+  833: Samurai Roll
+  834: Ninja Roll
+  835: Drachen Roll
+  836: Evoker's Roll
+  837: Magus's Roll
+  838: Corsair's Roll
+  839: Puppet Roll
+  840: (None)
+  841: (None)
+  842: (None)
+  843: (None)
+  844: (None)
+  845: (None)
+  846: (None)
+  847: (None)
+  848: (None)
+  849: (None)
+  850: (None)
+  851: (None)
+  852: Warrior's Charge
+  853: Formless Strikes
+  854: Assassin's Charge
+  855: Feint
+  856: Fealty
+  857: Dark Seal
+  858: Diabolic Eye
+  859: Nightingale
+  860: Troubadour
+  861: Killer Instinct
+  862: Stealth Shot
+  863: Flashy Shot
+  864: Sange
+  865: (None)
+  866: (None)
+  867: (None)
+  868: (None)
+  869: (None)
+  870: (None)
+  871: (None)
+  872: (None)
+  873: (None)
+  874: (None)
+  875: (None)
+  876: (None)
+  877: (None)
+  878: (None)
+  879: (None)
+  880: (None)
+  881: (None)
+  882: (None)
+  883: (None)
+  884: (None)
+  885: (None)
+  886: (None)
+  887: (None)
+  888: (None)
+  889: (None)
+  890: (None)
+  891: (None)
+  892: (None)
+  893: (None)
+  894: (None)
+  895: (None)
+  896: (None)
+  897: (None)
+  898: (None)
+  899: (None)
+  900: (None)
+  901: (None)
+  902: (None)
+  903: (None)
+  904: (None)
+  905: (None)
+  906: (None)
+  907: (None)
+  908: (None)
+  909: (None)
+  910: (None)
+  911: (None)
+  912: (None)
+  913: (None)
+  914: (None)
+  915: (None)
+  916: (None)
+  917: (None)
+  918: (None)
+  919: (None)
+  920: (None)
+  921: (None)
+  922: (None)
+  923: (None)
+  924: (None)
+  925: (None)
+  926: (None)
+  927: (None)
+  928: (None)
+  929: (None)
+  930: (None)
+  931: (None)
+  932: (None)
+  933: (None)
+  934: (None)
+  935: (None)
+  936: (None)
+  937: (None)
+  938: (None)
+  939: (None)
+  940: (None)
+  941: (None)
+  942: (None)
+  943: (None)
+  944: (None)
+  945: (None)
+  946: (None)
+  947: (None)
+  948: (None)
+  949: (None)
+  950: (None)
+  951: (None)
+  952: (None)
+  953: (None)
+  954: (None)
+  955: (None)
+  956: (None)
+  957: (None)
+  958: (None)
+  959: (None)
+  960: (None)
+  961: (None)
+  962: (None)
+  963: (None)
+  964: (None)
+  965: (None)
+  966: (None)
+  967: (None)
+  968: (None)
+  969: (None)
+  970: (None)
+  971: (None)
+  972: (None)
+  973: (None)
+  974: (None)
+  975: (None)
+  976: (None)
+  977: (None)
+  978: (None)
+  979: (None)
+  980: (None)
+  981: (None)
+  982: (None)
+  983: (None)
+  984: (None)
+  985: (None)
+  986: (None)
+  987: (None)
+  988: (None)
+  989: (None)
+  990: (None)
+  991: (None)
+  992: (None)
+  993: (None)
+  994: (None)
+  995: (None)
+  996: (None)
+  997: (None)
+  998: (None)
+  999: (None)
+  1000: (None)
+  1001: (None)
+  1002: (None)
+  1003: (None)
+  1004: (None)
+  1005: (None)
+  1006: (None)
+  1007: (None)
+  1008: (None)
+  1009: (None)
+  1010: (None)
+  1011: (None)
+  1012: (None)
+  1013: (None)
+  1014: (None)
+  1015: (None)
+  1016: (None)
+  1017: (None)
+  1018: (None)
+  1019: (None)
+  1020: (None)
+  1021: (None)
+  1022: (None)
+  1023: (None)

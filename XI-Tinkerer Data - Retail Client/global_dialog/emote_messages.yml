@@ -1,0 +1,199 @@
+entries:
+  0: '${entity-wrap-start}${entity-source}${entity-wrap-end} points at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  1: "${entity-wrap-start}${entity-source}${entity-wrap-end} points \x1D.${prompt}"
+  2: '${entity-wrap-start}${entity-source}${entity-wrap-end} bows courteously to ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  3: ${entity-wrap-start}${entity-source}${entity-wrap-end} bows.${prompt}
+  4: '${entity-wrap-start}${entity-source}${entity-wrap-end} salutes ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  5: ${entity-wrap-start}${entity-source}${entity-wrap-end} salutes.${prompt}
+  6: '${entity-wrap-start}${entity-source}${entity-wrap-end} kneels respectfully before ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  7: ${entity-wrap-start}${entity-source}${entity-wrap-end} kneels respectfully.${prompt}
+  8: '${entity-wrap-start}${entity-source}${entity-wrap-end} bursts out laughing beside ${choice-definite-entity: 1}[the /]${entity-target}!${prompt}'
+  9: ${entity-wrap-start}${entity-source}${entity-wrap-end} shakes with laughter!${prompt}
+  10: '${entity-wrap-start}${entity-source}${entity-wrap-end} weeps in sorrow before ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  11: ${entity-wrap-start}${entity-source}${entity-wrap-end}'s eyes brim over with tears.${prompt}
+  12: '${entity-wrap-start}${entity-source}${entity-wrap-end} shakes ${choice-source-gender}[his/her] head at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  13: ${entity-wrap-start}${entity-source}${entity-wrap-end} shakes ${choice-source-gender}[his/her] head.${prompt}
+  14: '${entity-wrap-start}${entity-source}${entity-wrap-end} nods to ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  15: ${entity-wrap-start}${entity-source}${entity-wrap-end} nods.${prompt}
+  16: '${entity-wrap-start}${entity-source}${entity-wrap-end} waves to ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  17: ${entity-wrap-start}${entity-source}${entity-wrap-end} waves.${prompt}
+  18: '${entity-wrap-start}${entity-source}${entity-wrap-end} waves goodbye to ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  19: ${entity-wrap-start}${entity-source}${entity-wrap-end} waves goodbye.${prompt}
+  20: '${entity-wrap-start}${entity-source}${entity-wrap-end} welcomes ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  21: ${entity-wrap-start}${entity-source}${entity-wrap-end} motions in welcome.${prompt}
+  22: '${entity-wrap-start}${entity-source}${entity-wrap-end} motions joyfully to ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  23: ${entity-wrap-start}${entity-source}${entity-wrap-end} motions joyfully.${prompt}
+  24: '${entity-wrap-start}${entity-source}${entity-wrap-end} cheers ${choice-definite-entity: 1}[the /]${entity-target} on!${prompt}'
+  25: ${entity-wrap-start}${entity-source}${entity-wrap-end} cheers!${prompt}
+  26: '${entity-wrap-start}${entity-source}${entity-wrap-end} claps ${choice-source-gender}[his/her] hands at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  27: ${entity-wrap-start}${entity-source}${entity-wrap-end} claps ${choice-source-gender}[his/her] hands.${prompt}
+  28: '${entity-wrap-start}${entity-source}${entity-wrap-end} praises ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  29: ${entity-wrap-start}${entity-source}${entity-wrap-end} applauds.${prompt}
+  30: '${entity-wrap-start}${entity-source}${entity-wrap-end} smiles warmly at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  31: ${entity-wrap-start}${entity-source}${entity-wrap-end} smiles warmly.${prompt}
+  32: '${entity-wrap-start}${entity-source}${entity-wrap-end} pokes ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  33: ${entity-wrap-start}${entity-source}${entity-wrap-end} pokes.${prompt}
+  34: '${entity-wrap-start}${entity-source}${entity-wrap-end} slaps ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  35: ${entity-wrap-start}${entity-source}${entity-wrap-end} slaps ${choice-source-gender}[his/her] own face.${prompt}
+  36: '${entity-wrap-start}${entity-source}${entity-wrap-end} looks at ${choice-definite-entity: 1}[the /]${entity-target} and staggers.${prompt}'
+  37: ${entity-wrap-start}${entity-source}${entity-wrap-end} can't help ${choice-source-gender}[him/her]self and staggers.${prompt}
+  38: '${entity-wrap-start}${entity-source}${entity-wrap-end} looks at ${choice-definite-entity: 1}[the /]${entity-target} and sighs dejectedly.${prompt}'
+  39: ${entity-wrap-start}${entity-source}${entity-wrap-end} sighs dejectedly.${prompt}
+  40: '${entity-wrap-start}${entity-source}${entity-wrap-end} pats ${choice-definite-entity: 1}[the /]${entity-target} consolingly.${prompt}'
+  41: ${entity-wrap-start}${entity-source}${entity-wrap-end} seems to want to cheer someone up, badly!${prompt}
+  42: '${entity-wrap-start}${entity-source}${entity-wrap-end} looks at ${choice-definite-entity: 1}[the /]${entity-target} in surprise.${prompt}'
+  43: ${entity-wrap-start}${entity-source}${entity-wrap-end} looks surprised!${prompt}
+  44: '${entity-wrap-start}${entity-source}${entity-wrap-end}, amazed, motions questioningly at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  45: ${entity-wrap-start}${entity-source}${entity-wrap-end} looks amazed but curious.${prompt}
+  46: '${entity-wrap-start}${entity-source}${entity-wrap-end} stares at ${choice-definite-entity: 1}[the /]${entity-target}...${prompt}'
+  47: ${entity-wrap-start}${entity-source}${entity-wrap-end} stares blankly.${prompt}
+  48: '${entity-wrap-start}${entity-source}${entity-wrap-end} looks away from ${choice-definite-entity: 1}[the /]${entity-target}, embarrassed.${prompt}'
+  49: ${entity-wrap-start}${entity-source}${entity-wrap-end} blushes in embarrassment.${prompt}
+  50: '${entity-wrap-start}${entity-source}${entity-wrap-end} motions angrily at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  51: ${entity-wrap-start}${entity-source}${entity-wrap-end} looks angry.${prompt}
+  52: '${entity-wrap-start}${entity-source}${entity-wrap-end} looks at ${choice-definite-entity: 1}[the /]${entity-target} disgustedly.${prompt}'
+  53: ${entity-wrap-start}${entity-source}${entity-wrap-end} looks disgusted.${prompt}
+  54: '${entity-wrap-start}${entity-source}${entity-wrap-end} falls silent in front of ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  55: ${entity-wrap-start}${entity-source}${entity-wrap-end} is as quiet as if ${choice-source-gender}[he/she] had a Silence spell cast on ${choice-source-gender}[him/her].${prompt}
+  56: '${entity-wrap-start}${entity-source}${entity-wrap-end} falls asleep in front of ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  57: ${entity-wrap-start}${entity-source}${entity-wrap-end} dozes off quietly.${prompt}
+  58: '${entity-wrap-start}${entity-source}${entity-wrap-end} looks at ${choice-definite-entity: 1}[the /]${entity-target} and panics!${prompt}'
+  59: ${entity-wrap-start}${entity-source}${entity-wrap-end} panics!${prompt}
+  60: '${entity-wrap-start}${entity-source}${entity-wrap-end} grins roguishly at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  61: ${entity-wrap-start}${entity-source}${entity-wrap-end} is grinning to ${choice-source-gender}[him/her]self...${prompt}
+  62: '${entity-wrap-start}${entity-source}${entity-wrap-end} and ${choice-definite-entity: 1}[the /]${entity-target} happily dance together.${prompt}'
+  63: ${entity-wrap-start}${entity-source}${entity-wrap-end} dances happily.${prompt}
+  64: '${entity-wrap-start}${entity-source}${entity-wrap-end} looks away from ${choice-definite-entity: 1}[the /]${entity-target}, lost in thought.${prompt}'
+  65: ${entity-wrap-start}${entity-source}${entity-wrap-end} seems lost in thought.${prompt}
+  66: '${entity-wrap-start}${entity-source}${entity-wrap-end} fumes in front of ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  67: ${entity-wrap-start}${entity-source}${entity-wrap-end} fumes.${prompt}
+  68: '${entity-wrap-start}${entity-source}${entity-wrap-end} questions ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  69: ${entity-wrap-start}${entity-source}${entity-wrap-end} looks doubtful.${prompt}
+  70: '${entity-wrap-start}${entity-source}${entity-wrap-end} looks away from ${choice-definite-entity: 1}[the /]${entity-target}, sulking.${prompt}'
+  71: ${entity-wrap-start}${entity-source}${entity-wrap-end} sulks.${prompt}
+  72: '${entity-wrap-start}${entity-source}${entity-wrap-end} psychs up along with ${choice-definite-entity: 1}[the /]${entity-target}!${prompt}'
+  73: ${entity-wrap-start}${entity-source}${entity-wrap-end} psychs up!${prompt}
+  74: '${entity-wrap-start}${entity-source}${entity-wrap-end} stares at ${choice-definite-entity: 1}[the /]${entity-target}, confused.${prompt}'
+  75: ${entity-wrap-start}${entity-source}${entity-wrap-end} gives up, confused.${prompt}
+  76: '${entity-wrap-start}${entity-source}${entity-wrap-end} looks at ${choice-definite-entity: 1}[the /]${entity-target}, shocked!${prompt}'
+  77: ${entity-wrap-start}${entity-source}${entity-wrap-end} looks shocked!${prompt}
+  78: ${prompt}
+  79: ${prompt}
+  80: ${prompt}
+  81: ${prompt}
+  82: ${prompt}
+  83: ${prompt}
+  84: ${prompt}
+  85: ${prompt}
+  86: '${entity-wrap-start}${entity-source}${entity-wrap-end} gives a triumphant cry with ${choice-definite-entity: 1}[the /]${entity-target}!${prompt}'
+  87: ${entity-wrap-start}${entity-source}${entity-wrap-end} gives a triumphant cry!${prompt}
+  88: '${entity-wrap-start}${entity-source}${entity-wrap-end} tosses something at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  89: ${entity-wrap-start}${entity-source}${entity-wrap-end} tosses something.${prompt}
+  90: ${prompt}
+  91: ${prompt}
+  92: ${prompt}
+  93: ${prompt}
+  94: ${prompt}
+  95: ${prompt}
+  96: ${prompt}
+  97: ${prompt}
+  98: ${prompt}
+  99: ${prompt}
+  100: ${prompt}
+  101: ${prompt}
+  102: ${prompt}
+  103: ${prompt}
+  104: ${prompt}
+  105: ${prompt}
+  106: ${prompt}
+  107: ${prompt}
+  108: ${prompt}
+  109: ${prompt}
+  110: ${prompt}
+  111: ${prompt}
+  112: ${prompt}
+  113: ${prompt}
+  114: ${prompt}
+  115: ${prompt}
+  116: ${prompt}
+  117: ${prompt}
+  118: ${prompt}
+  119: ${prompt}
+  120: ${prompt}
+  121: ${prompt}
+  122: ${prompt}
+  123: ${prompt}
+  124: ${prompt}
+  125: ${prompt}
+  126: ${prompt}
+  127: ${prompt}
+  128: ${prompt}
+  129: ${prompt}
+  130: '${entity-wrap-start}${entity-source}${entity-wrap-end} performs a passionate samba for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  131: ${entity-wrap-start}${entity-source}${entity-wrap-end} performs a passionate samba.${prompt}
+  132: '${entity-wrap-start}${entity-source}${entity-wrap-end} performs an elegant waltz for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  133: ${entity-wrap-start}${entity-source}${entity-wrap-end} performs an elegant waltz.${prompt}
+  134: '${entity-wrap-start}${entity-source}${entity-wrap-end} performs an intricate jig for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  135: ${entity-wrap-start}${entity-source}${entity-wrap-end} performs an intricate jig.${prompt}
+  136: '${entity-wrap-start}${entity-source}${entity-wrap-end} performs a lively jig for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  137: ${entity-wrap-start}${entity-source}${entity-wrap-end} performs a lively jig.${prompt}
+  138: '${entity-wrap-start}${entity-source}${entity-wrap-end} cheers ${choice-definite-entity: 1}[the /]${entity-target} on with a wave!${prompt}'
+  139: ${entity-wrap-start}${entity-source}${entity-wrap-end} does a wave!${prompt}
+  140: '${entity-wrap-start}${entity-source}${entity-wrap-end} cheers ${choice-definite-entity: 1}[the /]${entity-target} on with a wave!${prompt}'
+  141: ${entity-wrap-start}${entity-source}${entity-wrap-end} does a wave!${prompt}
+  142: ${prompt}
+  143: ${prompt}
+  144: ${prompt}
+  145: ${prompt}
+  146: '${entity-wrap-start}${entity-source}${entity-wrap-end} rings ${choice-source-gender}[his/her] bell for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  147: ${entity-wrap-start}${entity-source}${entity-wrap-end} rings ${choice-source-gender}[his/her] bell.${prompt}
+  148: '${entity-wrap-start}${entity-source}${entity-wrap-end} taunts ${choice-definite-entity: 1}[the /]${entity-target} menacingly.${prompt}'
+  149: ${entity-wrap-start}${entity-source}${entity-wrap-end} takes on all comers.${prompt}
+  150: '${entity-wrap-start}${entity-source}${entity-wrap-end} demonstrates ${choice-source-gender}[his/her] full inner strength for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  151: ${entity-wrap-start}${entity-source}${entity-wrap-end} summons ${choice-source-gender}[his/her] full inner strength.${prompt}
+  152: '${entity-wrap-start}${entity-source}${entity-wrap-end} applies a bandage to ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  153: ${entity-wrap-start}${entity-source}${entity-wrap-end} applies a bandage.${prompt}
+  154: '${entity-wrap-start}${entity-source}${entity-wrap-end} intimidates ${choice-definite-entity: 1}[the /]${entity-target} with ${choice-source-gender}[his/her] fearsome black wings.${prompt}'
+  155: ${entity-wrap-start}${entity-source}${entity-wrap-end} takes to the air on a pair of fearsome black wings.${prompt}
+  156: '${entity-wrap-start}${entity-source}${entity-wrap-end} shares a moment of stylish elegance with ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  157: ${entity-wrap-start}${entity-source}${entity-wrap-end} revels in a moment of stylish elegance.${prompt}
+  158: '${entity-wrap-start}${entity-source}${entity-wrap-end} uses ${choice-source-gender}[his/her] powers of misdirection on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  159: ${entity-wrap-start}${entity-source}${entity-wrap-end} uses ${choice-source-gender}[his/her] powers of misdirection.${prompt}
+  160: '${entity-wrap-start}${entity-source}${entity-wrap-end} and ${choice-definite-entity: 1}[the /]${entity-target} are enveloped in sacred radiance.${prompt}'
+  161: ${entity-wrap-start}${entity-source}${entity-wrap-end} is enveloped in sacred radiance.${prompt}
+  162: '${entity-wrap-start}${entity-source}${entity-wrap-end} calls forth ${choice-source-gender}[his/her] dark minions to beleaguer ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  163: ${entity-wrap-start}${entity-source}${entity-wrap-end} calls forth ${choice-source-gender}[his/her] dark minions.${prompt}
+  164: '${entity-wrap-start}${entity-source}${entity-wrap-end} listens intently to what ${choice-definite-entity: 1}[the /]${entity-target} is saying.${prompt}'
+  165: ${entity-wrap-start}${entity-source}${entity-wrap-end} is listening intently.${prompt}
+  166: '${entity-wrap-start}${entity-source}${entity-wrap-end} conducts a rousing symphony for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  167: ${entity-wrap-start}${entity-source}${entity-wrap-end} conducts a rousing symphony.${prompt}
+  168: '${entity-wrap-start}${entity-source}${entity-wrap-end} introduces ${choice-definite-entity: 1}[the /]${entity-target} to ${choice-source-gender}[his/her] forest friends.${prompt}'
+  169: ${entity-wrap-start}${entity-source}${entity-wrap-end} calls forth ${choice-source-gender}[his/her] forest friends.${prompt}
+  170: '${entity-wrap-start}${entity-source}${entity-wrap-end} displays ${choice-source-gender}[his/her] samurai spirit for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  171: ${entity-wrap-start}${entity-source}${entity-wrap-end} displays ${choice-source-gender}[his/her] samurai spirit.${prompt}
+  172: '${entity-wrap-start}${entity-source}${entity-wrap-end} shows off a long-lost ninjutsu technique for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  173: ${entity-wrap-start}${entity-source}${entity-wrap-end} shows off a long-lost ninjutsu technique.${prompt}
+  174: '${entity-wrap-start}${entity-source}${entity-wrap-end} calls forth the power of the dragon for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  175: ${entity-wrap-start}${entity-source}${entity-wrap-end} calls forth the power of the dragon.${prompt}
+  176: '${entity-wrap-start}${entity-source}${entity-wrap-end} summons a chirping chocobo chick for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  177: ${entity-wrap-start}${entity-source}${entity-wrap-end} summons a chirping chocobo chick.${prompt}
+  178: '${entity-wrap-start}${entity-source}${entity-wrap-end} plants some seeds on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  179: ${entity-wrap-start}${entity-source}${entity-wrap-end} plants some seeds.${prompt}
+  180: '${entity-wrap-start}${entity-source}${entity-wrap-end} tosses a coin for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  181: ${entity-wrap-start}${entity-source}${entity-wrap-end} tosses a coin.${prompt}
+  182: '${entity-wrap-start}${entity-source}${entity-wrap-end} heats up for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  183: ${entity-wrap-start}${entity-source}${entity-wrap-end} heats up.${prompt}
+  184: '${entity-wrap-start}${entity-source}${entity-wrap-end} leads a rousing cheer for ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  185: ${entity-wrap-start}${entity-source}${entity-wrap-end} leads a rousing cheer.${prompt}
+  186: '${entity-wrap-start}${entity-source}${entity-wrap-end} is inspired by the sight of ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  187: ${entity-wrap-start}${entity-source}${entity-wrap-end} has a sudden flash of inspiration.${prompt}
+  188: '${entity-wrap-start}${entity-source}${entity-wrap-end} flourishes a bell at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  189: ${entity-wrap-start}${entity-source}${entity-wrap-end} flourishes a bell.${prompt}
+  190: '${entity-wrap-start}${entity-source}${entity-wrap-end} unleashes a burst of runic energy at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  191: ${entity-wrap-start}${entity-source}${entity-wrap-end} unleashes a burst of runic energy.${prompt}
+  192: '${entity-wrap-start}${entity-source}${entity-wrap-end} aims ${choice-source-gender}[his/her] weapon at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  193: ${entity-wrap-start}${entity-source}${entity-wrap-end} readies ${choice-source-gender}[his/her] weapon.${prompt}
+  194: '${entity-wrap-start}${entity-source}${entity-wrap-end} aims ${choice-source-gender}[his/her] weapon at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  195: ${entity-wrap-start}${entity-source}${entity-wrap-end} readies ${choice-source-gender}[his/her] weapon.${prompt}
+  196: '${entity-wrap-start}${entity-source}${entity-wrap-end} aims ${choice-source-gender}[his/her] weapon at ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  197: ${entity-wrap-start}${entity-source}${entity-wrap-end} readies ${choice-source-gender}[his/her] weapon.${prompt}

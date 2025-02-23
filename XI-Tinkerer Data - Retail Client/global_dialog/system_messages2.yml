@@ -1,0 +1,389 @@
+entries:
+  0: '${color-alt: 123}You could not enter the next area.${prompt}'
+  1: '${color-alt: 123}You could not enter the next area.${prompt}'
+  2: '${color-alt: 123}You could not enter the next area.${prompt}'
+  3: '${color-alt: 123}You could not enter the next area.${prompt}'
+  4: '${color-alt: 123}You could not enter the next area.${prompt}'
+  5: You could not enter your room.${prompt}
+  6: '${color-alt: 121}Citizens of other nations must have a Rent-a-Room assigned to them in order to use the residential area facilities.${prompt}'
+  7: |-
+    ${color-alt: 136}Executing logout in ${number-alt: 0} seconds.
+    Cancel healing to remain logged in.${prompt}
+  8: |-
+    ${color-alt: 136}Executing temporary logout in ${number-alt: 0} seconds.
+    Cancel healing to remain logged in.${prompt}
+  9: '${color-alt: 121}Target out of range.${prompt}'
+  10: '${color-alt: 121}${number-alt: 0} ${choice-plurality-number: 0}[second/seconds] until position reset.${prompt}'
+  11: '${color-alt: 121}Your invitation was declined.${prompt}'
+  12: '${color-alt: 123}That person is a party member.${prompt}'
+  13: '${color-alt: 123}You cannot perform that job emote.${prompt}'
+  14: '${color-alt: 123}That request cannot be processed.${prompt}'
+  15: |-
+    ${color-alt: 123}${entity: 2} does not meet the necessary requirements to obtain the ${item-singular-alt: 0[2]}.
+    ${lettercase: 1}${item-singular-alt: 0[2]} lost.${prompt}
+  16: '${color-alt: 121}You find ${article} ${item-article-alt: 0[2]} on ${choice-definite-entity: 1}[the /]${entity-target}.${prompt}'
+  17: '${color-alt: 121}${entity: 3}''s lot for the ${item-singular-alt: 0[2]}: ${entity: 2} points.${prompt}'
+  18: '${color-alt: 127}${entity: 2} obtains ${article} ${item-article-alt: 0[2]}.${prompt}'
+  19: '${color-alt: 127}${entity: 0} obtains ${gil: 0}.${prompt}'
+  20: '${color-alt: 121}Your call has been placed in the queue.${prompt}'
+  21: '${color-alt: 123}You are not the party leader.${prompt}'
+  22: '${color-alt: 123}Caution: All unclaimed treasure will be lost if you join a party.${prompt}'
+  23: '${color-alt: 123}You cannot invite that person at this time.${prompt}'
+  24: '${color-alt: 138}${entity: 0} wishes to trade with you.${prompt}'
+  25: '${color-alt: 123}You have already sent a trade request to ${entity: 0}.${prompt}'
+  26: '${color-alt: 123}You cannot trade with ${entity: 0} at this time.${prompt}'
+  27: '${color-alt: 123}You cannot trade the ${item-singular-alt: 0[2]} to ${entity: 2}.${prompt}'
+  28: '${color-alt: 123}You cannot trade with that target.${prompt}'
+  29: '${color-alt: 121}Select a target to trade with.${prompt}'
+  30: '${color-alt: 138}Trade complete.${prompt}'
+  31: |-
+    ${color-alt: 121}You do not meet the requirements to obtain the ${item-singular-alt: 0[2]}.
+    ${lettercase: 1}${item-singular-alt: 0[2]} lost.${prompt}
+  32: '${color-alt: 123}Unable to perform action in Mog House.${prompt}'
+  33: '${color-alt: 121}That person is currently away and cannot respond.${prompt}'
+  34: '${color-alt: 121}That person is currently using the PlayOnline Viewer and can only be reached by sending a "knock message" from the Search menu.${prompt}'
+  35: |-
+    ${color-alt: 136}Executing shutdown in ${number-alt: 0} seconds.
+    Cancel healing to remain logged in.${prompt}
+  36: '${color-alt: 123}There are no party members.${prompt}'
+  37: '${color-alt: 123}You do not have a linkshell item equipped.${prompt}'
+  38: '${color-alt: 123}You must wait longer to perform that action.${prompt}'
+  39: '${color-alt: 123}You don''t have any ${item-plural-alt: 0[2]}.${prompt}'
+  40: '${color-alt: 121}mes40'
+  41: '${color-alt: 200}DEBUG: Title changed. (${number-alt: 0})${prompt}'
+  42: '${color-alt: 200}DEBUG: San d''Oria normal fame (${number-alt: 0}) Result=${number-alt: 1}${prompt}'
+  43: '${color-alt: 200}DEBUG: Bastok normal fame (${number-alt: 0}) Result=${number-alt: 1}${prompt}'
+  44: '${color-alt: 200}DEBUG: Windurst normal fame (${number-alt: 0}) Result=${number-alt: 1}${prompt}'
+  45: '${color-alt: 200}DEBUG: Tenshodo fame (${number-alt: 0}) Result=${number-alt: 1}${prompt}'
+  46: '${color-alt: 141}${animation: 0}I''ll look after your items, kupo!${prompt}'
+  47: '${color-alt: 141}${animation: 8}You have new deliveries, kupo!${prompt}'
+  48: '${color-alt: 141}${animation: 1}You should take the items out of your delivery box, kupo!${prompt}'
+  49: '${color-alt: 141}${animation: 0}The delivery box is where things sent from the auction houses arrive, kupo!${prompt}'
+  50: '${color-alt: 141}${animation: 4}Chaaange...job! Kupopopooo!${prompt}'
+  51: '${color-alt: 141}${animation: 0}Choose a flowerpot, kupo!${prompt}'
+  52: '${color-alt: 141}This plant is growing well, kupo!${prompt}'
+  53: '${color-alt: 141}${animation: 6}This plant is fruiting, kupo!${prompt}'
+  54: '${color-alt: 141}${animation: 6}You can place new furnishings by selecting "Layout," kupo!${prompt}'
+  55: '${color-alt: 141}${animation: 10}Be careful, master! You can''t hear other people talk when you''re looking at your diary, kupo!${prompt}'
+  56: '${color-alt: 141}${animation: 10}Be careful, master! You can''t hear other people talk when you''re looking at your album, kupo!${prompt}'
+  57: '${color-alt: 141}${animation: 18}It''s dangerous to pile things so high, kupo!${prompt}'
+  58: '${color-alt: 123}Powerful magicks are preventing you from using that ability.${prompt}'
+  59: '${color-alt: 141}I can''t raise plants without a flowerpot, kupo...${prompt}'
+  60: '${color-alt: 141}You have to select "Layout" from the menu and place a flowerpot in the room, kupo. I can''t raise plants without one, kupo.${prompt}'
+  61: '${color-alt: 141}Choose a flowerpot, kupo.${prompt}'
+  62: '${color-alt: 141}There is no plant in this flowerpot, kupo.${prompt}'
+  63: '${color-alt: 141}There are seeds planted in this flowerpot, kupo.${prompt}'
+  64: '${color-alt: 141}There are seeds in this pot, kupo.${prompt}'
+  65: '${color-alt: 141}This plant is growing well, kupo.♪${prompt}'
+  66: '${color-alt: 141}It''s doing well, kupo.♪${prompt}'
+  67: '${color-alt: 141}This plant isn''t doing well, kupo... But I''m sure it''ll get better now that you''ve looked at it, kupo!${prompt}'
+  68: '${color-alt: 141}This plant isn''t doing well, kupo... But I''m sure it''ll get better now that you''ve looked at it, kupo!${prompt}'
+  69: '${color-alt: 141}Flowers are blooming, kupo!${prompt}'
+  70: '${color-alt: 141}Beautiful flowers are blooming, kupo! They''re so pretty, kupo!${prompt}'
+  71: '${color-alt: 141}Kupo! This plant is ready to be picked, kupo!${prompt}'
+  72: '${color-alt: 141}It''s grown so big, kupo～. It''s ready to be picked now, kupo～.${prompt}'
+  73: '${color-alt: 141}Oh, no... This plant is all withered up, kupo...${prompt}'
+  74: '${color-alt: 141}It''s so dry and withered... I''m sorry, kupo...${prompt}'
+  75: '${color-alt: 141}Choose which type of seeds to plant, kupo.${prompt}'
+  76: '${color-alt: 141}Choose a crystal to use as fertilizer, kupo.${prompt}'
+  77: '${color-alt: 141}I''ll make it into a dried flower with my secret moogle powers, kupo! It''ll keep its shape forever, kupo!${prompt}'
+  78: '${color-alt: 141}I can pick its fruits, but doing so will empty the flowerpot, kupo.${prompt}'
+  79: '${color-alt: 141}This plant will be gone forever if I throw it out, kupo.${prompt}'
+  80: '${color-alt: 141}All right, I''ll go over to the Mog House, kupo! I''ll be there in no time, kupo～～♪${prompt}'
+  81: '${color-alt: 141}I''m home, kupo. What do you want me to do, kupo...?${prompt}'
+  82: '${color-alt: 141}I''m back, kupo～～～.${prompt}'
+  83: '${color-alt: 141}Plant these seeds, kupo?${prompt}'
+  84: '${color-alt: 141}Use this crystal, kupo?${prompt}'
+  85: '${color-alt: 141}Pick this, kupo?${prompt}'
+  86: '${color-alt: 141}Make it into a dried flower, kupo?${prompt}'
+  87: '${color-alt: 141}Throw it away, kupo!?${prompt}'
+  88: '${color-alt: 121}Dice roll! ${entity: 2} rolls ${entity: 3}!${prompt}'
+  89: '${color-alt: 208}${entity-wrap-start}${entity: 2}${entity-wrap-end} examines you.${prompt}'
+  90: '${color-alt: 121}${entity: 2} is looking at the items in your bazaar.${prompt}'
+  91: '${color-alt: 121}Looking at the items in ${entity: 2}''s bazaar...${prompt}'
+  92: '${color-alt: 138}${entity: 2} bought ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.${prompt}'
+  93: '${color-alt: 138}${entity: 2} bought ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.${prompt}'
+  94: '${color-alt: 138}Purchase ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} for ${gil: 2}?${prompt}'
+  95: '${color-alt: 123}Bazaar closed due to ${entity: 2}''s settings change.${prompt}'
+  96: '${color-alt: 123}${entity: 2} disappeared.${prompt}'
+  97: '${color-alt: 123}${entity: 2} isn''t selling anything.${prompt}'
+  98: '${color-alt: 141}I can''t look after any more flowerpots, kupo...'
+  99: '${color-alt: 141}Please, master. Don''t bring home any more mannequins. Those things give me the creeps, kupo...'
+  100: '${color-alt: 10}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal to all (cast vote with command: "/vote ?"): '
+  101: '${color-alt: 13}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal to the party (cast vote with command: "/vote ?"):'
+  102: '${color-alt: 14}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal to the linkshell group (cast vote with command: "/vote ?"):'
+  103: '${color-alt: 121}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal to everyone (cast vote with command: "/vote ?"):'
+  104: '${color-alt: 123}That item is already placed in the trade window.'
+  105: '${color-alt: 123}You cannot use that command in the specified chat mode.'
+  106: '${color-alt: 123}You have already cast your vote.'
+  107: '${color-alt: 123}Trade canceled. Either your or your target''s inventory is full, or an error occurred during the transaction.'
+  108: '${color-alt: 123}Equip a linkshell, pearlsack, or linkpearl before using that command.'
+  109: '${color-alt: 121}You have been kicked out of the linkshell group.'
+  110: |-
+    ${color-alt: 123}That linkshell group no longer exists.
+    This item is unusable.
+  111: |-
+    ${color-alt: 123}That linkshell group has been terminated by the system.
+    You can no longer equip this item.
+  112: |-
+    ${color-alt: 123}The linkshell name you entered is already in use or otherwise unavailable.
+    Please choose another name.
+  113: |-
+    ${color-alt: 123}The linkshell name you entered is already in use or otherwise unavailable.
+    Please choose another name.
+  114: |-
+    ${color-alt: 123}The linkshell number limit in this world has been reached.
+    You cannot create a new linkshell.
+  115: '${color-alt: 123}The party quartermaster already has ${article} ${item-article-alt: 0[2]}. The ${item-singular-alt: 0[2]} will be put in the party pool.'
+  116: '${color-alt: 123}The party quartermaster cannot hold any more items. The ${item-singular-alt: 0[2]} will be added to the party''s item pool.'
+  117: '${color-alt: 123}Event skipped.${prompt}'
+  118: '${color-alt: 121}Your Friend List online status has been changed to "Online."${prompt}'
+  119: '${color-alt: 121}Your Friend List online status has been changed to "Away."${prompt}'
+  120: '${color-alt: 121}Your Friend List online status has been changed to "Busy."${prompt}'
+  121: '${color-alt: 121}Your Friend List online status has been changed to "Invisible."${prompt}'
+  122: '${color-alt: 123}An error occurred while changing your Friend List online status. Your online status was not changed.${prompt}'
+  123: '${color-alt: 123}The recipient is temporarily logged out to PlayOnline and cannot be reached.'
+  124: '${color-alt: 123}Your message was not received.'
+  125: '${color-alt: 123}Your tell was not received. The recipient is either offline or changing areas.${prompt}'
+  126: '${color-alt: 123}Communication error. Your tell was not received.${prompt}'
+  127: '${color-alt: 121}Auto-target: ON. '
+  128: '${color-alt: 121}Auto-target: OFF. '
+  129: '${color-alt: 138}Item sold.'
+  130: '${color-alt: 121}You cast lots for the ${item-singular-alt: 0[2]}.${prompt}'
+  131: '${color-alt: 127}You obtain ${article} ${item-article-alt: 0[2]}.${prompt}'
+  132: '${color-alt: 121}Your moogle plants the ${item-singular-alt: 0[2]} in the flowerpot.${prompt}'
+  133: '${color-alt: 121}Your moogle dries the plant in the ${item-singular-alt: 0[2]}.${prompt}'
+  134: '${color-alt: 127}Your moogle picked ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} from the plant!${prompt}'
+  135: '${color-alt: 127}Your moogle retrieves ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.${prompt}'
+  136: '${color-alt: 121}Your moogle uses the ${item-singular-alt: 0[2]} on the plant.${prompt}'
+  137: '${color-alt: 141}Kupo... I can''t pick anything right now, kupo.${prompt}'
+  138: '${color-alt: 123}You cannot enter the next area while mounted.'
+  139: '${color-alt: 141}This plant has been dried, kupo.${prompt}'
+  140: '${color-alt: 121}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Current poll results:'
+  141: '${color-alt: 121}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Final poll results:'
+  142: |-
+    ${color-alt: 123}You cannot use that command at the moment.
+    Please try again later.
+  143: '${color-alt: 123}${entity: 2} has not proposed anything.'
+  144: '${color-alt: 123}You can only choose from the ${entity: 2} choices given.'
+  145: '${color-alt: 123}You have already voted on ${entity: 2}''s proposal.'
+  146: '${color-alt: 9}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal to all (cast vote with command: "/vote ?"): '
+  147: '${color-alt: 9}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Current poll results:'
+  148: '${color-alt: 9}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Final poll results:'
+  149: '${color-alt: 10}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Current poll results:'
+  150: '${color-alt: 10}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Final poll results:'
+  151: '${color-alt: 13}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Current poll results:'
+  152: '${color-alt: 13}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Final poll results:'
+  153: '${color-alt: 14}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Current poll results:'
+  154: '${color-alt: 14}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Final poll results:'
+  155: '${color-alt: 123}That request cannot be processed.'
+  156: '${color-alt: 123}The communications line is currently busy. Please try again later.'
+  157: '${color-alt: 121}There are currently too many people accessing this linkshell group. You cannot access this linkshell.'
+  158: '${color-alt: 121}You do not have access to those linkshell commands.'
+  159: '${color-alt: 121}You cannot put a linkshell item up for sale.'
+  160: '${color-alt: 121}You synthesized ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  161: '${color-alt: 121}You synthesized ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  162: '${color-alt: 121}You synthesized ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  163: '${color-alt: 121}You synthesized ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  164: '${color-alt: 121}${lettercase: 1}${article} ${item-article-alt: 0[2]} was lost.'
+  165: '${color-alt: 121}You buy ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} from the guild.'
+  166: '${color-alt: 121}You buy ${article} ${item-article-alt: 0[2]} from the guild.'
+  167: '${color-alt: 121}You sell ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} to the guild.'
+  168: '${color-alt: 121}You sell ${article} ${item-article-alt: 0[2]} to the guild.'
+  169: '${color-alt: 121}You obtained ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  170: |-
+    ${color-alt: 121}Slot ${number-alt: 0}:
+    ${gil: 1}, sent to you by ${entity: 2}.
+  171: |-
+    ${color-alt: 121}Slot ${number-alt: 0}:
+    The money the buyer paid for the ${item-singular-alt: 2[2]} you put on auction, ${gil: 1}.
+  172: '${color-alt: 121}You cannot use that command while invisible.'
+  173: '${color-alt: 121}Your ${item-singular-alt: 0[2]} sold.'
+  174: |-
+    ${color-alt: 121}Your ${item-singular-alt: 0[2]} did not sell.
+    Items that are not sold are sent to your Mog House.
+  175: '${color-alt: 121}Your character information is now hidden.'
+  176: '${color-alt: 121}Your character information is now shown.'
+  177: '${color-alt: 121}You buy the ${item-singular-alt: 0[2]} for ${gil: 2}.'
+  178: '${color-alt: 121}You were unable to buy the ${item-singular-alt: 0[2]} for ${gil: 2}.'
+  179: 'Obtained key item: ${lettercase: 1}${keyitem-singular: 0[2]}.'
+  180: '${color-alt: 121}You throw away ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  181: '${color-alt: 123}Your tell was not received. The recipient is currently away.${prompt}'
+  182: '${color-alt: 123}That person is already in an alliance.${prompt}'
+  183: '${color-alt: 123}Unable to process request.'
+  184: '${color-alt: 123}Unable to enter next area. Expansion pack not registered.${prompt}'
+  185: '${color-alt: 123}Unable to enter next area. Expansion pack not installed.${prompt}'
+  186: '${color-alt: 121}Your ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} sold.'
+  187: |-
+    ${color-alt: 121}Your ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} did not sell.
+    Items that are not sold are sent to your Mog House.
+  188: '${color-alt: 121}You buy the ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} for ${gil: 2}.'
+  189: '${color-alt: 121}You were unable to buy the ${number-alt: 1} ${item-given-plurality-alt: 1[2], 0[2]} for ${gil: 2}.'
+  190: '${color-alt: 121}You take the ${gil: 2} out of ${entity: 2} slot ${number-alt: 0}.'
+  191: '${color-alt: 121}You dispose of the ${gil: 2} in ${entity: 2} slot ${number-alt: 0}.'
+  192: '${color-alt: 121}You return the ${gil: 2} in ${entity: 2} slot ${number-alt: 0} to its sender.'
+  193: '${color-alt: 121}You take the ${item-singular-alt: 1[2]} out of ${entity: 2} slot ${number-alt: 0}.'
+  194: '${color-alt: 121}You take the ${number-alt: 2} ${item-given-plurality-alt: 2[2], 1[2]} out of ${entity: 2} slot ${number-alt: 0}.'
+  195: '${color-alt: 121}You dispose of the ${item-singular-alt: 1[2]} in ${entity: 2} slot ${number-alt: 0}.'
+  196: '${color-alt: 121}You dispose of the ${number-alt: 2} ${item-given-plurality-alt: 2[2], 1[2]} in ${entity: 2} slot ${number-alt: 0}.'
+  197: '${color-alt: 121}You return the ${item-singular-alt: 1[2]} in ${entity: 2} slot ${number-alt: 0} to its sender.'
+  198: '${color-alt: 121}You return the ${number-alt: 2} ${item-given-plurality-alt: 2[2], 1[2]} in ${entity: 2} slot ${number-alt: 0} to their sender.'
+  199: |-
+    ${color-alt: 121}Slot ${number-alt: 0}:
+    The money the buyer paid for the ${number-alt: 3} ${item-given-plurality-alt: 3[2], 2[2]} you put on auction, ${gil: 1}.
+  200: '${color-alt: 121}${entity: 2} synthesized ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  201: '${color-alt: 121}${entity: 2} synthesized ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  202: '${color-alt: 121}${entity: 2} synthesized ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  203: '${color-alt: 121}${entity: 2} synthesized ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  204: '${color-alt: 121}${entity: 2} lost ${article} ${item-article-alt: 0[2]}.'
+  205: '${color-alt: 121}${entity: 2} obtained ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]}.'
+  206: '${color-alt: 121}You have submitted an application for world emigration.'
+  207: '${color-alt: 121}You have not submitted an application for world emigration.'
+  208: '${color-alt: 121}You could not obtain the ${item-singular-alt: 0[2]}. Either your inventory is full or you can only hold one item of that type.'
+  209: '${color-alt: 121}You cannot perform that action while holding a Petra.'
+  210: '${color-alt: 121}You cannot perform that action without a Petra.'
+  211: '${color-alt: 121}You lost your Petras.'
+  212: '${color-alt: 121}Gate Breach status has been disengaged.'
+  213: '${color-alt: 121}Recovery in ${number-alt: 0} ${choice-plurality-number: 0}[second/seconds].'
+  214: '${color-alt: 121}Returning to battle.'
+  215: '${color-alt: 121}Returning to camp.'
+  216: '${color-alt: 123}That action cannot be performed while participating in Conflict.${prompt}'
+  217: '${color-alt: 123}That action cannot be performed while preparing for battle.${prompt}'
+  218: '${color-alt: 121}You find ${article} ${item-article-alt: 0[2]} in the ${entity: 1}.${prompt}'
+  219: |-
+    ${color-alt: 121}※※Chevrons earned※※
+    Gold: ${number: 0} Mythril: ${number: 1} Silver: ${number: 2} Bronze: ${number: 3} Job: ${number: 4}${prompt}
+  220: '${color-alt: 121}You cannot possess more than one of that item.'
+  221: |-
+    ${color-alt: 123}Blockaid activated.
+    Magical assistance, trades, party invites etc. from non-party/alliance characters will be blocked.
+    This effect will continue until changing areas, or executing the "/blockaid off" command.${prompt}
+  222: |-
+    ${color-alt: 121}Blockaid canceled.
+    Magical assistance, trades, party invites etc. from non-party/alliance characters will be allowed.${prompt}
+  223: |-
+    ${color-alt: 121}Blockaid is currently active.
+    ("/blockaid off" to cancel.)${prompt}
+  224: '${color-alt: 121}Blockaid is currently inactive.${prompt}'
+  225: '${color-alt: 121}Target is currently blocking outside magical assistance, trades, and party invites.${prompt}'
+  226: '${color-alt: 121}Interaction from a non-party character was blocked by /blockaid.${prompt}'
+  227: '${color-alt: 208}${entity-wrap-start}${entity: 2}${entity-wrap-end} checks your Ballista data.${prompt}'
+  228: '${color-alt: 121}Recovery in ${number-alt: 0} ${choice-plurality-number: 0}[second/seconds].'
+  229: '${color-alt: 121}You cannot perform that action while holding a Flamme.'
+  230: '${color-alt: 121}You buy ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} from the shop.'
+  231: '${color-alt: 121}You buy ${article} ${item-article-alt: 0[2]} from the shop.'
+  232: '${color-alt: 121}You sell ${item-count-alt: 1[2]} ${item-given-plurality-alt: 1[2], 0[2]} to the shop.'
+  233: '${color-alt: 121}You sell ${article} ${item-article-alt: 0[2]} to the shop.'
+  234: '${color-alt: 123}Unable to equip linkshell items.${prompt}'
+  235: |-
+    ${color-alt: 123}Warning! This is a Level Sync party. Joining will result in your level being restricted.
+    If you are in a different area, the restriction will occur as soon as you enter the same area.
+  236: |-
+    ${color-alt: 123}You cannot invite that person at this time.
+    This player is either undergoing Level Sync deactivation, or is under the effect of a status which prevents synchronization.
+  237: |-
+    ${color-alt: 123}You cannot join this party.
+    You are either undergoing Level Sync deactivation, or are under the effect of a status which prevents synchronization.
+  238: |-
+    ${color-alt: 121}The party's level has been restricted to ${number: 0}.
+    Straying too far from the Level Sync designee will result in an inability to receive experience points.
+    Equipment affected by the level restriction will be adjusted accordingly.
+  239: '${color-alt: 121}The compass reads: X:${number-alt: 0} Y:${number-alt: 1} Z:${number-alt: 2} (${number-alt: 3}).'
+  240: '${color-alt: 121}Your message has been blocked by the spam filter.'
+  241: '${color-alt: 9}Volker : I have not been hiding away from my troubles!'
+  242: '${color-alt: 9}Volker : Feel my twenty years of pain!'
+  243: '${color-alt: 9}Volker : Is that your answer!?'
+  244: '${color-alt: 9}Volker : Return with your soul to the darkness you came from!'
+  245: '${color-alt: 9}Volker : You--a man who has never lived bound by the chains of his country--how can you understand my pain!?'
+  246: '${color-alt: 9}Volker : Let my blade be the answer!'
+  247: '${color-alt: 9}Trion : I am Trion, of San d''Oria!'
+  248: '${color-alt: 9}Trion : Feel the fire of my forefathers!'
+  249: '${color-alt: 9}Trion : The darkness before me that shrouds the light of good...'
+  250: '${color-alt: 9}Trion : ...Return to the hell you crawled out from!'
+  251: '${color-alt: 9}Trion : The anger, the pain, and the will to survive... Let the spirit of San d''Oria converge within this blade.'
+  252: '${color-alt: 9}Trion : And with this blade I will return the glory to my kingdom''s people!'
+  253: |-
+    ${color-alt: 9}Ajido-Marujido : Play time is over!
+    Powers of dark mana, answer my call!
+  254: |-
+    ${color-alt: 9}Ajido-Marujido : You should be thankful.
+    I'll give you a shortaru trip back to the hell you came from!
+  255: |-
+    ${color-alt: 9}Ajido-Marujido : Don't give up, adventurer!
+    You are Windurst's guiding star, our beacon of hope!
+  256: '${color-alt: 123}You cannot use that command in this area.${prompt}'
+  257: '${color-alt: 123}That command is not supported by the free trial version.'
+  258: |-
+    ${color-alt: 123}Congratulations! You have reached the maximum level attainable in the free trial version.
+    Purchase the full version of the game to continue your adventures!
+  259: |-
+    ${color-alt: 123}Initiating tells is not supported by the free trial version.
+    To respond to a tell that has been sent to you, press Ctrl+R to select the player's name.
+  260: '${color-alt: 121}Your headgear is now visible.'
+  261: '${color-alt: 121}Your headgear is now hidden.'
+  262: '${color-alt: 123}sysmes262'
+  263: '${color-alt: 121}This monster is currently possessed by ${entity: 2}!'
+  264: '${color-alt: 208}${entity-wrap-start}${entity: 2}${entity-wrap-end} stares at you intently, evidently aware that you have discovered its true form.'
+  265: '${color-alt: 123}You are unable to join a party whose leader currently has an alter ego present.'
+  266: '${color-alt: 123}You are unable to join an alliance whose leader currently has an alter ego present.'
+  267: '${color-alt: 121}Style lock mode enabled.'
+  268: '${color-alt: 121}Style lock mode disabled.'
+  269: '${color-alt: 121}Style lock mode is enabled.'
+  270: '${color-alt: 121}Style lock mode is disabled.'
+  271: '${color-alt: 9}Last item made: ${item-singular: 0[2]}.'
+  272: '${color-alt: 9}${lettercase: 1}${item-singular: 0[2]}.'
+  273: '${color-alt: 9}${number: 1} ${item-given-plurality: 1[2], 0[2]}.'
+  274: '${color-alt: 123}Failed to equip the ${item-singular: 0[2]}.'
+  275: '${color-alt: 123}Unable to find the ${item-singular: 0[2]}.'
+  276: '${color-alt: 121}Inventory'
+  277: '${color-alt: 121}Mog Safe'
+  278: '${color-alt: 121}Storage'
+  279: '${color-alt: 121}Mog Locker'
+  280: '${color-alt: 121}Mog Satchel'
+  281: '${color-alt: 121}Mog Sack'
+  282: '${color-alt: 121}Mog Case'
+  283: '${color-alt: 121}Mog Wardrobe'
+  284: 'Instances of ${item-plural: 0[2]} were found in the following systems:'
+  285: '${color-alt: 123}No instances of that item were found.'
+  286: '${color-alt: 123}You are not participating in Unity chat.'
+  287: '${color-alt: 121}The maximum number of people are already participating in Unity chat. Please try again later.'
+  288: '${color-alt: 123}There are no applicable characters within range.'
+  289: '${color-alt: 214}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal to the linkshell group (cast vote with command: "/vote ?"):'
+  290: '${color-alt: 214}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Current poll results:'
+  291: '${color-alt: 214}${entity-wrap-start}${entity: 2}${entity-wrap-end}''s proposal - Final poll results:'
+  292: '${color-alt: 121}Mog Safe 2.'
+  293: Your second floor has been successfully remodeled.
+  294: '${color-alt: 123}The apperance of your ${item-singular: 0[2]} was unable to be locked.'
+  295: '${color-alt: 121}Your appearance settings have been updated.'
+  296: '${color-alt: 123}You cannot use Trust magic while seeking a party.'
+  297: '${color-alt: 123}While inviting a party member, you must wait a while before using Trust magic.'
+  298: '${color-alt: 123}You have called forth your maximum number of alter egos.'
+  299: '${color-alt: 123}That alter ego has already been called forth.'
+  300: '${color-alt: 123}You cannot use Trust magic while having gained enmity.'
+  301: '${color-alt: 123}You cannot use Trust magic unless you are solo or the party leader.'
+  302: '${color-alt: 123}Your request did not go through.'
+  303: '${color-alt: 121}Mog Wardrobe 2'
+  304: '${color-alt: 121}Mog Wardrobe 3'
+  305: '${color-alt: 121}Mog Wardrobe 4'
+  306: '${color-alt: 121}You have given a thumbs up to ${entity-wrap-start}${entity: 2}${entity-wrap-end}''s message.'
+  307: '${color-alt: 121}You have given a warning to ${entity-wrap-start}${entity: 2}${entity-wrap-end}''s message.'
+  308: '${color-alt: 123}An error has occurred.'
+  309: '${color-alt: 123}You have reached the maximum number of thumbs up that can be issued.'
+  310: '${color-alt: 123}You have reached the maximum number of warnings that can be issued.'
+  311: '${color-alt: 121}${entity-wrap-start}${entity: 3}${entity-wrap-end} has added ${entity-wrap-start}${entity: 2}${entity-wrap-end} to the Mute list.'
+  312: '${color-alt: 121}That individual is already on the Mute list.'
+  313: '${color-alt: 121}${entity-wrap-start}${entity: 3}${entity-wrap-end} has removed ${entity-wrap-start}${entity: 2}${entity-wrap-end} from the Mute list.'
+  314: '${color-alt: 121}You have received a thumbs up for your message.'
+  315: '${color-alt: 121}Someone has issued you a warning for your message.'
+  316: '${color-alt: 123}Only mentors may chat in this channel.'
+  317: '${color-alt: 121}You will no longer be able to chat in this channel in ${number: 0} ${choice: 1}[hour/minute]${choice-plurality: 0}[/s].'
+  318: "${color-alt: 121}You are no longer able to chat in the Assist channel. We recommend that you visit a linkshell concierge to find more friends to adventure with. Linkshell concierges can be found in the following areas: \n${unknown: 0x01053782E78180}, ${unknown: 0x01053782EA8180}, and ${unknown: 0x01053782EF8180}."
+  319: '${color-alt: 121}Mog Wardrobe 5'
+  320: '${color-alt: 121}Mog Wardrobe 6'
+  321: '${color-alt: 121}Mog Wardrobe 7'
+  322: '${color-alt: 121}Mog Wardrobe 8'
+  323: '${color-alt: 121}Recycle Bin'
+  324: |-
+    ${color-alt: 121}The party's master level has been restricted to ${number-alt: 0}.
+    Straying too far from the Level Sync designee will result in an inability to receive experience points.${prompt}
+  325: '${color-alt: 123}You are unable to throw away the ${item-singular: 0[2]}.'
